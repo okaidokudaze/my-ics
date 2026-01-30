@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Masashi Soccer Osaka//ICS Export//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:【大阪】女子高校サッカー
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:soccer_osaka_hs_girls-dd0028fe280cecf0@soccer-osaka
+DTSTAMP:20260130T055147Z
+SEQUENCE:0
+SUMMARY:【大阪-女子高校】新人戦(女子)：T1 大商学園 vs 桜宮
+DTSTART;TZID=Asia/Tokyo:20260201T090000
+DTEND;TZID=Asia/Tokyo:20260201T110000
+LOCATION:J-GREEN堺\, 日本、〒590-0901 大阪府堺市堺区築港八幡町145
+DESCRIPTION:出典: https://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6
+ /2026/01/R7_joshi_shinjinsen_nittei_kumiawase_0125.pdf\\n※ピッチ/詳細はPDFの
+ 記載範囲で未確認（推測せず未記載）。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_osaka_hs_girls-2f29c2904b595f29@soccer-osaka
+DTSTAMP:20260130T055147Z
+SEQUENCE:0
+SUMMARY:【大阪-女子高校】新人戦(女子)：T3 追手門学院 vs 大阪偕星学園
+DTSTART;TZID=Asia/Tokyo:20260201T090000
+DTEND;TZID=Asia/Tokyo:20260201T110000
+LOCATION:J-GREEN堺\, 日本、〒590-0901 大阪府堺市堺区築港八幡町145
+DESCRIPTION:出典: https://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6
+ /2026/01/R7_joshi_shinjinsen_nittei_kumiawase_0125.pdf\\n※ピッチ/詳細はPDFの
+ 記載範囲で未確認（推測せず未記載）。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_osaka_hs_girls-b09d089379237b84@soccer-osaka
+DTSTAMP:20260130T055147Z
+SEQUENCE:0
+SUMMARY:【大阪-女子高校】新人戦(女子)：T2 星翔 vs 大阪桐蔭
+DTSTART;TZID=Asia/Tokyo:20260201T105000
+DTEND;TZID=Asia/Tokyo:20260201T125000
+LOCATION:J-GREEN堺\, 日本、〒590-0901 大阪府堺市堺区築港八幡町145
+DESCRIPTION:出典: https://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6
+ /2026/01/R7_joshi_shinjinsen_nittei_kumiawase_0125.pdf\\n※ピッチ/詳細はPDFの
+ 記載範囲で未確認（推測せず未記載）。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_osaka_hs_girls-9229817a1d0da769@soccer-osaka
+DTSTAMP:20260130T055147Z
+SEQUENCE:0
+SUMMARY:【大阪-女子高校】新人戦(女子)：T4 高槻北 vs 大阪学芸
+DTSTART;TZID=Asia/Tokyo:20260201T105000
+DTEND;TZID=Asia/Tokyo:20260201T125000
+LOCATION:J-GREEN堺\, 日本、〒590-0901 大阪府堺市堺区築港八幡町145
+DESCRIPTION:出典: https://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6
+ /2026/01/R7_joshi_shinjinsen_nittei_kumiawase_0125.pdf\\n※ピッチ/詳細はPDFの
+ 記載範囲で未確認（推測せず未記載）。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_osaka_hs_girls-3ec50364e288d017@soccer-osaka
+DTSTAMP:20260130T055147Z
+SEQUENCE:0
+SUMMARY:【大阪-女子高校】新人戦(女子)：T5 準決勝：T1勝者 vs T2勝者
+DTSTART;TZID=Asia/Tokyo:20260208T093000
+DTEND;TZID=Asia/Tokyo:20260208T113000
+LOCATION:J-GREEN堺\, 日本、〒590-0901 大阪府堺市堺区築港八幡町145
+DESCRIPTION:出典: https://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6
+ /2026/01/R7_joshi_shinjinsen_nittei_kumiawase_0125.pdf\\n※対戦は勝ち上がりにより
+ 決定。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_osaka_hs_girls-f8ce30c44d4cdb67@soccer-osaka
+DTSTAMP:20260130T055147Z
+SEQUENCE:0
+SUMMARY:【大阪-女子高校】新人戦(女子)：T6 準決勝：T3勝者 vs T4勝者
+DTSTART;TZID=Asia/Tokyo:20260208T113000
+DTEND;TZID=Asia/Tokyo:20260208T133000
+LOCATION:J-GREEN堺\, 日本、〒590-0901 大阪府堺市堺区築港八幡町145
+DESCRIPTION:出典: https://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6
+ /2026/01/R7_joshi_shinjinsen_nittei_kumiawase_0125.pdf\\n※対戦は勝ち上がりにより
+ 決定。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_osaka_hs_girls-69dd20a49619cfee@soccer-osaka
+DTSTAMP:20260130T055147Z
+SEQUENCE:0
+SUMMARY:【大阪-女子高校】新人戦(女子)：T7 3位決定戦：T5敗者 vs T6敗者
+DTSTART;TZID=Asia/Tokyo:20260208T093000
+DTEND;TZID=Asia/Tokyo:20260208T113000
+LOCATION:J-GREEN堺\, 日本、〒590-0901 大阪府堺市堺区築港八幡町145
+DESCRIPTION:出典: https://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6
+ /2026/01/R7_joshi_shinjinsen_nittei_kumiawase_0125.pdf\\n※対戦は勝ち上がりにより
+ 決定。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_osaka_hs_girls-db46e835a5acbb4c@soccer-osaka
+DTSTAMP:20260130T055147Z
+SEQUENCE:0
+SUMMARY:【大阪-女子高校】新人戦(女子)：T8 決勝：T5勝者 vs T6勝者
+DTSTART;TZID=Asia/Tokyo:20260215T113000
+DTEND;TZID=Asia/Tokyo:20260215T133000
+LOCATION:J-GREEN堺\, 日本、〒590-0901 大阪府堺市堺区築港八幡町145
+DESCRIPTION:出典: https://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6
+ /2026/01/R7_joshi_shinjinsen_nittei_kumiawase_0125.pdf\\n※対戦は勝ち上がりにより
+ 決定。
+END:VEVENT
+END:VCALENDAR

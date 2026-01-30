@@ -1,0 +1,552 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//masashi soccer calendar//JP
+CALSCALE:GREGORIAN
+X-WR-CALNAME:【全国】男子高校サッカー
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VTIMEZONE
+TZID:Asia/Tokyo
+X-LIC-LOCATION:Asia/Tokyo
+BEGIN:STANDARD
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+TZNAME:JST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-2c386d56f0f98658@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1844940
+SUMMARY:【全国-男子高校】 兵庫県高校新人大会 2回戦 関学 vs 加古川東
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-3b3662cc750373c4@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1844940
+SUMMARY:【全国-男子高校】 兵庫県高校新人大会 2回戦 姫路東 vs 龍野北
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-4461364bb0856a88@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1844940
+SUMMARY:【全国-男子高校】 兵庫県高校新人大会 2回戦 市西宮 vs 星陵
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-60408e757365fcb7@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1844940
+SUMMARY:【全国-男子高校】 兵庫県高校新人大会 2回戦 相生学院 vs 芦屋学園
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-9d2c1c44d2f0010d@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1844940
+SUMMARY:【全国-男子高校】 兵庫県高校新人大会 2回戦 神戸弘陵 vs 鳴尾
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-b118cfec60d64958@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1844940
+SUMMARY:【全国-男子高校】 兵庫県高校新人大会 2回戦 啓明 vs 市尼崎
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-14413621b6904b8b@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1844940
+SUMMARY:【全国-男子高校】 兵庫県高校新人大会 2回戦 兵庫 vs 神港学園
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-c55a52a3a600fe4c@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1844940
+SUMMARY:【全国-男子高校】 兵庫県高校新人大会 2回戦 東播工 vs 滝川第二
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-427f0795bde3026d@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1844940
+SUMMARY:【全国-男子高校】 兵庫県高校新人大会 2回戦 神戸科技 vs 社
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-b3d088240d84d3e1@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1844940
+SUMMARY:【全国-男子高校】 兵庫県高校新人大会 2回戦 長田 vs 明石北
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-f6a914d720ec3574@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1844940
+SUMMARY:【全国-男子高校】 兵庫県高校新人大会 2回戦 雲雀丘 vs 六甲アイ
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-95bc7836b6150a27@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1844940
+SUMMARY:【全国-男子高校】 兵庫県高校新人大会 2回戦 神戸国際附 vs 三田松聖
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-6b11c0191f45f35c@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1844940
+SUMMARY:【全国-男子高校】 兵庫県高校新人大会 2回戦 報徳 vs 明石城西
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-9023c0fab8695674@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1844940
+SUMMARY:【全国-男子高校】 兵庫県高校新人大会 2回戦 神戸 vs 伊丹西
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-04b7891f7d4436d9@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1844940
+SUMMARY:【全国-男子高校】 兵庫県高校新人大会 2回戦 三田祥雲館 vs 神戸星城
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-7d0bf34d084ae0f5@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1844940
+SUMMARY:【全国-男子高校】 兵庫県高校新人大会 2回戦 小野 vs 三田
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-34ce996ce2129de0@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1869210\n公式（奈良県サッカー協会）
+ にて会場・時刻の変更案内あり：\nhttps://www.narafa.or.jp/category/8/
+SUMMARY:【全国-男子高校】 奈良県高校新人大会 準々決勝 奈良育英 vs 畝傍
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-69e1fbe688f48171@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1869210\n公式（奈良県サッカー協会）
+ にて会場・時刻の変更案内あり：\nhttps://www.narafa.or.jp/category/8/
+SUMMARY:【全国-男子高校】 奈良県高校新人大会 準々決勝 一条 vs 高田商
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-997b42e2c364c87f@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1869210\n公式（奈良県サッカー協会）
+ にて会場・時刻の変更案内あり：\nhttps://www.narafa.or.jp/category/8/
+SUMMARY:【全国-男子高校】 奈良県高校新人大会 準々決勝 奈良 vs 橿原
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-e18c7640111756a8@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1869210\n公式（奈良県サッカー協会）
+ にて会場・時刻の変更案内あり：\nhttps://www.narafa.or.jp/category/8/
+SUMMARY:【全国-男子高校】 奈良県高校新人大会 準々決勝 生駒 vs 郡山
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-e39f9eb58c5a4aee@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1882566
+SUMMARY:【全国-男子高校】 熊本県高校新人戦 準々決勝 大津 vs 熊本学園大付
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-aa71fbf3c39070be@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1882566
+SUMMARY:【全国-男子高校】 熊本県高校新人戦 準々決勝 熊本工業 vs 文徳
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-6e408d880f50b7f0@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1882566
+SUMMARY:【全国-男子高校】 熊本県高校新人戦 準々決勝 ルーテル学院 vs 九州学院
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-3d375c1bc21f2c8d@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1882566
+SUMMARY:【全国-男子高校】 熊本県高校新人戦 準々決勝 東海大星翔 vs 慶誠
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-40e7e181b02888f6@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1878128
+SUMMARY:【全国-男子高校】 長崎県高校新人戦 準々決勝 鎮西学院 vs 西陵
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-313551fbffddfa7a@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1878128
+SUMMARY:【全国-男子高校】 長崎県高校新人戦 準々決勝 長崎日大 vs 長崎南山
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-ff0d69606d4626a8@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1878128
+SUMMARY:【全国-男子高校】 長崎県高校新人戦 準々決勝 創成館 vs 大村工業
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-04059437ebe67071@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1878128
+SUMMARY:【全国-男子高校】 長崎県高校新人戦 準々決勝 長崎北 vs 海星
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-e967be0a526389b8@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1878138
+SUMMARY:【全国-男子高校】 埼玉県新人大会 北部支部予選 準々決勝 成徳深谷 vs 北本
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-ee088b7b4cb4b4d2@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1878138
+SUMMARY:【全国-男子高校】 埼玉県新人大会 北部支部予選 準々決勝 深谷第一 vs 熊谷
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-5067570543656125@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1878138
+SUMMARY:【全国-男子高校】 埼玉県新人大会 北部支部予選 準々決勝 進修館 vs 本庄第一
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-da4a858cd32c9dbe@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1878138
+SUMMARY:【全国-男子高校】 埼玉県新人大会 北部支部予選 準々決勝 本庄東 vs 本庄
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-f0e2a0656ae4516a@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260124T103000
+DTEND;TZID=Asia/Tokyo:20260124T122000
+LOCATION:（会場コードは記事参照）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1870687
+SUMMARY:【全国-男子高校】 静岡県高校新人大会 3回戦 浜松開誠館 vs 東海大翔洋
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-5c0015c5575fc5c6@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260124T103000
+DTEND;TZID=Asia/Tokyo:20260124T122000
+LOCATION:（会場コードは記事参照）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1870687
+SUMMARY:【全国-男子高校】 静岡県高校新人大会 3回戦 常葉大橘 vs 富士市立
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-06308f0f12492f7a@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260124T103000
+DTEND;TZID=Asia/Tokyo:20260124T122000
+LOCATION:（会場コードは記事参照）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1870687
+SUMMARY:【全国-男子高校】 静岡県高校新人大会 3回戦 藤枝明誠 vs 静岡商業
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-44d82ef514e3d3aa@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260124T103000
+DTEND;TZID=Asia/Tokyo:20260124T122000
+LOCATION:（会場コードは記事参照）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1870687
+SUMMARY:【全国-男子高校】 静岡県高校新人大会 3回戦 清水東 vs 藤枝東
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-30d7de7b7a3919d2@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T145000
+LOCATION:（会場コードは記事参照）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1870687
+SUMMARY:【全国-男子高校】 静岡県高校新人大会 3回戦 磐田東 vs 日大三島
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-3914ba9626a4895d@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T145000
+LOCATION:（会場コードは記事参照）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1870687
+SUMMARY:【全国-男子高校】 静岡県高校新人大会 3回戦 飛龍 vs 清水桜が丘
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-0968cdd3f8e5ee72@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T145000
+LOCATION:（会場コードは記事参照）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1870687
+SUMMARY:【全国-男子高校】 静岡県高校新人大会 3回戦 島田商業 vs 浜松東
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-7b1e9790cb0dfa55@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T145000
+LOCATION:（会場コードは記事参照）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1870687
+SUMMARY:【全国-男子高校】 静岡県高校新人大会 3回戦 浜名 vs 静岡学園
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-9a08a70da2261a2e@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1869221
+SUMMARY:【全国-男子高校】 三重県高校新人大会 準々決勝 宇治山田商業 vs 四日市中央工業
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-cfea0c9f2d48516b@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1869221
+SUMMARY:【全国-男子高校】 三重県高校新人大会 準々決勝 四日市 vs 海星
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-2af5039dc6342db1@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1869221
+SUMMARY:【全国-男子高校】 三重県高校新人大会 準々決勝 三重 vs 桑名西
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-ae70a6c1f74ed86f@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1869221
+SUMMARY:【全国-男子高校】 三重県高校新人大会 準々決勝 近代高専 vs 津工業
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-b30ec1fd0944c162@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1878124
+SUMMARY:【全国-男子高校】 埼玉県高校新人大会 西部支部予選 3回戦 埼玉平成 vs 飯能
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-d08f1ea955dd9223@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1878124
+SUMMARY:【全国-男子高校】 埼玉県高校新人大会 西部支部予選 3回戦 所沢中央 vs 入間向陽
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-f52f14e7ef5f4c04@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1878124
+SUMMARY:【全国-男子高校】 埼玉県高校新人大会 西部支部予選 3回戦 立教新座 vs 狭山ヶ丘
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-78cf2744381a194f@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1878124
+SUMMARY:【全国-男子高校】 埼玉県高校新人大会 西部支部予選 3回戦 坂戸西 vs 武蔵越生
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-b9b3f0682e170c4b@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1878124
+SUMMARY:【全国-男子高校】 埼玉県高校新人大会 西部支部予選 3回戦 朝霞西 vs 秀明
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-af2e6c991f58609e@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1878124
+SUMMARY:【全国-男子高校】 埼玉県高校新人大会 西部支部予選 3回戦 慶應志木 vs 川越
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-5a81367f536f3441@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1878124
+SUMMARY:【全国-男子高校】 埼玉県高校新人大会 西部支部予選 3回戦 坂戸 vs 所沢北
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-58c7b2830d6a482f@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:（会場未公表）
+DESCRIPTION:https://www.juniorsoccer-news.com/post-1878124
+SUMMARY:【全国-男子高校】 埼玉県高校新人大会 西部支部予選 3回戦 所沢西 vs 西武文理
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_zenkoku_hs_boys-afc2bd1c54889dd3@soccer
+DTSTAMP:20260130T055021Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260211T140500
+DTEND;TZID=Asia/Tokyo:20260211T160500
+LOCATION:ニッパツ三ツ沢球技場（〒221-0855 神奈川県横浜市神奈川区三ツ沢西町3-1）
+DESCRIPTION:https://www.jleague.jp/sp/news/article/33165/\nhttps://www.yo
+ kohamafc.com/guide/access-map/
+SUMMARY:【全国-男子高校】 NEXT GENERATION MATCH 2026 U-18 Jリーグ選抜 vs 日本高校サッカー選抜
+END:VEVENT
+END:VCALENDAR
