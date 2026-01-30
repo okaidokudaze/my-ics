@@ -1,0 +1,302 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//life_osaka_traffic_safety_congestion//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:大阪府内 交通・安全・混雑
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VTIMEZONE
+TZID:Asia/Tokyo
+X-LIC-LOCATION:Asia/Tokyo
+BEGIN:STANDARD
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+TZNAME:JST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:life_osaka_traffic_safety_congestion-1a5b128c-b768-5fd4-afcb-62e22624da
+ e3@chatgpt.local
+DTSTAMP:20260130T084407Z
+SEQUENCE:1
+SUMMARY:【交通】【交通規制】大阪国際女子マラソン（目
+ 安）
+DTSTART;TZID=Asia/Tokyo:20260125T112000
+DTEND;TZID=Asia/Tokyo:20260125T154000
+TRANSP:TRANSPARENT
+LOCATION:大阪市内（コース周辺）
+DESCRIPTION:大会開催に伴う交通規制。時間は案内に基づく
+ 目安。\n出典（公式/案内）: https://www.osaka-marathon.jp/access
+ /\n出典（大阪府警 交通規制）: https://www.police.pref.osaka.lg
+ .jp/kotsu/kisei/9833.html\nGoogleマップ（目安地点）: https://www.
+ google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E5%BD%B9%E
+ 6%89%80
+END:VEVENT
+BEGIN:VEVENT
+UID:life_osaka_traffic_safety_congestion-7ad7c26f-00aa-5388-ae84-26647e77e5
+ 07@chatgpt.local
+DTSTAMP:20260130T084407Z
+SEQUENCE:1
+SUMMARY:【交通】【交通規制】大阪マラソン2026（目安）
+DTSTART;TZID=Asia/Tokyo:20260222T071500
+DTEND;TZID=Asia/Tokyo:20260222T163500
+TRANSP:TRANSPARENT
+LOCATION:大阪市内（コース周辺）
+DESCRIPTION:大会開催に伴う交通規制。時間は案内に基づく
+ 目安。\n出典（公式）: https://www.osaka-marathon.com/2026/info/tr
+ affic/\n出典（大阪市）: https://www.city.osaka.lg.jp/keizaisenryaku
+ /page/0000666710.html\nGoogleマップ（目安地点）: https://www.goog
+ le.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%9F%8E%E5%85%AC%E5%9C
+ %92
+END:VEVENT
+BEGIN:VEVENT
+UID:life_osaka_traffic_safety_congestion-c8dc94f6-a2be-58dd-bdc8-3c188e3309
+ f7@chatgpt.local
+DTSTAMP:20260130T084407Z
+SEQUENCE:1
+SUMMARY:【交通】【アプラ大ホール】東京大衆歌謡楽団（
+ 開演）
+DTSTART;TZID=Asia/Tokyo:20260201T140000
+DTEND;TZID=Asia/Tokyo:20260201T141500
+TRANSP:TRANSPARENT
+LOCATION:〒592-0014 大阪府高石市綾園1-9-1（アプラたかいし
+ ／アプラホール）
+DESCRIPTION:開場13:30／開演14:00（終了時刻は不明）。\n出典
+ : https://ekitan.com/event/evid-18fbae022c9228b4c2fcfe32023fd3ef\nGoogle
+ マップ: https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98
+ %AA%E5%BA%9C%E9%AB%98%E7%9F%B3%E5%B8%82%E7%B6%BE%E5%9C%921-9-1%20%E3%82%A2
+ %E3%83%97%E3%83%A9%E3%81%9F%E3%81%8B%E3%81%84%E3%81%97
+END:VEVENT
+BEGIN:VEVENT
+UID:life_osaka_traffic_safety_congestion-da07e82d-25e6-51c6-8a3f-72ed8fe0ec
+ 5a@chatgpt.local
+DTSTAMP:20260130T084407Z
+SEQUENCE:1
+SUMMARY:【交通】【混雑予測】アプラ（大ホール）入場前
+ 後
+DTSTART;TZID=Asia/Tokyo:20260201T130000
+DTEND;TZID=Asia/Tokyo:20260201T153000
+TRANSP:TRANSPARENT
+LOCATION:〒592-0014 大阪府高石市綾園1-9-1（アプラたかいし
+ ／アプラホール）
+DESCRIPTION:予測：開場前後は駐車場が混みやすい（ホール
+ 催事）。\n根拠：開場13:30／開演14:00。\nGoogleマップ: http
+ s://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E9
+ %AB%98%E7%9F%B3%E5%B8%82%E7%B6%BE%E5%9C%921-9-1%20%E3%82%A2%E3%83%97%E3%83
+ %A9%E3%81%9F%E3%81%8B%E3%81%84%E3%81%97
+END:VEVENT
+BEGIN:VEVENT
+UID:life_osaka_traffic_safety_congestion-ea83a4e3-6190-563c-814c-ed88fa93a4
+ f3@chatgpt.local
+DTSTAMP:20260130T084407Z
+SEQUENCE:1
+SUMMARY:【交通】【アプラ大ホール】CHAIN OF SOUND vol.2（START
+ ）
+DTSTART;TZID=Asia/Tokyo:20260208T150000
+DTEND;TZID=Asia/Tokyo:20260208T151500
+TRANSP:TRANSPARENT
+LOCATION:〒592-0014 大阪府高石市綾園1-9-1（アプラたかいし
+ ／アプラホール）
+DESCRIPTION:OPEN 14:00／START 15:00（終了時刻は不明）。\n出典:
+  https://t.pia.jp/pia/event/event.do?eventCd=2544351\nGoogleマップ: htt
+ ps://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E
+ 9%AB%98%E7%9F%B3%E5%B8%82%E7%B6%BE%E5%9C%921-9-1%20%E3%82%A2%E3%83%97%E3%8
+ 3%A9%E3%81%9F%E3%81%8B%E3%81%84%E3%81%97
+END:VEVENT
+BEGIN:VEVENT
+UID:life_osaka_traffic_safety_congestion-715f8f13-2829-5f56-8dfe-b9667a019d
+ 65@chatgpt.local
+DTSTAMP:20260130T084407Z
+SEQUENCE:1
+SUMMARY:【交通】【混雑予測】アプラ（大ホール）入場前
+ 後
+DTSTART;TZID=Asia/Tokyo:20260208T133000
+DTEND;TZID=Asia/Tokyo:20260208T160000
+TRANSP:TRANSPARENT
+LOCATION:〒592-0014 大阪府高石市綾園1-9-1（アプラたかいし
+ ／アプラホール）
+DESCRIPTION:予測：開場前後は駐車場が混みやすい（ホール
+ 催事）。\n根拠：OPEN 14:00／START 15:00。\nGoogleマップ: https
+ ://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E9%
+ AB%98%E7%9F%B3%E5%B8%82%E7%B6%BE%E5%9C%921-9-1%20%E3%82%A2%E3%83%97%E3%83%
+ A9%E3%81%9F%E3%81%8B%E3%81%84%E3%81%97
+END:VEVENT
+BEGIN:VEVENT
+UID:life_osaka_traffic_safety_congestion-9b95d98f-3b51-5b79-9b8f-b0b055d11e
+ e4@chatgpt.local
+DTSTAMP:20260130T084407Z
+SEQUENCE:1
+SUMMARY:【交通】【アプラ大ホール】Dance Exhibition 2026（時
+ 刻不明）
+DTSTART;TZID=Asia/Tokyo:20260223T120000
+DTEND;TZID=Asia/Tokyo:20260223T121500
+TRANSP:TRANSPARENT
+LOCATION:〒592-0014 大阪府高石市綾園1-9-1（アプラたかいし
+ ／アプラホール）
+DESCRIPTION:公演日：2026/2/23（会場：アプラホール 大ホー
+ ル）。開演時刻は不明。\n出典: https://t.pia.jp/pia/event/even
+ t.do?eventCd=2542453\nGoogleマップ: https://www.google.com/maps/search/
+ ?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E9%AB%98%E7%9F%B3%E5%B8%82%E7%B6%
+ BE%E5%9C%921-9-1%20%E3%82%A2%E3%83%97%E3%83%A9%E3%81%9F%E3%81%8B%E3%81%84%
+ E3%81%97
+END:VEVENT
+BEGIN:VEVENT
+UID:life_osaka_traffic_safety_congestion-937a14c7-9a61-5118-af92-5b340f2a0f
+ e3@chatgpt.local
+DTSTAMP:20260130T084407Z
+SEQUENCE:1
+SUMMARY:【交通】【混雑予測】アプラ（大ホール）注意（
+ 時刻不明）
+DTSTART;TZID=Asia/Tokyo:20260223T100000
+DTEND;TZID=Asia/Tokyo:20260223T180000
+TRANSP:TRANSPARENT
+LOCATION:〒592-0014 大阪府高石市綾園1-9-1（アプラたかいし
+ ／アプラホール）
+DESCRIPTION:予測：時刻が不明のため、当日は広めに注意枠
+ 。\n※時刻が確認できたら枠を絞る。\nGoogleマップ: https
+ ://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E9%
+ AB%98%E7%9F%B3%E5%B8%82%E7%B6%BE%E5%9C%921-9-1%20%E3%82%A2%E3%83%97%E3%83%
+ A9%E3%81%9F%E3%81%8B%E3%81%84%E3%81%97
+END:VEVENT
+BEGIN:VEVENT
+UID:life_osaka_traffic_safety_congestion-97d3f0b1-ae04-5b05-9b73-f173d34dd6
+ 22@chatgpt.local
+DTSTAMP:20260130T084407Z
+SEQUENCE:1
+SUMMARY:【安全】交通安全運動（参考：春・例年）
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+TRANSP:TRANSPARENT
+LOCATION:大阪府内（全域）
+DESCRIPTION:例年の実施期間（4/6-4/15）を参考として日毎に
+ 登録。\n正式日程は内閣府・大阪府/大阪府警等の公式
+ 発表で確認。
+END:VEVENT
+BEGIN:VEVENT
+UID:life_osaka_traffic_safety_congestion-8cb3560a-8657-5067-8123-57a635c915
+ ec@chatgpt.local
+DTSTAMP:20260130T084407Z
+SEQUENCE:1
+SUMMARY:【安全】交通安全運動（参考：春・例年）
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+TRANSP:TRANSPARENT
+LOCATION:大阪府内（全域）
+DESCRIPTION:例年の実施期間（4/6-4/15）を参考として日毎に
+ 登録。\n正式日程は内閣府・大阪府/大阪府警等の公式
+ 発表で確認。
+END:VEVENT
+BEGIN:VEVENT
+UID:life_osaka_traffic_safety_congestion-78ba1b9d-b68c-55ec-a2b1-479d99e5fe
+ e8@chatgpt.local
+DTSTAMP:20260130T084407Z
+SEQUENCE:1
+SUMMARY:【安全】交通安全運動（参考：春・例年）
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260409
+TRANSP:TRANSPARENT
+LOCATION:大阪府内（全域）
+DESCRIPTION:例年の実施期間（4/6-4/15）を参考として日毎に
+ 登録。\n正式日程は内閣府・大阪府/大阪府警等の公式
+ 発表で確認。
+END:VEVENT
+BEGIN:VEVENT
+UID:life_osaka_traffic_safety_congestion-e292cdd8-3f30-5f02-b638-52dcff1ef8
+ ad@chatgpt.local
+DTSTAMP:20260130T084407Z
+SEQUENCE:1
+SUMMARY:【安全】交通安全運動（参考：春・例年）
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+TRANSP:TRANSPARENT
+LOCATION:大阪府内（全域）
+DESCRIPTION:例年の実施期間（4/6-4/15）を参考として日毎に
+ 登録。\n正式日程は内閣府・大阪府/大阪府警等の公式
+ 発表で確認。
+END:VEVENT
+BEGIN:VEVENT
+UID:life_osaka_traffic_safety_congestion-c8e12e54-e367-5fad-bd06-a04a36609e
+ 5d@chatgpt.local
+DTSTAMP:20260130T084407Z
+SEQUENCE:1
+SUMMARY:【安全】交通安全運動（参考：春・例年）
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+TRANSP:TRANSPARENT
+LOCATION:大阪府内（全域）
+DESCRIPTION:例年の実施期間（4/6-4/15）を参考として日毎に
+ 登録。\n正式日程は内閣府・大阪府/大阪府警等の公式
+ 発表で確認。
+END:VEVENT
+BEGIN:VEVENT
+UID:life_osaka_traffic_safety_congestion-d492fc55-bf03-5610-b4e4-b17bf54486
+ e3@chatgpt.local
+DTSTAMP:20260130T084407Z
+SEQUENCE:1
+SUMMARY:【安全】交通安全運動（参考：春・例年）
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+TRANSP:TRANSPARENT
+LOCATION:大阪府内（全域）
+DESCRIPTION:例年の実施期間（4/6-4/15）を参考として日毎に
+ 登録。\n正式日程は内閣府・大阪府/大阪府警等の公式
+ 発表で確認。
+END:VEVENT
+BEGIN:VEVENT
+UID:life_osaka_traffic_safety_congestion-0a246030-26e3-5776-9d71-28f611d1f6
+ bb@chatgpt.local
+DTSTAMP:20260130T084407Z
+SEQUENCE:1
+SUMMARY:【安全】交通安全運動（参考：春・例年）
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+TRANSP:TRANSPARENT
+LOCATION:大阪府内（全域）
+DESCRIPTION:例年の実施期間（4/6-4/15）を参考として日毎に
+ 登録。\n正式日程は内閣府・大阪府/大阪府警等の公式
+ 発表で確認。
+END:VEVENT
+BEGIN:VEVENT
+UID:life_osaka_traffic_safety_congestion-54c90ff8-1f9d-5413-b205-a34985cb32
+ 20@chatgpt.local
+DTSTAMP:20260130T084407Z
+SEQUENCE:1
+SUMMARY:【安全】交通安全運動（参考：春・例年）
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+TRANSP:TRANSPARENT
+LOCATION:大阪府内（全域）
+DESCRIPTION:例年の実施期間（4/6-4/15）を参考として日毎に
+ 登録。\n正式日程は内閣府・大阪府/大阪府警等の公式
+ 発表で確認。
+END:VEVENT
+BEGIN:VEVENT
+UID:life_osaka_traffic_safety_congestion-3308ac92-96e2-5a50-aa2e-594606b844
+ 8c@chatgpt.local
+DTSTAMP:20260130T084407Z
+SEQUENCE:1
+SUMMARY:【安全】交通安全運動（参考：春・例年）
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+TRANSP:TRANSPARENT
+LOCATION:大阪府内（全域）
+DESCRIPTION:例年の実施期間（4/6-4/15）を参考として日毎に
+ 登録。\n正式日程は内閣府・大阪府/大阪府警等の公式
+ 発表で確認。
+END:VEVENT
+BEGIN:VEVENT
+UID:life_osaka_traffic_safety_congestion-88a2b478-3936-55c4-8587-f95aa10a5b
+ 4e@chatgpt.local
+DTSTAMP:20260130T084407Z
+SEQUENCE:1
+SUMMARY:【安全】交通安全運動（参考：春・例年）
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+TRANSP:TRANSPARENT
+LOCATION:大阪府内（全域）
+DESCRIPTION:例年の実施期間（4/6-4/15）を参考として日毎に
+ 登録。\n正式日程は内閣府・大阪府/大阪府警等の公式
+ 発表で確認。
+END:VEVENT
+END:VCALENDAR
