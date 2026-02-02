@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+PRODID:-//masashi soccer ics//region split//JA
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:【四国】男子大学サッカー
+X-WR-TIMEZONE:Asia/Tokyo
+X-WR-CALDESC:calendar_id=soccer_shikoku_uni_boys / region=四国 / scope=男子大学サッカー / timezone=Asia/Tokyo
+END:VCALENDAR

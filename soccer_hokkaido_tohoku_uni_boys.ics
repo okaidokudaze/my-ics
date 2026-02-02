@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+PRODID:-//masashi soccer ics//region split//JA
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:【北海道東北】男子大学サッカー
+X-WR-TIMEZONE:Asia/Tokyo
+X-WR-CALDESC:calendar_id=soccer_hokkaido_tohoku_uni_boys / region=北海道東北 / scope=男子大学サッカー / timezone=Asia/Tokyo
+END:VCALENDAR
