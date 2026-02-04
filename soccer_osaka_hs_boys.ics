@@ -1,27 +1,12 @@
-BEGIN:VCALENDAR
-PRODID:-//masashi//school-soccer-osaka//JA
-VERSION:2.0
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:【大阪】男子高校サッカー
-X-WR-TIMEZONE:Asia/Tokyo
-X-WR-CALDESC:大阪府内中心（会場不明含む）の高校男子サ
+BEGIN:VCALENDAR
+PRODID:-//masashi//school-soccer-osaka//JA
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:【大阪】男子高校サッカー
+X-WR-TIMEZONE:Asia/Tokyo
+X-WR-CALDESC:大阪府内（会場不明含む）の高校男子サッカー予定。出典はDESCRIPTION参照。
  ッカー予定。出典はDESCRIPTION参照。
-BEGIN:VEVENT
-UID:c3c7059df618974e@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20251207T100000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W2
- ） 野洲 4 vs 2 星翔
-LOCATION:野洲高校G
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
-END:VEVENT
 BEGIN:VEVENT
 UID:ad64e17dbbbbe9a61d77318501abf855@masashi.local
 DTSTAMP:20260201T050449Z
@@ -1258,22 +1243,6 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:3cafbdb9f9c33e41@masashi.local
-DTSTAMP:20260201T011728Z
-DTSTART;TZID=Asia/Tokyo:20251217T163000
-SUMMARY:【大阪-男子高校】大阪私立高校総体 男子 予選リ
- ーグ 3日目 大阪体育大学浪商 vs 東大谷（4-1）
-LOCATION:浪商高校
-DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
- 会サッカー大会（男子の部）\nステージ：男子 予選リ
- ーグ 3日目\n試合番号：D③\nキックオフ：16:30\n会場：浪
- 商高校\nスコア：大阪体育大学浪商 4 - 1 東大谷\n出典：
- 大阪私立高等学校体育連盟サッカー部HP（試合結果PDF）
- \nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-
- 女子/試合結果/
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:73ba0a0e2fd92a5d@masashi.local
 DTSTAMP:20260201T042902Z
 DTSTART;TZID=Asia/Tokyo:20251219T112000
@@ -1452,21 +1421,6 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  院 0(5) - 0(3) 大阪桐蔭\n出典：大阪私立高等学校体育連
  盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-socce
  r.jp/ホーム/第72回-男子-第10回-女子/試合結果/
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:8573f841b14ddd88@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20251220T133000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W2
- ） 千里 3 vs 1 香芝
-LOCATION:千里高校グランド
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
@@ -1754,36 +1708,6 @@ DESCRIPTION:大会：2025年度 第4回大阪公立高校大会\n区分：
  re/4222\n※会場情報は一次ソースで確認でき次第追記
 END:VEVENT
 BEGIN:VEVENT
-UID:b6034cc01a762cf9@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20251221T180000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W1
- ） 大商大堺 vs 京都先端科学大附
-LOCATION:京都先端大学亀岡キャンパスG
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:317559513a778307@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20251222T100000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W1
- ） 大阪偕星 vs 城陽
-LOCATION:太陽が丘球技場A
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:59c1006884404e8a0bd5755e4ac41bc9@masashi.local
 DTSTAMP:20260201T050449Z
 DTSTART;TZID=Asia/Tokyo:20251223T150000
@@ -1844,21 +1768,6 @@ DESCRIPTION:大会：2025年度 第4回大阪公立高校大会\n区分：
  re/4222\n※会場情報は一次ソースで確認でき次第追記
 END:VEVENT
 BEGIN:VEVENT
-UID:f1c737db251b6b92@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20251225T100000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W1
- ） 郡山 4 vs 2 大商大堺
-LOCATION:奈良県フットボールセンター
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:95b7918ef0134f28864d09124efa910f@masashi.local
 DTSTAMP:20260201T050449Z
 DTSTART;TZID=Asia/Tokyo:20251225T110000
@@ -1881,21 +1790,6 @@ LOCATION:会場不明
 DESCRIPTION:大会：2025年度 第4回大阪公立高校大会\n区分：
  予選リーグ（しグループ）\n出典：https://koko-soccer.com/sco
  re/4222\n※会場情報は一次ソースで確認でき次第追記
-END:VEVENT
-BEGIN:VEVENT
-UID:2d2c0c88c74f2f46@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20251225T131500
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W2
- ） 雲雀丘学園 0 vs 3 千里
-LOCATION:その他
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:0eea12e5d12bf58727fec42fb93a62c6@masashi.local
@@ -1944,21 +1838,6 @@ LOCATION:会場不明
 DESCRIPTION:大会：2025年度 第4回大阪公立高校大会\n区分：
  予選リーグ（くグループ）\n出典：https://koko-soccer.com/sco
  re/4222\n※会場情報は一次ソースで確認でき次第追記
-END:VEVENT
-BEGIN:VEVENT
-UID:5ca409fa6d4ce9c5@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20251226T130000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W1
- ） 清明学院 0 vs 1 郡山
-LOCATION:奈良県フットボールセンター
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:57f004fd91112622@masashi.local
@@ -2013,21 +1892,6 @@ LOCATION:会場不明
 DESCRIPTION:大会：2025年度 第4回大阪公立高校大会\n区分：
  予選リーグ（うグループ）\n出典：https://koko-soccer.com/sco
  re/4222\n※会場情報は一次ソースで確認でき次第追記
-END:VEVENT
-BEGIN:VEVENT
-UID:181190a75b293705@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20260110T100000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W1
- ） 大阪偕星 vs 三田松聖
-LOCATION:三田松聖高校グラウンド
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:78167fec744d9ade@masashi.local
@@ -2319,21 +2183,6 @@ https://koko-soccer.co
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:4ded743bb4c15e7b@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20260111T130000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W2
- ） 星翔 1 vs 0 啓明学院
-LOCATION:啓明学院
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:e8c931f46a9eef43@masashi.local
 DTSTAMP:20260201T042902Z
 DTSTART;TZID=Asia/Tokyo:20260111T132000
@@ -2436,21 +2285,6 @@ https://koko-soc
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:73969fdda6f5b4aa@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20260112T100000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W1
- ） 大商大堺 vs 三田松聖
-LOCATION:三田松聖高校グラウンド
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:33f531ae22a2a7fc@masashi.local
 DTSTAMP:20260201T011728Z
 DTSTART;TZID=Asia/Tokyo:20260117T131500
@@ -2464,21 +2298,6 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
   桃山学院\n出典：大阪私立高等学校体育連盟サッカー
  部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/
  第72回-男子-第10回-女子/試合結果/
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:7d5f5ccc7457de3c@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20260117T133000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W1
- ） 清明学院 vs 大阪偕星
-LOCATION:その他
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
@@ -2937,21 +2756,6 @@ https://www.bluewave-netto.com/schedu
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:b870d434c9cbf9ec@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20260131T150000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W1
- ） 立命館守山 vs 大阪偕星
-LOCATION:立命館守山高校
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:4f793ea70dee17fd@masashi.local
 DTSTAMP:20260201T042902Z
 DTSTART;VALUE=DATE:20260201
@@ -3031,36 +2835,6 @@ https://www.bluewave-netto.com/schedu
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:8b5ffddd0a0fd189@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20260207T130000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W1
- ） 立命館守山 vs 清明学院
-LOCATION:立命館守山高校
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:c42e1f55394c1072@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20260207T170000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W1
- ） 大阪偕星 vs 大谷
-LOCATION:大谷高校
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:2ad07ea1b0986cd0@masashi.local
 DTSTAMP:20260201T042902Z
 DTSTART;VALUE=DATE:20260208
@@ -3101,36 +2875,6 @@ https:/
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:1c98a848aa0b906b@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20260208T143000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W1
- ） 大商大堺 vs 立命館守山
-LOCATION:立命館守山高校
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:f04ee8c19936bc46@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20260208T160000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W1
- ） 大谷 vs 清明学院
-LOCATION:大谷高校
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:1424969d3e576497@masashi.local
 DTSTAMP:20260201T042902Z
 DTSTART;VALUE=DATE:20260211
@@ -3149,7 +2893,6 @@ https://www.j
 ※組合せ・KOは確定次第更新
 SEQUENCE:0
 END:VEVENT
-END:VCALENDAR
 BEGIN:VEVENT
 UID:ab5cb24c046cf30f@masashi.local
 DTSTAMP:20260201T042902Z
@@ -3157,36 +2900,6 @@ DTSTART;TZID=Asia/Tokyo:20260212T170000
 SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W1
  ） 大阪偕星 vs 大商大堺
 LOCATION:J-GREEN堺（大阪府堺市堺区築港八幡町145）
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:98be4db157be1685@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20260214T160000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W1
- ） 京都先端科学大附 vs 大阪偕星
-LOCATION:京都先端大学亀岡キャンパスG
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:a047c1ae2b604d75@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20260214T170000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W1
- ） 大谷 vs 大商大堺
-LOCATION:大谷高校
 DESCRIPTION:大会：Blue Wave League ～熱冬～
 区分：高校（関西
  ）
@@ -3226,42 +2939,12 @@ https://www.bluewave-netto.com/schedu
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:dd8bd2cc4c5b2660@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20260223T103000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W2
- ） 星翔 vs 彦根総合
-LOCATION:彦根総合高校〖松隆グラウンド〗
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:7f3863635ae8a4c9@masashi.local
 DTSTAMP:20260201T042902Z
 DTSTART;TZID=Asia/Tokyo:20260301T151500
 SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W1
  ） 京都先端科学大附 vs 清明学院
 LOCATION:J-GREEN堺（大阪府堺市堺区築港八幡町145）
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:ab2c4a6b85d110c4@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20260301T160000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W2
- ） 星翔 vs 香芝
-LOCATION:ナラディーア
 DESCRIPTION:大会：Blue Wave League ～熱冬～
 区分：高校（関西
  ）
@@ -3286,57 +2969,12 @@ https://www.bluewave-netto.com/schedu
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:5aaaebc3c8dbe90f@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20260307T133000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W2
- ） 千里 vs 彦根総合
-LOCATION:彦根総合高校〖松隆グラウンド〗
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:bdbebf83bb39706e@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20260308T100000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W2
- ） 野洲 vs 千里
-LOCATION:野洲高校G
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:08561326298dd942@masashi.local
 DTSTAMP:20260201T042902Z
 DTSTART;TZID=Asia/Tokyo:20260314T170000
 SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W1
  ） 清明学院 vs 県立西宮
 LOCATION:J-GREEN堺（大阪府堺市堺区築港八幡町145）
-DESCRIPTION:大会：Blue Wave League ～熱冬～
-区分：高校（関西
- ）
-出典：公式スケジュール
-https://www.bluewave-netto.com/schedu
- le/groups/4
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:d4740e1d47efb3dd@masashi.local
-DTSTAMP:20260201T042902Z
-DTSTART;TZID=Asia/Tokyo:20260315T090000
-SUMMARY:【大阪-男子高校】Blue Wave League ～熱冬～（関西W2
- ） 千里 vs 啓明学院
-LOCATION:啓明学院
 DESCRIPTION:大会：Blue Wave League ～熱冬～
 区分：高校（関西
  ）
