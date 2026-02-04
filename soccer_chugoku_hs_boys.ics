@@ -1,9 +1,293 @@
 BEGIN:VCALENDAR
-PRODID:-//masashi soccer ics//region split//JA
 VERSION:2.0
+PRODID:-//my-ics//school-soccer//JP
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:【中国】男子高校サッカー
 X-WR-TIMEZONE:Asia/Tokyo
-X-WR-CALDESC:calendar_id=soccer_chugoku_hs_boys / region=中国 / scope=男子高校サッカー / timezone=Asia/Tokyo
+BEGIN:VTIMEZONE
+TZID:Asia/Tokyo
+X-LIC-LOCATION:Asia/Tokyo
+BEGIN:STANDARD
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+TZNAME:JST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:064a687616b0b34277681333d33a1bd98504f4d0@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251214
+SUMMARY:【中国-男子高校】鳥取新人戦 1回戦 米子工業 vs 鳥取商業
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
+ ews.com/post-1847912\n結果：米子工業 10-0 鳥取商業
+END:VEVENT
+BEGIN:VEVENT
+UID:ab0cf98b626e9e518a04e183616eda962322d6c0@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251214
+SUMMARY:【中国-男子高校】鳥取新人戦 1回戦 倉吉東 vs 鳥取西
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
+ ews.com/post-1847912\n結果：倉吉東 0-2 鳥取西
+END:VEVENT
+BEGIN:VEVENT
+UID:01b540041845b25a38f8b11c9440114ed939fbe0@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251214
+SUMMARY:【中国-男子高校】鳥取新人戦 1回戦 倉吉総産 vs 米子西
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
+ ews.com/post-1847912\n結果：倉吉総産 0-4 米子西
+END:VEVENT
+BEGIN:VEVENT
+UID:f3c7e76d3265408d221ca1ea3241963d4f1831c1@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20251214
+DTEND;VALUE=DATE:20251215
+SUMMARY:【中国-男子高校】鳥取新人戦 2回戦 米子北 vs 米子工業
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
+ ews.com/post-1847912\n結果：米子北 10-0 米子工業
+END:VEVENT
+BEGIN:VEVENT
+UID:7cfdf655d0089c7fff60b60a86c77426bcd66064@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20251214
+DTEND;VALUE=DATE:20251215
+SUMMARY:【中国-男子高校】鳥取新人戦 2回戦 鳥取工業 vs 米子東
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
+ ews.com/post-1847912\n結果：鳥取工業 0-4 米子東
+END:VEVENT
+BEGIN:VEVENT
+UID:63222a30a382f12cc320d3a75d1f96ff6aff2e43@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20251214
+DTEND;VALUE=DATE:20251215
+SUMMARY:【中国-男子高校】鳥取新人戦 2回戦 倉吉北 vs 鳥取敬愛
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
+ ews.com/post-1847912\n結果：倉吉北 8-0 鳥取敬愛
+END:VEVENT
+BEGIN:VEVENT
+UID:7f9b65a8c45aedfa1c281fca3dff111ed79a28dd@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20251214
+DTEND;VALUE=DATE:20251215
+SUMMARY:【中国-男子高校】鳥取新人戦 2回戦 倉吉西 vs 米子松蔭
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
+ ews.com/post-1847912\n結果：倉吉西 0-18 米子松蔭
+END:VEVENT
+BEGIN:VEVENT
+UID:79f34f4332d673a9573ee53e0ad4f755d2d3089c@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20251214
+DTEND;VALUE=DATE:20251215
+SUMMARY:【中国-男子高校】鳥取新人戦 2回戦 八頭 vs 鳥取西
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
+ ews.com/post-1847912\n結果：八頭 2-1 鳥取西
+END:VEVENT
+BEGIN:VEVENT
+UID:9effca69bae0dafc46514f7157343e22e59c084b@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20251214
+DTEND;VALUE=DATE:20251215
+SUMMARY:【中国-男子高校】鳥取新人戦 2回戦 鳥取育英 vs 境
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
+ ews.com/post-1847912\n結果：鳥取育英 0-9 境
+END:VEVENT
+BEGIN:VEVENT
+UID:1bb98024e94d0cdea0d9c00300fbc1f91ee940eb@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20251214
+DTEND;VALUE=DATE:20251215
+SUMMARY:【中国-男子高校】鳥取新人戦 2回戦 鳥取東 vs 米子高専
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
+ ews.com/post-1847912\n結果：鳥取東 5-0 米子高専
+END:VEVENT
+BEGIN:VEVENT
+UID:24dbbbe6564a367b9a229249414691f1cb9613a8@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20251214
+DTEND;VALUE=DATE:20251215
+SUMMARY:【中国-男子高校】鳥取新人戦 2回戦 米子西 vs 鳥取城北
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
+ ews.com/post-1847912\n結果：米子西 0-0(EX0-1) 鳥取城北
+END:VEVENT
+BEGIN:VEVENT
+UID:34c8dcf11719191ee5dfc8395f5c8dfc1fc6802a@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:【中国-男子高校】鳥取新人戦 準々決勝 米子北 vs 米子東
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
+ ews.com/post-1847912\n結果：米子北 9-0 米子東\n※雪の影響で準々決勝日程が変更（記事参照）。
+END:VEVENT
+BEGIN:VEVENT
+UID:26ea6842135dade52961864033964473054d8363@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:【中国-男子高校】鳥取新人戦 準々決勝 八頭 vs 境
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
+ ews.com/post-1847912\n結果：八頭 1-2(延長) 境\n※雪の影響で準々決勝日程が変更（記事参照）。
+END:VEVENT
+BEGIN:VEVENT
+UID:de537d01b52217a392cffa78f98f7c680b14700f@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:【中国-男子高校】鳥取新人戦 準々決勝 倉吉北 vs 米子松蔭
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
+ ews.com/post-1847912\n※雪の影響で準々決勝日程が変更（記事参照）。（スコア未反映）
+END:VEVENT
+BEGIN:VEVENT
+UID:b67e1eff83065bcb87ca0257fd2aa1da5fbc60ed@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:【中国-男子高校】鳥取新人戦 準々決勝 鳥取東 vs 鳥取城北
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
+ ews.com/post-1847912\n※雪の影響で準々決勝日程が変更（記事参照）。（スコア未反映）
+END:VEVENT
+BEGIN:VEVENT
+UID:17d478bdb8e754121845368a8edb0ddd29624e25@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:【中国-男子高校】島根新人戦（男子）1次ラウンド（カード未取得）
+LOCATION:松江・出雲（会場複数）
+DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
+ iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
+ 9A%E8%A6%81%E9%A0%85%28%E7%B7%8F%E4%BD%93%E3%80%81%E9%81%B8%E6%89%8B%E6%A8
+ %A9%E3%80%81%E6%96%B0%E4%BA%BA%E6%88%A6%29.pdf\n※組合せ（対戦カード）未取得のため、後で1試合=1イ
+ ベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:452bf70be59c316cfd4682c7c2c77775f1690281@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【中国-男子高校】島根新人戦（男子）1次ラウンド（カード未取得）
+LOCATION:松江・出雲（会場複数）
+DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
+ iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
+ 9A%E8%A6%81%E9%A0%85%28%E7%B7%8F%E4%BD%93%E3%80%81%E9%81%B8%E6%89%8B%E6%A8
+ %A9%E3%80%81%E6%96%B0%E4%BA%BA%E6%88%A6%29.pdf\n※組合せ（対戦カード）未取得のため、後で1試合=1イ
+ ベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:38400b9af267153a457ab57e011f4d348890be14@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:【中国-男子高校】島根新人戦（男子）準々決勝（カード未取得）
+LOCATION:益田（会場複数）
+DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
+ iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
+ 9A%E8%A6%81%E9%A0%85%28%E7%B7%8F%E4%BD%93%E3%80%81%E9%81%B8%E6%89%8B%E6%A8
+ %A9%E3%80%81%E6%96%B0%E4%BA%BA%E6%88%A6%29.pdf\n※組合せ（対戦カード）未取得のため、後で1試合=1イ
+ ベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:a971b5e43456cc1ef8ea240148cd8942e73c40e3@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+SUMMARY:【中国-男子高校】島根新人戦（男子）Finalラウンド（カード未取得）
+LOCATION:益田（会場複数）
+DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
+ iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
+ 9A%E8%A6%81%E9%A0%85%28%E7%B7%8F%E4%BD%93%E3%80%81%E9%81%B8%E6%89%8B%E6%A8
+ %A9%E3%80%81%E6%96%B0%E4%BA%BA%E6%88%A6%29.pdf\n※組合せ（対戦カード）未取得のため、後で1試合=1イ
+ ベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:771de8644dab5e9c9e8900d0b1fd4de7d492c992@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:【中国-男子高校】島根新人戦（男子）Finalラウンド（カード未取得）
+LOCATION:益田（会場複数）
+DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
+ iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
+ 9A%E8%A6%81%E9%A0%85%28%E7%B7%8F%E4%BD%93%E3%80%81%E9%81%B8%E6%89%8B%E6%A8
+ %A9%E3%80%81%E6%96%B0%E4%BA%BA%E6%88%A6%29.pdf\n※組合せ（対戦カード）未取得のため、後で1試合=1イ
+ ベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:165e8b80ecaab175291229caaaafd6388d72d41d@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
+LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
+DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
+ カード）未取得のため、後で1試合=1イベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:35ffc5697d63d33c51494d7d17d4a2f243b37a1d@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
+LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
+DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
+ カード）未取得のため、後で1試合=1イベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:57541dbeb2060fa0dca5b255a13183bd8196cbb0@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
+LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
+DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
+ カード）未取得のため、後で1試合=1イベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:571b16fb4cc52a8bbbeb7760944b09b8faac379d@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
+LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
+DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
+ カード）未取得のため、後で1試合=1イベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:bf8038e59841c78722faa99bb538bceff538fbee@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
+LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
+DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
+ カード）未取得のため、後で1試合=1イベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:02110e39f0e3f23b075d56b41d9976d7bcef0b8c@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【中国-男子高校】広島新人戦（男子）大会期間（〜2/8）（カード未取得）
+LOCATION:広島県内公共施設・各高等学校 等
+DESCRIPTION:出典：要項（公式）\n参照：https://hiroshima-koutairen.jp/soccer/event/sched
+ ule/entry-19028.html\n※組合せ（対戦カード）未取得のため、後で1試合=1イベントに差し替え予定。
+END:VEVENT
 END:VCALENDAR

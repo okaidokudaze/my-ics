@@ -1,9 +1,8 @@
 BEGIN:VCALENDAR
-PRODID:-//masashi soccer ics//region split//JA
 VERSION:2.0
+PRODID:-//okaidokudaze//school-soccer-ics//JA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:【甲信越】女子高校サッカー
 X-WR-TIMEZONE:Asia/Tokyo
-X-WR-CALDESC:calendar_id=soccer_koshinetsu_hs_girls / region=甲信越 / scope=女子高校サッカー / timezone=Asia/Tokyo
 END:VCALENDAR

@@ -1,9 +1,3800 @@
 BEGIN:VCALENDAR
-PRODID:-//masashi soccer ics//region split//JA
 VERSION:2.0
+PRODID:-//okaidokudaze//school-soccer//JP
 CALSCALE:GREGORIAN
-METHOD:PUBLISH
 X-WR-CALNAME:【関東】男子高校サッカー
 X-WR-TIMEZONE:Asia/Tokyo
-X-WR-CALDESC:calendar_id=soccer_kanto_hs_boys / region=関東 / scope=男子高校サッカー / timezone=Asia/Tokyo
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-f7dc8f5514a4bb6020fb3564403a2ccba948b667@okaidokudaze
+DTSTAMP:20260203T110449
+DTSTART;TZID=Asia/Tokyo:20260202T110000
+DTEND;TZID=Asia/Tokyo:20260202T130000
+SUMMARY:【関東-男子高校】茨城新人 準決勝(70) 明秀日立 vs 東洋大牛久
+LOCATION:鹿嶋市卜伝の郷運動公園A
+DESCRIPTION:出典：茨城県サッカー協会 公式記録（M70 準決勝）\nhttps://www.ibaraki-fa.jp/cms/wp-content/uploads/2026/02/2025_R7rookie_cup_ibaraki_M70_official0202.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-25e055c7fcde0576563bffa9931b2e58e87ec2ff@okaidokudaze
+DTSTAMP:20260203T110449
+DTSTART;TZID=Asia/Tokyo:20260202T110000
+DTEND;TZID=Asia/Tokyo:20260202T130000
+SUMMARY:【関東-男子高校】茨城新人 準決勝(71) 第一学院 vs 水戸葵陵
+LOCATION:鹿嶋市卜伝の郷運動公園B
+DESCRIPTION:出典：茨城県サッカー協会 公式記録（M71 準決勝）\nhttps://www.ibaraki-fa.jp/cms/wp-content/uploads/2026/01/2025_R7rookie_cup_ibaraki_M71_official0202.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e8f35d6451ff2ab117bc55af1390871b7a22996d@okaidokudaze
+DTSTAMP:20260203T110449
+DTSTART;TZID=Asia/Tokyo:20260208T133000
+DTEND;TZID=Asia/Tokyo:20260208T153000
+SUMMARY:【関東-男子高校】東京新人(第6地区) 準決勝 玉川学園 vs 日本学園
+LOCATION:日本大学第三高等学校
+DESCRIPTION:出典：東京都高体連サッカー部 第6地区 新人選手権大会トーナメント（PDF）\nhttps://tokyosoccer-u18.com/SINJ25/sinj25_6.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-be9baa988ad70a413f224cf4996d79db0091c881@okaidokudaze
+DTSTAMP:20260203T110449
+DTSTART;TZID=Asia/Tokyo:20260208T153000
+DTEND;TZID=Asia/Tokyo:20260208T173000
+SUMMARY:【関東-男子高校】東京新人(第6地区) 準決勝 狛江 vs 目黒日本大学
+LOCATION:日本大学第三高等学校
+DESCRIPTION:出典：東京都高体連サッカー部 第6地区 新人選手権大会トーナメント（PDF）\nhttps://tokyosoccer-u18.com/SINJ25/sinj25_6.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c5b58a8a8de05c379fd4f6c97afe27ad6df9621f@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】神奈川新人・川崎地区 代表決定戦 麻生 vs 聖光学院
+LOCATION:慶應義塾高等学校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・川崎地区 代表決定戦）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/kawasaki/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-15d1346f4ab039cdf98519e55f0c9b182ee879ca@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】神奈川新人・川崎地区 代表決定戦 橘 vs 大師
+LOCATION:慶應義塾高等学校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・川崎地区 代表決定戦）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/kawasaki/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-b499f193b8a17c325b9bcdf08e9ec5140bb9aade@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:【関東-男子高校】神奈川新人・川崎地区 代表決定戦 麻生 vs 大師
+LOCATION:川崎市立橘高等学校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・川崎地区 代表決定戦）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/kawasaki/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e1f964044955a3fbbc57af8590ebb63b31afc17a@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260131T120000
+DTEND;TZID=Asia/Tokyo:20260131T140000
+SUMMARY:【関東-男子高校】神奈川新人・川崎地区 代表決定戦 橘 vs 聖光学院
+LOCATION:川崎市立橘高等学校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・川崎地区 代表決定戦）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/kawasaki/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c5d04d06f99700f212a001121e88e4c94aca1643@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260111T104000
+DTEND;TZID=Asia/Tokyo:20260111T124000
+SUMMARY:【関東-男子高校】神奈川新人・湘南地区 代表決定リーグ 茅ケ崎高校 vs 慶應義塾湘南藤沢高等部
+LOCATION:茅ケ崎高校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・湘南地区 代表決定リーグ）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/shonan/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5ea2ffd37022589ce82d52124ef42c7685edd857@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260111T122000
+DTEND;TZID=Asia/Tokyo:20260111T142000
+SUMMARY:【関東-男子高校】神奈川新人・湘南地区 代表決定リーグ 湘南台・藤沢工科 vs 大船高校
+LOCATION:七里ガ浜高校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・湘南地区 代表決定リーグ）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/shonan/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-286d0f2178bc381f07280f60ca1c1348b81fdecb@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260117T104000
+DTEND;TZID=Asia/Tokyo:20260117T124000
+SUMMARY:【関東-男子高校】神奈川新人・湘南地区 代表決定リーグ 茅ケ崎高校 vs 湘南台・藤沢工科
+LOCATION:茅ケ崎高校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・湘南地区 代表決定リーグ）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/shonan/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-3dfa14e93212c530ce38cf82be6ab12c264705b2@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260117T104000
+DTEND;TZID=Asia/Tokyo:20260117T124000
+SUMMARY:【関東-男子高校】神奈川新人・湘南地区 代表決定リーグ 大船高校 vs 慶應義塾湘南藤沢高等部
+LOCATION:大船高校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・湘南地区 代表決定リーグ）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/shonan/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-22dee8d4a310fe7154bc3fae17af2eeaf8f7ce33@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260124T104000
+DTEND;TZID=Asia/Tokyo:20260124T124000
+SUMMARY:【関東-男子高校】神奈川新人・湘南地区 代表決定リーグ 茅ケ崎高校 vs 大船高校
+LOCATION:茅ケ崎高校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・湘南地区 代表決定リーグ）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/shonan/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-a8eb8c1f7adccf905c4c2a5d34637b930deaad8c@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260124T122000
+DTEND;TZID=Asia/Tokyo:20260124T142000
+SUMMARY:【関東-男子高校】神奈川新人・湘南地区 代表決定リーグ 湘南台・藤沢工科 vs 慶應義塾湘南藤沢高等部
+LOCATION:湘南台・藤沢工科
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・湘南地区 代表決定リーグ）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/shonan/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-a7610f9dca3210abdc913ddc388c5ebaddfab88a@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260111T093000
+DTEND;TZID=Asia/Tokyo:20260111T113000
+SUMMARY:【関東-男子高校】神奈川新人・北相地区 代表決定トーナメント 旭 vs 大和西
+LOCATION:神奈川県立旭高等学校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・北相地区 代表決定トーナメント）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/hokuso/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-fcd85d6952b9a63c208d79d3a69d0d8093f4539d@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260111T111000
+DTEND;TZID=Asia/Tokyo:20260111T131000
+SUMMARY:【関東-男子高校】神奈川新人・北相地区 代表決定トーナメント 大和南 vs 麻溝台
+LOCATION:神奈川県立旭高等学校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・北相地区 代表決定トーナメント）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/hokuso/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-a5e21147ba55c81451f38b40018d534c7d5aec9d@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260111T125000
+DTEND;TZID=Asia/Tokyo:20260111T145000
+SUMMARY:【関東-男子高校】神奈川新人・北相地区 代表決定トーナメント 瀬谷 vs 相模田名
+LOCATION:神奈川県立旭高等学校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・北相地区 代表決定トーナメント）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/hokuso/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-89cbf46d84fdb029544b81fe45cb890ee1b5998d@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260111T143000
+DTEND;TZID=Asia/Tokyo:20260111T163000
+SUMMARY:【関東-男子高校】神奈川新人・北相地区 代表決定トーナメント 湘南工科大学附属 vs 桐蔭学園中等教育学校
+LOCATION:神奈川県立旭高等学校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・北相地区 代表決定トーナメント）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/hokuso/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-9cdd38265d9a5de3f8c37cca8c1e5fe11e186a31@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260117T093000
+DTEND;TZID=Asia/Tokyo:20260117T113000
+SUMMARY:【関東-男子高校】神奈川新人・北相地区 代表決定トーナメント 大和南 vs 大和西
+LOCATION:神奈川県立旭高等学校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・北相地区 代表決定トーナメント）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/hokuso/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e3c6255fec2dd84ed7a4607b38132a36403b90cb@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260117T111000
+DTEND;TZID=Asia/Tokyo:20260117T131000
+SUMMARY:【関東-男子高校】神奈川新人・北相地区 代表決定トーナメント 瀬谷 vs 桐蔭学園中等教育学校
+LOCATION:神奈川県立旭高等学校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・北相地区 代表決定トーナメント）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/hokuso/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-0566c3f4dce0426fb60030843e492f473c8fb6b6@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260124T093000
+DTEND;TZID=Asia/Tokyo:20260124T113000
+SUMMARY:【関東-男子高校】神奈川新人・北相地区 代表決定トーナメント 瀬谷 vs 大和南
+LOCATION:神奈川県立旭高等学校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・北相地区 代表決定トーナメント）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/hokuso/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-a341f6ec678372ab43db6e6ff8060ce0f11727c4@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20251220T120000
+DTEND;TZID=Asia/Tokyo:20251220T140000
+SUMMARY:【関東-男子高校】神奈川新人・西相地区 シード決定戦 星槎国際高校湘南 vs 大磯高校
+LOCATION:星槎国際高校湘南
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・西相地区 シード決定戦）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/seiso/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-8d8aae94f2ac924296075a763193f6c19951f013@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20251221T093000
+DTEND;TZID=Asia/Tokyo:20251221T113000
+SUMMARY:【関東-男子高校】神奈川新人・西相地区 シード決定戦 旭丘高校 vs 小田原高校
+LOCATION:旭丘高校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・西相地区 シード決定戦）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/seiso/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5438452a3168654e62681e83b566cf75f5546639@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260112T093000
+DTEND;TZID=Asia/Tokyo:20260112T113000
+SUMMARY:【関東-男子高校】神奈川新人・西相地区 シード決定戦 星槎国際高校湘南 vs 小田原高校
+LOCATION:星槎国際高校湘南
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・西相地区 シード決定戦）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/seiso/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-eea99c597c60c4607df29ab8c10084b8eab983a4@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20251220T133000
+DTEND;TZID=Asia/Tokyo:20251220T153000
+SUMMARY:【関東-男子高校】神奈川新人・西相地区 代表決定リーグ 山北高校 vs 立花学園高校
+LOCATION:山北高校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・西相地区 代表決定リーグ）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/seiso/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-db571dce36b95c5751ac02c1518730b2d07eeaff@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20251227T093000
+DTEND;TZID=Asia/Tokyo:20251227T113000
+SUMMARY:【関東-男子高校】神奈川新人・西相地区 代表決定リーグ 山北高校 vs 西湘高校
+LOCATION:山北高校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・西相地区 代表決定リーグ）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/seiso/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-962f4bf8172c06fa2644fe8cb66eeabbced7309f@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260112T111000
+DTEND;TZID=Asia/Tokyo:20260112T131000
+SUMMARY:【関東-男子高校】神奈川新人・西相地区 代表決定リーグ 西湘高校 vs 立花学園高校
+LOCATION:西湘高校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・西相地区 代表決定リーグ）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/seiso/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-fd06d2ab6417becd2395dbec081cb7071f797ae6@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260111T090000
+DTEND;TZID=Asia/Tokyo:20260111T110000
+SUMMARY:【関東-男子高校】神奈川新人・横三地区 代表決定トーナメント 追浜高校 vs 緑ケ丘高校
+LOCATION:追浜高校
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・横三地区 代表決定トーナメント）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/yokosuka-miura/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-b43af46815e9a0bbe0ff370dec62a192242d85af@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260111T104000
+DTEND;TZID=Asia/Tokyo:20260111T124000
+SUMMARY:【関東-男子高校】神奈川新人・横三地区 代表決定トーナメント 関東学院六浦 vs 横須賀学院
+LOCATION:関東学院六浦
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・横三地区 代表決定トーナメント）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/yokosuka-miura/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-353d0da46fb9d3aa5138b644d76598b5088cbb7f@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260118T131000
+DTEND;TZID=Asia/Tokyo:20260118T151000
+SUMMARY:【関東-男子高校】神奈川新人・横三地区 代表決定トーナメント 横須賀学院 vs 追浜高校
+LOCATION:横須賀学院
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・横三地区 代表決定トーナメント）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/yokosuka-miura/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c7a9d2fed891492eae42beeb2caf8af0cb321121@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260125T104000
+DTEND;TZID=Asia/Tokyo:20260125T124000
+SUMMARY:【関東-男子高校】神奈川新人・横三地区 代表決定トーナメント 横須賀学院 vs 三浦学苑
+LOCATION:横須賀学院
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・横三地区 代表決定トーナメント）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/yokosuka-miura/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-763ceb62537d4ae9c952c0cfebfb8531fa5e52dc@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260125T122000
+DTEND;TZID=Asia/Tokyo:20260125T142000
+SUMMARY:【関東-男子高校】神奈川新人・横三地区 代表決定トーナメント 横須賀学院 vs 横須賀高校
+LOCATION:横須賀学院
+DESCRIPTION:出典：神奈川県サッカー協会 2種高校部会（神奈川新人・横三地区 代表決定トーナメント）\nhttps://www.kanagawa-fa.gr.jp/cms/h-school/2025/rookie/yokosuka-miura/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-bc2d2a2a62849698b2e5ba5f7ecaf1f4ddd7370e@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】埼玉新人・南部支部予選 1回戦 川口工業 vs 与野
+LOCATION:岩槻北陵高校
+DESCRIPTION:出典：埼玉県高等学校体育連盟サッカー専門部（南部支部予選 組合せ／提供画像）\n会場記号：キ／時刻区分：①（10:00）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-9b8989243c0796a19391ebe5720a7124285f6f08@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】埼玉新人・南部支部予選 1回戦 川口青陵 vs 栄東
+LOCATION:川口青陵高校
+DESCRIPTION:出典：埼玉県高等学校体育連盟サッカー専門部（南部支部予選 組合せ／提供画像）\n会場記号：サ／時刻区分：①（10:00）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-944893b75481e927aa3503e97b9daa7cf5f8f88f@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】埼玉新人・南部支部予選 1回戦 浦和麗明 vs 埼玉栄
+LOCATION:浦和南高校
+DESCRIPTION:出典：埼玉県高等学校体育連盟サッカー専門部（南部支部予選 組合せ／提供画像）\n会場記号：イ／時刻区分：②（12:00）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-4604f201b5caf8dff579785b90d018eba8fec820@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】埼玉新人・南部支部予選 1回戦 川口市立 vs 大宮開成
+LOCATION:川口市立高校
+DESCRIPTION:出典：埼玉県高等学校体育連盟サッカー専門部（南部支部予選 組合せ／提供画像）\n会場記号：ウ／時刻区分：①（10:00）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-7b4cc005a169bbbe991c86f6a62f202784ab9f16@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】埼玉新人・南部支部予選 1回戦 上尾 vs 大宮工業
+LOCATION:大宮工業高校
+DESCRIPTION:出典：埼玉県高等学校体育連盟サッカー専門部（南部支部予選 組合せ／提供画像）\n会場記号：ス／時刻区分：①（10:00）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-dc7e305287c70c3a97b9ea6cc83f0e45e62ca92d@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】埼玉新人・南部支部予選 1回戦 蕨 vs 大宮
+LOCATION:大宮光陵高校
+DESCRIPTION:出典：埼玉県高等学校体育連盟サッカー専門部（南部支部予選 組合せ／提供画像）\n会場記号：シ／時刻区分：②（12:00）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-3e8e2e14bf3eb7e5b206f63fdb13f38c3d4bf0e9@okaidokudaze
+DTSTAMP:20260203T032549
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】埼玉新人・南部支部予選 1回戦 南稜 vs 岩槻
+LOCATION:南稜高校
+DESCRIPTION:出典：埼玉県高等学校体育連盟サッカー専門部（南部支部予選 組合せ／提供画像）\n会場記号：ク／時刻区分：①（10:00）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-6713014ad39442dab06fce089ba149e51eca4e99@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 1回戦 秩父農工科学 1-3 熊谷商
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-1f2583e83476282baad72e71822ac4e21a4f004d@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 1回戦 東農大三 6-1 熊谷農・児玉・桶川西
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-df454da1f599dbd52942b1b122c78ac533fdb9a9@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 1回戦 熊谷 0-1 小川
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-7b79b5e165fa763c5d9e47508d43473794207fcb@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 1回戦 深谷 0-2 松山
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-b4b90b5c4c7fed4cefe810e88b83a50a488e3b9a@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 1回戦 桶川 1-0 深谷商
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-d1dc3c25328ffe88bd2843466fb4ba1aab9e5d7c@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 1回戦 進修館 0-1 深谷一
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e57bad890de50cae37816334540526ce4ad29c9c@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 1回戦 本庄 2-4 寄居城北
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-4df02ee17ce82034118559665d845ee9a32b364a@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 1回戦 鴻巣 0-0 PK5-3 秩父
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-396dd1f51f80a5ea6fb4f1e238fc6530958e9dd7@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 2回戦 正智深谷 31-0 熊谷商
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-ae0d749e608e41dae7c47b478025e6c31aa64444@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 2回戦 東農大三 6-1 熊谷工
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-99655d4f5265ba45410497b64c0e9c38c9f98559@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 2回戦 北本 0-7 小川
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-b43c082d90eb49f664e255826ef43212a45d7523@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 2回戦 松山 0-5 本庄第一
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-18255e7a2f3d38b2598dabee5684652f551dff5b@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 2回戦 早大本庄 0-2 桶川
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-03f3e6171f4a54e34962d77034b4a380cf6627b4@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 2回戦 深谷一 1-3 本庄東
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-2f46504bea2a27b255afcfa982b340a397f07cd8@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 2回戦 滑川総合 2-0 寄居城北
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-005e86b4fbcb5f02410f109b5686d6c5c02818f0@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 2回戦 鴻巣 0-4 熊谷西
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-8f317840e0000a2a10835189d62b65d21daa0c19@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 準々決勝 正智深谷 9-0 東農大三
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-8a3c335cae510a18a7147e9ecec6ca5aaade5de3@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 準々決勝 小川 0-8 本庄第一
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-6f4a4d8c4f20bbcd1a2bbd72c5f8913b9c230b8b@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 準々決勝 桶川 2-1 本庄東
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-b3632aac334981b0cdb7ff146c96782fc9cafbe0@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 準々決勝 滑川総合 0-0 PK3-5 熊谷西
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e41dfe4604ab1dbcfb68aa4bbfa8b9c5b98cb187@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 準決勝 正智深谷 vs 本庄第一
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-256c59cd9184b71ac4c21361982361ab95ff947d@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:【関東-男子高校】埼玉新人・北部支部予選 準決勝 桶川 vs 熊谷西
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・北部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4265
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-dfa20c3f9983b1665581cf1b2738bfae4725d2e6@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 1回戦 春日部共栄 5-0 八潮南
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-2e27fa7f568e2283a6124b46639be98fd9d3f56d@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 1回戦 越谷西 6-2 蓮田松韻・幸手桜・白岡
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-2f149b03eccfc060d7c4e77fbe867d34fb840cf4@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 1回戦 草加南 0-3 春日部東
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-de9210153e8e17be27273549412b071ed2c90dfa@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 1回戦 草加東 1-0 開智未来
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-93bca88aed71ad407eb2ed96005f1e646cf1c0b4@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 1回戦 越谷総合技術・草加西・松伏 0-3 庄和
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-cd782c93cec91f8fc333af290f57e47ab196b47f@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 1回戦 越ヶ谷 0-3 栗橋北彩
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-1a3374d83c893f695a437225fa91fa9eaf6cac8b@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 1回戦 越谷北 1-6 叡明
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-48497ac75adbaefa4a35124bec82313eb598e3f6@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 1回戦 羽生実・久喜工 4-0 羽生一
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-d95f690ca3b9193857460b7d3e69fe780b9bf4ea@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 1回戦 越谷東 5-0 三郷・三郷工業技術
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-4be850b7c1b651e9a9fd744879db86cd3a1bbe70@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 1回戦 草加 0-1 久喜北陽
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-d4c5aef76c658eda5d566582ca36f2c48794b27c@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 1回戦 三郷北 7-0 鷲宮
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-8d80dccb760795e119b2651e165d9c49d03f7063@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 1回戦 宮代 0-1 杉戸
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-af49b704c77f97e07bdf517fda75e242727a4acb@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 1回戦 越谷南 2-8 獨協埼玉
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-2293f9814367b9a883ff784e2126d453f609f283@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 2回戦 花咲徳栄 7-0 春日部共栄
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5219be4a10fefa98cb2be2cfbf4f9b6fc1819f76@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 2回戦 越谷西 0-3 春日部東
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-de38f6fc13b0b7ac66d19885af7f7c128b9b3017@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 2回戦 草加東 0-0 PK4-5 庄和
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-dea5cf1d4760a2cf59c9eb822b38ed1d4d64ed24@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 2回戦 栗橋北彩 0-1 叡明
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-9c7daca545e16d7e5ebb828fc1c1134d0c6e7fa0@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 2回戦 春日部 7-0 羽生実・久喜工
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-baa74b6d22c7d610809a8c913a3788d7ca9e8995@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 2回戦 越谷東 2-1 久喜北陽
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-113d5ac1c079a70f40fed897da7318b993cec7dc@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 2回戦 三郷北 4-0 杉戸
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-ad185530adc51eb1586894d4d87b0956268aa1f6@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 2回戦 獨協埼玉 3-0 不動岡
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-21080b0fcd8c0a5ef01ec5ead0983595c78bfe83@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 準々決勝 花咲徳栄 1-0 春日部東
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-ebe6d7d9a94e9ff6c681e33589fb32895dfc0fde@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 準々決勝 庄和 2-1 叡明
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-6c7120a95869d6c38ecd5c9ad028a2d043ab9a27@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 準々決勝 春日部 3-0 久喜北陽
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-2eff96be803c6d3d443cf1ad4e51e4f3437a9a34@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 準々決勝 三郷北 0-0 PK2-4 獨協埼玉
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-03406aa188d64a39a0ea782af4f377cdc1ca3acb@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 5位決定戦 春日部東 0-1 叡明
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-a6941572a7bb2052abe6e341e56d9b8a16cfb936@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 5位決定戦 越谷東 3-2 三郷北
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-fdd07fcc12d9dcfaefeedf420645898e8ea3c280@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 準決勝 花咲徳栄 4-1 庄和
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-b7d2d779dc66bae9928c15b16882b4c7e0bcc3f0@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 準決勝 春日部 3-1 獨協埼玉
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-57cfdc976c5390a75d61d9fbcd41e68ec9373af6@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 3位決定戦 獨協埼玉 2-0 庄和
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-506c1ce289a4c7aa8be2820d2024237b14631505@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:【関東-男子高校】埼玉新人・東部支部予選 決勝 花咲徳栄 3-0 春日部
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・東部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4266
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5ce10043e16c0dd409d92cf4b32bba98ac045627@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 1回戦 富士見 0-5 豊岡
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-ce6f75d371b861381a2c9f10966951bfc5da50aa@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 1回戦 和光国際 0-1 入間向陽
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-8768ef0e8febd3918306af37485807767866bc27@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 1回戦 ふじみ野 1-0 山村学園
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-84caff2e802bfa63af9be255257c07b8d43e131b@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 1回戦 山村国際 4-0 鶴ヶ島清風
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-381340375eb3dc202a1db757aa163c0b67490535@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 1回戦 新座柳瀬 0-2 川越工
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-1c135b1df9b2a62f17d0e5337afdd9085e057bf1@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 1回戦 自由の森学園 0-1 星野
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-b84b6cf6ef8b4e05fa99ff2ad2f6063ddc726e40@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 1回戦 志木 1-5 所沢
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-fc4012e56fce8903f758f75b0731c533d2cb7d8b@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 1回戦 盈進東野 3-0 川越南
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-d71a7f393b418bb356c50b8d9ce67caf86c54283@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 2回戦 埼玉平成 4-1 豊岡
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-dc2bfcca8f1756c914cdde7133b78b7a0d8aed0f@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 2回戦 狭山工 0-4 飯能
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-3f7535227eb15c19585e1fbf8d9f7cabd39ce61a@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 2回戦 朝霞 0-1 所沢中央
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-4d7ebe3896fe5233d48e453b5bed005cf7446214@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 2回戦 入間向陽 1-1 PK3-1 城西大川越
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-707e2abaf64fe74dfc160f51f72ad370c7b36aef@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 2回戦 立教新座 0-0 PK3-0 ふじみ野
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-7dc778921c814ddeba809c209980e2ba2c096a5e@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 2回戦 所沢商・日高・狭山清陵 0-13 狭山ヶ丘
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-803bb0b8884f8272bbf6735d24542105dcf4a794@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 2回戦 坂戸西 4-0 城北埼玉
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5b72a31497737f525c0b9b944c4320ec7fd2b59a@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 2回戦 山村国際 0-2 武蔵越生
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c28c5b5c453d9cc6d5724b85a9be5de59a45f439@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 2回戦 朝霞西 11-0 川越工
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5d171fb6c9bb03f9d077945e8106c0f4724ca80e@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 2回戦 新座総合技術 0-7 秀明
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-dc84a5d1590075b494ca532d0714b5ae4f755033@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 2回戦 慶應志木 5-0 川越西
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-43a0ded05e047c0dc56e059c89a264b821e9505e@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 2回戦 星野 0-3 県立川越
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-15ca8383765a5d371064a66f066c6b26c8cd311a@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 2回戦 坂戸 1-0 所沢
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-03e63090e7836330e897a43e203cf9c9ce19e24d@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 2回戦 所沢北 1-0 川越東
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-2390c02f29bd5ea6c158794b3832b73f575227b1@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 2回戦 所沢西 2-0 市立川越・川越初雁・越生
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-cdae452129f30306456ae4f66a020b3a05f96e61@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 2回戦 盈進東野 0-3 西武文理
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-d62b4c790aaf0656225df62a6887dbc5d9d962ce@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 3回戦 埼玉平成 4-0 飯能
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-a6fb54bb656ca3e551c56fca5c261d1312aa98dc@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 3回戦 所沢中央 2-1 入間向陽
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-47bcbc46e05ab70b54ea0ff3522d6265849b6adc@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 3回戦 立教新座 3-0 狭山ヶ丘
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-3b1bebe879f82985eab1fbdfa921e7680070cd9e@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 3回戦 坂戸西 0-1 武蔵越生
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-af846096173764a2a8a26686860c4ef9e447d037@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 3回戦 朝霞西 4-0 秀明
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5961666e1395337c2691b981a2e263a503c75339@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 3回戦 慶應志木 1-1 PK7-8 県立川越
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e58133e1bcf376ca496265c9e0700ff66c7712f2@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 3回戦 坂戸 0-1 所沢北
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-995d2e5bf7fe30026c6a6d0c3a496a67a89e5073@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 3回戦 所沢西 0-9 西武文理
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5967d2a3c2c1bdf99ba469aaf3891d39e4625862@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 準々決勝 埼玉平成 6-0 所沢中央
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-78c4cc7e05f701bb15870c5ab164a79b928a770f@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 準々決勝 立教新座 1-0 武蔵越生
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-bb2069138788b2c70305d553541dfd29987768e5@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 準々決勝 朝霞西 1-2 県立川越
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-253d2ad0d463e22bfe53dc675050f0567c02038b@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 準々決勝 所沢北 0-2 西武文理
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-bee3600b3ca4fc48f0c51cd64bb6b530d8b707e3@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 準決勝 埼玉平成 0-2 立教新座
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e15815ef6e44756f65bb27bf65ac05a2ad4cfdf2@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 準決勝 県立川越 0-1 西武文理
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-69b30a0a04cadfcc15973dae4ec2d52be63ddc7d@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 5位決定戦 所沢中央 2-6 武蔵越生
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-f55d343826305ef7736d7c6e331904ff6bb0f920@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 5位決定戦 朝霞西 0-1 所沢北
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-f1a14b1ff58c340cf2ca749e21a3d0237969f0e9@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 3位決定戦 埼玉平成 3-0 県立川越
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c0ee80a195ccba473fa481fac33f7e464b312fef@okaidokudaze
+DTSTAMP:20260203T034645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:【関東-男子高校】埼玉新人・西部支部予選 決勝 立教新座 0-0 PK5-6 西武文理
+LOCATION:会場不明（埼玉県）
+DESCRIPTION:出典：高校サッカードットコム（埼玉新人・西部支部予選 大会日程・結果）\\nhttps://koko-soccer.com/score/4263
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-d33551384b853419c4eef2279982933838cf3947@okaidokudaze
+DTSTAMP:20260203T125008
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:【関東-男子高校】東京新人(第3地区) 3回戦 都立北園 0-3 早稲田
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典：高校サッカードットコム（令和7年度東京新人戦 第3地区 大会日程・結果）\nhttps://koko-soccer.com/score/4211
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-ebe88ff846dc0a3b510602484dfdf616259820d8@okaidokudaze
+DTSTAMP:20260203T125008
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:【関東-男子高校】東京新人(第3地区) 3回戦 青山学院 1-1(PK2-4) 岩倉
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典：高校サッカードットコム（令和7年度東京新人戦 第3地区 大会日程・結果）\nhttps://koko-soccer.com/score/4211
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-40d806a57ebdc320f8b9dc3008ddbede46d475c3@okaidokudaze
+DTSTAMP:20260203T125008
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:【関東-男子高校】東京新人(第3地区) 3回戦 海城 3-0 武蔵野
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典：高校サッカードットコム（令和7年度東京新人戦 第3地区 大会日程・結果）\nhttps://koko-soccer.com/score/4211
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5ba6e98d9f5e10bd2fb2d8a203876a77ae9332a5@okaidokudaze
+DTSTAMP:20260203T125008
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:【関東-男子高校】東京新人(第3地区) 3回戦 都立戸山 0-2 東京成徳大高
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典：高校サッカードットコム（令和7年度東京新人戦 第3地区 大会日程・結果）\nhttps://koko-soccer.com/score/4211
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-7b81e76babdba89a53b11d7a9ce683165e057da9@okaidokudaze
+DTSTAMP:20260203T125008
+DTSTART;VALUE=DATE:20251207
+DTEND;VALUE=DATE:20251208
+SUMMARY:【関東-男子高校】東京新人(第3地区) 3回戦 成城 5-0 都立新宿
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典：高校サッカードットコム（令和7年度東京新人戦 第3地区 大会日程・結果）\nhttps://koko-soccer.com/score/4211
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c588fdea4a95d06a963792d5c41ad0361630fec7@okaidokudaze
+DTSTAMP:20260203T125008
+DTSTART;VALUE=DATE:20251207
+DTEND;VALUE=DATE:20251208
+SUMMARY:【関東-男子高校】東京新人(第3地区) 3回戦 城北 2-0 都立青山
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典：高校サッカードットコム（令和7年度東京新人戦 第3地区 大会日程・結果）\nhttps://koko-soccer.com/score/4211
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c6a2dfc3b059b3972daec8ca3d758a482cf90ff6@okaidokudaze
+DTSTAMP:20260203T125008
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:【関東-男子高校】東京新人(第3地区) 3回戦 都立高島 2-1 保善
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典：高校サッカードットコム（令和7年度東京新人戦 第3地区 大会日程・結果）\nhttps://koko-soccer.com/score/4211
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-d456333d0f3cddd3350154db621e2497712cfaa7@okaidokudaze
+DTSTAMP:20260203T125008
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:【関東-男子高校】東京新人(第3地区) 3回戦 目白研心 1-2 駿台学園
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典：高校サッカードットコム（令和7年度東京新人戦 第3地区 大会日程・結果）\nhttps://koko-soccer.com/score/4211
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c224622a80683db71223de8eae6e30d692763d5c@okaidokudaze
+DTSTAMP:20260203T125008
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:【関東-男子高校】東京新人(第3地区) 準々決勝 早稲田 vs 岩倉
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典：高校サッカードットコム（令和7年度東京新人戦 第3地区 大会日程・結果）\nhttps://koko-soccer.com/score/4211\nKO時刻不明（終日登録）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-73aac3ae0641940846e4d26cf57d9e09e526bdb5@okaidokudaze
+DTSTAMP:20260203T125008
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:【関東-男子高校】東京新人(第3地区) 準々決勝 海城 vs 東京成徳大高
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典：高校サッカードットコム（令和7年度東京新人戦 第3地区 大会日程・結果）\nhttps://koko-soccer.com/score/4211\nKO時刻不明（終日登録）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-56cddece86c510377015e68ab13ee8549b9a356e@okaidokudaze
+DTSTAMP:20260203T125008
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:【関東-男子高校】東京新人(第3地区) 準々決勝 成城 vs 都立高島/保善
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典：高校サッカードットコム（令和7年度東京新人戦 第3地区 大会日程・結果）\nhttps://koko-soccer.com/score/4211\nKO時刻不明（終日登録）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-9f10ed356f1c46155c5a332299f36542f517eac4@okaidokudaze
+DTSTAMP:20260203T125008
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:【関東-男子高校】東京新人(第3地区) 準々決勝 城北 vs 目白研心/駿台学園
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典：高校サッカードットコム（令和7年度東京新人戦 第3地区 大会日程・結果）\nhttps://koko-soccer.com/score/4211\nKO時刻不明（終日登録）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-757003243d78762113a94bd325e826f07a1e5e5a@okaidokudaze
+DTSTAMP:20260203T125008
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:【関東-男子高校】東京新人(第3地区) 準決勝 早稲田/岩倉 vs 海城/東京成徳大高
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典：高校サッカードットコム（令和7年度東京新人戦 第3地区 大会日程・結果）\nhttps://koko-soccer.com/score/4211\nKO時刻不明（終日登録）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-3121c547aff4560876614478fc1d952638ec1434@okaidokudaze
+DTSTAMP:20260203T125008
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:【関東-男子高校】東京新人(第1地区) 準々決勝 都立南葛飾 vs 都立墨田川
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典：高校サッカードットコム（令和7年度東京新人戦 第1地区 大会日程・結果）\nhttps://koko-soccer.com/score/4213\nKO時刻不明（終日登録）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-8198d7d5b493a017ebf1e3d9c8e19380e9ca043c@okaidokudaze
+DTSTAMP:20260203T125008
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:【関東-男子高校】東京新人(第1地区) 準々決勝 都立東 vs 都立深川
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典：高校サッカードットコム（令和7年度東京新人戦 第1地区 大会日程・結果）\nhttps://koko-soccer.com/score/4213\nKO時刻不明（終日登録）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-0616f93536fc8983ad8201fe2deb3393fc24fea3@okaidokudaze
+DTSTAMP:20260203T125008
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:【関東-男子高校】東京新人(第1地区) 準々決勝 都立城東 vs 都立紅葉川
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典：高校サッカードットコム（令和7年度東京新人戦 第1地区 大会日程・結果）\nhttps://koko-soccer.com/score/4213\nKO時刻不明（終日登録）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5cd1de57a77d049f984ef1653206caca48219b66@okaidokudaze
+DTSTAMP:20260203T125008
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:【関東-男子高校】東京新人(第1地区) 準々決勝 開成 vs かえつ有明
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典：高校サッカードットコム（令和7年度東京新人戦 第1地区 大会日程・結果）\nhttps://koko-soccer.com/score/4213\nKO時刻不明（終日登録）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-1eb7d8df6a68f0f68e2e22f235940a570be4a85a@okaidokudaze
+DTSTAMP:20260203T125008
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:【関東-男子高校】東京新人(第1地区) 準決勝 都立南葛飾/都立墨田川 vs 都立東/都立深川
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典：高校サッカードットコム（令和7年度東京新人戦 第1地区 大会日程・結果）\nhttps://koko-soccer.com/score/4213\nKO時刻不明（終日登録）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5476ccfa12395405e3629c7c7ab45894fcf0c9ec@okaidokudaze
+DTSTAMP:20260203T125008
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:【関東-男子高校】東京新人(第1地区) 準決勝 都立城東/都立紅葉川 vs 開成/かえつ有明
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典：高校サッカードットコム（令和7年度東京新人戦 第1地区 大会日程・結果）\nhttps://koko-soccer.com/score/4213\nKO時刻不明（終日登録）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-2177d2ea54408f7ca5604668188abb737083a079@okaidokudaze
+DTSTAMP:20260203T125418
+DTSTART;TZID=Asia/Tokyo:20260208T093000
+DTEND;TZID=Asia/Tokyo:20260208T113000
+SUMMARY:【関東-男子高校】東京 第2地区 新人戦 準決勝(1)（対戦未定）
+LOCATION:日大豊山中台グランド
+DESCRIPTION:出典：東京都高体連サッカー専門部 第2地区 新人戦トーナメント表（PDF）\nhttps://tokyosoccer-u18.com/SINJ25/sinj25_2.pdf\n対戦カードはトーナメント表上の枠に基づく（対戦校が確定したら更新）。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-0a300f3ff47755c8b6372b317cc7ea3e21b53649@okaidokudaze
+DTSTAMP:20260203T125418
+DTSTART;TZID=Asia/Tokyo:20260208T113000
+DTEND;TZID=Asia/Tokyo:20260208T133000
+SUMMARY:【関東-男子高校】東京 第2地区 新人戦 準決勝(2)（対戦未定）
+LOCATION:日大豊山中台グランド
+DESCRIPTION:出典：東京都高体連サッカー専門部 第2地区 新人戦トーナメント表（PDF）\nhttps://tokyosoccer-u18.com/SINJ25/sinj25_2.pdf\n対戦カードはトーナメント表上の枠に基づく（対戦校が確定したら更新）。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-8ddd55383bdb231216b4abd7807ef6fb43796931@okaidokudaze
+DTSTAMP:20260203T125418
+DTSTART;TZID=Asia/Tokyo:20260215T120000
+DTEND;TZID=Asia/Tokyo:20260215T140000
+SUMMARY:【関東-男子高校】東京 第2地区 新人戦 3位決定戦（対戦未定）
+LOCATION:学習院高等科グラウンド
+DESCRIPTION:出典：東京都高体連サッカー専門部 第2地区 新人戦トーナメント表（PDF）\nhttps://tokyosoccer-u18.com/SINJ25/sinj25_2.pdf\n対戦カードはトーナメント表上の枠に基づく（対戦校が確定したら更新）。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-a16c43a1e7b9e0fb7b33bf5ac1ab810304c4fad1@okaidokudaze
+DTSTAMP:20260203T125418
+DTSTART;TZID=Asia/Tokyo:20260215T140000
+DTEND;TZID=Asia/Tokyo:20260215T160000
+SUMMARY:【関東-男子高校】東京 第2地区 新人戦 決勝（対戦未定）
+LOCATION:学習院高等科グラウンド
+DESCRIPTION:出典：東京都高体連サッカー専門部 第2地区 新人戦トーナメント表（PDF）\nhttps://tokyosoccer-u18.com/SINJ25/sinj25_2.pdf\n対戦カードはトーナメント表上の枠に基づく（対戦校が確定したら更新）。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-a039a3afb48283177cf9f2c5057fef726290f777@okaidokudaze
+DTSTAMP:20260203T125418
+DTSTART;TZID=Asia/Tokyo:20260215T100000
+DTEND;TZID=Asia/Tokyo:20260215T120000
+SUMMARY:【関東-男子高校】東京 第4地区 新人戦 準決勝(1)（対戦未定）
+LOCATION:東海大高輪台総合グラウンド
+DESCRIPTION:出典：東京都高体連サッカー専門部 第4地区 新人戦トーナメント表（PDF）\nhttps://tokyosoccer-u18.com/SINJ25/sinj25_4.pdf\n対戦カードはトーナメント表上の枠に基づく（対戦校が確定したら更新）。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-cf4bce67f486cbfa8db761474e33f0a7fcfa9dd0@okaidokudaze
+DTSTAMP:20260203T125418
+DTSTART;TZID=Asia/Tokyo:20260215T123000
+DTEND;TZID=Asia/Tokyo:20260215T143000
+SUMMARY:【関東-男子高校】東京 第4地区 新人戦 準決勝(2)（対戦未定）
+LOCATION:東海大高輪台総合グラウンド
+DESCRIPTION:出典：東京都高体連サッカー専門部 第4地区 新人戦トーナメント表（PDF）\nhttps://tokyosoccer-u18.com/SINJ25/sinj25_4.pdf\n対戦カードはトーナメント表上の枠に基づく（対戦校が確定したら更新）。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-da5406e4f18aa50e8c7fa309512fdf588d8c6216@okaidokudaze
+DTSTAMP:20260203T125418
+DTSTART;TZID=Asia/Tokyo:20260223T100000
+DTEND;TZID=Asia/Tokyo:20260223T120000
+SUMMARY:【関東-男子高校】東京 第4地区 新人戦 3位決定戦（対戦未定）
+LOCATION:清瀬内山運動公園サッカー場（C面）
+DESCRIPTION:出典：東京都高体連サッカー専門部 第4地区 新人戦トーナメント表（PDF）\nhttps://tokyosoccer-u18.com/SINJ25/sinj25_4.pdf\n対戦カードはトーナメント表上の枠に基づく（対戦校が確定したら更新）。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5b822e637f3e19c36ed8c5aba594131d4adea025@okaidokudaze
+DTSTAMP:20260203T125418
+DTSTART;TZID=Asia/Tokyo:20260223T120000
+DTEND;TZID=Asia/Tokyo:20260223T140000
+SUMMARY:【関東-男子高校】東京 第4地区 新人戦 決勝（対戦未定）
+LOCATION:清瀬内山運動公園サッカー場（C面）
+DESCRIPTION:出典：東京都高体連サッカー専門部 第4地区 新人戦トーナメント表（PDF）\nhttps://tokyosoccer-u18.com/SINJ25/sinj25_4.pdf\n対戦カードはトーナメント表上の枠に基づく（対戦校が確定したら更新）。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-74f3d07ec9fc0205a343748fe3d920f8b164dd56@okaidokudaze
+DTSTAMP:20260203T125418
+DTSTART;TZID=Asia/Tokyo:20260215T090000
+DTEND;TZID=Asia/Tokyo:20260215T110000
+SUMMARY:【関東-男子高校】東京 第7地区 新人戦 準決勝(1)（対戦未定）
+LOCATION:都立国立高校グラウンド
+DESCRIPTION:出典：東京都高体連サッカー専門部 第7地区 新人戦トーナメント表（PDF）\nhttps://tokyosoccer-u18.com/SINJ25/sinj25_7.pdf\nPDF内の会場コード（国/片）と時刻表記に基づき登録。対戦校・正式日程が確定したら更新。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-546cacb0c3e75ddb5aa2ff3814babba4321fbaf1@okaidokudaze
+DTSTAMP:20260203T125418
+DTSTART;TZID=Asia/Tokyo:20260215T110000
+DTEND;TZID=Asia/Tokyo:20260215T130000
+SUMMARY:【関東-男子高校】東京 第7地区 新人戦 準決勝(2)（対戦未定）
+LOCATION:都立国立高校グラウンド
+DESCRIPTION:出典：東京都高体連サッカー専門部 第7地区 新人戦トーナメント表（PDF）\nhttps://tokyosoccer-u18.com/SINJ25/sinj25_7.pdf\nPDF内の会場コード（国/片）と時刻表記に基づき登録。対戦校・正式日程が確定したら更新。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-f09aee74b3ffa9e36bad48ba25c730e6d96ef643@okaidokudaze
+DTSTAMP:20260203T125418
+DTSTART;TZID=Asia/Tokyo:20260215T123000
+DTEND;TZID=Asia/Tokyo:20260215T143000
+SUMMARY:【関東-男子高校】東京 第7地区 新人戦 3位決定戦(予定)（対戦未定）
+LOCATION:都立片倉高校グラウンド
+DESCRIPTION:出典：東京都高体連サッカー専門部 第7地区 新人戦トーナメント表（PDF）\nhttps://tokyosoccer-u18.com/SINJ25/sinj25_7.pdf\nPDF内の会場コード（国/片）と時刻表記に基づき登録。対戦校・正式日程が確定したら更新。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-61b18b0bb6e8708a6e04954d4a0f69d1d3a8fd60@okaidokudaze
+DTSTAMP:20260203T125418
+DTSTART;TZID=Asia/Tokyo:20260215T143000
+DTEND;TZID=Asia/Tokyo:20260215T163000
+SUMMARY:【関東-男子高校】東京 第7地区 新人戦 決勝(予定)（対戦未定）
+LOCATION:都立片倉高校グラウンド
+DESCRIPTION:出典：東京都高体連サッカー専門部 第7地区 新人戦トーナメント表（PDF）\nhttps://tokyosoccer-u18.com/SINJ25/sinj25_7.pdf\nPDF内の会場コード（国/片）と時刻表記に基づき登録。対戦校・正式日程が確定したら更新。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-51999fc9bed8533b39d993b749603aa25e28c32c@okaidokudaze
+DTSTAMP:20260203T125418
+DTSTART;TZID=Asia/Tokyo:20260208T093000
+DTEND;TZID=Asia/Tokyo:20260208T113000
+SUMMARY:【関東-男子高校】東京 第8地区 新人戦 準々決勝(菅生①)（対戦未定）
+LOCATION:東海大学菅生高校グラウンド
+DESCRIPTION:出典：東京都高体連サッカー専門部 第8地区 新人戦トーナメント表（PDF）\nhttps://tokyosoccer-u18.com/SINJ25/sinj25_8.pdf\nPDF内の会場コード（菅/拓）と時刻表記に基づき登録。対戦校が確定したら更新。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5180ec4138065f1978884c355412044f486d2d27@okaidokudaze
+DTSTAMP:20260203T125418
+DTSTART;TZID=Asia/Tokyo:20260208T093000
+DTEND;TZID=Asia/Tokyo:20260208T113000
+SUMMARY:【関東-男子高校】東京 第8地区 新人戦 準々決勝(拓大一①)（対戦未定）
+LOCATION:拓殖大学第一高校グラウンド
+DESCRIPTION:出典：東京都高体連サッカー専門部 第8地区 新人戦トーナメント表（PDF）\nhttps://tokyosoccer-u18.com/SINJ25/sinj25_8.pdf\nPDF内の会場コード（菅/拓）と時刻表記に基づき登録。対戦校が確定したら更新。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-f969c42bd39b93683299eb2214f53c7b0be9d83e@okaidokudaze
+DTSTAMP:20260203T125418
+DTSTART;TZID=Asia/Tokyo:20260208T113000
+DTEND;TZID=Asia/Tokyo:20260208T133000
+SUMMARY:【関東-男子高校】東京 第8地区 新人戦 準々決勝(菅生②)（対戦未定）
+LOCATION:東海大学菅生高校グラウンド
+DESCRIPTION:出典：東京都高体連サッカー専門部 第8地区 新人戦トーナメント表（PDF）\nhttps://tokyosoccer-u18.com/SINJ25/sinj25_8.pdf\nPDF内の会場コード（菅/拓）と時刻表記に基づき登録。対戦校が確定したら更新。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-81c8e9b202134edcf6d325a0f65d860018728277@okaidokudaze
+DTSTAMP:20260203T125418
+DTSTART;TZID=Asia/Tokyo:20260208T113000
+DTEND;TZID=Asia/Tokyo:20260208T133000
+SUMMARY:【関東-男子高校】東京 第8地区 新人戦 準々決勝(拓大一②)（対戦未定）
+LOCATION:拓殖大学第一高校グラウンド
+DESCRIPTION:出典：東京都高体連サッカー専門部 第8地区 新人戦トーナメント表（PDF）\nhttps://tokyosoccer-u18.com/SINJ25/sinj25_8.pdf\nPDF内の会場コード（菅/拓）と時刻表記に基づき登録。対戦校が確定したら更新。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-6ba11444239c2a33289ba44156a41367523bc37b@okaidokudaze
+DTSTAMP:20260203T040254Z
+DTSTART;TZID=Asia/Tokyo:20260201T100000
+DTEND;TZID=Asia/Tokyo:20260201T120000
+SUMMARY:【関東-男子高校】千葉新人 県大会ブロック決勝 中央学院 vs 検見川
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4245\nスコア: 中央学院 2-0 検見川\n会場: ページ内に記載なし（千葉県内）
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5896818dbf1e09b2e15acc699ba5da840f4e9d54@okaidokudaze
+DTSTAMP:20260203T040254Z
+DTSTART;TZID=Asia/Tokyo:20260201T100000
+DTEND;TZID=Asia/Tokyo:20260201T120000
+SUMMARY:【関東-男子高校】千葉新人 県大会ブロック決勝 東京学館浦安 vs 市立柏
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4245\nスコア: 東京学館浦安 4-1 市立柏\n会場: ページ内に記載なし（千葉県内）
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-10a2848a1629f715f0f03c5450aef7e211189632@okaidokudaze
+DTSTAMP:20260203T040254Z
+DTSTART;TZID=Asia/Tokyo:20260201T100000
+DTEND;TZID=Asia/Tokyo:20260201T120000
+SUMMARY:【関東-男子高校】千葉新人 県大会ブロック決勝 習志野 vs 翔凜
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4245\nスコア: 習志野 3-0 翔凜\n会場: ページ内に記載なし（千葉県内）
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-2df31ab18aa424dffbdf2a5f3e6371d31da931f4@okaidokudaze
+DTSTAMP:20260203T040254Z
+DTSTART;TZID=Asia/Tokyo:20260201T100000
+DTEND;TZID=Asia/Tokyo:20260201T120000
+SUMMARY:【関東-男子高校】千葉新人 県大会ブロック決勝 暁星国際 vs 敬愛学園
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4245\nスコア: 暁星国際 0-0 PK 5-3 敬愛学園\n会場: ページ内に記載なし（千葉県内）
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-674b8eefa63d5c4306a53851b7b82fc2fb563f91@okaidokudaze
+DTSTAMP:20260203T040254Z
+DTSTART;TZID=Asia/Tokyo:20260201T120000
+DTEND;TZID=Asia/Tokyo:20260201T140000
+SUMMARY:【関東-男子高校】千葉新人 県大会ブロック決勝 八千代 vs 八千代松陰
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4245\nスコア: 八千代 3-2 八千代松陰\n会場: ページ内に記載なし（千葉県内）
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-360580af5012e6a3ce5e7fdffef427021c7e9288@okaidokudaze
+DTSTAMP:20260203T040254Z
+DTSTART;TZID=Asia/Tokyo:20260201T120000
+DTEND;TZID=Asia/Tokyo:20260201T140000
+SUMMARY:【関東-男子高校】千葉新人 県大会ブロック決勝 白井 vs 拓大紅陵
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4245\nスコア: 白井 1-0 拓大紅陵\n会場: ページ内に記載なし（千葉県内）
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-0a607a3ddec7940f85f72d360e05fc2f89946961@okaidokudaze
+DTSTAMP:20260203T040254Z
+DTSTART;TZID=Asia/Tokyo:20260201T120000
+DTEND;TZID=Asia/Tokyo:20260201T140000
+SUMMARY:【関東-男子高校】千葉新人 県大会ブロック決勝 専大松戸 vs 市川
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4245\nスコア: 専大松戸 3-0 市川\n会場: ページ内に記載なし（千葉県内）
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-4a4e58e37d1ef3b4c124d7b246dbca212c90d72c@okaidokudaze
+DTSTAMP:20260203T040254Z
+DTSTART;TZID=Asia/Tokyo:20260201T120000
+DTEND;TZID=Asia/Tokyo:20260201T140000
+SUMMARY:【関東-男子高校】千葉新人 県大会ブロック決勝 東京学館 vs 千葉敬愛
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4245\nスコア: 東京学館 1-0 千葉敬愛\n会場: ページ内に記載なし（千葉県内）
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-4f56286e65b7b7983674c561b48fb98b7adbcd08@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】千葉新人戦 1回戦 県立柏 vs 千葉南
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：県立柏 2-1 千葉南\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-905ff74d72e89fe34b57ee8f0f5f09e8d12f4971@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】千葉新人戦 1回戦 袖ヶ浦 vs 幕張総合
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：袖ヶ浦 2-4 幕張総合\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-9223693256011493bb467b42f1bff44541454471@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】千葉新人戦 1回戦 成田国際 vs 柏陵
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：成田国際 0-3 柏陵\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c408fe9f0961aa75f5eb8bbc2685c82a392e7b4c@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】千葉新人戦 1回戦 市川 vs 我孫子
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：市川 4-0 我孫子\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c3cb796e692bcd9d3b24feefb6571610bc95609e@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】千葉新人戦 1回戦 船橋東 vs 市立千葉
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：船橋東 4-0 市立千葉\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-138133847b63bbaa6dd19b051c6308a7e2e4daca@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】千葉新人戦 1回戦 君津 vs 姉崎
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：君津 3-1 姉崎\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-51a730a32898022e1544a962e4bbddc13700d36d@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】千葉新人戦 1回戦 西武台千葉 vs 成田
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：西武台千葉 1-1 成田（PK 5-4）\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-9e8af36db294b8a0080c9c27d25eb7db06cb7bd1@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】千葉新人戦 1回戦 千城台 vs 木更津
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：千城台 1-0 木更津\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-eae7c02af4a79f3a3e2e1cae263c90736547ffdd@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】千葉新人戦 1回戦 佐原白楊 vs 県立船橋
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：佐原白楊 0-6 県立船橋\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-eae567e90fed6a8e22400962400acbc5e29c1eb3@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】千葉新人戦 1回戦 国府台 vs 四街道
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：国府台 2-0 四街道\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-191f43e0f7a14e6da3261ffe02c1e69d57dfcc85@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】千葉新人戦 1回戦 柏井 vs 長生
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：柏井 4-1 長生\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c329694f9f3286dd0258371e1edfe3a3e0a19bfd@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】千葉新人戦 1回戦 日大習志野 vs 柏の葉
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：日大習志野 2-3 柏の葉\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-3cfc76ab140aeba0069808398cf0ebf5f13b43ed@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】千葉新人戦 1回戦 佐原 vs 小金
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：佐原 2-3 小金\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-3bd896f672bf8cf080ca5b36ec544847a49a17c3@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】千葉新人戦 1回戦 薬園台 vs 四街道北
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：薬園台 4-0 四街道北\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-514e31fc70ed103cc027ed7d217ed425350778f9@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260117T140000
+DTEND;TZID=Asia/Tokyo:20260117T160000
+SUMMARY:【関東-男子高校】千葉新人戦 1回戦 船橋二和 vs 茂原・東金商
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：船橋二和 3-1 茂原・東金商\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e0bfb79c564d270d217ee95c933089d521420f81@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260117T140000
+DTEND;TZID=Asia/Tokyo:20260117T160000
+SUMMARY:【関東-男子高校】千葉新人戦 1回戦 八千代東 vs 千葉商大付
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：八千代東 0-3 千葉商大付\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-84dced4d9bbb9ac19d947a6c6151c408c3244ab6@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T093000
+DTEND;TZID=Asia/Tokyo:20260124T113000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 千葉明徳 vs 船橋啓明
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：千葉明徳 7-0 船橋啓明\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-a0d28f855520be7bdb08e7773f753402c8e8df08@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T093000
+DTEND;TZID=Asia/Tokyo:20260124T113000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 検見川 vs 磯辺
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：検見川 6-0 磯辺\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-30dbfd41c1cd0698b5ef8bbee922e83b9385f459@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T093000
+DTEND;TZID=Asia/Tokyo:20260124T113000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 暁星国際 vs 薬園台
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：暁星国際 6-0 薬園台\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-2e50b036df8266ca9fcb1ea63951d8cda596e62b@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 八千代 vs 県立柏
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：八千代 11-0 県立柏\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-6f04e9e1e1f93fac5d9277335869b84fb1f8ba27@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 行徳 vs 東京学館船橋
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：行徳 0-1 東京学館船橋\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-2004052b19fb001869ea8836c1ac6f0842e9b533@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 中央学院 vs 船橋二和
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：中央学院 10-0 船橋二和\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-371c8df49554a1ed028af016d825783db180116b@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 八千代松陰 vs 成東
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：八千代松陰 4-0 成東\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-75c69ad50ac998188cc2a1800b7325a9c4de1b7b@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 幕張総合 vs 茂原北陵
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：幕張総合 0-0 茂原北陵（PK 2-4）\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e9678926d5377fdadb26ac03d4d442b7e970cd41@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 白井 vs 船橋東
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：白井 3-0 船橋東\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5631afd21726e08558754b38437465b60703716f@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 君津 vs 拓大紅陵
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：君津 0-1 拓大紅陵\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-ffee31cb95c8fb0a4ac56a2cf0fcaa08335645be@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 東京学館浦安 vs 西武台千葉
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：東京学館浦安 2-0 西武台千葉\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e86977bf006a27f392c8bba9a42a111e0ab6326e@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 千葉経大附 vs 市原八幡
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：千葉経大附 0-0 市原八幡（PK 5-3）\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-1dfc1738690cc1aa6627d4b19e7dcc93ca9debf9@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 市立柏 vs 佐倉
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：市立柏 7-1 佐倉\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e7b541f486ab4fed39fbe26464bd6245213f3bff@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 千城台 vs 市立松戸
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：千城台 1-3 市立松戸\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-220ecda95755fdb8157e65aef33ced4baf3a8140@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 習志野 vs 小金
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：習志野 4-0 小金\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-611b6d93e51bc17e5092e22099693cf3d5b9c3d9@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 東京学館 vs 県立船橋
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：東京学館 2-0 県立船橋\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-4d06c0ae192aced7a40b3fb8fcb9e424df429572@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T113000
+DTEND;TZID=Asia/Tokyo:20260124T133000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 東海大望洋 vs 市川昴
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：東海大望洋 2-1 市川昴\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-60ef3a53be18cf596358cb85efa611abbb92b7cb@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T113000
+DTEND;TZID=Asia/Tokyo:20260124T133000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 千葉商大付 vs 翔凜
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：千葉商大付 0-2 翔凜\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-3b5594297d5d85eaaa559b118f8f21465890a753@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T113000
+DTEND;TZID=Asia/Tokyo:20260124T133000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 国分 vs 県立千葉
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：国分 0-1 県立千葉\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-a016b0cd95811e250a0096fe338973c37c548735@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 千葉日大一 vs 東海大浦安
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：千葉日大一 0-1 東海大浦安\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-dd42417ba0767b2c199036897e3cb700b58e2597@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 木更津総合 vs 千葉黎明
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：木更津総合 1-0 千葉黎明\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5ab636ff24e794297eeb6650bc57fb997ffc6c7d@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 専大松戸 vs 柏井
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：専大松戸 4-0 柏井\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c540359e85d1cf5633e00fe1feb5746594056b5d@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 東邦大東邦 vs 二松学舎柏
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：東邦大東邦 2-0 二松学舎柏\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-1c7aba077d9d1a34b84d92644eb67b204f4db309@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 市川 vs 柏南
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：市川 1-0 柏南\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-86d065050a84167f9e4544b7ec858a7217e26dcc@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 渋谷幕張 vs 芝浦工大柏
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：渋谷幕張 3-2 芝浦工大柏\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e5aedcc6b79bca4ca4a69b088905e033d4bca046@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 市原中央 vs 柏中央
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：市原中央 0-4 柏中央\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-0427a0d099b91a3780d257d4bde6ce9416b6210a@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 松戸馬橋 vs 若松
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：松戸馬橋 3-0 若松\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c0fc6f0544c1f77fc59395482364cb35fed56880@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 千葉北 vs 千葉東
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：千葉北 0-3 千葉東\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-28d763b2bd3918e6f5cb6dc23ec7bc3863cd004a@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 国府台 vs 千葉敬愛
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：国府台 0-4 千葉敬愛\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-9bb520874a7a31f8471296d66e5740266542ff9f@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 柏陵 vs 敬愛学園
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：柏陵 0-1 敬愛学園\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-79841055206aaefc263698a5c87a5dbf7b66a509@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T123000
+DTEND;TZID=Asia/Tokyo:20260124T143000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 柏の葉 vs 東葛飾
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：柏の葉 0-9 東葛飾\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-f0d3e023a0c55de116a216731bb3bdde788a1f24@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260124T140000
+DTEND;TZID=Asia/Tokyo:20260124T160000
+SUMMARY:【関東-男子高校】千葉新人戦 2回戦 麗澤 vs 船橋芝山
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：麗澤 3-5 船橋芝山\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-ad22734f0a70df288f0563169bd773e09051bea3@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260131T093000
+DTEND;TZID=Asia/Tokyo:20260131T113000
+SUMMARY:【関東-男子高校】千葉新人戦 3回戦 東京学館浦安 vs 千葉経大附
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：東京学館浦安 1-0 千葉経大附\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-2fe0e5eb3a6e90d753b25e20a3458c53e40a73f4@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260131T093000
+DTEND;TZID=Asia/Tokyo:20260131T113000
+SUMMARY:【関東-男子高校】千葉新人戦 3回戦 千葉明徳 vs 翔凜
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：千葉明徳 2-3 翔凜\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-d7c465539bc8fdf64a1d8a1d4d0346b3e24ce824@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260131T093000
+DTEND;TZID=Asia/Tokyo:20260131T113000
+SUMMARY:【関東-男子高校】千葉新人戦 3回戦 千葉東 vs 千葉敬愛
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：千葉東 1-2 千葉敬愛\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-4e39eb5b26e30cae79c88eeecadd5135960f6b80@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:【関東-男子高校】千葉新人戦 3回戦 中央学院 vs 渋谷幕張
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：中央学院 1-0 渋谷幕張\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-bf63db4fb82f80cf7e24917153cf781f0fcfa08e@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:【関東-男子高校】千葉新人戦 3回戦 八千代松陰 vs 茂原北陵
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：八千代松陰 3-0 茂原北陵\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c16a055ea7e88bc41f81757c8b0cdbcc2fd82c19@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:【関東-男子高校】千葉新人戦 3回戦 白井 vs 東海大浦安
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：白井 1-0 東海大浦安\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-ebd855e1ba0ec2e9dc1df89e15c00353efef1af9@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:【関東-男子高校】千葉新人戦 3回戦 市立柏 vs 市立松戸
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：市立柏 2-0 市立松戸\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-698b186cf0544fe763bf5b86747e89f3b51819f9@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:【関東-男子高校】千葉新人戦 3回戦 習志野 vs 松戸馬橋
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：習志野 3-0 松戸馬橋\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-88de67f0b7e3b9271c42f466efced0c045f3632e@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260131T113000
+DTEND;TZID=Asia/Tokyo:20260131T133000
+SUMMARY:【関東-男子高校】千葉新人戦 3回戦 検見川 vs 東葛飾
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：検見川 2-1 東葛飾\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c04d5c58b48d1503ae54a40c866de400c0dfb84a@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260131T113000
+DTEND;TZID=Asia/Tokyo:20260131T133000
+SUMMARY:【関東-男子高校】千葉新人戦 3回戦 暁星国際 vs 木更津総合
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：暁星国際 5-0 木更津総合\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-7e34e1f37425776e43f3d0d9a8b3b3b264b89c62@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260131T113000
+DTEND;TZID=Asia/Tokyo:20260131T133000
+SUMMARY:【関東-男子高校】千葉新人戦 3回戦 県立千葉 vs 敬愛学園
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：県立千葉 0-1 敬愛学園\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-28c37365b37c68ba999c02852e54bc52449da10c@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260131T120000
+DTEND;TZID=Asia/Tokyo:20260131T140000
+SUMMARY:【関東-男子高校】千葉新人戦 3回戦 東海大望洋 vs 拓大紅陵
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：東海大望洋 1-1 拓大紅陵（PK 3-5）\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c36331641b9610277af3b591e8a57cddbcfe135e@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260131T120000
+DTEND;TZID=Asia/Tokyo:20260131T140000
+SUMMARY:【関東-男子高校】千葉新人戦 3回戦 専大松戸 vs 東京学館船橋
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：専大松戸 3-0 東京学館船橋\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-0bd4356572c7a09c78633c9ae3bea63a8fd1b5f4@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260131T120000
+DTEND;TZID=Asia/Tokyo:20260131T140000
+SUMMARY:【関東-男子高校】千葉新人戦 3回戦 八千代 vs 柏中央
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：八千代 10-0 柏中央\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-66f3f0041355eb54c8899614f25cd59c9a98587c@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260131T123000
+DTEND;TZID=Asia/Tokyo:20260131T143000
+SUMMARY:【関東-男子高校】千葉新人戦 3回戦 東邦大東邦 vs 市川
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：東邦大東邦 1-5 市川\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-0fc97c2dabd1bce1676af12e2f2cebaa6cc53235@okaidokudaze
+DTSTAMP:20260203T131437
+DTSTART;TZID=Asia/Tokyo:20260131T123000
+DTEND;TZID=Asia/Tokyo:20260131T143000
+SUMMARY:【関東-男子高校】千葉新人戦 3回戦 東京学館 vs 船橋芝山
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果：令和7年度千葉新人戦）\nスコア：東京学館 0-0 船橋芝山（PK 3-1）\nhttps://koko-soccer.com/score/4245
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-a913a77aa268052e7ecd24bbfe79cd3df3156235@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】群馬新人(試合No.1) 館林 vs 高崎東
+LOCATION:関東学園大学附属高校
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-6213eb53f2868a25c64158990f45b74f6aef6f38@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】群馬新人(試合No.2) 高崎工業 vs 桐生清桜
+LOCATION:太田工業高校
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5f4a5d6e0b9e08a26a85f75cb9fc218b60412580@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.3) 前橋南 vs 高経大附属
+LOCATION:高崎経済大学附属高校グラウンド
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-62cd6c58913a55bf38ba100554058164154f9fde@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.4) 伊勢崎清明 vs 渋川青翠
+LOCATION:坂東橋緑地公園サッカー場
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-ae2855a52369f613d79a59862b7a29e400a9f42b@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】群馬新人(試合No.5) 富岡 vs 四ツ葉・中央中等
+LOCATION:太田東高校
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-32157bca7e23e13e560c88bcc3daaa542b563dca@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.6) 太田東 vs 農大二
+LOCATION:太田東高校
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-d38405cdb467ca570538d2071ea577c6b2d9e04e@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】群馬新人(試合No.7) 西邑楽 vs 前橋西
+LOCATION:渋川工業高校
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-7ebde9b9329da0bcadad97269fdbadbcf8f12f3f@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.8) 関学附 vs 樹徳
+LOCATION:関東学園大学附属高校
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-eaa5166130791200795bca051ff924245759e56a@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.9) 桐生 vs 館商工・板倉・太工
+LOCATION:太田工業高校
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5392e7279de7568e149473ed5cf056acd0759ba6@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.10) 市立太田 vs 藤岡中央
+LOCATION:市立太田高校
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-4542845e42169e9a61284ea3f7aad8e9c253ddd0@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】群馬新人(試合No.11) 吉井 vs 高崎商大附
+LOCATION:藤岡工業高校
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-f7dc3cf58f13f7dba60a2525cddb0df20d06c75a@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.12) 榛名・藤工 vs 高崎北
+LOCATION:藤岡工業高校
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-2779a0dd041ee53905be61a35f1f948afa88d6ce@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.13) 渋川工業 vs 安中総合
+LOCATION:渋川工業高校
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-141fb682601fc0807237ff1c760bba9b03d87093@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】群馬新人(試合No.14) 渋川 vs 桐生工業
+LOCATION:坂東橋緑地公園サッカー場
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-a5c0ecbd64ac97cada009a097099fc6b130ef7aa@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.15) 高崎 vs 太田
+LOCATION:菊地サッカー・ラグビー場
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c58f6f1cb909bf1b94a612d9f1039a7e7b30d94d@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】群馬新人(試合No.16) 沼田 vs 前橋東
+LOCATION:菊地サッカー・ラグビー場
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5f7b61b31bc9f5223733f6efeac598e5eba71a62@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】群馬新人(試合No.17) 前橋工業 vs 伊勢崎
+LOCATION:高崎経済大学附属高校グラウンド
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c18bc2283fad23a6f78a34f810ebd1c4ac7036d2@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】群馬新人(試合No.18) 明和県央 vs 桐生商業
+LOCATION:市立太田高校
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-4ece98d49907867773fd6726b93c7d2edef8b02c@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.19) 前橋育英 vs 館林
+LOCATION:前橋育英高校高崎グラウンド
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-040a81a0184bf88f809051ef6cccd9d8f643d9d1@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.20) 高崎工業 vs 高経大附属
+LOCATION:高崎経済大学附属高校グラウンド
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-edf60e91e90635d024e3cd5c3f83aa0bef27f758@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.21) 市立前橋 vs 渋川青翠
+LOCATION:前橋市立前橋高校
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-2ee8f389e84eb0bcc7a542a6253961d7177307e7@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.22) 四ツ葉・中央中等 vs 常磐
+LOCATION:太田市運動公園サッカー/ラグビー場
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-68382ba2333e8f629e6ebed691d804f621b20f8a@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:【関東-男子高校】群馬新人(試合No.23) 高崎商業 vs 太田東
+LOCATION:新島学園高校
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-3b95ac78c9360e525d32c2116c60e6500992f668@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:【関東-男子高校】群馬新人(試合No.24) 西邑楽 vs 利根商業
+LOCATION:高崎経済大学附属高校グラウンド
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-33b49006d89b885f7d45cd0c5659891f6a2aa3f3@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:【関東-男子高校】群馬新人(試合No.25) 新田暁 vs 関学附
+LOCATION:共愛学園高校総合グラウンド
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-a9e0dd8f36d8ea408e2066627e9139a6f19fe49b@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:【関東-男子高校】群馬新人(試合No.26) 桐生 vs 桐生第一
+LOCATION:太田市運動公園サッカー/ラグビー場
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5f25d6e592fdf1f7b90a0ea9532e5eaa72fc240b@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:【関東-男子高校】群馬新人(試合No.27) 健大高崎 vs 市立太田
+LOCATION:前橋育英高校高崎グラウンド
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-124632a19846a5b08f3e250960d445cdf3ad121c@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:【関東-男子高校】群馬新人(試合No.28) 吉井 vs 伊勢崎商業
+LOCATION:SUNAGAサッカースタジアムあずま
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-8bbd976927e85f15b92fd399a000f2deceffc9d1@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.29) 伊勢崎工業 vs 高崎北
+LOCATION:SUNAGAサッカースタジアムあずま
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e29107cd0dfd6416ef0cb6954056e1c726fd7210@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.30) 安中総合 vs 新島学園
+LOCATION:新島学園高校
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-b23179e35b4695d96032a7fc823fadc7e66d78db@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.31) 共愛学園 vs 桐生工業
+LOCATION:共愛学園高校総合グラウンド
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-36f55c89c9909dae3db834848d4d5ee009ba8ce1@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.32) 太田 vs 前橋
+LOCATION:菊地サッカー・ラグビー場
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-700de64904f1a8fea258d0894a8acdab00f30387@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:【関東-男子高校】群馬新人(試合No.33) 沼田 vs 前橋工業
+LOCATION:菊地サッカー・ラグビー場
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-9a178b71489dacb2e77d205b6d6a0fcb545ed1a6@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:【関東-男子高校】群馬新人(試合No.34) 桐生商業 vs 前橋商業
+LOCATION:前橋市立前橋高校
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-bad9f313089d02624c7a6b2dd3521d408f1ddcc2@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.35) 前橋育英 vs 高経大附属
+LOCATION:前橋育英高校高崎グラウンド
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-86e4eeb89553afcdfb764cd2f99cee0b0f845975@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260131T130000
+DTEND;TZID=Asia/Tokyo:20260131T150000
+SUMMARY:【関東-男子高校】群馬新人(試合No.36) 市立前橋 vs 常磐
+LOCATION:SUNAGAサッカースタジアムあずま
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-22853a085f6aa75d0eec2015bcdd00a3502d8ee1@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260131T130000
+DTEND;TZID=Asia/Tokyo:20260131T150000
+SUMMARY:【関東-男子高校】群馬新人(試合No.37) 高崎商業 vs 利根商業
+LOCATION:菊地サッカー・ラグビー場
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-bc5500e25dbec8086792814c9b75850b614b58f0@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.38) 新田暁 vs 桐生第一
+LOCATION:SUNAGAサッカースタジアムあずま
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-762d83ac5c739c4e68dc3955eafa8a5fcc108196@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.39) 健大高崎 vs 伊勢崎商業
+LOCATION:菊地サッカー・ラグビー場
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-8950a2beaa8739641613decfe077e367b50199cc@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260131T130000
+DTEND;TZID=Asia/Tokyo:20260131T150000
+SUMMARY:【関東-男子高校】群馬新人(試合No.40) 伊勢崎工業 vs 新島学園
+LOCATION:前橋商業高校
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-7064ebe8397e744b278ea9d1c9858e578c819566@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260131T130000
+DTEND;TZID=Asia/Tokyo:20260131T150000
+SUMMARY:【関東-男子高校】群馬新人(試合No.41) 共愛学園 vs 前橋
+LOCATION:前橋育英高校高崎グラウンド
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-527ac6377596c34ea0280708f7b92b7c7269ed3b@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.42) 前橋工業 vs 前橋商業
+LOCATION:前橋商業高校
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-b0936c4ae59c71bbfb1283de4ed0a81a3b2eaba0@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260201T100000
+DTEND;TZID=Asia/Tokyo:20260201T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.43) 前橋育英 vs 常磐
+LOCATION:前橋育英高校高崎グラウンド
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e20b4e6003b66f21cfaa4566df5fe12453c7644e@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260201T100000
+DTEND;TZID=Asia/Tokyo:20260201T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.44) 利根商業 vs 桐生第一
+LOCATION:前橋総合運動公園群馬電工陸上競技場・サッカー場
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-777689e8aebedd1068a1fbafb6de28ecf35f7886@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260201T100000
+DTEND;TZID=Asia/Tokyo:20260201T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.45) 健大高崎 vs 新島学園
+LOCATION:コーエィ前橋フットボールセンターB
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-64f7dd66a3257203c8fbd393143a08cc17fc43cc@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260201T100000
+DTEND;TZID=Asia/Tokyo:20260201T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.46) 共愛学園 vs 前橋商業
+LOCATION:コーエィ前橋フットボールセンターA
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-206c8e163eb0bd5e5372f595a05cdfd3c3c72011@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260207T100000
+DTEND;TZID=Asia/Tokyo:20260207T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.47) 前橋育英 vs 桐生第一
+LOCATION:アースケア敷島サッカー・ラグビー場
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-891314cae0dc4a23c200a57209d6e2b2f22c0e4f@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260207T100000
+DTEND;TZID=Asia/Tokyo:20260207T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.48) 健大高崎 vs 共愛学園
+LOCATION:前橋総合運動公園群馬電工陸上競技場・サッカー場
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-4571c26f710bdd908045da444059862960ea369c@okaidokudaze
+DTSTAMP:20260203T133035
+DTSTART;TZID=Asia/Tokyo:20260208T100000
+DTEND;TZID=Asia/Tokyo:20260208T120000
+SUMMARY:【関東-男子高校】群馬新人(試合No.49) 対戦番号47の勝者 vs 対戦番号48の勝者
+LOCATION:アースケア敷島サッカー・ラグビー場
+DESCRIPTION:出典：群馬県サッカー協会（令和7年度 群馬県高等学校サッカー新人大会・試合一覧）\nhttps://management.gunma-fa.com/api/match/171\n会場・開始時間変更（公式告知）\nhttps://gunma-fa.com/17506-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-88e9d55b972498d2de3fcfdfca4db9b450467a29@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T100000
+DTEND;TZID=Asia/Tokyo:20260111T120000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 佐野・足利工・佐日中 vs 鹿沼東
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：1-3
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-ab48ed41826d7bf38251620e674e6683451545cd@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T100000
+DTEND;TZID=Asia/Tokyo:20260111T120000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 茂木 vs 栃木
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：2-4
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-aee3bc6519364fd360dedf418fa1e721b0e56dfb@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T100000
+DTEND;TZID=Asia/Tokyo:20260111T120000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 宇都宮 vs 宇都宮商
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：2-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-b36a005a8c3ca9659076ae733913da82ca61c40d@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T100000
+DTEND;TZID=Asia/Tokyo:20260111T120000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 栃翔南・佐松桜 vs 文星芸大附
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：0-13
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-1066752113f49388f2213a43ce9b761f902bb0aa@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T100000
+DTEND;TZID=Asia/Tokyo:20260111T120000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 星の杜 vs 黒磯
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：3-1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-2bae4bcee34bcbd21b7b3a8c7986288c0b5c511f@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T100000
+DTEND;TZID=Asia/Tokyo:20260111T120000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 佐野東 vs 宇都宮東
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：2-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c791687b7401bd1c56383c8deafe20440a1783a8@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T100000
+DTEND;TZID=Asia/Tokyo:20260111T120000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 黒磯南 vs 真岡工
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：1-1 PK3-5
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-cf757093f50668bf527147520b2734e471731645@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T100000
+DTEND;TZID=Asia/Tokyo:20260111T120000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 真北陵・益芳星 vs 宇都宮中央
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：0-5
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-d666d582bda9e27c7b01431d278726bdea7668e7@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T120000
+DTEND;TZID=Asia/Tokyo:20260111T140000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 小山北桜 vs 小山
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：0-12
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-625ca26ca743403728f99035e57cf80c9d0dbff1@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T120000
+DTEND;TZID=Asia/Tokyo:20260111T140000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 足利 vs 作新学院
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：1-1 PK3-4
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-43feb206370ce09593438e9776b9491b902d3e71@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T120000
+DTEND;TZID=Asia/Tokyo:20260111T140000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 さくら清修 vs 宇都宮清陵
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：6-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-a03911410a90e75f1d35f3ff495571c60c09bbb1@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T120000
+DTEND;TZID=Asia/Tokyo:20260111T140000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 宇都宮白楊 vs 大田原
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：0-3
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5bc3fa2a1da98b1f12aa4ffd3f630d0198c3d191@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T120000
+DTEND;TZID=Asia/Tokyo:20260111T140000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 那須拓陽 vs 烏山
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：2-1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-ee26fcc2f793ad9014e1e678063bdf797b76876d@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T123000
+DTEND;TZID=Asia/Tokyo:20260111T143000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 國學院栃木 vs 矢板
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：10-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5036e0ac18d881a8323e2d03ac34c6fe5e1c4dda@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T123000
+DTEND;TZID=Asia/Tokyo:20260111T143000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 鹿沼南・今市・栃木農 vs 鹿沼
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：0-3
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-794ddc2987c0a42bb86ec805012ede277a74f281@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T123000
+DTEND;TZID=Asia/Tokyo:20260111T143000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 那須・高根沢・幸福 vs 宇都宮北
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：1-12
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5df05e5bcba210d96bd57432d25e98ebf0f7d95b@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T140000
+DTEND;TZID=Asia/Tokyo:20260111T160000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 那須清峰 vs 上三川・壬生
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：1-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-6089b159795596cc53c0ba3b326c880c5ef47b31@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T140000
+DTEND;TZID=Asia/Tokyo:20260111T160000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 青藍泰斗 vs 小山南
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：1-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-7815e384bea037b42c7ecd4c45366125ed34eb92@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T140000
+DTEND;TZID=Asia/Tokyo:20260111T160000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 石橋 vs 栃木工
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：4-1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-ec418fff05c9ae098486990af1e2f349c40a5250@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260111T140000
+DTEND;TZID=Asia/Tokyo:20260111T160000
+SUMMARY:【関東-男子高校】栃木新人 1回戦 小山城南 vs 矢板東
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：0-0 PK2-4
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-0fd2ad9dde0753431d8be6dcb36a2117a65942d3@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】栃木新人 2回戦 鹿沼東 vs 栃木
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：0-2
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c71b42ed4acf64b4e49f1caeed851e4c9fd18280@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】栃木新人 2回戦 國學院栃木 vs 真岡
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：2-2 PK4-5
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-845fed370e44316869b772c2e09b48bebc29cce8@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】栃木新人 2回戦 佐野日大 vs 足利南
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：13-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-d400467a35fff01b4f0633700f445fa06658f2e2@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】栃木新人 2回戦 佐野東 vs 矢板東
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：0-2
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-aa7e80ce90a4d3e0cf2702486289072e53ad172a@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】栃木新人 2回戦 鹿沼 vs 宇都宮工
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：0-12
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e3ea80bac1a3eb2642513b962d6133d978fbff1b@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:【関東-男子高校】栃木新人 2回戦 宇都宮南 vs 真岡工
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：2-1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-b1c8fc06f0bd57f52fec8b1041b25bedbc25129a@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】栃木新人 2回戦 小山 vs 作新学院
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：6-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e9c275523648c4ec597894e44f3a4fa90a1644dc@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】栃木新人 2回戦 足利清風 vs 足利大附
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：0-8
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-eef21d6e7feb58643070707e36da4150e538542f@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:【関東-男子高校】栃木新人 2回戦 宇都宮中央 vs 那須拓陽
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：1-1 PK4-3
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-235c2c20ea09c4cc79b13d9aa3ec47c990c3d4f9@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260117T123000
+DTEND;TZID=Asia/Tokyo:20260117T143000
+SUMMARY:【関東-男子高校】栃木新人 2回戦 那須清峰 vs 文星芸大附
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：0-6
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-dc8901a4ebe51a7e8b0be8a8b4e0b707d00e022c@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260117T123000
+DTEND;TZID=Asia/Tokyo:20260117T143000
+SUMMARY:【関東-男子高校】栃木新人 2回戦 さくら清修 vs 石橋
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：1-1 PK4-5
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-6cdb8f858a7ce25dae30499d4ac7009a302ec968@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260117T123000
+DTEND;TZID=Asia/Tokyo:20260117T143000
+SUMMARY:【関東-男子高校】栃木新人 2回戦 宇都宮北 vs 大田原
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：0-5
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-687c0218a5cc1844df9e4ea1d67205af6e37cc94@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260117T140000
+DTEND;TZID=Asia/Tokyo:20260117T160000
+SUMMARY:【関東-男子高校】栃木新人 2回戦 白鷗大足利 vs 宇都宮
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：3-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-8f03b30f4c777130f9537897144dbf61e05b7c37@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260117T140000
+DTEND;TZID=Asia/Tokyo:20260117T160000
+SUMMARY:【関東-男子高校】栃木新人 2回戦 星の杜 vs 青藍泰斗
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：2-4
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c97f6c806da6e6a81f990f1827fdef16113df913@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260117T140000
+DTEND;TZID=Asia/Tokyo:20260117T160000
+SUMMARY:【関東-男子高校】栃木新人 2回戦 小山西 vs 宇都宮短大附
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：0-12
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-3c94b2021eb2bc87fee4afb1b95bd55bc7a77295@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】栃木新人 3回戦 矢板中央 vs 栃木
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：6-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-2aef3d76c7e09455131f153729e745633ca6d13c@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】栃木新人 3回戦 小山 vs 真岡
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：1-2
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-f1306b711eadd6d1fe235f3294aa491d59a9b656@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】栃木新人 3回戦 白鷗大足利 vs 文星芸大附
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：3-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-35a510ec539602623d710ca0ed7bc0d33e5b310b@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:【関東-男子高校】栃木新人 3回戦 青藍泰斗 vs 足利大附
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：1-4
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-8e6cd20f9281d3efa19dcc657761d56bbea2800d@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260124T123000
+DTEND;TZID=Asia/Tokyo:20260124T143000
+SUMMARY:【関東-男子高校】栃木新人 3回戦 佐野日大 vs 石橋
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：9-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-ac36bab1602e3af58fd11b97f04f113a10b4e3bb@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260124T123000
+DTEND;TZID=Asia/Tokyo:20260124T143000
+SUMMARY:【関東-男子高校】栃木新人 3回戦 矢板東 vs 宇都宮工
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：0-8
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-bbaccd925e532f1c5f6fb5c5db6f77d8f249507e@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260124T123000
+DTEND;TZID=Asia/Tokyo:20260124T143000
+SUMMARY:【関東-男子高校】栃木新人 3回戦 宇都宮南 vs 大田原
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：1-2
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-b5c990b81ed254b35a16a19a71477dfaa7709843@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260124T123000
+DTEND;TZID=Asia/Tokyo:20260124T143000
+SUMMARY:【関東-男子高校】栃木新人 3回戦 宇都宮中央 vs 宇都宮短大附
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：0-9
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-6ec7c27c6d5c745ec5d955fbc6f4d7c9653e8926@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260125T103000
+DTEND;TZID=Asia/Tokyo:20260125T123000
+SUMMARY:【関東-男子高校】栃木新人 準々決勝 矢板中央 vs 真岡
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：3-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-10fe5f9e2239023f9705c12d3463cb5bc66fbbfe@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260125T103000
+DTEND;TZID=Asia/Tokyo:20260125T123000
+SUMMARY:【関東-男子高校】栃木新人 準々決勝 白鷗大足利 vs 足利大附
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：1-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-cffe0f4be3412db7179fe634ec8f070f5651ff4a@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260125T133000
+DTEND;TZID=Asia/Tokyo:20260125T153000
+SUMMARY:【関東-男子高校】栃木新人 準々決勝 佐野日大 vs 宇都宮工
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：1-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e486820fe851b6ce190869386e9fcb3b8318a019@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260125T133000
+DTEND;TZID=Asia/Tokyo:20260125T153000
+SUMMARY:【関東-男子高校】栃木新人 準々決勝 大田原 vs 宇都宮短大附
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：3-2
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-7aa7667d8503298f148c5aa47e300c6f67a8803d@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260131T103000
+DTEND;TZID=Asia/Tokyo:20260131T123000
+SUMMARY:【関東-男子高校】栃木新人 準決勝 矢板中央 vs 白鷗大足利
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：2-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-4e06e848cc602754b928b0d2478e822902736174@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260131T133000
+DTEND;TZID=Asia/Tokyo:20260131T153000
+SUMMARY:【関東-男子高校】栃木新人 準決勝 佐野日大 vs 大田原
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：0-0 PK7-6
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-94cb60474cef202c56cab6ec2d5d653781517159@okaidokudaze
+DTSTAMP:20260203T043759
+DTSTART;TZID=Asia/Tokyo:20260201T133000
+DTEND;TZID=Asia/Tokyo:20260201T153000
+SUMMARY:【関東-男子高校】栃木新人 決勝 矢板中央 vs 佐野日大
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\nhttps://koko-soccer.com/score/4293\n結果：3-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-302fd40852200222c58d5125324b12d3781d4288@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260116T110000
+DTEND;TZID=Asia/Tokyo:20260116T130000
+SUMMARY:【関東-男子高校】茨城新人 1回戦 勝田中等 vs 水城
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：0-6
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e32b9f79c6ad1be640ea7fa28830de4746ed1d9a@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260116T110000
+DTEND;TZID=Asia/Tokyo:20260116T130000
+SUMMARY:【関東-男子高校】茨城新人 1回戦 水戸一 vs 県南合同
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：4-1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-0586d983fb965f816e67b3ae176991fb48a3400c@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260116T110000
+DTEND;TZID=Asia/Tokyo:20260116T130000
+SUMMARY:【関東-男子高校】茨城新人 1回戦 茗溪学園 vs 水戸農
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：6-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-9e42a3fbc5a38c7535e16496ec25af109757676d@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260116T110000
+DTEND;TZID=Asia/Tokyo:20260116T130000
+SUMMARY:【関東-男子高校】茨城新人 1回戦 竹園 vs 県南合同
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：6-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-4b54e685d18d8d1a4576b5edcafc5e2860b23052@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260116T110000
+DTEND;TZID=Asia/Tokyo:20260116T130000
+SUMMARY:【関東-男子高校】茨城新人 1回戦 高萩清松 vs 茨城
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-4
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-47488096c01af3e8b8a13b1838c6b4a6f8d1a1cc@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260116T110000
+DTEND;TZID=Asia/Tokyo:20260116T130000
+SUMMARY:【関東-男子高校】茨城新人 1回戦 県西合同 vs 日立工
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：2-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-9099865bae20aad7d400cda3c79c9c0b5c860ec7@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260116T110000
+DTEND;TZID=Asia/Tokyo:20260116T130000
+SUMMARY:【関東-男子高校】茨城新人 1回戦 中央 vs 取手松陽
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：3-2
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-4140fc36d9f52411f1ba0e0db7c86a95ef8b4084@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260116T133000
+DTEND;TZID=Asia/Tokyo:20260116T153000
+SUMMARY:【関東-男子高校】茨城新人 1回戦 日立商 vs 水戸合同
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：8-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-de5a36eb822a4fd563df2da4f8b2377e87437ae7@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260116T133000
+DTEND;TZID=Asia/Tokyo:20260116T153000
+SUMMARY:【関東-男子高校】茨城新人 1回戦 土浦一 vs 県立八千代
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：2-2 PK6-7
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-b15e4eedd9e3092b55331f248ed341f21cdef7ed@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260116T133000
+DTEND;TZID=Asia/Tokyo:20260116T153000
+SUMMARY:【関東-男子高校】茨城新人 1回戦 土浦三 vs 鬼怒商
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：4-1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-83e70ea26796b423b69d17aa92d5d01b20659964@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260116T133000
+DTEND;TZID=Asia/Tokyo:20260116T153000
+SUMMARY:【関東-男子高校】茨城新人 1回戦 江戸川学園取手 vs 日立北
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-3
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-fb66f17e7f1e2bd57c914df4934a7bfa4248824e@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260116T133000
+DTEND;TZID=Asia/Tokyo:20260116T153000
+SUMMARY:【関東-男子高校】茨城新人 1回戦 つくば秀英 vs 下館二
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：0-1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-d5acc7626d5293f31f9700e7b6827cdff0df1138@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260116T133000
+DTEND;TZID=Asia/Tokyo:20260116T153000
+SUMMARY:【関東-男子高校】茨城新人 1回戦 勝田工 vs 茨城高専
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：5-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-d809159cadc37d342ffae54ba15d44285e75422d@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260116T133000
+DTEND;TZID=Asia/Tokyo:20260116T153000
+SUMMARY:【関東-男子高校】茨城新人 1回戦 下館工 vs 並木中等
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：0-10
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-ef3201193ff7ceb6739e19adb91e42de3d423a85@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260116T133000
+DTEND;TZID=Asia/Tokyo:20260116T153000
+SUMMARY:【関東-男子高校】茨城新人 1回戦 鉾田二 vs 太田一
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：5-1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-99cae81bb7c115f8278b54dc958f2e5e725166b6@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260118T133000
+DTEND;TZID=Asia/Tokyo:20260118T153000
+SUMMARY:【関東-男子高校】茨城新人 1回戦 土浦工 vs 清真学園
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-5
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-eee3ce248534265d55270a989cfef1f023e39608@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 中央 vs 水戸葵陵
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：0-5
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c11aef6deac9046cbd9627f8fa6988d4deea085c@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260118T133000
+DTEND;TZID=Asia/Tokyo:20260118T153000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 古河二 vs 下妻一
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：5-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-6551a163dff2c51c9261c00da261ce86455badd0@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T110000
+DTEND;TZID=Asia/Tokyo:20260120T130000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 那珂 vs 藤代
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：3-1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-60eba2f4bcd009cf5307efc834084cf3b5f22d48@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T110000
+DTEND;TZID=Asia/Tokyo:20260120T130000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 茗溪学園 vs 佐和
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：0-4
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-85ef5dfefcd673d879b2e1804ed2be3b71af6739@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T110000
+DTEND;TZID=Asia/Tokyo:20260120T130000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 霞ヶ浦 vs 下館二
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：5-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-df019e9b0b2973494d80e31c9be1efe9a76f6791@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T110000
+DTEND;TZID=Asia/Tokyo:20260120T130000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 守谷 vs 石岡一
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：5-3
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-7d2b958f7dbb63ec08055b37b41f7df95e7b3a95@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T110000
+DTEND;TZID=Asia/Tokyo:20260120T130000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 下妻二 vs 鉾田一
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：0-2
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-8362c064e6cec5aa31af864c1ce8633bbfe18eaf@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T110000
+DTEND;TZID=Asia/Tokyo:20260120T130000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 土浦三 vs 水戸商
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：0-7
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-3951a1daf8151d0ad659b668c10ee5d00541e01f@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T110000
+DTEND;TZID=Asia/Tokyo:20260120T130000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 土浦湖北 vs 竜ヶ崎一
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：4-1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-132129476ef6f5ec5ecf94cd620695ffdded057f@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T110000
+DTEND;TZID=Asia/Tokyo:20260120T130000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 県西合同 vs 波崎
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-5
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-187ff45e3df6e876efa206e793cafdd520f229f4@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T110000
+DTEND;TZID=Asia/Tokyo:20260120T130000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 茨城キリスト vs 清真学園
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：6-2
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-7d37bbcc54e4823e9b936e9dcb61f56ea16cc351@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T110000
+DTEND;TZID=Asia/Tokyo:20260120T130000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 鉾田二 vs 鹿島
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：0-8
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-f36ebafe4a4773d9818505f7c13ccfe1ce871409@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T110000
+DTEND;TZID=Asia/Tokyo:20260120T130000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 水戸啓明 vs 牛久栄進
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-2
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-6bd3e01cc3f6569b76ac2d8f16441e56e53f77a9@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T133000
+DTEND;TZID=Asia/Tokyo:20260120T153000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 境 vs 水城
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-30b0ca85707590fda1b64f815733e071262cba1c@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T133000
+DTEND;TZID=Asia/Tokyo:20260120T153000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 下館一 vs 緑岡
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：0-5
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-3b144c672443a8b57af66147a5065e246e66317e@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T133000
+DTEND;TZID=Asia/Tokyo:20260120T153000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 竹園 vs 岩瀬日大
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：2-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-d69a87402b083d42215aa17607077f068e3e206f@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T133000
+DTEND;TZID=Asia/Tokyo:20260120T153000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 勝田工 vs 水戸工
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：0-3
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-915d7c685c59a777da7d443b0f16fc992d98a0f0@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T133000
+DTEND;TZID=Asia/Tokyo:20260120T153000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 藤代紫水 vs 並木中等
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：3-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c747652330ad4f8cd8efe7172f5af0fad78f2d11@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T133000
+DTEND;TZID=Asia/Tokyo:20260120T153000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 日立商 vs 牛久
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-2
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-858a1e791a27698bb2d7824462ff583079b0d11c@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T133000
+DTEND;TZID=Asia/Tokyo:20260120T153000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 伊奈 vs 県立八千代
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-1 PK2-4
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-428f283bb295c18b7f27c70d693572ee96e735ec@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T133000
+DTEND;TZID=Asia/Tokyo:20260120T153000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 日立北 vs 水海道一
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-3
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5b77d1d89f8b1d2846cd70e41a68d550a7614c8a@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T133000
+DTEND;TZID=Asia/Tokyo:20260120T153000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 常磐大高 vs 古河三
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：6-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-7c4fbfb69b0e1c7679105853a6df4ebd50abee77@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T133000
+DTEND;TZID=Asia/Tokyo:20260120T153000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 麻生 vs 多賀
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：3-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-125168438e45a830a0f3638ff9a93bbe623cc95b@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T133000
+DTEND;TZID=Asia/Tokyo:20260120T153000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 水戸一 vs 日立一
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-2
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-54b6a4d461ab273d28d0aa7210483d6a9d02b65b@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260120T133000
+DTEND;TZID=Asia/Tokyo:20260120T153000
+SUMMARY:【関東-男子高校】茨城新人 2回戦 土浦日大 vs 土浦二
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：3-3 PK2-4
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-483976212509cdc9aec25f09b4200429e6f3ee71@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260123T110000
+DTEND;TZID=Asia/Tokyo:20260123T130000
+SUMMARY:【関東-男子高校】茨城新人 3回戦 明秀日立 vs 牛久
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：3-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-733aae13566054d55c853bb682802cffe94768fa@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260123T110000
+DTEND;TZID=Asia/Tokyo:20260123T130000
+SUMMARY:【関東-男子高校】茨城新人 3回戦 県立八千代 vs 鉾田一
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：2-3
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-6e4ecc67f791eafc51963b40ead93df95c43dcf6@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260123T110000
+DTEND;TZID=Asia/Tokyo:20260123T130000
+SUMMARY:【関東-男子高校】茨城新人 3回戦 古河一 vs 常磐大高
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-b95a4e122c95d27f5f9203b6ebc7712d62549596@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260123T110000
+DTEND;TZID=Asia/Tokyo:20260123T130000
+SUMMARY:【関東-男子高校】茨城新人 3回戦 霞ヶ浦 vs 守谷
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：5-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-33d2a9046ca1677d92aefdd036e5566b2e43b266@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260123T110000
+DTEND;TZID=Asia/Tokyo:20260123T130000
+SUMMARY:【関東-男子高校】茨城新人 3回戦 土浦二 vs 波崎
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-3
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-4d3b38c2f38dd61a8cdf2b2992ce5c6f3145bbf3@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260123T110000
+DTEND;TZID=Asia/Tokyo:20260123T130000
+SUMMARY:【関東-男子高校】茨城新人 3回戦 下妻一 vs 水戸葵陵
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-3
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-3e3dcf70b5a9ff3b33d2d5e8882025ed6a755134@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260123T110000
+DTEND;TZID=Asia/Tokyo:20260123T130000
+SUMMARY:【関東-男子高校】茨城新人 3回戦 藤代紫水 vs 鹿島
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：0-6
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e0a076d9987c7c8b08a3e6f33f3aec4dc512aab3@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260123T110000
+DTEND;TZID=Asia/Tokyo:20260123T130000
+SUMMARY:【関東-男子高校】茨城新人 3回戦 水戸啓明 vs 牛久栄進
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-2
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-b8a5fac7390fd94864050477dff2712a7039649e@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260123T133000
+DTEND;TZID=Asia/Tokyo:20260123T153000
+SUMMARY:【関東-男子高校】茨城新人 3回戦 境 vs 水戸商
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-a1374a2ff7c9afc324a7979fafac29d5bca85658@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260123T133000
+DTEND;TZID=Asia/Tokyo:20260123T153000
+SUMMARY:【関東-男子高校】茨城新人 3回戦 土浦湖北 vs 水海道一
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：0-3
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5a69960c6899e26d88f463637d7860989bf0f4ba@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260123T133000
+DTEND;TZID=Asia/Tokyo:20260123T153000
+SUMMARY:【関東-男子高校】茨城新人 3回戦 麻生 vs 日立一
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：0-5
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-df5ebeb651974b42569374df0060ac4dd87af416@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260123T133000
+DTEND;TZID=Asia/Tokyo:20260123T153000
+SUMMARY:【関東-男子高校】茨城新人 3回戦 那珂 vs 佐和
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：0-6
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-6c35d1c61cf509431ecfb77aebac7a2bf1cfc85e@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260123T133000
+DTEND;TZID=Asia/Tokyo:20260123T153000
+SUMMARY:【関東-男子高校】茨城新人 3回戦 緑岡 vs 東洋大牛久
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：0-4
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-3b0ee23c467c2ec283cb85fd414eb4d52ea42fa9@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260123T133000
+DTEND;TZID=Asia/Tokyo:20260123T153000
+SUMMARY:【関東-男子高校】茨城新人 3回戦 第一学院 vs 竹園
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：6-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-290915c541b7988dad5b2033b7c1e4a0a3592252@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260123T133000
+DTEND;TZID=Asia/Tokyo:20260123T153000
+SUMMARY:【関東-男子高校】茨城新人 3回戦 茨城キリスト vs 常総学院
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-6df55db44dd53c8160f8f850c53b4105645ab057@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260123T133000
+DTEND;TZID=Asia/Tokyo:20260123T153000
+SUMMARY:【関東-男子高校】茨城新人 3回戦 水戸桜ノ牧 vs 水戸工
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：2-1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-bc64142e6af4109c0235da53fcf6f56f8a9baad8@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260127T110000
+DTEND;TZID=Asia/Tokyo:20260127T130000
+SUMMARY:【関東-男子高校】茨城新人 4回戦 明秀日立 vs 鉾田一
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：2-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-15aa5ef9a5ae1142388294ffa4ca34f4ebcd564d@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260127T110000
+DTEND;TZID=Asia/Tokyo:20260127T130000
+SUMMARY:【関東-男子高校】茨城新人 4回戦 境 vs 水海道一
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：3-1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-ada1109c12ed029381d946d99e153eb55e786162@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260127T110000
+DTEND;TZID=Asia/Tokyo:20260127T130000
+SUMMARY:【関東-男子高校】茨城新人 4回戦 水戸桜ノ牧 vs 水戸葵陵
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-5
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-15d9d5cc25674c32f0ffef33fc81bfc05d5375e3@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260127T110000
+DTEND;TZID=Asia/Tokyo:20260127T130000
+SUMMARY:【関東-男子高校】茨城新人 4回戦 鹿島 vs 牛久栄進
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-1 PK4-5
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-071568d6ed212f6b91854ca2bb149c5a9382be08@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260127T133000
+DTEND;TZID=Asia/Tokyo:20260127T153000
+SUMMARY:【関東-男子高校】茨城新人 4回戦 古河一 vs 日立一
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：古河一 敗（不戦）勝 日立一\\n備考：高校サッカードットコム表記「敗（不戦）勝」
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-49ee8b2699e37fa4f62a0b4df8858f2a089f0b31@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260127T133000
+DTEND;TZID=Asia/Tokyo:20260127T153000
+SUMMARY:【関東-男子高校】茨城新人 4回戦 佐和 vs 東洋大牛久
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：0-4
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-2b2084ce9159c6ddaf308034202bdeb44d846ecb@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260127T133000
+DTEND;TZID=Asia/Tokyo:20260127T153000
+SUMMARY:【関東-男子高校】茨城新人 4回戦 第一学院 vs 霞ヶ浦
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：3-1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-6cab451ddfeaadcc39e32ae9291170ccb58df374@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260127T133000
+DTEND;TZID=Asia/Tokyo:20260127T153000
+SUMMARY:【関東-男子高校】茨城新人 4回戦 波崎 vs 茨城キリスト
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：2-1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-61f778f41103b59c3937eda7b8126ecabd23af22@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260130T110000
+DTEND;TZID=Asia/Tokyo:20260130T130000
+SUMMARY:【関東-男子高校】茨城新人 準々決勝 明秀日立 vs 境
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：4-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-12ccd1ac9fc20b8f8a6f589683bfd34e9799eb1c@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260130T110000
+DTEND;TZID=Asia/Tokyo:20260130T130000
+SUMMARY:【関東-男子高校】茨城新人 準々決勝 日立一 vs 東洋大牛久
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-3
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-f2b159ccb7218dfe129dc8cbf48e72d84d026738@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260130T110000
+DTEND;TZID=Asia/Tokyo:20260130T130000
+SUMMARY:【関東-男子高校】茨城新人 準々決勝 第一学院 vs 波崎
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：3-1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-8f8c6b65ec09cc8f624a273f89211310914645f6@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260130T110000
+DTEND;TZID=Asia/Tokyo:20260130T130000
+SUMMARY:【関東-男子高校】茨城新人 準々決勝 水戸葵陵 vs 牛久栄進
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295\\n結果：1-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-40da33d94218b70121afd1ff3eb83cd1b3bab593@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;TZID=Asia/Tokyo:20260205T110000
+DTEND;TZID=Asia/Tokyo:20260205T130000
+SUMMARY:【関東-男子高校】茨城新人 決勝 東洋大牛久 vs 第一学院
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295
+END:VEVENT
 END:VCALENDAR

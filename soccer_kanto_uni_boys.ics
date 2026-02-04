@@ -1,9 +1,338 @@
 BEGIN:VCALENDAR
-PRODID:-//masashi soccer ics//region split//JA
 VERSION:2.0
+PRODID:-//my-ics//school-soccer//JA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:【関東】男子大学サッカー
 X-WR-TIMEZONE:Asia/Tokyo
-X-WR-CALDESC:calendar_id=soccer_kanto_uni_boys / region=関東 / scope=男子大学サッカー / timezone=Asia/Tokyo
+BEGIN:VEVENT
+UID:d3fedad04c195a25da4de47e243bba82@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251206T110000
+DTEND;TZID=Asia/Tokyo:20251206T130000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 明治⼤学 vs 札幌⼤学
+LOCATION:味の素フィールド⻄が丘（東京都）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：3
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:2766d1a14495dfbecc1bd33af095e33a@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251206T140000
+DTEND;TZID=Asia/Tokyo:20251206T160000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 東海⼤学 vs 中京⼤学
+LOCATION:味の素フィールド⻄が丘（東京都）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：4
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:fc06eb72531a361bd3ba7330f699e702@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251206T110000
+DTEND;TZID=Asia/Tokyo:20251206T130000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 ⽇本⼤学 vs 桃⼭学院⼤学
+LOCATION:AGFフィールド（東京都）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：5
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:73abfbdd47980aa63211dbb1b0e902cd@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251213T110000
+DTEND;TZID=Asia/Tokyo:20251213T130000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 阪南⼤学 vs 東海⼤学
+LOCATION:AGFフィールド（東京都）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：11
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:647e2eb86f69aa9a0a6d4916ca57c641@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251213T140000
+DTEND;TZID=Asia/Tokyo:20251213T160000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 筑波⼤学 vs 常葉⼤学
+LOCATION:AGFフィールド（東京都）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：15
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:598213d2f2996a6310b11e4fc2988f05@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251215T110000
+DTEND;TZID=Asia/Tokyo:20251215T130000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 阪南⼤学 vs 常葉⼤学
+LOCATION:相模原ギオンスタジアム（神奈川県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：19
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ad247aa2e56463358456301ad295bfba@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251215T140000
+DTEND;TZID=Asia/Tokyo:20251215T160000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 筑波⼤学 vs 東海⼤学
+LOCATION:相模原ギオンスタジアム（神奈川県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：23
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:820ff9fbec8a0f08cef7c38a4324d37e@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251215T110000
+DTEND;TZID=Asia/Tokyo:20251215T130000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 IPU・環太平洋⼤学 vs 京都産業⼤学
+LOCATION:フクダ電⼦フィールドA⾯（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：27
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:03e47dcd555ef3bb05c1d7eb58e5a5e6@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251215T110000
+DTEND;TZID=Asia/Tokyo:20251215T130000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 甲南⼤学 vs 桐蔭横浜⼤学
+LOCATION:フクダ電⼦フィールドB⾯（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：28
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ac23512357739716a20a153a8df0d1cf@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251215T110000
+DTEND;TZID=Asia/Tokyo:20251215T130000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 ⿅屋体育⼤学 vs 中京⼤学
+LOCATION:フクダ電⼦スクエア（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：29
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3cb7db26d3c3d0db5273f115b99a0f3f@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251215T140000
+DTEND;TZID=Asia/Tokyo:20251215T160000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 新潟医療福祉⼤学 vs 富⼠⼤学
+LOCATION:フクダ電⼦フィールドA⾯（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：30
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:056df04039b9853265fd703eaabb9420@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251215T140000
+DTEND;TZID=Asia/Tokyo:20251215T160000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 桃⼭学院⼤学 vs 広島経済⼤学
+LOCATION:フクダ電⼦フィールドB⾯（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：31
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3dc91d4170bc7aac69a9d425f620a373@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251215T140000
+DTEND;TZID=Asia/Tokyo:20251215T160000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 札幌⼤学 vs 松本⼤学
+LOCATION:フクダ電⼦スクエア（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：32
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:973e75a609d12f150c08eaf2dcadf87b@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251216T110000
+DTEND;TZID=Asia/Tokyo:20251216T130000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 IPU・環太平洋⼤学 vs 富⼠⼤学
+LOCATION:フクダ電⼦フィールドA⾯（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：33
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:f42481e00b7dce3734fe3f4e5cb89c99@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251216T110000
+DTEND;TZID=Asia/Tokyo:20251216T130000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 甲南⼤学 vs 広島経済⼤学
+LOCATION:フクダ電⼦フィールドB⾯（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：34
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:9637e9b5179896ad9bb5e2922dfe8d97@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251216T110000
+DTEND;TZID=Asia/Tokyo:20251216T130000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 ⿅屋体育⼤学 vs 松本⼤学
+LOCATION:フクダ電⼦スクエア（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：35
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:7a98a427fec85c147e4fe5af069be3bb@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251216T140000
+DTEND;TZID=Asia/Tokyo:20251216T160000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 新潟医療福祉⼤学 vs 京都産業⼤学
+LOCATION:フクダ電⼦フィールドA⾯（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：36
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:568806be105a6b513c04d5764ecc1054@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251216T140000
+DTEND;TZID=Asia/Tokyo:20251216T160000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 桃⼭学院⼤学 vs 桐蔭横浜⼤学
+LOCATION:フクダ電⼦フィールドB⾯（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：37
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:1526b01eb265c8ddbc55140b4a0486e6@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251216T140000
+DTEND;TZID=Asia/Tokyo:20251216T160000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 札幌⼤学 vs 中京⼤学
+LOCATION:フクダ電⼦スクエア（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：38
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:b8b214c768521c891638c02823a8f655@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251217T110000
+DTEND;TZID=Asia/Tokyo:20251217T130000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 東海⼤学 vs 常葉⼤学
+LOCATION:AGFフィールド（東京都）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：39
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:b5366c054323ccb2ff13904df8e2c536@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251217T140000
+DTEND;TZID=Asia/Tokyo:20251217T160000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 筑波⼤学 vs 阪南⼤学
+LOCATION:AGFフィールド（東京都）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：43
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:dcfe0a71a91b768d3c10cb5664d6d666@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251217T110000
+DTEND;TZID=Asia/Tokyo:20251217T130000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 京都産業⼤学 vs 富⼠⼤学
+LOCATION:フクダ電⼦フィールドA⾯（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：47
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:0d0f76bd490262d9db06418f4d360d22@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251217T110000
+DTEND;TZID=Asia/Tokyo:20251217T130000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 桐蔭横浜⼤学 vs 広島経済⼤学
+LOCATION:フクダ電⼦フィールドB⾯（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：48
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:7db9af5d7379b4f0fa6a55c13baafc87@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251217T110000
+DTEND;TZID=Asia/Tokyo:20251217T130000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 中京⼤学 vs 松本⼤学
+LOCATION:フクダ電⼦スクエア（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：49
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:1e1715361c052e3227c38ac4ee888e2a@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251217T140000
+DTEND;TZID=Asia/Tokyo:20251217T160000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 新潟医療福祉⼤学 vs IPU・環太平洋⼤学
+LOCATION:フクダ電⼦フィールドA⾯（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：50
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:cc71fececec466e0a58a967712ca14c5@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251217T140000
+DTEND;TZID=Asia/Tokyo:20251217T160000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 桃⼭学院⼤学 vs 甲南⼤学
+LOCATION:フクダ電⼦フィールドB⾯（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：51
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:1e70f9b26f415661394fee20f964c884@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251217T140000
+DTEND;TZID=Asia/Tokyo:20251217T160000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 札幌⼤学 vs ⿅屋体育⼤学
+LOCATION:フクダ電⼦スクエア（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：52
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:83cf28ddf6ba04a5b8460154cb9b9f26@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251219T120000
+DTEND;TZID=Asia/Tokyo:20251219T140000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 グループステージ1位相当 vs ワイルドカード
+LOCATION:フクダ電⼦フィールドA⾯（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：53
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ccaa9b0d9ec97954d7bea502f6c7efc2@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251219T120000
+DTEND;TZID=Asia/Tokyo:20251219T140000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 グループステージ2位相当 vs グループステージ3位相当
+LOCATION:フクダ電⼦フィールドB⾯（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：54
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:21bc592da81822f3365ba1b55efa67eb@my-ics
+DTSTAMP:20260203T015946Z
+DTSTART;TZID=Asia/Tokyo:20251220T120000
+DTEND;TZID=Asia/Tokyo:20251220T140000
+SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 [53] 勝者 vs [54] 勝者
+LOCATION:稲⽑海浜公園球技場（千葉県）
+DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
+ 1765012943.pdf\n試合番号：55
+SEQUENCE:0
+END:VEVENT
 END:VCALENDAR

@@ -1,9 +1,26 @@
 BEGIN:VCALENDAR
-PRODID:-//masashi soccer ics//region split//JA
 VERSION:2.0
+PRODID:-//masashi//school-soccer-ics//JP
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:【九州沖縄】女子高校サッカー
 X-WR-TIMEZONE:Asia/Tokyo
-X-WR-CALDESC:calendar_id=soccer_kyushu_okinawa_hs_girls / region=九州沖縄 / scope=女子高校サッカー / timezone=Asia/Tokyo
+BEGIN:VEVENT
+UID:20f49e612e66a8696d75ce237d0b06ed3b5d0f5d@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:【九州沖縄-女子高校】福岡県新人 決勝
+LOCATION:会場不明（福岡県）
+DESCRIPTION:出典：九州高校サッカー新人戦予選大会特設サイト（結果速報）\n決勝：筑陽学園-八女学院
+END:VEVENT
+BEGIN:VEVENT
+UID:bff3098e2ac59ef8687aad3094b6c9c20e447c4a@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:【九州沖縄-女子高校】大分県新人 決勝
+LOCATION:会場不明（大分県）
+DESCRIPTION:出典：九州高校サッカー新人戦予選大会特設サイト（結果速報）\n決勝：柳ヶ浦-稲葉学園
+END:VEVENT
 END:VCALENDAR

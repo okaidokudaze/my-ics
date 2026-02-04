@@ -1,9 +1,52 @@
 BEGIN:VCALENDAR
-PRODID:-//masashi soccer ics//region split//JA
 VERSION:2.0
+PRODID:-//okaidokudaze//school-soccer//JP
 CALSCALE:GREGORIAN
-METHOD:PUBLISH
 X-WR-CALNAME:【東海北陸】女子高校サッカー
 X-WR-TIMEZONE:Asia/Tokyo
-X-WR-CALDESC:calendar_id=soccer_tokai_hokuriku_hs_girls / region=東海北陸 / scope=女子高校サッカー / timezone=Asia/Tokyo
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_girls-26ea52435b88a2c2@my-ics
+DTSTAMP:20260203T061653Z
+DTSTART;TZID=Asia/Tokyo:20260111T100000
+DTEND;TZID=Asia/Tokyo:20260111T120000
+SUMMARY:【東海北陸-女子高校】静岡新人 決勝T① NO.15 上位1位 vs NO.14勝者
+LOCATION:浜北平口スポーツ広場（浜松市）
+DESCRIPTION:出典：静岡県サッカー協会（令和７年度 静岡県高等学校新人大会女子サッカー競技 日程PDF） https://www.shizuoka-fa.com/app/uploads/2026/01/23ef91a90a493b34719782169e683c3b.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_girls-8920b0a6884be62c@my-ics
+DTSTAMP:20260203T061653Z
+DTSTART;TZID=Asia/Tokyo:20260111T120000
+DTEND;TZID=Asia/Tokyo:20260111T140000
+SUMMARY:【東海北陸-女子高校】静岡新人 決勝T① NO.16 上位2位 vs NO.13勝者
+LOCATION:浜北平口スポーツ広場（浜松市）
+DESCRIPTION:出典：静岡県サッカー協会（令和７年度 静岡県高等学校新人大会女子サッカー競技 日程PDF） https://www.shizuoka-fa.com/app/uploads/2026/01/23ef91a90a493b34719782169e683c3b.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_girls-0d820c2968a52d2e@my-ics
+DTSTAMP:20260203T061653Z
+DTSTART;TZID=Asia/Tokyo:20260117T103000
+DTEND;TZID=Asia/Tokyo:20260117T123000
+SUMMARY:【東海北陸-女子高校】静岡新人 決勝T② NO.13 上位4位 vs 下位リーグ1位（枠）
+LOCATION:藤枝市民グラウンド サッカー場（藤枝市）
+DESCRIPTION:出典：静岡県サッカー協会（令和７年度 静岡県高等学校新人大会女子サッカー競技 日程PDF） https://www.shizuoka-fa.com/app/uploads/2026/01/23ef91a90a493b34719782169e683c3b.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_girls-d7d3505adc7c4840@my-ics
+DTSTAMP:20260203T061653Z
+DTSTART;TZID=Asia/Tokyo:20260117T123000
+DTEND;TZID=Asia/Tokyo:20260117T143000
+SUMMARY:【東海北陸-女子高校】静岡新人 決勝T② NO.14 上位3位 vs 下位リーグ1位（枠）
+LOCATION:藤枝市民グラウンド サッカー場（藤枝市）
+DESCRIPTION:出典：静岡県サッカー協会（令和７年度 静岡県高等学校新人大会女子サッカー競技 日程PDF） https://www.shizuoka-fa.com/app/uploads/2026/01/23ef91a90a493b34719782169e683c3b.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_girls-f8fca88cb4f72d81@my-ics
+DTSTAMP:20260203T061653Z
+DTSTART;TZID=Asia/Tokyo:20260131T103000
+DTEND;TZID=Asia/Tokyo:20260131T123000
+SUMMARY:【東海北陸-女子高校】静岡新人 決勝 NO.19 NO.17勝者 vs NO.18勝者
+LOCATION:藤枝総合運動公園 陸上競技場（藤枝市）
+DESCRIPTION:出典：静岡県サッカー協会（令和７年度 静岡県高等学校新人大会女子サッカー競技 日程PDF） https://www.shizuoka-fa.com/app/uploads/2026/01/23ef91a90a493b34719782169e683c3b.pdf
+END:VEVENT
 END:VCALENDAR

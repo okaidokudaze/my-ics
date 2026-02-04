@@ -1,9 +1,157 @@
 BEGIN:VCALENDAR
-PRODID:-//masashi soccer ics//region split//JA
 VERSION:2.0
+PRODID:-//okaidokudaze//school-soccer//JP
 CALSCALE:GREGORIAN
-METHOD:PUBLISH
 X-WR-CALNAME:【中国】女子高校サッカー
 X-WR-TIMEZONE:Asia/Tokyo
-X-WR-CALDESC:calendar_id=soccer_chugoku_hs_girls / region=中国 / scope=女子高校サッカー / timezone=Asia/Tokyo
+BEGIN:VEVENT
+UID:b7d1c1d5-1a89-5e72-8d74-7369da46f7a0@my-ics
+DTSTAMP:20260203T083626Z
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251214
+SUMMARY:【中国-女子高校】鳥取県新人戦 1回戦 鳥取西 0-3 米子・米子東
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（鳥取県高校新人女子）\nhttps://www.sposoku.com/tottori-
+ shinjin-soccer/
+END:VEVENT
+BEGIN:VEVENT
+UID:3047c2ac-cdad-50be-807f-4265b4286181@my-ics
+DTSTAMP:20260203T083626Z
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251214
+SUMMARY:【中国-女子高校】鳥取県新人戦 1回戦 米子西 棄権 鳥取東
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（鳥取県高校新人女子）\nhttps://www.sposoku.com/tottori-
+ shinjin-soccer/
+END:VEVENT
+BEGIN:VEVENT
+UID:a6227b67-a54d-548a-af04-dd1baf9f0500@my-ics
+DTSTAMP:20260203T083626Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:【中国-女子高校】鳥取県新人戦 準決勝 米子・米子東 vs 鳥取東
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（鳥取県高校新人女子）\nhttps://www.sposoku.com/tottori-
+ shinjin-soccer/
+END:VEVENT
+BEGIN:VEVENT
+UID:67644d79-a11a-5e77-a5b9-25e0b4fc8859@my-ics
+DTSTAMP:20260203T083626Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:【中国-女子高校】鳥取県新人戦 決勝 鳥取城北 vs（相手未確定）
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（鳥取県高校新人女子）\nhttps://www.sposoku.com/tottori-
+ shinjin-soccer/
+END:VEVENT
+BEGIN:VEVENT
+UID:4a9431b1-902e-5b9a-82e9-d70269841363@my-ics
+DTSTAMP:20260203T083626Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:【中国-女子高校】岡山県新人戦 1回戦 岡山芳泉 vs 林野
+LOCATION:会場不明（岡山県）
+DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（岡山県高校新人女子）\nhttps://www.sposoku.com/okayama-
+ shinjin-soccer/
+END:VEVENT
+BEGIN:VEVENT
+UID:f90fcdcf-4fce-55b5-84f4-fe3cea33c9ba@my-ics
+DTSTAMP:20260203T083626Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:【中国-女子高校】岡山県新人戦 2回戦 林野 0-15 岡山学芸館
+LOCATION:会場不明（岡山県）
+DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（岡山県高校新人女子）\nhttps://www.sposoku.com/okayama-
+ shinjin-soccer/
+END:VEVENT
+BEGIN:VEVENT
+UID:3cdf1a3f-7467-544b-b0fd-8a3e21b1613b@my-ics
+DTSTAMP:20260203T083626Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+SUMMARY:【中国-女子高校】岡山県新人戦 決勝 作陽 vs 岡山学芸館
+LOCATION:会場不明（岡山県）
+DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（岡山県高校新人女子）\nhttps://www.sposoku.com/okayama-
+ shinjin-soccer/
+END:VEVENT
+BEGIN:VEVENT
+UID:08e5961d-e14b-5b17-9281-4698e8e332e2@my-ics
+DTSTAMP:20260203T083626Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:【中国-女子高校】広島県新人戦 予選① 広島皆実 vs 明王台・盈進・山陽女学園
+LOCATION:会場不明（広島県）
+DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（広島県高校新人女子）\nhttps://www.sposoku.com/hiroshim
+ a-shinjin-soccer/
+END:VEVENT
+BEGIN:VEVENT
+UID:e16c66a1-fba2-5371-8d96-2454c9890bcb@my-ics
+DTSTAMP:20260203T083626Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:【中国-女子高校】広島県新人戦 予選② 山陽 7-0 明王台・盈進・山陽女学園
+LOCATION:会場不明（広島県）
+DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（広島県高校新人女子）\nhttps://www.sposoku.com/hiroshim
+ a-shinjin-soccer/
+END:VEVENT
+BEGIN:VEVENT
+UID:afeb84fa-15c6-5204-b9af-a06b8c75e78d@my-ics
+DTSTAMP:20260203T083626Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:【中国-女子高校】広島県新人戦 予選② 沼田 0-0（勝:祇園北・広陵）
+LOCATION:会場不明（広島県）
+DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（広島県高校新人女子）\nhttps://www.sposoku.com/hiroshim
+ a-shinjin-soccer/
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca4b22a-22cd-586c-a549-9fe01b25637b@my-ics
+DTSTAMP:20260203T083626Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:【中国-女子高校】広島県新人戦 予選③ 山陽 9-0 祇園北・広陵
+LOCATION:会場不明（広島県）
+DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（広島県高校新人女子）\nhttps://www.sposoku.com/hiroshim
+ a-shinjin-soccer/
+END:VEVENT
+BEGIN:VEVENT
+UID:0268ec33-e569-578a-87b5-8c481dfbcdc0@my-ics
+DTSTAMP:20260203T083626Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+SUMMARY:【中国-女子高校】広島県新人戦 準決勝 AICJ vs 祇園北・広陵
+LOCATION:会場不明（広島県）
+DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（広島県高校新人女子）\nhttps://www.sposoku.com/hiroshim
+ a-shinjin-soccer/
+END:VEVENT
+BEGIN:VEVENT
+UID:00ce2daf-4e90-5290-86f7-b6fca71f124b@my-ics
+DTSTAMP:20260203T083626Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+SUMMARY:【中国-女子高校】広島県新人戦 準決勝 山陽 vs 広島文教
+LOCATION:会場不明（広島県）
+DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（広島県高校新人女子）\nhttps://www.sposoku.com/hiroshim
+ a-shinjin-soccer/
+END:VEVENT
+BEGIN:VEVENT
+UID:ee7f926e-b5b2-5618-8f21-fac31e370f9f@my-ics
+DTSTAMP:20260203T083626Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:【中国-女子高校】広島県新人戦 3位決定戦（カード未確定）
+LOCATION:会場不明（広島県）
+DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（広島県高校新人女子）\nhttps://www.sposoku.com/hiroshim
+ a-shinjin-soccer/
+END:VEVENT
+BEGIN:VEVENT
+UID:1dba492e-a245-5482-841c-4dafe5714f06@my-ics
+DTSTAMP:20260203T083626Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:【中国-女子高校】広島県新人戦 決勝（カード未確定）
+LOCATION:会場不明（広島県）
+DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（広島県高校新人女子）\nhttps://www.sposoku.com/hiroshim
+ a-shinjin-soccer/
+END:VEVENT
 END:VCALENDAR

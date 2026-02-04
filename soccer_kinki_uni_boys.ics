@@ -1,16 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//okaidokudaze my-ics//JA
+PRODID:-//masashi soccer calendar//JP//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:〖近畿〗男子大学サッカー（大阪除外）
+X-WR-CALNAME:【近畿】男子大学サッカー（大阪除外）
 X-WR-TIMEZONE:Asia/Tokyo
-X-WR-CALDESC:calendar_id=soccer_kinki_uni_boys / region=近畿 / scope=男子大学サッカー / timezone=Asia/Tokyo
-BEGIN:VEVENT
-UID:test-soccer_kinki_uni_boys-20260203@okaidokudaze
-DTSTAMP:20260202T000000Z
-DTSTART;VALUE=DATE:20260203
-DTEND;VALUE=DATE:20260204
-SUMMARY:テスト予定（後で消してOK）
-END:VEVENT
 END:VCALENDAR

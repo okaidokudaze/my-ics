@@ -1,9 +1,638 @@
 BEGIN:VCALENDAR
-PRODID:-//masashi soccer ics//region split//JA
 VERSION:2.0
+PRODID:-//my-ics//school-soccer//JA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:【関東】女子高校サッカー
 X-WR-TIMEZONE:Asia/Tokyo
-X-WR-CALDESC:calendar_id=soccer_kanto_hs_girls / region=関東 / scope=女子高校サッカー / timezone=Asia/Tokyo
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-3a6f04f7eaf03b59@my-ics
+DTSTAMP:20260203T022237Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】神奈川県女子新人大会 1回戦 多摩高等学校 vs 慶應義塾湘南藤沢高等部（M4）
+DTSTART;TZID=Asia/Tokyo:20251213T144000
+DTEND;TZID=Asia/Tokyo:20251213T164000
+LOCATION:伊勢原高等学校
+DESCRIPTION:出典：神奈川県サッカー協会（第32回神奈川県高等学校女子サッカー新人大会） https://kanagawa-fa.gr.jp/competition/whs_newcomer2025/\\n結果：3-5
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-5f0cdd198d6cc971@my-ics
+DTSTAMP:20260203T022237Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】神奈川県女子新人大会 1回戦 相洋高等学校 vs 法政大学国際高等学校（M8）
+DTSTART;TZID=Asia/Tokyo:20251213T130000
+DTEND;TZID=Asia/Tokyo:20251213T150000
+LOCATION:伊勢原高等学校
+DESCRIPTION:出典：神奈川県サッカー協会（第32回神奈川県高等学校女子サッカー新人大会） https://kanagawa-fa.gr.jp/competition/whs_newcomer2025/\\n結果：15-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-5816ac83105eb3ef@my-ics
+DTSTAMP:20260203T022237Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】神奈川県女子新人大会 1回戦 相模女子大学中学部・高等部 vs 白鵬女子高等学校（M17）
+DTSTART;TZID=Asia/Tokyo:20251213T144000
+DTEND;TZID=Asia/Tokyo:20251213T164000
+LOCATION:相模原弥栄高等学校
+DESCRIPTION:出典：神奈川県サッカー協会（第32回神奈川県高等学校女子サッカー新人大会） https://kanagawa-fa.gr.jp/competition/whs_newcomer2025/\\n結果：0-4
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-fb0ac188f63378c3@my-ics
+DTSTAMP:20260203T022237Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】神奈川県女子新人大会 2回戦 慶應義塾湘南藤沢高等部 vs 相模原弥栄高等学校（M17）
+DTSTART;TZID=Asia/Tokyo:20251221T090000
+DTEND;TZID=Asia/Tokyo:20251221T110000
+LOCATION:相模原弥栄高等学校
+DESCRIPTION:出典：神奈川県サッカー協会（第32回神奈川県高等学校女子サッカー新人大会） https://kanagawa-fa.gr.jp/competition/whs_newcomer2025/\\n結果：0-8
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-84f4148fffd0bd17@my-ics
+DTSTAMP:20260203T022237Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】神奈川県女子新人大会 2回戦 百合丘高等学校 vs 大和高等学校（M13）
+DTSTART;TZID=Asia/Tokyo:20251221T110000
+DTEND;TZID=Asia/Tokyo:20251221T130000
+LOCATION:相模原弥栄高等学校
+DESCRIPTION:出典：神奈川県サッカー協会（第32回神奈川県高等学校女子サッカー新人大会） https://kanagawa-fa.gr.jp/competition/whs_newcomer2025/\\n結果：0-31
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-241216d11f9381bf@my-ics
+DTSTAMP:20260203T022237Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】神奈川県女子新人大会 2回戦 三浦学苑高等学校 vs 白鵬女子高等学校（M14）
+DTSTART;TZID=Asia/Tokyo:20251221T130000
+DTEND;TZID=Asia/Tokyo:20251221T150000
+LOCATION:相模原弥栄高等学校
+DESCRIPTION:出典：神奈川県サッカー協会（第32回神奈川県高等学校女子サッカー新人大会） https://kanagawa-fa.gr.jp/competition/whs_newcomer2025/\\n結果：2-1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-f803b5d8b4ab6e98@my-ics
+DTSTAMP:20260203T022237Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】神奈川県女子新人大会 2回戦 相洋高等学校 vs 桐蔭学園高等学校（M15）
+DTSTART;TZID=Asia/Tokyo:20251221T130000
+DTEND;TZID=Asia/Tokyo:20251221T150000
+LOCATION:桐蔭学園高等学校
+DESCRIPTION:出典：神奈川県サッカー協会（第32回神奈川県高等学校女子サッカー新人大会） https://kanagawa-fa.gr.jp/competition/whs_newcomer2025/\\n結果：0-6
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-e8f474da9e0d02d8@my-ics
+DTSTAMP:20260203T022237Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】神奈川県女子新人大会 2回戦 湘南台高等学校 vs 合同（厚木王子・旭・二宮）（M18）
+DTSTART;TZID=Asia/Tokyo:20251221T144000
+DTEND;TZID=Asia/Tokyo:20251221T164000
+LOCATION:桐蔭学園高等学校
+DESCRIPTION:出典：神奈川県サッカー協会（第32回神奈川県高等学校女子サッカー新人大会） https://kanagawa-fa.gr.jp/competition/whs_newcomer2025/\\n結果：0-2
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-90b2db3e69cfdbb7@my-ics
+DTSTAMP:20260203T022237Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】神奈川県女子新人大会 3回戦 湘南学院高等学校 vs 神奈川県立海老名高等学校（M16）
+DTSTART;TZID=Asia/Tokyo:20260112T133000
+DTEND;TZID=Asia/Tokyo:20260112T153000
+LOCATION:湘南学院高等学校
+DESCRIPTION:出典：神奈川県サッカー協会（第32回神奈川県高等学校女子サッカー新人大会） https://kanagawa-fa.gr.jp/competition/whs_newcomer2025/\\n結果：16-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-31cab8cd0d6f741b@my-ics
+DTSTAMP:20260203T022237Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】神奈川県女子新人大会 準々決勝 星槎国際高等学校湘南 vs 大和高等学校（M19）
+DTSTART;TZID=Asia/Tokyo:20260118T153000
+DTEND;TZID=Asia/Tokyo:20260118T173000
+LOCATION:星槎国際湘南高等学校
+DESCRIPTION:出典：神奈川県サッカー協会（第32回神奈川県高等学校女子サッカー新人大会） https://kanagawa-fa.gr.jp/competition/whs_newcomer2025/\\n結果：3-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-aa9f9570742609ee@my-ics
+DTSTAMP:20260203T022237Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】神奈川県女子新人大会 準々決勝 三浦学苑高等学校 vs 桐蔭学園高等学校（M20）
+DTSTART;TZID=Asia/Tokyo:20260118T153000
+DTEND;TZID=Asia/Tokyo:20260118T173000
+LOCATION:湘南学院高等学校
+DESCRIPTION:出典：神奈川県サッカー協会（第32回神奈川県高等学校女子サッカー新人大会） https://kanagawa-fa.gr.jp/competition/whs_newcomer2025/\\n結果：1-3
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-adf59e5fbd5bccc2@my-ics
+DTSTAMP:20260203T022237Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】神奈川県女子新人大会 準々決勝 湘南学院高等学校 vs 相模原弥栄高等学校（M21）
+DTSTART;TZID=Asia/Tokyo:20260118T133000
+DTEND;TZID=Asia/Tokyo:20260118T153000
+LOCATION:湘南学院高等学校
+DESCRIPTION:出典：神奈川県サッカー協会（第32回神奈川県高等学校女子サッカー新人大会） https://kanagawa-fa.gr.jp/competition/whs_newcomer2025/\\n結果：1-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-d55168c5953141c1@my-ics
+DTSTAMP:20260203T022237Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】神奈川県女子新人大会 準々決勝 合同（厚木王子・旭・二宮） vs 神奈川県立藤沢清流高等学校（M22）
+DTSTART;TZID=Asia/Tokyo:20260118T133000
+DTEND;TZID=Asia/Tokyo:20260118T153000
+LOCATION:星槎国際湘南高等学校
+DESCRIPTION:出典：神奈川県サッカー協会（第32回神奈川県高等学校女子サッカー新人大会） https://kanagawa-fa.gr.jp/competition/whs_newcomer2025/\\n結果：0-14
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-e13617da2058102a@my-ics
+DTSTAMP:20260203T022237Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】神奈川県女子新人大会 準決勝 星槎国際高等学校湘南 vs 桐蔭学園高等学校（M23）
+DTSTART;TZID=Asia/Tokyo:20260201T100000
+DTEND;TZID=Asia/Tokyo:20260201T120000
+LOCATION:馬入ふれあい公園サッカー場（人工芝）
+DESCRIPTION:出典：神奈川県サッカー協会（第32回神奈川県高等学校女子サッカー新人大会） https://kanagawa-fa.gr.jp/competition/whs_newcomer2025/\\n結果：6-5
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-e2bc2e412efe05c3@my-ics
+DTSTAMP:20260203T022237Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】神奈川県女子新人大会 準決勝 湘南学院高等学校 vs 神奈川県立藤沢清流高等学校（M24）
+DTSTART;TZID=Asia/Tokyo:20260201T123000
+DTEND;TZID=Asia/Tokyo:20260201T143000
+LOCATION:馬入ふれあい公園サッカー場（人工芝）
+DESCRIPTION:出典：神奈川県サッカー協会（第32回神奈川県高等学校女子サッカー新人大会） https://kanagawa-fa.gr.jp/competition/whs_newcomer2025/\\n結果：2-1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-6d8da054d4628b25@my-ics
+DTSTAMP:20260203T022237Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】神奈川県女子新人大会 決勝 星槎国際高等学校湘南 vs 湘南学院高等学校（M25）
+DTSTART;TZID=Asia/Tokyo:20260208T110000
+DTEND;TZID=Asia/Tokyo:20260208T130000
+LOCATION:保土ケ谷公園サッカー場
+DESCRIPTION:出典：神奈川県サッカー協会（第32回神奈川県高等学校女子サッカー新人大会） https://kanagawa-fa.gr.jp/competition/whs_newcomer2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-19967c4d3f3ad9d8@my-ics
+DTSTAMP:20260203T043759Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】栃木女子新人 1回戦 大田原女子 vs 作新学院
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：Green Card ニュース（栃木県高校女子サッカー新人大会） https://www.juniorsoccer-news.com/post-1882524\\n結果：0-8
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-272a50f3958e15c7@my-ics
+DTSTAMP:20260203T043759Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】栃木女子新人 1回戦 宇都宮中央 vs 合同（小山城南・栃木翔南）
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：Green Card ニュース（栃木県高校女子サッカー新人大会） https://www.juniorsoccer-news.com/post-1882524\\n結果：5-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-6dd9a200ee88af33@my-ics
+DTSTAMP:20260203T043759Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】栃木女子新人 2回戦 宇都宮文星女子 vs 宇都宮女子
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：Green Card ニュース（栃木県高校女子サッカー新人大会） https://www.juniorsoccer-news.com/post-1882524\\n結果：3-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-fcee7134d878760d@my-ics
+DTSTAMP:20260203T043759Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】栃木女子新人 2回戦 作新学院 vs 矢板中央
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：Green Card ニュース（栃木県高校女子サッカー新人大会） https://www.juniorsoccer-news.com/post-1882524\\n結果：0-6
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-559fc7f86d031088@my-ics
+DTSTAMP:20260203T043759Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】栃木女子新人 2回戦 白鷗足利 vs 宇都宮中央
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：Green Card ニュース（栃木県高校女子サッカー新人大会） https://www.juniorsoccer-news.com/post-1882524\\n結果：5-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-3b7154de61bb924c@my-ics
+DTSTAMP:20260203T043759Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】栃木女子新人 2回戦 栃木女子 vs 宇都宮短大附属
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：Green Card ニュース（栃木県高校女子サッカー新人大会） https://www.juniorsoccer-news.com/post-1882524\\n結果：0-11
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-0c6bc837a28fcbc4@my-ics
+DTSTAMP:20260203T043759Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】栃木女子新人 準決勝 宇都宮文星女子 vs 矢板中央
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：Green Card ニュース（栃木県高校女子サッカー新人大会） https://www.juniorsoccer-news.com/post-1882524\\n結果：2-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-0dca58ad7cdc845c@my-ics
+DTSTAMP:20260203T043759Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】栃木女子新人 準決勝 白鷗足利 vs 宇都宮短大附属
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：Green Card ニュース（栃木県高校女子サッカー新人大会） https://www.juniorsoccer-news.com/post-1882524\\n結果：1-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-a1f56c2b440dfcd7@my-ics
+DTSTAMP:20260203T043759Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】栃木女子新人 決勝 宇都宮文星女子 vs 白鷗足利
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：Green Card ニュース（栃木県高校女子サッカー新人大会） https://www.juniorsoccer-news.com/post-1882524\\n結果：1-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-6da136b71c3d0af1@my-ics
+DTSTAMP:20260203T043759Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】栃木女子新人 3位決定戦 矢板中央 vs 宇都宮短大附属
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+LOCATION:会場不明（栃木県）
+DESCRIPTION:出典：Green Card ニュース（栃木県高校女子サッカー新人大会） https://www.juniorsoccer-news.com/post-1882524\\n結果：0-2
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-11629018718f80dc@my-ics
+DTSTAMP:20260203T044954Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】東京都高校女子新人戦 3回戦 日大三 vs 修徳
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+LOCATION:駒沢第二球技場
+DESCRIPTION:出典：東京都高等学校女子サッカー（東京女子高体連） 新人戦 試合日程・結果 https://tokyojyosi.yu-nagi.com/new.html
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-ed5b7e5ea23a4dc9@my-ics
+DTSTAMP:20260203T044954Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】東京都高校女子新人戦 3回戦 日体大桜華 vs 実践学園
+DTSTART;TZID=Asia/Tokyo:20260117T123000
+DTEND;TZID=Asia/Tokyo:20260117T143000
+LOCATION:駒沢補助競技場
+DESCRIPTION:出典：東京都高等学校女子サッカー（東京女子高体連） 新人戦 試合日程・結果 https://tokyojyosi.yu-nagi.com/new.html
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-9f529d3992b3352e@my-ics
+DTSTAMP:20260203T044954Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】東京都高校女子新人戦 3回戦 駒澤大高 vs 日体大荏原
+DTSTART;TZID=Asia/Tokyo:20260118T140000
+DTEND;TZID=Asia/Tokyo:20260118T160000
+LOCATION:駒沢第二球技場
+DESCRIPTION:出典：東京都高等学校女子サッカー（東京女子高体連） 新人戦 試合日程・結果 https://tokyojyosi.yu-nagi.com/new.html
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-a6326e318ad2754a@my-ics
+DTSTAMP:20260203T044954Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】東京都高校女子新人戦 準々決勝 日大三 vs 日体大荏原
+DTSTART;TZID=Asia/Tokyo:20260124T110000
+DTEND;TZID=Asia/Tokyo:20260124T130000
+LOCATION:駒沢第二球技場
+DESCRIPTION:出典：東京都高等学校女子サッカー（東京女子高体連） 新人戦 試合日程・結果 https://tokyojyosi.yu-nagi.com/new.html
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-d5ef6f19c7d336bf@my-ics
+DTSTAMP:20260203T044954Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】東京都高校女子新人戦 準々決勝 日体大桜華 vs 十文字
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T150000
+LOCATION:駒沢補助競技場
+DESCRIPTION:出典：東京都高等学校女子サッカー（東京女子高体連） 新人戦 試合日程・結果 https://tokyojyosi.yu-nagi.com/new.html
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-d0df52a1a6773c2a@my-ics
+DTSTAMP:20260203T044954Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】神奈川県女子新人大会 2回戦 湘南学院 vs 海老名
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+LOCATION:会場不明（神奈川県）
+DESCRIPTION:出典：湘南学院（女子サッカー部 活動速報） https://shonangakuin.ed.jp/news/activities-result/2026/120705/\nKO時刻不明（学校発表より日付確定）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-8476341a6b975293@my-ics
+DTSTAMP:20260203T044954Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】神奈川県女子新人大会 準々決勝 湘南学院 vs 相模原弥栄
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+LOCATION:会場不明（神奈川県）
+DESCRIPTION:出典：湘南学院（女子サッカー部 活動速報） https://shonangakuin.ed.jp/news/activities-result/2026/120705/\nKO時刻不明（学校発表より日付確定）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-6e6c4da14bd52f05@my-ics
+DTSTAMP:20260203T044954Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】神奈川県女子新人大会 準決勝 湘南学院 vs 藤沢清流
+DTSTART;TZID=Asia/Tokyo:20260201T123000
+DTEND;TZID=Asia/Tokyo:20260201T143000
+LOCATION:馬入ふれあい公園サッカー場（人工芝）
+DESCRIPTION:出典：湘南学院（女子サッカー部 活動速報） https://shonangakuin.ed.jp/news/activities-result/2026/120705/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-03c9b6dc76b04155@my-ics
+DTSTAMP:20260203T044954Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】千葉県高校新人体育大会サッカー（女子）試合日 第1日
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：千葉県サッカー協会（高校女子）『千葉県高等学校新人体育大会サッカー大会 女子の部』要項 https://www.chiba-fa.gr.jp/girls?cat=highschool\nKO時刻不明／会場割当不明（要項の開催日より）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-209196150d48ed27@my-ics
+DTSTAMP:20260203T044954Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】千葉県高校新人体育大会サッカー（女子）試合日 第2日
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：千葉県サッカー協会（高校女子）『千葉県高等学校新人体育大会サッカー大会 女子の部』要項 https://www.chiba-fa.gr.jp/girls?cat=highschool\nKO時刻不明／会場割当不明（要項の開催日より）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-7dd1be9c2b54dfaf@my-ics
+DTSTAMP:20260203T044954Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】千葉県高校新人体育大会サッカー（女子）試合日 第3日
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：千葉県サッカー協会（高校女子）『千葉県高等学校新人体育大会サッカー大会 女子の部』要項 https://www.chiba-fa.gr.jp/girls?cat=highschool\nKO時刻不明／会場割当不明（要項の開催日より）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-8273d254db33497e@my-ics
+DTSTAMP:20260203T044954Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】千葉県高校新人体育大会サッカー（女子）試合日 第4日
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：千葉県サッカー協会（高校女子）『千葉県高等学校新人体育大会サッカー大会 女子の部』要項 https://www.chiba-fa.gr.jp/girls?cat=highschool\nKO時刻不明／会場割当不明（要項の開催日より）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-4fc8a77be46ef001@my-ics
+DTSTAMP:20260203T044954Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】千葉県高校新人体育大会サッカー（女子）試合日 第5日
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+LOCATION:会場不明（千葉県）
+DESCRIPTION:出典：千葉県サッカー協会（高校女子）『千葉県高等学校新人体育大会サッカー大会 女子の部』要項 https://www.chiba-fa.gr.jp/girls?cat=highschool\nKO時刻不明／会場割当不明（要項の開催日より）
+END:VEVENT
+BEGIN:VEVENT
+UID:ea3bd7feae65ccf9@soccer_kanto_hs_girls
+DTSTAMP:20260203T005300Z
+DTSTART;TZID=Asia/Tokyo:20260110T100000
+DTEND;TZID=Asia/Tokyo:20260110T120000
+SUMMARY:【関東-女子高校】群馬女子新人 試合No1 太田女子 vs 伊勢崎清明
+LOCATION:SUNAGAサッカースタジアムあずま
+DESCRIPTION:出典: https://management.gunma-fa.com/api/match/170
+END:VEVENT
+BEGIN:VEVENT
+UID:f2a0359df87fea82@soccer_kanto_hs_girls
+DTSTAMP:20260203T005300Z
+DTSTART;TZID=Asia/Tokyo:20260110T114500
+DTEND;TZID=Asia/Tokyo:20260110T134500
+SUMMARY:【関東-女子高校】群馬女子新人 試合No2 前橋女子 vs 渋女・館女・関学・沼田
+LOCATION:SUNAGAサッカースタジアムあずま
+DESCRIPTION:出典: https://management.gunma-fa.com/api/match/170
+END:VEVENT
+BEGIN:VEVENT
+UID:36cd677a6cfff0b0@soccer_kanto_hs_girls
+DTSTAMP:20260203T005300Z
+DTSTART;TZID=Asia/Tokyo:20260110T133000
+DTEND;TZID=Asia/Tokyo:20260110T153000
+SUMMARY:【関東-女子高校】群馬女子新人 試合No3 高崎女子 vs 商大附・新島
+LOCATION:SUNAGAサッカースタジアムあずま
+DESCRIPTION:出典: https://management.gunma-fa.com/api/match/170
+END:VEVENT
+BEGIN:VEVENT
+UID:3c5629c77954db94@soccer_kanto_hs_girls
+DTSTAMP:20260203T005300Z
+DTSTART;TZID=Asia/Tokyo:20260112T100000
+DTEND;TZID=Asia/Tokyo:20260112T120000
+SUMMARY:【関東-女子高校】群馬女子新人 試合No4 対戦番号1の勝者 vs 対戦番号2の勝者
+LOCATION:SUNAGAサッカースタジアムあずま
+DESCRIPTION:出典: https://management.gunma-fa.com/api/match/170
+END:VEVENT
+BEGIN:VEVENT
+UID:70f3f8f86033c32a@soccer_kanto_hs_girls
+DTSTAMP:20260203T005300Z
+DTSTART;TZID=Asia/Tokyo:20260112T114500
+DTEND;TZID=Asia/Tokyo:20260112T134500
+SUMMARY:【関東-女子高校】群馬女子新人 試合No5 市立太田 vs 対戦番号3の勝者
+LOCATION:SUNAGAサッカースタジアムあずま
+DESCRIPTION:出典: https://management.gunma-fa.com/api/match/170
+END:VEVENT
+BEGIN:VEVENT
+UID:d2b8c3dcdb5b058c@soccer_kanto_hs_girls
+DTSTAMP:20260203T005300Z
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+SUMMARY:【関東-女子高校】群馬女子新人 試合No6 前橋育英 vs 対戦番号4の勝者
+LOCATION:太田市運動公園サッカー/ラグビー場
+DESCRIPTION:出典: https://management.gunma-fa.com/api/match/170
+END:VEVENT
+BEGIN:VEVENT
+UID:4736afbbe55fdc1f@soccer_kanto_hs_girls
+DTSTAMP:20260203T005300Z
+DTSTART;TZID=Asia/Tokyo:20260118T123000
+DTEND;TZID=Asia/Tokyo:20260118T143000
+SUMMARY:【関東-女子高校】群馬女子新人 試合No7 健大高崎 vs 対戦番号5の勝者
+LOCATION:太田市運動公園サッカー/ラグビー場
+DESCRIPTION:出典: https://management.gunma-fa.com/api/match/170
+END:VEVENT
+BEGIN:VEVENT
+UID:a75bcfb57c924d12@soccer_kanto_hs_girls
+DTSTAMP:20260203T005300Z
+DTSTART;TZID=Asia/Tokyo:20260125T100000
+DTEND;TZID=Asia/Tokyo:20260125T120000
+SUMMARY:【関東-女子高校】群馬女子新人 試合No8 対戦番号6の勝者 vs 対戦番号7の勝者
+LOCATION:SUNAGAサッカースタジアムあずま
+DESCRIPTION:出典: https://management.gunma-fa.com/api/match/170
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-8ea9fb6c03fa52e07325a4f819104e0e029a5d92@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:【関東-女子高校】茨城新人 1回戦 明秀日立 vs 土浦二高
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：Green Card ニュース https://www.juniorsoccer-news.com/post-1882555\\nKO時刻不明（終日登録）\\n結果：11-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-c4caf3bd61afb774e6f3d01773fd9ddc49bed04d@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:【関東-女子高校】茨城新人 1回戦 大成女子 vs 霞ヶ浦
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：Green Card ニュース https://www.juniorsoccer-news.com/post-1882555\\nKO時刻不明（終日登録）\\n結果：0-34
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-dbc1e168553a3ad7ac77541156a59be3167ab68f@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:【関東-女子高校】茨城新人 1回戦 合同② vs 合同①
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：Green Card ニュース https://www.juniorsoccer-news.com/post-1882555\\nKO時刻不明（終日登録）\\n結果：3-2（延長）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-48ef30a128e1c1de6c91ada4d7f252313c38b563@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:【関東-女子高校】茨城新人 準決勝 鹿島学園 vs 合同②
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：Green Card ニュース https://www.juniorsoccer-news.com/post-1882555\\nKO時刻不明（終日登録）\\n結果：12-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-d70d94463dc0a2ec65f69daa90298c75732801ba@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:【関東-女子高校】茨城新人 準決勝 明秀日立 vs 霞ヶ浦
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：Green Card ニュース https://www.juniorsoccer-news.com/post-1882555\\nKO時刻不明（終日登録）\\n結果：2-2(PK5-4)
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-6ebb8fc87a1f0286db6b41680a923470a1277291@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:【関東-女子高校】茨城新人 下位トーナメント 土浦二高 vs 大成女子
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：Green Card ニュース https://www.juniorsoccer-news.com/post-1882555\\nKO時刻不明（終日登録）\\n結果：13-0
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-5dcdf42e6d2ff6da0d96a321b63131801dfa7139@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:【関東-女子高校】茨城新人 決勝 鹿島学園 vs 明秀日立
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：Green Card ニュース https://www.juniorsoccer-news.com/post-1882555\\nKO時刻不明（終日登録）\\n結果：1-2
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-cf74f1d5b0b67fa4745ba8e0dd0a447e0b8feca1@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:【関東-女子高校】茨城新人 3位決定戦 合同② vs 霞ヶ浦
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：Green Card ニュース https://www.juniorsoccer-news.com/post-1882555\\nKO時刻不明（終日登録）\\n結果：0-16
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-09bfdff29b22a9bc7f5e174146a46bc88e2bd354@okaidokudaze
+DTSTAMP:20260203T120000
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:【関東-女子高校】茨城新人 5位決定戦 合同① vs 土浦二高
+LOCATION:会場不明（茨城県）
+DESCRIPTION:出典：Green Card ニュース https://www.juniorsoccer-news.com/post-1882555\\nKO時刻不明（終日登録）\\n結果：1-1(PK4-3)
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-34bd2c861903287c@my-ics
+DTSTAMP:20260203T030000Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】東京都高校女子新人戦 3回戦 文京学院女子 vs 杉並総合
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典: 東京高校女子サッカー（新人戦 試合情報）\n結果: 文京学院女子 0-2 杉並総合
+END:VEVENT
+
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-0e957a39b3d29464@my-ics
+DTSTAMP:20260203T030000Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】東京都高校女子新人戦 3回戦 東大和 vs 清瀬
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典: 東京高校女子サッカー（新人戦 試合情報）\n結果: 東大和 4-0 清瀬
+END:VEVENT
+
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-b6bc8273f9951f7a@my-ics
+DTSTAMP:20260203T030000Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】東京都高校女子新人戦 3回戦 日体大桜華 vs 飛鳥
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典: 東京高校女子サッカー（新人戦 試合情報）\n結果: 日体大桜華 0-10 飛鳥
+END:VEVENT
+
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-4dbebae97af42943@my-ics
+DTSTAMP:20260203T030000Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】東京都高校女子新人戦 3回戦 晴海総合 vs 東久留米総合
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典: 東京高校女子サッカー（新人戦 試合情報）\n結果: 晴海総合 2-1 東久留米総合
+END:VEVENT
+
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-fe50ec0d684d4224@my-ics
+DTSTAMP:20260203T030000Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】東京都高校女子新人戦 準々決勝 十文字 vs 杉並総合
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典: 東京高校女子サッカー（新人戦 試合情報）\n結果: 十文字 4-0 杉並総合
+END:VEVENT
+
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-24de20023b43a3a2@my-ics
+DTSTAMP:20260203T030000Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】東京都高校女子新人戦 準々決勝 東大和 vs 帝京
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典: 東京高校女子サッカー（新人戦 試合情報）\n結果: 東大和 6-0 帝京
+END:VEVENT
+
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-ffb51caf61f1ad58@my-ics
+DTSTAMP:20260203T030000Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】東京都高校女子新人戦 準々決勝 合同D vs 飛鳥
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典: 東京高校女子サッカー（新人戦 試合情報）\n結果: 合同D 0-6 飛鳥
+END:VEVENT
+
+BEGIN:VEVENT
+UID:soccer_kanto_hs_girls-f5976bfdb1dc918b@my-ics
+DTSTAMP:20260203T030000Z
+SEQUENCE:0
+SUMMARY:【関東-女子高校】東京都高校女子新人戦 準々決勝 晴海総合 vs 修徳
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:会場不明（東京都）
+DESCRIPTION:出典: 東京高校女子サッカー（新人戦 試合情報）\n結果: 晴海総合 0-6 修徳
+END:VEVENT
 END:VCALENDAR

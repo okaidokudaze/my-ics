@@ -1,9 +1,8 @@
 BEGIN:VCALENDAR
-PRODID:-//masashi soccer ics//region split//JA
 VERSION:2.0
+PRODID:-//masashi//school-soccer-ics//JP
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:【九州沖縄】男子大学サッカー
 X-WR-TIMEZONE:Asia/Tokyo
-X-WR-CALDESC:calendar_id=soccer_kyushu_okinawa_uni_boys / region=九州沖縄 / scope=男子大学サッカー / timezone=Asia/Tokyo
 END:VCALENDAR
