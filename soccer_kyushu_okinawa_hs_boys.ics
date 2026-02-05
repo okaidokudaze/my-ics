@@ -2604,4 +2604,294 @@ DTEND;TZID=Asia/Tokyo:20260201T160000
 LOCATION:PEACE STADIUM Connected by SoftBank
 DESCRIPTION:種別：高校／男子（U-18交流）\n対戦：九州文化学園 vs 第1試合の勝利チーム（未確定）\n回戦：決勝\n大会：長崎スタジアムシティU-18ファイナルカップ～サッカーには夢がある～\n都道府県：長崎県\n時刻：14:00（KO）\n備考：（勝者が相手）\n出典：https://www.nagasakistadiumcity.com/20260126-2/
 END:VEVENT
+BEGIN:VEVENT
+UID:4436c203a4f4bbee3e014cb590fcf56c67f07f7f@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：唐津西 vs 唐津東\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：1-8\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:bc754f5886cd18a8a8b96e5c14065323accd5e1a@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：伊万里 vs 多久\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：6-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:45179950a0bb78741aa08c578a056894fa5ba764@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：三養基 vs 武雄\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：0-3\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:54e23f25c9e7d33ea4896367029d690c4aebeaea@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：敬徳 vs 唐津工\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：2-1\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:d445b22f1e0921fe3ebae85595780c57cb55533f@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：鳥栖 vs 弘学館\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：1-1 PK1-4\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:8cc43b69e4873d3330695f95b9cd4fe4311c91c4@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀清和 vs 鹿島\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：12-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:04d2b93266d4b7d5739de0498529987418771902@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：唐津商 vs 佐賀北\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：0-3\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ffeb81b5ab745e6add59297e144f69add54b5d8d@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀商 vs 青翔・厳木\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：15-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:062555ff698534dacea28d9099a6940322422096@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀西 vs 鳥栖工\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：2-1\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:7130eccc027c3263a5f66ce7509154444176c42c@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：有田工・白石 vs 東明館\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：1-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:13bf0c9abfcb02675a64c0dfa08b33e82750b93c@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：小城 vs 佐賀学園\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：1-3\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:547bf6d00c4c4c8620b083c302242f2681a30c56@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀農 vs 佐賀工\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：0-1\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:b1198b68ca480430ab670b505e180ff682635bbe@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：致遠館 vs 早稲田佐賀\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：0-0 PK5-6\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:376bd297e983fc192ee2a27e9596d614f129580e@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：嬉野 vs 北陵\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：2-1\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ec48a22ea47910bd064f67c0f6ba40718550267d@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀東 vs 唐津東\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：2回戦\n結果：10-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:39ba304affeeaa633fdf3ff4f09759272f3345a9@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：伊万里 vs 武雄\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：2回戦\n結果：0-2\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:1099d9013b46bbf03c0a2342337145298c006082@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：敬徳 vs 弘学館\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：2回戦\n結果：4-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:e9cac933cf7a4e35f741abdb8a5d78dba4650c8c@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀清和 vs 佐賀北\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：2回戦\n結果：3-1\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:40f3112c9d5c103fd046e572d391809de84d72d6@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀商 vs 佐賀西\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：2回戦\n結果：3-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:9bcd265a29189ad0af72b8092f2a4c104632e774@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：有田工・白石 vs 佐賀学園\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：2回戦\n結果：0-11\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:f043ccf2d042ca22dc6a673d35dedfd716fa4b68@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀工 vs 早稲田佐賀\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：2回戦\n結果：2-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:7d05fefb2945f72e427056edb3d020a39c8aeff9@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：嬉野 vs 龍谷\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：2回戦\n結果：0-12\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:f902b95b87a74190ebb24faae08a5a7011c802ab@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀東 vs 武雄\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：準々決勝\n結果：11-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:0271b7a10c0d544dab11ffe9ba3604080c67ca56@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：敬徳 vs 佐賀清和\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：準々決勝\n結果：0-1\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ae9c40ac010132c41298d2d7b15c9060011b085b@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀商 vs 佐賀学園\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：準々決勝\n結果：3-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:d9dc082c9b53b36afffc7885bb6b8eff11a5d848@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀工 vs 龍谷\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：準々決勝\n結果：0-7\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:60e78b8664a3a63503f6f331c0eb80af4e0af45e@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀東 vs 佐賀清和\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：準決勝\n結果：3-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:4db488b3d6dcc9a1ec21f34acde23f40f0fa37c6@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀商 vs 龍谷\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：準決勝\n結果：0-1\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:16f40e160fefb570c9a346ae3dc6945f73834d22@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀東 vs 龍谷\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：決勝\n結果：5-2\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
 END:VCALENDAR
