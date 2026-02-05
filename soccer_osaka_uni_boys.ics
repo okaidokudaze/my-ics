@@ -6,86 +6,102 @@ X-WR-CALNAME:【大阪】男子大学サッカー
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:soccer_osaka_uni_boys-8f62b9214233@ics
-DTSTAMP:20260205T041428Z
+DTSTAMP:20260205T050342Z
 SEQUENCE:1
-SUMMARY:大阪府／第74回全日本大学サッカー選手権
+SUMMARY:大阪府／第74回全日本大学サッカー選手権 プレー
+ オフ 阪南大学
 DTSTART;TZID=Asia/Tokyo:20251206T133000
 LOCATION:J-GREEN堺 メインフィールド（大阪府堺市堺区築港
  八幡町145）
 DESCRIPTION:2025年度 第74回全日本大学サッカー選手権大会
  （JUFA）\nマッチNo.7\n結果：阪南大学 2-0 鹿屋体育大学\n
- 出典：https://www.jufa.jp/_data/pdf/p_1765788566.pdf
+ 出典：https://www.jufa.jp/_data/pdf/p_1765788566.pdf\n要確認：SUMMA
+ RY未統一（都道府県/大会名の明記なし）
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_osaka_uni_boys-50ef79d04c98@ics
-DTSTAMP:20260205T041428Z
+DTSTAMP:20260205T050342Z
 SEQUENCE:1
-SUMMARY:大阪府／第74回全日本大学サッカー選手権
+SUMMARY:大阪府／第74回全日本大学サッカー選手権 GS第1節C
+  大阪体育大学
 DTSTART;TZID=Asia/Tokyo:20251213T110000
 LOCATION:ヤンマーフィールド長居（大阪府大阪市東住吉区
  長居公園1-1）
-DESCRIPTION:2025年度 第74回全日本大学サッカー選手権大会
+DESCRIPTION:大会：第74回全日本大学サッカー選手権 GS第1節
+ C 大阪体育大学\n都道府県：ヤンマーフィールド長居（
+ 大阪府\n2025年度 第74回全日本大学サッカー選手権大会
  （JUFA）\nマッチNo.13\n出典：https://www.jufa.jp/_data/pdf/p_17657
  88566.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_osaka_uni_boys-f1515aef664e@ics
-DTSTAMP:20260205T041428Z
+DTSTAMP:20260205T050342Z
 SEQUENCE:1
-SUMMARY:大阪府／第74回全日本大学サッカー選手権
+SUMMARY:大阪府／第74回全日本大学サッカー選手権 GS第1節C
+  関西学院大学
 DTSTART;TZID=Asia/Tokyo:20251213T140000
 LOCATION:ヤンマーフィールド長居（大阪府大阪市東住吉区
  長居公園1-1）
-DESCRIPTION:2025年度 第74回全日本大学サッカー選手権大会
+DESCRIPTION:大会：第74回全日本大学サッカー選手権 GS第1節
+ C 関西学院大学\n都道府県：ヤンマーフィールド長居（
+ 大阪府\n2025年度 第74回全日本大学サッカー選手権大会
  （JUFA）\nマッチNo.17\n出典：https://www.jufa.jp/_data/pdf/p_17657
  88566.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_osaka_uni_boys-1120106f7a78@ics
-DTSTAMP:20260205T041428Z
+DTSTAMP:20260205T050342Z
 SEQUENCE:1
-SUMMARY:大阪府／第74回全日本大学サッカー選手権
+SUMMARY:大阪府／第74回全日本大学サッカー選手権 GS第2節C
+  大阪体育大学
 DTSTART;TZID=Asia/Tokyo:20251215T110000
 LOCATION:J-GREEN堺 メインフィールド（大阪府堺市堺区築港
  八幡町145）
 DESCRIPTION:2025年度 第74回全日本大学サッカー選手権大会
  （JUFA）\nマッチNo.21\n結果：大阪体育大学 6-0 仙台大学\n
- 出典：https://www.jufa.jp/_data/pdf/p_1765788566.pdf
+ 出典：https://www.jufa.jp/_data/pdf/p_1765788566.pdf\n要確認：SUMMA
+ RY未統一（都道府県/大会名の明記なし）
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_osaka_uni_boys-f51a4697078b@ics
-DTSTAMP:20260205T041428Z
+DTSTAMP:20260205T050342Z
 SEQUENCE:1
-SUMMARY:大阪府／第74回全日本大学サッカー選手権
+SUMMARY:大阪府／第74回全日本大学サッカー選手権 GS第2節C
+  関西学院大学
 DTSTART;TZID=Asia/Tokyo:20251215T140000
 LOCATION:J-GREEN堺 メインフィールド（大阪府堺市堺区築港
  八幡町145）
 DESCRIPTION:2025年度 第74回全日本大学サッカー選手権大会
  （JUFA）\nマッチNo.25\n結果：関西学院大学 3-1 高松大学\n
- 出典：https://www.jufa.jp/_data/pdf/p_1765788566.pdf
+ 出典：https://www.jufa.jp/_data/pdf/p_1765788566.pdf\n要確認：SUMMA
+ RY未統一（都道府県/大会名の明記なし）
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_osaka_uni_boys-4bf87cb6494e@ics
-DTSTAMP:20260205T041428Z
+DTSTAMP:20260205T050342Z
 SEQUENCE:1
-SUMMARY:大阪府／第74回全日本大学サッカー選手権
+SUMMARY:大阪府／第74回全日本大学サッカー選手権 GS第3節C
+  高松大学
 DTSTART;TZID=Asia/Tokyo:20251217T110000
 LOCATION:J-GREEN堺 メインフィールド（大阪府堺市堺区築港
  八幡町145）
 DESCRIPTION:2025年度 第74回全日本大学サッカー選手権大会
  （JUFA）\nマッチNo.41\n出典：https://www.jufa.jp/_data/pdf/p_17657
- 88566.pdf
+ 88566.pdf\n要確認：SUMMARY未統一（都道府県/大会名の明記
+ なし）
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_osaka_uni_boys-49f04f2b57f1@ics
-DTSTAMP:20260205T041428Z
+DTSTAMP:20260205T050342Z
 SEQUENCE:1
-SUMMARY:大阪府／第74回全日本大学サッカー選手権
+SUMMARY:大阪府／第74回全日本大学サッカー選手権 GS第3節C
+  関西学院大学
 DTSTART;TZID=Asia/Tokyo:20251217T140000
 LOCATION:J-GREEN堺 メインフィールド（大阪府堺市堺区築港
  八幡町145）
 DESCRIPTION:2025年度 第74回全日本大学サッカー選手権大会
  （JUFA）\nマッチNo.45\n出典：https://www.jufa.jp/_data/pdf/p_17657
- 88566.pdf
+ 88566.pdf\n要確認：SUMMARY未統一（都道府県/大会名の明記
+ なし）
 END:VEVENT
 END:VCALENDAR

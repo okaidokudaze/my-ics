@@ -11,7 +11,7 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20260201
 DTEND;VALUE=DATE:20260202
-SUMMARY:会場不明（福岡県／結果速報
+SUMMARY:福岡県／結果速報
 LOCATION:会場不明（福岡県）
 DESCRIPTION:大会：結果速報\n都道府県：会場不明（福岡県\
  n出典：九州高校サッカー新人戦予選大会特設サイト（
@@ -23,7 +23,7 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20260201
 DTEND;VALUE=DATE:20260202
-SUMMARY:会場不明（大分県／結果速報
+SUMMARY:大分県／結果速報
 LOCATION:会場不明（大分県）
 DESCRIPTION:大会：結果速報\n都道府県：会場不明（大分県\
  n出典：九州高校サッカー新人戦予選大会特設サイト（

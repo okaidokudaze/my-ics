@@ -10,13 +10,15 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251206T131500
 DTEND;TZID=Asia/Tokyo:20251206T151500
-SUMMARY:【東海北陸-女子大学】東海女子L1部 第28節 中京大
-  vs 愛知東邦大
+SUMMARY:都道府県不明／東海女子L1部 第28節 中京大
 LOCATION:中京大学 豊田キャンパス（愛知）
 DESCRIPTION:出典：東海サッカー協会（東海女子サッカーリ
- ーグ1部 日程PDF）\nhttps://tokai-fa.jp/up_pdf/%E6%9D%B1%E6%B5%B7%E5%A
- 5%B3%E5%AD%90L%E7%B5%84%E5%90%88%E3%81%9B1012.pdf\n要確認：SUMMARY未
- 統一（都道府県/大会名の明記なし）
+ ーグ1部 日程PDF）
+https://tokai-fa.jp/up_pdf/%E6%9D%B1%E6%B5%B7%E5%A5%B3%E5%AD%90L%E7%B5%84%E
+ 5%90%88%E3%81%9B1012.pdf
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_tokai_hokuriku_uni_girls_tokaiw_20251207_r29@my-ics
@@ -24,13 +26,15 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251207T140000
 DTEND;TZID=Asia/Tokyo:20251207T160000
-SUMMARY:【東海北陸-女子大学】東海女子L1部 第29節 常葉橘
- 高 vs 中京大
+SUMMARY:都道府県不明／東海女子L1部 第29節 常葉橘高
 LOCATION:とこはグリーンフィールド（静岡）
 DESCRIPTION:出典：東海サッカー協会（東海女子サッカーリ
- ーグ1部 日程PDF）\nhttps://tokai-fa.jp/up_pdf/%E6%9D%B1%E6%B5%B7%E5%A
- 5%B3%E5%AD%90L%E7%B5%84%E5%90%88%E3%81%9B1012.pdf\n要確認：SUMMARY未
- 統一（都道府県/大会名の明記なし）
+ ーグ1部 日程PDF）
+https://tokai-fa.jp/up_pdf/%E6%9D%B1%E6%B5%B7%E5%A5%B3%E5%AD%90L%E7%B5%84%E
+ 5%90%88%E3%81%9B1012.pdf
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_tokai_hokuriku_uni_girls_tokaiw_20251213_r30@my-ics
@@ -38,12 +42,14 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251213T133000
 DTEND;TZID=Asia/Tokyo:20251213T153000
-SUMMARY:【東海北陸-女子大学】東海女子L1部 第30節 愛知東
- 邦大 vs 藤枝順心高
+SUMMARY:都道府県不明／東海女子L1部 第30節 愛知東邦大
 LOCATION:愛知東邦大学 日進グランド（愛知）
 DESCRIPTION:出典：東海サッカー協会（東海女子サッカーリ
- ーグ1部 日程PDF）\nhttps://tokai-fa.jp/up_pdf/%E6%9D%B1%E6%B5%B7%E5%A
- 5%B3%E5%AD%90L%E7%B5%84%E5%90%88%E3%81%9B1012.pdf\n要確認：SUMMARY未
- 統一（都道府県/大会名の明記なし）
+ ーグ1部 日程PDF）
+https://tokai-fa.jp/up_pdf/%E6%9D%B1%E6%B5%B7%E5%A5%B3%E5%AD%90L%E7%B5%84%E
+ 5%90%88%E3%81%9B1012.pdf
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 END:VCALENDAR

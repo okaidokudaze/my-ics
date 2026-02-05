@@ -10,27 +10,12 @@ UID:d3fedad04c195a25da4de47e243bba82@my-ics
 DTSTAMP:20260205T050342Z
 DTSTART;TZID=Asia/Tokyo:20251206T110000
 DTEND;TZID=Asia/Tokyo:20251206T130000
-SUMMARY:味の素フィールド⻄が丘（東京都／全日本大学サ
- ッカー選手権大会／日程PDF
+SUMMARY:東京都／全日本大学サッカー選手権大会／日程PDF
 LOCATION:味の素フィールド⻄が丘（東京都）
 DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：味の素フィールド⻄が丘（東京都\n出典：JU
- FA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www
- .jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：3
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:2766d1a14495dfbecc1bd33af095e33a@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251206T140000
-DTEND;TZID=Asia/Tokyo:20251206T160000
-SUMMARY:味の素フィールド⻄が丘（東京都／全日本大学サ
- ッカー選手権大会／日程PDF
-LOCATION:味の素フィールド⻄が丘（東京都）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：味の素フィールド⻄が丘（東京都\n出典：JU
- FA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www
- .jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：4
+ \n都道府県：味の素フィールド⻄が丘（東京都\n出典：J
+ UFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://w
+ ww.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：3
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
@@ -38,13 +23,25 @@ UID:fc06eb72531a361bd3ba7330f699e702@my-ics
 DTSTAMP:20260205T050342Z
 DTSTART;TZID=Asia/Tokyo:20251206T110000
 DTEND;TZID=Asia/Tokyo:20251206T130000
-SUMMARY:AGFフィールド（東京都／全日本大学サッカー選手
- 権大会／日程PDF
+SUMMARY:東京都／全日本大学サッカー選手権大会／日程PDF
 LOCATION:AGFフィールド（東京都）
 DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
  \n都道府県：AGFフィールド（東京都\n出典：JUFA（全日本
- 大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data
- /pdf/p_1765012943.pdf\n試合番号：5
+ 大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_dat
+ a/pdf/p_1765012943.pdf\n試合番号：5
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:2766d1a14495dfbecc1bd33af095e33a@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251206T140000
+DTEND;TZID=Asia/Tokyo:20251206T160000
+SUMMARY:東京都／全日本大学サッカー選手権大会／日程PDF
+LOCATION:味の素フィールド⻄が丘（東京都）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：味の素フィールド⻄が丘（東京都\n出典：J
+ UFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://w
+ ww.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：4
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
@@ -52,377 +49,12 @@ UID:73abfbdd47980aa63211dbb1b0e902cd@my-ics
 DTSTAMP:20260205T050342Z
 DTSTART;TZID=Asia/Tokyo:20251213T110000
 DTEND;TZID=Asia/Tokyo:20251213T130000
-SUMMARY:AGFフィールド（東京都／全日本大学サッカー選手
- 権大会／日程PDF
+SUMMARY:東京都／全日本大学サッカー選手権大会／日程PDF
 LOCATION:AGFフィールド（東京都）
 DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
  \n都道府県：AGFフィールド（東京都\n出典：JUFA（全日本
- 大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data
- /pdf/p_1765012943.pdf\n試合番号：11
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:647e2eb86f69aa9a0a6d4916ca57c641@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251213T140000
-DTEND;TZID=Asia/Tokyo:20251213T160000
-SUMMARY:AGFフィールド（東京都／全日本大学サッカー選手
- 権大会／日程PDF
-LOCATION:AGFフィールド（東京都）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：AGFフィールド（東京都\n出典：JUFA（全日本
- 大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data
- /pdf/p_1765012943.pdf\n試合番号：15
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:598213d2f2996a6310b11e4fc2988f05@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251215T110000
-DTEND;TZID=Asia/Tokyo:20251215T130000
-SUMMARY:相模原ギオンスタジアム（神奈川県／全日本大学
- サッカー選手権大会／日程PDF
-LOCATION:相模原ギオンスタジアム（神奈川県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：相模原ギオンスタジアム（神奈川県\n出典
- ：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps:
- //www.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：19
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:ad247aa2e56463358456301ad295bfba@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251215T140000
-DTEND;TZID=Asia/Tokyo:20251215T160000
-SUMMARY:相模原ギオンスタジアム（神奈川県／全日本大学
- サッカー選手権大会／日程PDF
-LOCATION:相模原ギオンスタジアム（神奈川県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：相模原ギオンスタジアム（神奈川県\n出典
- ：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps:
- //www.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：23
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:820ff9fbec8a0f08cef7c38a4324d37e@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251215T110000
-DTEND;TZID=Asia/Tokyo:20251215T130000
-SUMMARY:フクダ電⼦フィールドA⾯（千葉県／全日本大学サ
- ッカー選手権大会／日程PDF
-LOCATION:フクダ電⼦フィールドA⾯（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦フィールドA⾯（千葉県\n出典：J
- UFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://ww
- w.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：27
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:03e47dcd555ef3bb05c1d7eb58e5a5e6@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251215T110000
-DTEND;TZID=Asia/Tokyo:20251215T130000
-SUMMARY:フクダ電⼦フィールドB⾯（千葉県／全日本大学サ
- ッカー選手権大会／日程PDF
-LOCATION:フクダ電⼦フィールドB⾯（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦フィールドB⾯（千葉県\n出典：J
- UFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://ww
- w.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：28
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:ac23512357739716a20a153a8df0d1cf@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251215T110000
-DTEND;TZID=Asia/Tokyo:20251215T130000
-SUMMARY:フクダ電⼦スクエア（千葉県／全日本大学サッカ
- ー選手権大会／日程PDF
-LOCATION:フクダ電⼦スクエア（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦スクエア（千葉県\n出典：JUFA（
- 全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa
- .jp/_data/pdf/p_1765012943.pdf\n試合番号：29
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:3cb7db26d3c3d0db5273f115b99a0f3f@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251215T140000
-DTEND;TZID=Asia/Tokyo:20251215T160000
-SUMMARY:フクダ電⼦フィールドA⾯（千葉県／全日本大学サ
- ッカー選手権大会／日程PDF
-LOCATION:フクダ電⼦フィールドA⾯（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦フィールドA⾯（千葉県\n出典：J
- UFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://ww
- w.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：30
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:056df04039b9853265fd703eaabb9420@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251215T140000
-DTEND;TZID=Asia/Tokyo:20251215T160000
-SUMMARY:フクダ電⼦フィールドB⾯（千葉県／全日本大学サ
- ッカー選手権大会／日程PDF
-LOCATION:フクダ電⼦フィールドB⾯（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦フィールドB⾯（千葉県\n出典：J
- UFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://ww
- w.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：31
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:3dc91d4170bc7aac69a9d425f620a373@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251215T140000
-DTEND;TZID=Asia/Tokyo:20251215T160000
-SUMMARY:フクダ電⼦スクエア（千葉県／全日本大学サッカ
- ー選手権大会／日程PDF
-LOCATION:フクダ電⼦スクエア（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦スクエア（千葉県\n出典：JUFA（
- 全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa
- .jp/_data/pdf/p_1765012943.pdf\n試合番号：32
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:973e75a609d12f150c08eaf2dcadf87b@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251216T110000
-DTEND;TZID=Asia/Tokyo:20251216T130000
-SUMMARY:フクダ電⼦フィールドA⾯（千葉県／全日本大学サ
- ッカー選手権大会／日程PDF
-LOCATION:フクダ電⼦フィールドA⾯（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦フィールドA⾯（千葉県\n出典：J
- UFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://ww
- w.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：33
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:f42481e00b7dce3734fe3f4e5cb89c99@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251216T110000
-DTEND;TZID=Asia/Tokyo:20251216T130000
-SUMMARY:フクダ電⼦フィールドB⾯（千葉県／全日本大学サ
- ッカー選手権大会／日程PDF
-LOCATION:フクダ電⼦フィールドB⾯（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦フィールドB⾯（千葉県\n出典：J
- UFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://ww
- w.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：34
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:9637e9b5179896ad9bb5e2922dfe8d97@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251216T110000
-DTEND;TZID=Asia/Tokyo:20251216T130000
-SUMMARY:フクダ電⼦スクエア（千葉県／全日本大学サッカ
- ー選手権大会／日程PDF
-LOCATION:フクダ電⼦スクエア（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦スクエア（千葉県\n出典：JUFA（
- 全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa
- .jp/_data/pdf/p_1765012943.pdf\n試合番号：35
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:7a98a427fec85c147e4fe5af069be3bb@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251216T140000
-DTEND;TZID=Asia/Tokyo:20251216T160000
-SUMMARY:フクダ電⼦フィールドA⾯（千葉県／全日本大学サ
- ッカー選手権大会／日程PDF
-LOCATION:フクダ電⼦フィールドA⾯（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦フィールドA⾯（千葉県\n出典：J
- UFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://ww
- w.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：36
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:568806be105a6b513c04d5764ecc1054@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251216T140000
-DTEND;TZID=Asia/Tokyo:20251216T160000
-SUMMARY:フクダ電⼦フィールドB⾯（千葉県／全日本大学サ
- ッカー選手権大会／日程PDF
-LOCATION:フクダ電⼦フィールドB⾯（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦フィールドB⾯（千葉県\n出典：J
- UFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://ww
- w.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：37
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:1526b01eb265c8ddbc55140b4a0486e6@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251216T140000
-DTEND;TZID=Asia/Tokyo:20251216T160000
-SUMMARY:フクダ電⼦スクエア（千葉県／全日本大学サッカ
- ー選手権大会／日程PDF
-LOCATION:フクダ電⼦スクエア（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦スクエア（千葉県\n出典：JUFA（
- 全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa
- .jp/_data/pdf/p_1765012943.pdf\n試合番号：38
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:b8b214c768521c891638c02823a8f655@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251217T110000
-DTEND;TZID=Asia/Tokyo:20251217T130000
-SUMMARY:AGFフィールド（東京都／全日本大学サッカー選手
- 権大会／日程PDF
-LOCATION:AGFフィールド（東京都）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：AGFフィールド（東京都\n出典：JUFA（全日本
- 大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data
- /pdf/p_1765012943.pdf\n試合番号：39
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:b5366c054323ccb2ff13904df8e2c536@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251217T140000
-DTEND;TZID=Asia/Tokyo:20251217T160000
-SUMMARY:AGFフィールド（東京都／全日本大学サッカー選手
- 権大会／日程PDF
-LOCATION:AGFフィールド（東京都）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：AGFフィールド（東京都\n出典：JUFA（全日本
- 大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data
- /pdf/p_1765012943.pdf\n試合番号：43
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:dcfe0a71a91b768d3c10cb5664d6d666@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251217T110000
-DTEND;TZID=Asia/Tokyo:20251217T130000
-SUMMARY:フクダ電⼦フィールドA⾯（千葉県／全日本大学サ
- ッカー選手権大会／日程PDF
-LOCATION:フクダ電⼦フィールドA⾯（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦フィールドA⾯（千葉県\n出典：J
- UFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://ww
- w.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：47
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:0d0f76bd490262d9db06418f4d360d22@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251217T110000
-DTEND;TZID=Asia/Tokyo:20251217T130000
-SUMMARY:フクダ電⼦フィールドB⾯（千葉県／全日本大学サ
- ッカー選手権大会／日程PDF
-LOCATION:フクダ電⼦フィールドB⾯（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦フィールドB⾯（千葉県\n出典：J
- UFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://ww
- w.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：48
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:7db9af5d7379b4f0fa6a55c13baafc87@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251217T110000
-DTEND;TZID=Asia/Tokyo:20251217T130000
-SUMMARY:フクダ電⼦スクエア（千葉県／全日本大学サッカ
- ー選手権大会／日程PDF
-LOCATION:フクダ電⼦スクエア（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦スクエア（千葉県\n出典：JUFA（
- 全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa
- .jp/_data/pdf/p_1765012943.pdf\n試合番号：49
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:1e1715361c052e3227c38ac4ee888e2a@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251217T140000
-DTEND;TZID=Asia/Tokyo:20251217T160000
-SUMMARY:フクダ電⼦フィールドA⾯（千葉県／全日本大学サ
- ッカー選手権大会／日程PDF
-LOCATION:フクダ電⼦フィールドA⾯（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦フィールドA⾯（千葉県\n出典：J
- UFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://ww
- w.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：50
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:cc71fececec466e0a58a967712ca14c5@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251217T140000
-DTEND;TZID=Asia/Tokyo:20251217T160000
-SUMMARY:フクダ電⼦フィールドB⾯（千葉県／全日本大学サ
- ッカー選手権大会／日程PDF
-LOCATION:フクダ電⼦フィールドB⾯（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦フィールドB⾯（千葉県\n出典：J
- UFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://ww
- w.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：51
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:1e70f9b26f415661394fee20f964c884@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251217T140000
-DTEND;TZID=Asia/Tokyo:20251217T160000
-SUMMARY:フクダ電⼦スクエア（千葉県／全日本大学サッカ
- ー選手権大会／日程PDF
-LOCATION:フクダ電⼦スクエア（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦スクエア（千葉県\n出典：JUFA（
- 全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa
- .jp/_data/pdf/p_1765012943.pdf\n試合番号：52
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:83cf28ddf6ba04a5b8460154cb9b9f26@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251219T120000
-DTEND;TZID=Asia/Tokyo:20251219T140000
-SUMMARY:フクダ電⼦フィールドA⾯（千葉県／全日本大学サ
- ッカー選手権大会／日程PDF
-LOCATION:フクダ電⼦フィールドA⾯（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦フィールドA⾯（千葉県\n出典：J
- UFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://ww
- w.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：53
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:ccaa9b0d9ec97954d7bea502f6c7efc2@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251219T120000
-DTEND;TZID=Asia/Tokyo:20251219T140000
-SUMMARY:フクダ電⼦フィールドB⾯（千葉県／全日本大学サ
- ッカー選手権大会／日程PDF
-LOCATION:フクダ電⼦フィールドB⾯（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：フクダ電⼦フィールドB⾯（千葉県\n出典：J
- UFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://ww
- w.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：54
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:21bc592da81822f3365ba1b55efa67eb@my-ics
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20251220T120000
-DTEND;TZID=Asia/Tokyo:20251220T140000
-SUMMARY:稲⽑海浜公園球技場（千葉県／全日本大学サッカ
- ー選手権大会／日程PDF
-LOCATION:稲⽑海浜公園球技場（千葉県）
-DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
- \n都道府県：稲⽑海浜公園球技場（千葉県\n出典：JUFA（
- 全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa
- .jp/_data/pdf/p_1765012943.pdf\n試合番号：55
+ 大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_dat
+ a/pdf/p_1765012943.pdf\n試合番号：11
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
@@ -431,11 +63,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251213T110000
 DTEND;TZID=Asia/Tokyo:20251213T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[3] 明治大
- 学 vs 東洋大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[3] 明治大学
 LOCATION:相模原ギオンスタジアム
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m04@sora
@@ -443,11 +77,26 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251213T110000
 DTEND;TZID=Asia/Tokyo:20251213T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[4] 東海大
- 学 vs 筑波大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[4] 東海大学
 LOCATION:AGFフィールド
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
+END:VEVENT
+BEGIN:VEVENT
+UID:647e2eb86f69aa9a0a6d4916ca57c641@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251213T140000
+DTEND;TZID=Asia/Tokyo:20251213T160000
+SUMMARY:東京都／全日本大学サッカー選手権大会／日程PDF
+LOCATION:AGFフィールド（東京都）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：AGFフィールド（東京都\n出典：JUFA（全日本
+ 大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_dat
+ a/pdf/p_1765012943.pdf\n試合番号：15
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m07@sora
@@ -455,11 +104,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251213T140000
 DTEND;TZID=Asia/Tokyo:20251213T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[7] 東海学
- 園大学 vs 九州産業大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[7] 東海学園大学
 LOCATION:相模原ギオンスタジアム
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m08@sora
@@ -467,11 +118,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251213T140000
 DTEND;TZID=Asia/Tokyo:20251213T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[8] 常葉大
- 学 vs 阪南大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[8] 常葉大学
 LOCATION:AGFフィールド
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m09@sora
@@ -479,11 +132,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251214T110000
 DTEND;TZID=Asia/Tokyo:20251214T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[9] 富士大
- 学 vs 京都産業大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[9] 富士大学
 LOCATION:フクダ電子フィールドA面
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m10@sora
@@ -491,11 +146,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251214T110000
 DTEND;TZID=Asia/Tokyo:20251214T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[10] 桐蔭
- 横浜大学 vs 広島経済大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[10] 桐蔭横浜大学
 LOCATION:フクダ電子フィールドB面
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m11@sora
@@ -503,47 +160,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251214T110000
 DTEND;TZID=Asia/Tokyo:20251214T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[11] 松本
- 大学 vs 中京大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[11] 松本大学
 LOCATION:フクダ電子スクエア
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
-END:VEVENT
-BEGIN:VEVENT
-UID:jufa-intercol-2025-m12@sora
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20251214T140000
-DTEND;TZID=Asia/Tokyo:20251214T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[12] 新潟
- 医療福祉大学 vs IPU・環太平洋大学
-LOCATION:フクダ電子フィールドA面
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
-END:VEVENT
-BEGIN:VEVENT
-UID:jufa-intercol-2025-m13@sora
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20251214T140000
-DTEND;TZID=Asia/Tokyo:20251214T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[13] 甲南
- 大学 vs 桃山学院大学
-LOCATION:フクダ電子フィールドB面
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
-END:VEVENT
-BEGIN:VEVENT
-UID:jufa-intercol-2025-m14@sora
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20251214T140000
-DTEND;TZID=Asia/Tokyo:20251214T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[14] 鹿屋
- 体育大学 vs 札幌大学
-LOCATION:フクダ電子スクエア
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m18@sora
@@ -551,11 +174,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251214T110000
 DTEND;TZID=Asia/Tokyo:20251214T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[18] 筑波
- 大学 vs 東海大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[18] 筑波大学
 LOCATION:味の素フィールド西が丘
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m19@sora
@@ -563,11 +188,55 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251214T110000
 DTEND;TZID=Asia/Tokyo:20251214T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[19] 阪南
- 大学 vs 常葉大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[19] 阪南大学
 LOCATION:相模原ギオンスタジアム
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
+END:VEVENT
+BEGIN:VEVENT
+UID:jufa-intercol-2025-m12@sora
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251214T140000
+DTEND;TZID=Asia/Tokyo:20251214T160000
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[12] 新潟医療福祉大学
+LOCATION:フクダ電子フィールドA面
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
+END:VEVENT
+BEGIN:VEVENT
+UID:jufa-intercol-2025-m13@sora
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251214T140000
+DTEND;TZID=Asia/Tokyo:20251214T160000
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[13] 甲南大学
+LOCATION:フクダ電子フィールドB面
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
+END:VEVENT
+BEGIN:VEVENT
+UID:jufa-intercol-2025-m14@sora
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251214T140000
+DTEND;TZID=Asia/Tokyo:20251214T160000
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[14] 鹿屋体育大学
+LOCATION:フクダ電子スクエア
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m23@sora
@@ -575,11 +244,66 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251214T140000
 DTEND;TZID=Asia/Tokyo:20251214T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[23] 筑波
- 大学 vs 東海大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[23] 筑波大学
 LOCATION:相模原ギオンスタジアム
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
+END:VEVENT
+BEGIN:VEVENT
+UID:598213d2f2996a6310b11e4fc2988f05@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251215T110000
+DTEND;TZID=Asia/Tokyo:20251215T130000
+SUMMARY:神奈川県／全日本大学サッカー選手権大会／日程P
+ DF
+LOCATION:相模原ギオンスタジアム（神奈川県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：相模原ギオンスタジアム（神奈川県\n出典
+ ：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps
+ ://www.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：19
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:820ff9fbec8a0f08cef7c38a4324d37e@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251215T110000
+DTEND;TZID=Asia/Tokyo:20251215T130000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦フィールドA⾯（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦フィールドA⾯（千葉県\n出典：
+ JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://
+ www.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：27
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:03e47dcd555ef3bb05c1d7eb58e5a5e6@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251215T110000
+DTEND;TZID=Asia/Tokyo:20251215T130000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦フィールドB⾯（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦フィールドB⾯（千葉県\n出典：
+ JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://
+ www.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：28
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ac23512357739716a20a153a8df0d1cf@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251215T110000
+DTEND;TZID=Asia/Tokyo:20251215T130000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦スクエア（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦スクエア（千葉県\n出典：JUFA（
+ 全日本大学サッカー選手権大会／日程PDF）\nhttps://www.juf
+ a.jp/_data/pdf/p_1765012943.pdf\n試合番号：29
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m27@sora
@@ -587,11 +311,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251215T110000
 DTEND;TZID=Asia/Tokyo:20251215T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[27] IPU・
- 環太平洋大学 vs 京都産業大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[27] IPU・環太平洋大学
 LOCATION:フクダ電子フィールドA面
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m28@sora
@@ -599,11 +325,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251215T110000
 DTEND;TZID=Asia/Tokyo:20251215T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[28] 甲南
- 大学 vs 桐蔭横浜大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[28] 甲南大学
 LOCATION:フクダ電子フィールドB面
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m29@sora
@@ -611,11 +339,66 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251215T110000
 DTEND;TZID=Asia/Tokyo:20251215T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[29] 鹿屋
- 体育大学 vs 中京大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[29] 鹿屋体育大学
 LOCATION:フクダ電子スクエア
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
+END:VEVENT
+BEGIN:VEVENT
+UID:ad247aa2e56463358456301ad295bfba@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251215T140000
+DTEND;TZID=Asia/Tokyo:20251215T160000
+SUMMARY:神奈川県／全日本大学サッカー選手権大会／日程P
+ DF
+LOCATION:相模原ギオンスタジアム（神奈川県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：相模原ギオンスタジアム（神奈川県\n出典
+ ：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps
+ ://www.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：23
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:3cb7db26d3c3d0db5273f115b99a0f3f@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251215T140000
+DTEND;TZID=Asia/Tokyo:20251215T160000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦フィールドA⾯（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦フィールドA⾯（千葉県\n出典：
+ JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://
+ www.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：30
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:056df04039b9853265fd703eaabb9420@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251215T140000
+DTEND;TZID=Asia/Tokyo:20251215T160000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦フィールドB⾯（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦フィールドB⾯（千葉県\n出典：
+ JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://
+ www.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：31
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:3dc91d4170bc7aac69a9d425f620a373@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251215T140000
+DTEND;TZID=Asia/Tokyo:20251215T160000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦スクエア（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦スクエア（千葉県\n出典：JUFA（
+ 全日本大学サッカー選手権大会／日程PDF）\nhttps://www.juf
+ a.jp/_data/pdf/p_1765012943.pdf\n試合番号：32
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m30@sora
@@ -623,11 +406,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251215T140000
 DTEND;TZID=Asia/Tokyo:20251215T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[30] 新潟
- 医療福祉大学 vs 富士大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[30] 新潟医療福祉大学
 LOCATION:フクダ電子フィールドA面
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m31@sora
@@ -635,11 +420,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251215T140000
 DTEND;TZID=Asia/Tokyo:20251215T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[31] 桃山
- 学院大学 vs 広島経済大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[31] 桃山学院大学
 LOCATION:フクダ電子フィールドB面
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m32@sora
@@ -647,11 +434,52 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251215T140000
 DTEND;TZID=Asia/Tokyo:20251215T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[32] 札幌
- 大学 vs 松本大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[32] 札幌大学
 LOCATION:フクダ電子スクエア
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
+END:VEVENT
+BEGIN:VEVENT
+UID:973e75a609d12f150c08eaf2dcadf87b@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251216T110000
+DTEND;TZID=Asia/Tokyo:20251216T130000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦フィールドA⾯（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦フィールドA⾯（千葉県\n出典：
+ JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://
+ www.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：33
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:f42481e00b7dce3734fe3f4e5cb89c99@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251216T110000
+DTEND;TZID=Asia/Tokyo:20251216T130000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦フィールドB⾯（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦フィールドB⾯（千葉県\n出典：
+ JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://
+ www.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：34
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:9637e9b5179896ad9bb5e2922dfe8d97@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251216T110000
+DTEND;TZID=Asia/Tokyo:20251216T130000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦スクエア（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦スクエア（千葉県\n出典：JUFA（
+ 全日本大学サッカー選手権大会／日程PDF）\nhttps://www.juf
+ a.jp/_data/pdf/p_1765012943.pdf\n試合番号：35
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m33@sora
@@ -659,11 +487,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251216T110000
 DTEND;TZID=Asia/Tokyo:20251216T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[33] IPU・
- 環太平洋大学 vs 富士大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[33] IPU・環太平洋大学
 LOCATION:フクダ電子フィールドA面
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m34@sora
@@ -671,11 +501,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251216T110000
 DTEND;TZID=Asia/Tokyo:20251216T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[34] 甲南
- 大学 vs 広島経済大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[34] 甲南大学
 LOCATION:フクダ電子フィールドB面
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m35@sora
@@ -683,11 +515,52 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251216T110000
 DTEND;TZID=Asia/Tokyo:20251216T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[35] 鹿屋
- 体育大学 vs 松本大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[35] 鹿屋体育大学
 LOCATION:フクダ電子スクエア
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
+END:VEVENT
+BEGIN:VEVENT
+UID:7a98a427fec85c147e4fe5af069be3bb@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251216T140000
+DTEND;TZID=Asia/Tokyo:20251216T160000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦フィールドA⾯（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦フィールドA⾯（千葉県\n出典：
+ JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://
+ www.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：36
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:568806be105a6b513c04d5764ecc1054@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251216T140000
+DTEND;TZID=Asia/Tokyo:20251216T160000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦フィールドB⾯（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦フィールドB⾯（千葉県\n出典：
+ JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://
+ www.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：37
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:1526b01eb265c8ddbc55140b4a0486e6@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251216T140000
+DTEND;TZID=Asia/Tokyo:20251216T160000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦スクエア（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦スクエア（千葉県\n出典：JUFA（
+ 全日本大学サッカー選手権大会／日程PDF）\nhttps://www.juf
+ a.jp/_data/pdf/p_1765012943.pdf\n試合番号：38
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m36@sora
@@ -695,11 +568,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251216T140000
 DTEND;TZID=Asia/Tokyo:20251216T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[36] 新潟
- 医療福祉大学 vs 京都産業大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[36] 新潟医療福祉大学
 LOCATION:フクダ電子フィールドA面
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m37@sora
@@ -707,11 +582,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251216T140000
 DTEND;TZID=Asia/Tokyo:20251216T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[37] 桃山
- 学院大学 vs 桐蔭横浜大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[37] 桃山学院大学
 LOCATION:フクダ電子フィールドB面
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m38@sora
@@ -719,11 +596,65 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251216T140000
 DTEND;TZID=Asia/Tokyo:20251216T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[38] 札幌
- 大学 vs 中京大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[38] 札幌大学
 LOCATION:フクダ電子スクエア
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
+END:VEVENT
+BEGIN:VEVENT
+UID:b8b214c768521c891638c02823a8f655@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251217T110000
+DTEND;TZID=Asia/Tokyo:20251217T130000
+SUMMARY:東京都／全日本大学サッカー選手権大会／日程PDF
+LOCATION:AGFフィールド（東京都）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：AGFフィールド（東京都\n出典：JUFA（全日本
+ 大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_dat
+ a/pdf/p_1765012943.pdf\n試合番号：39
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:dcfe0a71a91b768d3c10cb5664d6d666@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251217T110000
+DTEND;TZID=Asia/Tokyo:20251217T130000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦フィールドA⾯（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦フィールドA⾯（千葉県\n出典：
+ JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://
+ www.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：47
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:0d0f76bd490262d9db06418f4d360d22@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251217T110000
+DTEND;TZID=Asia/Tokyo:20251217T130000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦フィールドB⾯（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦フィールドB⾯（千葉県\n出典：
+ JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://
+ www.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：48
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:7db9af5d7379b4f0fa6a55c13baafc87@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251217T110000
+DTEND;TZID=Asia/Tokyo:20251217T130000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦スクエア（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦スクエア（千葉県\n出典：JUFA（
+ 全日本大学サッカー選手権大会／日程PDF）\nhttps://www.juf
+ a.jp/_data/pdf/p_1765012943.pdf\n試合番号：49
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m39@sora
@@ -731,23 +662,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251217T110000
 DTEND;TZID=Asia/Tokyo:20251217T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[39] 東海
- 大学 vs 常葉大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[39] 東海大学
 LOCATION:AGFフィールド
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
-END:VEVENT
-BEGIN:VEVENT
-UID:jufa-intercol-2025-m43@sora
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20251217T140000
-DTEND;TZID=Asia/Tokyo:20251217T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[43] 筑波
- 大学 vs 阪南大学
-LOCATION:AGFフィールド
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m47@sora
@@ -755,11 +676,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251217T110000
 DTEND;TZID=Asia/Tokyo:20251217T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[47] 京都
- 産業大学 vs 富士大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[47] 京都産業大学
 LOCATION:フクダ電子フィールドA面
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m48@sora
@@ -767,11 +690,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251217T110000
 DTEND;TZID=Asia/Tokyo:20251217T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[48] 桐蔭
- 横浜大学 vs 広島経済大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[48] 桐蔭横浜大学
 LOCATION:フクダ電子フィールドB面
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m49@sora
@@ -779,11 +704,79 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251217T110000
 DTEND;TZID=Asia/Tokyo:20251217T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[49] 中京
- 大学 vs 松本大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[49] 中京大学
 LOCATION:フクダ電子スクエア
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
+END:VEVENT
+BEGIN:VEVENT
+UID:b5366c054323ccb2ff13904df8e2c536@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251217T140000
+DTEND;TZID=Asia/Tokyo:20251217T160000
+SUMMARY:東京都／全日本大学サッカー選手権大会／日程PDF
+LOCATION:AGFフィールド（東京都）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：AGFフィールド（東京都\n出典：JUFA（全日本
+ 大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_dat
+ a/pdf/p_1765012943.pdf\n試合番号：43
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:1e1715361c052e3227c38ac4ee888e2a@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251217T140000
+DTEND;TZID=Asia/Tokyo:20251217T160000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦フィールドA⾯（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦フィールドA⾯（千葉県\n出典：
+ JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://
+ www.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：50
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:cc71fececec466e0a58a967712ca14c5@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251217T140000
+DTEND;TZID=Asia/Tokyo:20251217T160000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦フィールドB⾯（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦フィールドB⾯（千葉県\n出典：
+ JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://
+ www.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：51
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:1e70f9b26f415661394fee20f964c884@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251217T140000
+DTEND;TZID=Asia/Tokyo:20251217T160000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦スクエア（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦スクエア（千葉県\n出典：JUFA（
+ 全日本大学サッカー選手権大会／日程PDF）\nhttps://www.juf
+ a.jp/_data/pdf/p_1765012943.pdf\n試合番号：52
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:jufa-intercol-2025-m43@sora
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251217T140000
+DTEND;TZID=Asia/Tokyo:20251217T160000
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[43] 筑波大学
+LOCATION:AGFフィールド
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m50@sora
@@ -791,11 +784,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251217T140000
 DTEND;TZID=Asia/Tokyo:20251217T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[50] 新潟
- 医療福祉大学 vs IPU・環太平洋大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[50] 新潟医療福祉大学
 LOCATION:フクダ電子フィールドA面
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m51@sora
@@ -803,11 +798,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251217T140000
 DTEND;TZID=Asia/Tokyo:20251217T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[51] 桃山
- 学院大学 vs 甲南大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[51] 桃山学院大学
 LOCATION:フクダ電子フィールドB面
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m52@sora
@@ -815,11 +812,39 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251217T140000
 DTEND;TZID=Asia/Tokyo:20251217T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[52] 札幌
- 大学 vs 鹿屋体育大学
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[52] 札幌大学
 LOCATION:フクダ電子スクエア
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
+END:VEVENT
+BEGIN:VEVENT
+UID:83cf28ddf6ba04a5b8460154cb9b9f26@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251219T120000
+DTEND;TZID=Asia/Tokyo:20251219T140000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦フィールドA⾯（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦フィールドA⾯（千葉県\n出典：
+ JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://
+ www.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：53
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ccaa9b0d9ec97954d7bea502f6c7efc2@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251219T120000
+DTEND;TZID=Asia/Tokyo:20251219T140000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:フクダ電⼦フィールドB⾯（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：フクダ電⼦フィールドB⾯（千葉県\n出典：
+ JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://
+ www.jufa.jp/_data/pdf/p_1765012943.pdf\n試合番号：54
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m53@sora
@@ -827,11 +852,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251219T120000
 DTEND;TZID=Asia/Tokyo:20251219T140000
-SUMMARY:全日本大学サッカー選手権（インカレ）[53] グル
- ープステージ1位相当 vs ワイルドカード
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[53] グループステージ1位相当
 LOCATION:フクダ電子フィールドA面
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m54@sora
@@ -839,11 +866,26 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251219T120000
 DTEND;TZID=Asia/Tokyo:20251219T140000
-SUMMARY:全日本大学サッカー選手権（インカレ）[54] グル
- ープステージ2位相当 vs グループステージ3位相当
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[54] グループステージ2位相当
 LOCATION:フクダ電子フィールドB面
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
+END:VEVENT
+BEGIN:VEVENT
+UID:21bc592da81822f3365ba1b55efa67eb@my-ics
+DTSTAMP:20260205T050342Z
+DTSTART;TZID=Asia/Tokyo:20251220T120000
+DTEND;TZID=Asia/Tokyo:20251220T140000
+SUMMARY:千葉県／全日本大学サッカー選手権大会／日程PDF
+LOCATION:稲⽑海浜公園球技場（千葉県）
+DESCRIPTION:大会：全日本大学サッカー選手権大会／日程PDF
+ \n都道府県：稲⽑海浜公園球技場（千葉県\n出典：JUFA（
+ 全日本大学サッカー選手権大会／日程PDF）\nhttps://www.juf
+ a.jp/_data/pdf/p_1765012943.pdf\n試合番号：55
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m55@sora
@@ -851,11 +893,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251220T120000
 DTEND;TZID=Asia/Tokyo:20251220T140000
-SUMMARY:全日本大学サッカー選手権（インカレ）[55] [53]勝
- 者 vs [54]勝者
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[55] [53]勝者
 LOCATION:稲毛海浜公園球技場
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m56@sora
@@ -874,11 +918,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251221T110000
 DTEND;TZID=Asia/Tokyo:20251221T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[57] Dグル
- ープ1位 vs Cグループ2位
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[57] Dグループ1位
 LOCATION:カンセキスタジアムとちぎ
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m58@sora
@@ -897,11 +943,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251221T140000
 DTEND;TZID=Asia/Tokyo:20251221T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[59] Cグル
- ープ1位 vs Aグループ2位
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[59] Cグループ1位
 LOCATION:カンセキスタジアムとちぎ
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m60@sora
@@ -909,11 +957,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251224T110000
 DTEND;TZID=Asia/Tokyo:20251224T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[60] [56]勝
- 者 vs [57]勝者
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[60] [56]勝者
 LOCATION:カンセキスタジアムとちぎ
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m61@sora
@@ -921,11 +971,13 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251224T140000
 DTEND;TZID=Asia/Tokyo:20251224T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[61] [58]勝
- 者 vs [59]勝者
+SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
+ カレ）[61] [58]勝者
 LOCATION:カンセキスタジアムとちぎ
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
- 確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
+ 足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m62@sora
