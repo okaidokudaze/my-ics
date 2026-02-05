@@ -2354,4 +2354,254 @@ LOCATION:大分県スポーツ公園サッカー場(Aコート)
 DESCRIPTION:種別：高校男子\n対戦：大分鶴崎 vs 大分\n回戦：決勝\n都道府県：大分県\n時刻：12:30\n会場：大分県スポーツ公園サッカー場(Aコート)\n結果：2-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4288 / 九州高校サッカー新人戦ライブ配信公式サイト https://kyushu-shinjin.com/result-2025/oita-result-2025/13656/
 SEQUENCE:1
 END:VEVENT
+BEGIN:VEVENT
+UID:e3a58897dc43bea1f939ec9d8dcd3aed70fb4f86@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：西陵 vs 佐世保北\n回戦：1回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：2-0\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:5dd4ca86873514ef1dc66feac3fbc1e2cb81d2de@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：国見 vs 海星\n回戦：1回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：2-0\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:40df3ba2c73504db88c4b5654dcc79bb068faaaf@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：県北3校合同 vs 五島3校合同\n回戦：1回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：4-1\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:52b7273fb04cb48d0bd29bb76b4b8cfcd12dc4cc@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：島原 vs 瓊浦\n回戦：1回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：1-0\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:32d89a5c16e500bf825a18610705a2058e18cc64@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：長崎南 vs 佐世保実\n回戦：1回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：1-2\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:9c844542ed2100e2f9b91cb9c905b75e0226eb7b@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：鎮西学院 vs 長崎工\n回戦：1回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：0-1\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:f1130eec7bc6b0c16c97900e3011add50677feaa@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：島原中央 vs 長崎西\n回戦：1回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：2-2(PK2-3)\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:eef1de3a75553148508266c10f15cf34e5cec860@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：大村 vs 鹿町工\n回戦：1回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：11-0\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:390cdb58b68202db61aafaf494ceb1ba419cd5f2@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：長崎総科大附 vs 西陵\n回戦：2回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：6-0\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:4dea7b71b604af158f29f05a8c961bc3c56137e3@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：国見 vs 九州文化学園\n回戦：2回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：2-1\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:236c73a2c682d56f745b91d4f868bbb57b060721@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：創成館 vs 県北3校合同\n回戦：2回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：5-1\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:b6d8e24b581ce399a89ea0cb54f221d9da01208c@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：佐世保工 vs 島原\n回戦：2回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：1-0\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:96db5a5b608172ae4428b9f511f92b3bdf5b976f@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260118T120000
+DTEND;TZID=Asia/Tokyo:20260118T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：佐世保実 vs 諫早商\n回戦：2回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：0-2\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:3e5434c1ae34b760b43ebafddd7c80c08ee756f7@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260118T120000
+DTEND;TZID=Asia/Tokyo:20260118T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：佐世保西 vs 長崎工\n回戦：2回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：3-0\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:6121dc09a9905f1aa36268737bc6040151f31abe@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260118T120000
+DTEND;TZID=Asia/Tokyo:20260118T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：長崎西 vs 長崎日大\n回戦：2回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：0-5\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:25223f77664270b2419a9390da945d9b70b14f0b@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260118T120000
+DTEND;TZID=Asia/Tokyo:20260118T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：大村 vs 長崎南山\n回戦：2回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：0-0(PK5-6)\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:748c3c074c0227e8cb2c45b8f2169f08e2e21cab@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：長崎総科大附 vs 諫早商\n回戦：準々決勝\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：3-0\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:d4f5e77a30225fdf89c1731586cacd41951ffa9c@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：佐世保西 vs 国見\n回戦：準々決勝\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：0-5\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:441d1c6943ce5fe2063f05465055460b7dfa3f50@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：創成館 vs 長崎日大\n回戦：準々決勝\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：0-1\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:c6d2533f11e00a625782cf04aa5f941edb6019d2@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：佐世保工 vs 長崎南山\n回戦：準々決勝\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：0-1\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:2b411d82235040516f1596af25e8adddbcedd24e@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260125T093000
+DTEND;TZID=Asia/Tokyo:20260125T113000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：長崎総科大附 vs 国見\n回戦：準決勝\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：09:30（KO）\n結果：0-1\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:e9708646f19d7d49bb372f62744a6b443525b836@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260125T093000
+DTEND;TZID=Asia/Tokyo:20260125T113000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：長崎日大 vs 長崎南山\n回戦：準決勝\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：09:30（KO）\n結果：5-1\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:0a4da0c727605b24ee47525f26e521e74a3973c8@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260125T140000
+DTEND;TZID=Asia/Tokyo:20260125T160000
+LOCATION:島原市営陸上競技場
+DESCRIPTION:種別：高校／男子\n対戦：国見 vs 長崎日大\n回戦：決勝\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：14:00（KO）\n結果：1-0\n出典：https://koko-soccer.com/score/4309\n会場根拠：決勝会場は島原市営陸上競技場（記事より）\n出典補足：https://koko-soccer.com/news/5-koukousoccer/52421-2026012501/amp
+END:VEVENT
+BEGIN:VEVENT
+UID:f9a77cae5b0fc2a240558b854439f6c022ec237e@masashi
+DTSTAMP:20260205T083553Z
+SEQUENCE:0
+SUMMARY:長崎県／長崎スタジアムシティU-18ファイナルカップ
+DTSTART;TZID=Asia/Tokyo:20260201T100000
+DTEND;TZID=Asia/Tokyo:20260201T120000
+LOCATION:PEACE STADIUM Connected by SoftBank
+DESCRIPTION:種別：高校／男子（U-18交流）\n対戦：V・ファーレン長崎U-18 vs 長崎総合科学大学附属高等学校\n回戦：第1試合\n大会：長崎スタジアムシティU-18ファイナルカップ～サッカーには夢がある～\n都道府県：長崎県\n時刻：10:00（KO）\n備考：（試合方式：40分）\n出典：https://www.nagasakistadiumcity.com/20260126-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:bf32942e9d062c99377287aace2b3307575ebaf0@masashi
+DTSTAMP:20260205T083553Z
+SEQUENCE:0
+SUMMARY:長崎県／長崎スタジアムシティU-18ファイナルカップ
+DTSTART;TZID=Asia/Tokyo:20260201T140000
+DTEND;TZID=Asia/Tokyo:20260201T160000
+LOCATION:PEACE STADIUM Connected by SoftBank
+DESCRIPTION:種別：高校／男子（U-18交流）\n対戦：九州文化学園 vs 第1試合の勝利チーム（未確定）\n回戦：決勝\n大会：長崎スタジアムシティU-18ファイナルカップ～サッカーには夢がある～\n都道府県：長崎県\n時刻：14:00（KO）\n備考：（勝者が相手）\n出典：https://www.nagasakistadiumcity.com/20260126-2/
+END:VEVENT
 END:VCALENDAR
