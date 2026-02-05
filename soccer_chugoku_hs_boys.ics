@@ -16,586 +16,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:17d478bdb8e754121845368a8edb0ddd29624e25@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260116
-DTEND;VALUE=DATE:20260117
-SUMMARY:【中国-男子高校】島根新人戦（男子）1次ラウンド（カード未取得）
-LOCATION:松江・出雲（会場複数）
-DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
- iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
- 9A%E8%A6%81%E9%A0%85%28%E7%B7%8F%E4%BD%93%E3%80%81%E9%81%B8%E6%89%8B%E6%A8
- %A9%E3%80%81%E6%96%B0%E4%BA%BA%E6%88%A6%29.pdf\n※組合せ（対戦カード）未取得のため、後で1試合=1イ
- ベントに差し替え予定。
-END:VEVENT
-BEGIN:VEVENT
-UID:452bf70be59c316cfd4682c7c2c77775f1690281@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260117
-DTEND;VALUE=DATE:20260118
-SUMMARY:【中国-男子高校】島根新人戦（男子）1次ラウンド（カード未取得）
-LOCATION:松江・出雲（会場複数）
-DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
- iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
- 9A%E8%A6%81%E9%A0%85%28%E7%B7%8F%E4%BD%93%E3%80%81%E9%81%B8%E6%89%8B%E6%A8
- %A9%E3%80%81%E6%96%B0%E4%BA%BA%E6%88%A6%29.pdf\n※組合せ（対戦カード）未取得のため、後で1試合=1イ
- ベントに差し替え予定。
-END:VEVENT
-BEGIN:VEVENT
-UID:38400b9af267153a457ab57e011f4d348890be14@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260131
-DTEND;VALUE=DATE:20260201
-SUMMARY:【中国-男子高校】島根新人戦（男子）準々決勝（カード未取得）
-LOCATION:益田（会場複数）
-DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
- iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
- 9A%E8%A6%81%E9%A0%85%28%E7%B7%8F%E4%BD%93%E3%80%81%E9%81%B8%E6%89%8B%E6%A8
- %A9%E3%80%81%E6%96%B0%E4%BA%BA%E6%88%A6%29.pdf\n※組合せ（対戦カード）未取得のため、後で1試合=1イ
- ベントに差し替え予定。
-END:VEVENT
-BEGIN:VEVENT
-UID:a971b5e43456cc1ef8ea240148cd8942e73c40e3@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260207
-DTEND;VALUE=DATE:20260208
-SUMMARY:【中国-男子高校】島根新人戦（男子）Finalラウンド（カード未取得）
-LOCATION:益田（会場複数）
-DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
- iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
- 9A%E8%A6%81%E9%A0%85%28%E7%B7%8F%E4%BD%93%E3%80%81%E9%81%B8%E6%89%8B%E6%A8
- %A9%E3%80%81%E6%96%B0%E4%BA%BA%E6%88%A6%29.pdf\n※組合せ（対戦カード）未取得のため、後で1試合=1イ
- ベントに差し替え予定。
-END:VEVENT
-BEGIN:VEVENT
-UID:771de8644dab5e9c9e8900d0b1fd4de7d492c992@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260208
-DTEND;VALUE=DATE:20260209
-SUMMARY:【中国-男子高校】島根新人戦（男子）Finalラウンド（カード未取得）
-LOCATION:益田（会場複数）
-DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
- iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
- 9A%E8%A6%81%E9%A0%85%28%E7%B7%8F%E4%BD%93%E3%80%81%E9%81%B8%E6%89%8B%E6%A8
- %A9%E3%80%81%E6%96%B0%E4%BA%BA%E6%88%A6%29.pdf\n※組合せ（対戦カード）未取得のため、後で1試合=1イ
- ベントに差し替え予定。
-END:VEVENT
-BEGIN:VEVENT
-UID:165e8b80ecaab175291229caaaafd6388d72d41d@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260125
-DTEND;VALUE=DATE:20260126
-SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
-LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
-DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
- カード）未取得のため、後で1試合=1イベントに差し替え予定。
-END:VEVENT
-BEGIN:VEVENT
-UID:35ffc5697d63d33c51494d7d17d4a2f243b37a1d@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260131
-DTEND;VALUE=DATE:20260201
-SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
-LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
-DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
- カード）未取得のため、後で1試合=1イベントに差し替え予定。
-END:VEVENT
-BEGIN:VEVENT
-UID:57541dbeb2060fa0dca5b255a13183bd8196cbb0@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260201
-DTEND;VALUE=DATE:20260202
-SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
-LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
-DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
- カード）未取得のため、後で1試合=1イベントに差し替え予定。
-END:VEVENT
-BEGIN:VEVENT
-UID:571b16fb4cc52a8bbbeb7760944b09b8faac379d@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260207
-DTEND;VALUE=DATE:20260208
-SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
-LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
-DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
- カード）未取得のため、後で1試合=1イベントに差し替え予定。
-END:VEVENT
-BEGIN:VEVENT
-UID:bf8038e59841c78722faa99bb538bceff538fbee@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260208
-DTEND;VALUE=DATE:20260209
-SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
-LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
-DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
- カード）未取得のため、後で1試合=1イベントに差し替え予定。
-END:VEVENT
-BEGIN:VEVENT
-UID:02110e39f0e3f23b075d56b41d9976d7bcef0b8c@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260117
-DTEND;VALUE=DATE:20260118
-SUMMARY:【中国-男子高校】広島新人戦（男子）大会期間（〜2/8）（カード未取得）
-LOCATION:広島県内公共施設・各高等学校 等
-DESCRIPTION:出典：要項（公式）\n参照：https://hiroshima-koutairen.jp/soccer/event/sched
- ule/entry-19028.html\n※組合せ（対戦カード）未取得のため、後で1試合=1イベントに差し替え予定。
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260130-5e18e37ee3129e1d@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260130T100000
-DTEND;TZID=Asia/Tokyo:20260130T120000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：徳山 vs 山口農業・田布施農工・柳井学園\n回戦：1回戦\n大会：令和7年度山口新人戦（新人選手権
- 大会）\n都道府県：山口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター
- ）人工芝多目的G／周南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-3\n出典：高校サッカードット
- コム（大会日程・結果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https:
- //yamaguchi-fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260130-74fb80a6dc29f041@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260130T100000
-DTEND;TZID=Asia/Tokyo:20260130T120000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：下関工科 vs 山口鴻城\n回戦：1回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県
- ：山口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／
- 周南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-3\n出典：高校サッカードットコム（大会日程・結
- 果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguc
- hi-fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260130-b2a636a0ee11d749@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260130T120000
-DTEND;TZID=Asia/Tokyo:20260130T140000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：下関商 vs 防府\n回戦：1回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口
- 県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市
- サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果） 
- https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-
- fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260130-d0c87219ce547658@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260130T120000
-DTEND;TZID=Asia/Tokyo:20260130T140000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：光 vs 付属香川・宇部中央\n回戦：1回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道
- 府県：山口県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的
- G／周南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：4-0\n出典：高校サッカードットコム（大会日程
- ・結果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamag
- uchi-fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260130-865633e4add4fffd@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260130T140000
-DTEND;TZID=Asia/Tokyo:20260130T160000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：防府商工 vs 下関西\n回戦：1回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：
- 山口県\n時刻：14:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周
- 南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-5\n出典：高校サッカードットコム（大会日程・結果
- ） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguch
- i-fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260131-fa6991fbd59fb846@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260131T100000
-DTEND;TZID=Asia/Tokyo:20260131T120000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：高川学園 vs 山口農業・田布施農工・柳井学園\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選
- 手権大会）\n都道府県：山口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセン
- ター）人工芝多目的G／周南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：8-0\n出典：高校サッカード
- ットコム（大会日程・結果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） http
- s://yamaguchi-fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260131-598c77b11e18fd9c@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260131T100000
-DTEND;TZID=Asia/Tokyo:20260131T120000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：徳山商工 vs 防府西\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：
- 山口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周
- 南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：1-3\n出典：高校サッカードットコム（大会日程・結果
- ） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguch
- i-fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260131-d225fa82649a1837@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260131T100000
-DTEND;TZID=Asia/Tokyo:20260131T120000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：下関商 vs 聖光\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口
- 県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市
- サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：1-8\n出典：高校サッカードットコム（大会日程・結果） 
- https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-
- fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260131-e97777aedbcbe6e2@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260131T100000
-DTEND;TZID=Asia/Tokyo:20260131T120000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：宇部鴻城 vs 山口鴻城\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県
- ：山口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／
- 周南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：1-0\n出典：高校サッカードットコム（大会日程・結
- 果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguc
- hi-fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260131-e2b2451dcda1c64a@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260131T100000
-DTEND;TZID=Asia/Tokyo:20260131T120000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：下松工 vs 宇部\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口
- 県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市
- サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-16\n出典：高校サッカードットコム（大会日程・結果）
-  https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi
- -fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260131-780c8b05abf44ba2@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260131T110000
-DTEND;TZID=Asia/Tokyo:20260131T130000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：宇部工 vs 小野田\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山
- 口県\n時刻：11:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南
- 市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-0（PK 5-4）\n出典：高校サッカードットコム（
- 大会日程・結果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://y
- amaguchi-fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260131-85605a4ca1a3be24@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260131T120000
-DTEND;TZID=Asia/Tokyo:20260131T140000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：高水 vs 豊浦\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口県
- \n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市サ
- ッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-0（PK 2-4）\n出典：高校サッカードットコム（大会
- 日程・結果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yam
- aguchi-fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260131-15f7b4cc77ca270c@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260131T120000
-DTEND;TZID=Asia/Tokyo:20260131T140000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：早鞆 vs 下関西\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口
- 県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市
- サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-1\n出典：高校サッカードットコム（大会日程・結果） 
- https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-
- fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260131-9ad105be0ded56f5@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260131T120000
-DTEND;TZID=Asia/Tokyo:20260131T140000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：南陽工 vs 慶進\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口
- 県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市
- サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：3-0\n出典：高校サッカードットコム（大会日程・結果） 
- https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-
- fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260131-aec3ef711c83d53d@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260131T120000
-DTEND;TZID=Asia/Tokyo:20260131T140000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：岩国工 vs 宇部高専\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：
- 山口県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周
- 南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-3\n出典：高校サッカードットコム（大会日程・結果
- ） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguch
- i-fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260131-4d9bf8070ad6f340@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260131T120000
-DTEND;TZID=Asia/Tokyo:20260131T140000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：成進 vs 小野田工\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山
- 口県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南
- 市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-2\n出典：高校サッカードットコム（大会日程・結果）
-  https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi
- -fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260131-f988815c76b916a4@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260131T120000
-DTEND;TZID=Asia/Tokyo:20260131T140000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：光 vs 西京\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口県\
- n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市サッ
- カー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：1-6\n出典：高校サッカードットコム（大会日程・結果） ht
- tps://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-fa
- .com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260131-432d82351977c825@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260131T140000
-DTEND;TZID=Asia/Tokyo:20260131T160000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：長門 vs 下松\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口県
- \n時刻：14:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市サ
- ッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：長門 不戦勝（高校サッカードットコム表記）\n出典：高校サッ
- カードットコム（大会日程・結果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） h
- ttps://yamaguchi-fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260131-fa32eafdfec90040@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260131T140000
-DTEND;TZID=Asia/Tokyo:20260131T160000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：桜ヶ丘 vs 野田学園\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：
- 山口県\n時刻：14:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周
- 南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：6-0\n出典：高校サッカードットコム（大会日程・結果
- ） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguch
- i-fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260131-1f3420f3376b5196@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260131T140000
-DTEND;TZID=Asia/Tokyo:20260131T160000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：萩 vs 岩国\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口県\
- n時刻：14:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市サッ
- カー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：1-4\n出典：高校サッカードットコム（大会日程・結果） ht
- tps://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-fa
- .com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260131-a8d62d14bf0f81c0@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260131T140000
-DTEND;TZID=Asia/Tokyo:20260131T160000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：山口中央 vs 山口\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山
- 口県\n時刻：14:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南
- 市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-1\n出典：高校サッカードットコム（大会日程・結果）
-  https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi
- -fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260201-e36f677b2cc8a7a3@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260201T100000
-DTEND;TZID=Asia/Tokyo:20260201T120000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：高川学園 vs 豊浦\n回戦：3回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山
- 口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南
- 市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：5-0\n出典：高校サッカードットコム（大会日程・結果）
-  https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi
- -fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260201-7b51edb7d44f4f43@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260201T100000
-DTEND;TZID=Asia/Tokyo:20260201T120000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：南陽工 vs 聖光\n回戦：3回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口
- 県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市
- サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-5\n出典：高校サッカードットコム（大会日程・結果） 
- https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-
- fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260201-77f09e2d6d9f08ea@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260201T100000
-DTEND;TZID=Asia/Tokyo:20260201T120000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：宇部鴻城 vs 宇部\n回戦：3回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山
- 口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南
- 市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果）
-  https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi
- -fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260201-e68c2d748304c848@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260201T100000
-DTEND;TZID=Asia/Tokyo:20260201T120000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：宇部高専 vs 小野田工\n回戦：3回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県
- ：山口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／
- 周南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-2\n出典：高校サッカードットコム（大会日程・結
- 果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguc
- hi-fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260201-ebb85647d26eca92@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260201T120000
-DTEND;TZID=Asia/Tokyo:20260201T140000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：長門 vs 防府西\n回戦：3回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口
- 県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市
- サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果） 
- https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-
- fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260201-1a9d51432a557080@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260201T120000
-DTEND;TZID=Asia/Tokyo:20260201T140000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：下関西 vs 桜ヶ丘\n回戦：3回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山
- 口県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南
- 市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：3-2\n出典：高校サッカードットコム（大会日程・結果）
-  https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi
- -fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260201-092b6ece4b5ffbf7@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260201T120000
-DTEND;TZID=Asia/Tokyo:20260201T140000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：宇部工 vs 岩国\n回戦：3回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口
- 県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市
- サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：4-1\n出典：高校サッカードットコム（大会日程・結果） 
- https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-
- fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260201-10dd19eaf6f748f5@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260201T120000
-DTEND;TZID=Asia/Tokyo:20260201T140000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：山口 vs 西京\n回戦：3回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口県
- \n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市サ
- ッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-1\n出典：高校サッカードットコム（大会日程・結果） h
- ttps://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-f
- a.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260207-d1eabed2b7f8b5ab@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260207T100000
-DTEND;TZID=Asia/Tokyo:20260207T120000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：高川学園 vs 長門\n回戦：準々決勝\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：
- 山口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周
- 南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：未確定\n出典：高校サッカードットコム（大会日程・結果
- ） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguch
- i-fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260207-2224f1950d6bc0ec@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260207T100000
-DTEND;TZID=Asia/Tokyo:20260207T120000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：宇部鴻城 vs 小野田工\n回戦：準々決勝\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府
- 県：山口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G
- ／周南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：未確定\n出典：高校サッカードットコム（大会日程・
- 結果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamagu
- chi-fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260207-c9fcba215059e2ca@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260207T100000
-DTEND;TZID=Asia/Tokyo:20260207T120000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：宇部工 vs 西京\n回戦：準々決勝\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山
- 口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南
- 市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：未確定\n出典：高校サッカードットコム（大会日程・結果）
-  https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi
- -fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260207-9f3a3237dab32f64@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260207T120000
-DTEND;TZID=Asia/Tokyo:20260207T140000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：下関西 vs 聖光\n回戦：準々決勝\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山
- 口県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南
- 市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：未確定\n出典：高校サッカードットコム（大会日程・結果）
-  https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi
- -fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260208-0ff65b7f7de622e0@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260208T110000
-DTEND;TZID=Asia/Tokyo:20260208T130000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：高川学園/長門 vs 下関西/聖光\n回戦：準決勝\n大会：令和7年度山口新人戦（新人選手権大会）\
- n都道府県：山口県\n時刻：11:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝
- 多目的G／周南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：未確定\n出典：高校サッカードットコム（大
- 会日程・結果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://ya
- maguchi-fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_chugoku_hs_boys-20260208-2e794ab9448fe8af@my-ics
-DTSTAMP:20260205T093927Z
-DTSTART;TZID=Asia/Tokyo:20260208T110000
-DTEND;TZID=Asia/Tokyo:20260208T130000
-SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
-LOCATION:会場不明（山口県）
-DESCRIPTION:種別：高校／男子\n対戦：宇部鴻城/小野田工 vs 宇部工/西京\n回戦：準決勝\n大会：令和7年度山口新人戦（新人選手権大会
- ）\n都道府県：山口県\n時刻：11:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人
- 工芝多目的G／周南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：未確定\n出典：高校サッカードットコム
- （大会日程・結果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://
- yamaguchi-fa.com/archives/16230
-END:VEVENT
-BEGIN:VEVENT
 UID:6ccb7a5881e06927bb016e3a3242d3f4606a29c5@my-ics
 DTSTAMP:20260205T095253Z
 DTSTART;TZID=Asia/Tokyo:20251213T100000
@@ -706,6 +126,628 @@ DESCRIPTION:種別：高校男子\n対戦：倉吉北 vs 鳥取敬愛\n回戦：
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
+UID:17d478bdb8e754121845368a8edb0ddd29624e25@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:【中国-男子高校】島根新人戦（男子）1次ラウンド（カード未取得）
+LOCATION:松江・出雲（会場複数）
+DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
+ iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
+ 9A%E8%A6%81%E9%A0%85%28%E7%B7%8F%E4%BD%93%E3%80%81%E9%81%B8%E6%89%8B%E6%A8
+ %A9%E3%80%81%E6%96%B0%E4%BA%BA%E6%88%A6%29.pdf\n※組合せ（対戦カード）未取得のため、後で1試合=1イ
+ ベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:452bf70be59c316cfd4682c7c2c77775f1690281@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【中国-男子高校】島根新人戦（男子）1次ラウンド（カード未取得）
+LOCATION:松江・出雲（会場複数）
+DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
+ iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
+ 9A%E8%A6%81%E9%A0%85%28%E7%B7%8F%E4%BD%93%E3%80%81%E9%81%B8%E6%89%8B%E6%A8
+ %A9%E3%80%81%E6%96%B0%E4%BA%BA%E6%88%A6%29.pdf\n※組合せ（対戦カード）未取得のため、後で1試合=1イ
+ ベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:02110e39f0e3f23b075d56b41d9976d7bcef0b8c@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:【中国-男子高校】広島新人戦（男子）大会期間（〜2/8）（カード未取得）
+LOCATION:広島県内公共施設・各高等学校 等
+DESCRIPTION:出典：要項（公式）\n参照：https://hiroshima-koutairen.jp/soccer/event/sched
+ ule/entry-19028.html\n※組合せ（対戦カード）未取得のため、後で1試合=1イベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:5a6f9403183832732a773645bc8c40a6fa369d42@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：呉高専 vs 広島なぎさ\n結果：0-3\n時刻：10:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:03286ae4853e182fde7b32df3fcaa8ab5da5cf76@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：尾道商 vs 安芸南\n結果：1-15\n時刻：10:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:bc68b77b6a3a0c58d2795ac580e21f8eb0ad51dd@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：海田 vs 福山\n結果：2-0\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:04dc8be345e216af7a4b5541fb101f8b80ad7971@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：安芸府中 vs 神辺旭\n結果：0-1\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:e0f45f762da305298653431f3cc187ffae2ec9f8@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：福山工業・福山商業・府中東 vs 広島城北\n結果：0-11\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:118242177de165c2e7f1da65776cff072fe59db6@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：賀茂 vs 広島市工\n結果：2-1\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:8208c0fa6a156cd0415c361cc10e6c3448679a63@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：呉三津田 vs 広島工\n結果：0-9\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:9ac44545cf25a2a850bb05128a6c28091daaa7eb@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：廿日市 vs 三原\n結果：3-0\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:5d84d92a5f551769e2f89535ac019d2058d68afe@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：広島 vs 広島井口\n結果：0-1\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:9eacf129cb0340048c8dcbd7997f21dc1b7b2d18@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：戸手 vs 福山誠之館\n結果：1-2\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:e4379147a0a0213aa36f8aae52c0d7b87bbab662@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：広 vs 五日市\n結果：0-12\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:6b58ec0c88c890e7c9a9807ba6a07291392a53b5@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：福山明王台 vs 日彰館・三次合同\n結果：4-0\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:0402550eae7237b67c6899cbe2e23d97833c5b41@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：大門・尾道東合同 vs AICJ\n結果：3-0\n時刻：12:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:bb5aa701211c9391e7dbc53be43c7c6853cacf3f@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T133000
+DTEND;TZID=Asia/Tokyo:20260117T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：近大福山 vs 高陽東\n結果：2-3\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:971c3ab07c612b32319451dd12cc9bbf14721b80@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T133000
+DTEND;TZID=Asia/Tokyo:20260117T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：尾三合同 vs 安西・中等・廿西・千代田\n結果：1-2\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:7533df59d77fa076a92d9a5460737678f1fcca27@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T133000
+DTEND;TZID=Asia/Tokyo:20260117T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：神辺 vs 呉合同\n結果：6-2\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:730f6333c0f49e25dace2a2b25807202a3958f75@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T133000
+DTEND;TZID=Asia/Tokyo:20260117T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：美鈴が丘 vs 並木学院\n結果：7-0\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:6bb25c216e6bc4bb591a774e4e0389092e1231fe@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T133000
+DTEND;TZID=Asia/Tokyo:20260117T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：広島市商 vs 修大協創\n結果：0-7\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:dde4ae9d447b252a233802e174bea7b4495f77be@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T133000
+DTEND;TZID=Asia/Tokyo:20260117T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：呉宮原 vs 舟入\n結果：1-4\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:711bc17151f222525cc6a1c740944286e82000bd@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T133000
+DTEND;TZID=Asia/Tokyo:20260117T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：広陵 vs 熊野\n結果：4-0\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:dadbdf632a98dfc462e22ab124384c5eaff1b234@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T133000
+DTEND;TZID=Asia/Tokyo:20260117T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：広大福山 vs 総合技術\n結果：2-1\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:936a3a94397fb7ff8b05a0e7754c96e1d6d03f25@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T133000
+DTEND;TZID=Asia/Tokyo:20260117T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：広島商船 vs 油木\n結果：10-1\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:8a65db6259f868fd17456791f4cbb025f55af54a@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T133000
+DTEND;TZID=Asia/Tokyo:20260117T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：祇園北 vs 基町\n結果：1-0\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:b1cf818db12a4c79459be379fa34b27224dd9aaa@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260117T140000
+DTEND;TZID=Asia/Tokyo:20260117T160000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：尾道 vs 安古市\n結果：7-1\n時刻：14:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:cdd2f34f970a7413fd08add5fbe26c9318115747@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：呉港 vs 高陽東\n結果：1-0\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:55547ed676e494fc7df0d519839146d9ebb156bb@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：広島観音 vs 呉高専\n結果：1-1 PK 4-2\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:a9ce516ffb701ab6a1b310a00da4932c303d5b17@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：広島新庄 vs 海田\n結果：4-0\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:25ce348e0178427cd557d4907550d7cf04d3936a@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：可部 vs 府中\n結果：2-1\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:57cbcd99cb91c3badaf81bd60e53b008cd02c1f8@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：神辺旭 vs 山陽\n結果：0-16\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:c5009f13a9f348d60a512847c24eb6233e2fc7c3@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：崇徳 vs 広島城北\n結果：3-0\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:3937f023e37ad5defad8fd431404d77278a97e2c@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：広島朝鮮高級 vs 盈進\n結果：0-6\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:c75ee2c2241d314ed29259d300143b5c89ceee30@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：賀茂 vs 清水ヶ丘\n結果：0-13\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:e9f30513e731998d0f536458631de29dfcb366c4@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：広島工 vs 福山葦陽\n結果：0-1\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:3141a6b01b8b9c6c53b84d263ee5bf1b81d5941f@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：尾道北 vs 北部合同\n結果：6-1\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:66758344d357991245d6620e4fc96c16c63600b5@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：廿日市 vs 瀬戸内\n結果：0-14\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:b2b809bbe87fb30299c7068d6db59f8ce7addd8c@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：高陽 vs 広島学院\n結果：2-1\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:6c3ce65b5dc5d8ca441f1f62ea970c48a315ba91@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：近大東広島 vs 竹原\n結果：13-1\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:d18ba8e8b863f71666af05143a041f8454c42136@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T133000
+DTEND;TZID=Asia/Tokyo:20260118T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：安西・中等・廿西・千代田 vs 広工大高\n結果：0-18\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:beea200feb620c8363e37c0517ba245466261ec3@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T133000
+DTEND;TZID=Asia/Tokyo:20260118T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：広島国泰寺 vs 神辺\n結果：7-0\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:8896fd81d92d1a76bfe2b776856dda9ef53c6118@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T133000
+DTEND;TZID=Asia/Tokyo:20260118T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：美鈴が丘 vs 銀河学院\n結果：0-10\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:2ff4ac4fdb543b88c39e33f5a5105b9e7a5dc1d0@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T133000
+DTEND;TZID=Asia/Tokyo:20260118T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：広島翔洋 vs 修大協創\n結果：8-0\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:898f83d92d2c361606cf93d753c1f412b62d7a26@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T133000
+DTEND;TZID=Asia/Tokyo:20260118T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：広陵 vs 沼田\n結果：0-5\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:86f28e579d03e2219c8c6d988423991e7fc9259e@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T133000
+DTEND;TZID=Asia/Tokyo:20260118T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：大門・尾道東合同 vs 如水館\n結果：0-18\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:b8845dfa620ad91f7d0a6e082d9ec89442217569@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T133000
+DTEND;TZID=Asia/Tokyo:20260118T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：広島国際学院 vs 広大福山\n結果：9-1\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:0ee669fa02fb227e8eb92bfcfe269bc549968f93@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T133000
+DTEND;TZID=Asia/Tokyo:20260118T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：星槎国際広島 vs 広島商\n結果：6-0\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:29e39cffd754688947f81747cca98ba25d3ff816@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T133000
+DTEND;TZID=Asia/Tokyo:20260118T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：広島桜が丘 vs 広島商船\n結果：13-0\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:d515c4eec7b35f0aed47ceae62d9c39e8811a441@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T133000
+DTEND;TZID=Asia/Tokyo:20260118T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：宮島工 vs 英数学館\n結果：0-2\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:4dab800f41bf51a257d79e57e87d704057ab44f8@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260118T140000
+DTEND;TZID=Asia/Tokyo:20260118T160000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：舟入 vs 修道\n結果：0-7\n時刻：14:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:9a0067eeac014f3b35dd0f42b566beb9e5b7505e@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：広島井口 vs 如水館\n結果：0-11\n時刻：10:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:d13662e933b5d7044ba29189c6ba7d8d8dc4ae50@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：広島国際学院 vs 福山誠之館\n結果：5-0\n時刻：10:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:7636c31f97cb7edc1ed69d8def0ca3e2057b8525@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260124T110000
+DTEND;TZID=Asia/Tokyo:20260124T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：広島皆実 vs 五日市\n結果：13-0\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:de62f625cb1e2015dd09a73865cd7a96f7c7b5e6@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260124T110000
+DTEND;TZID=Asia/Tokyo:20260124T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：呉港 vs 広島工大高\n結果：0-6\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:7a9bcc5d2da37c263824f68572435998ca790014@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260124T110000
+DTEND;TZID=Asia/Tokyo:20260124T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：星槎国際広島 vs 清水ヶ丘\n結果：0-3\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:46a497c5ea79f7b941484de6d93fb9196c658d30@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：福山明王台 vs 銀河学院\n結果：0-3\n時刻：12:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:bbc803e5fe99091afcdbf9dd649bdf5ec571ffd2@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：高陽 vs 修道\n結果：1-4\n時刻：12:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:9d9fbb563485dbc07ba1d3b216a699b5a1b9bd82@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260124T133000
+DTEND;TZID=Asia/Tokyo:20260124T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：広島翔洋 vs 祇園北\n結果：3-0\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:53a98119844112542e4cd52f816f9a85341a5448@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260124T133000
+DTEND;TZID=Asia/Tokyo:20260124T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：崇徳 vs 盈進\n結果：5-0\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:472ec03fd6e6e8c62819eb5f97acc76950d5cfd7@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260124T133000
+DTEND;TZID=Asia/Tokyo:20260124T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：広島桜が丘 vs 福山葦陽\n結果：2-0\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:3beeacdfa7bc7d5910e458ebb36d6c34eeb87959@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260124T140000
+DTEND;TZID=Asia/Tokyo:20260124T160000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：近大東広島 vs 沼田\n結果：0-10\n時刻：14:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:447c4dfa8dc0844483c29a3de35d97692fb45960@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260124T140000
+DTEND;TZID=Asia/Tokyo:20260124T160000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：広島新庄 vs 可部\n結果：12-0\n時刻：14:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:165e8b80ecaab175291229caaaafd6388d72d41d@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
+LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
+DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
+ カード）未取得のため、後で1試合=1イベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:d0895f7a64df9e2078b0ea49ccb2af80f7021815@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260125T110000
+DTEND;TZID=Asia/Tokyo:20260125T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：広島国泰寺 vs 英数学館\n結果：3-1\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:42a915c130c31247de9ed0c5d5bb0103e2a336f6@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260125T110000
+DTEND;TZID=Asia/Tokyo:20260125T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：尾道 vs 山陽\n結果：1-1 PK 3-4\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:d61b5e982a35554fa8ba84007f769c08959c7487@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260125T133000
+DTEND;TZID=Asia/Tokyo:20260125T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：広島観音 vs 安芸南\n結果：2-0\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:a4d13747bca337506c164a8aa02b4ac2393d4f21@my-ics
+DTSTAMP:20260205T101030Z
+DTSTART;TZID=Asia/Tokyo:20260125T133000
+DTEND;TZID=Asia/Tokyo:20260125T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：尾道北 vs 瀬戸内\n結果：0-27\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
 UID:9fde6fdad6383c66bfbece426895695bbe7ce9b4@my-ics
 DTSTAMP:20260205T095253Z
 DTSTART;TZID=Asia/Tokyo:20260129T110000
@@ -724,6 +766,446 @@ SUMMARY:鳥取県／鳥取新人戦
 LOCATION:会場不明（鳥取県）
 DESCRIPTION:種別：高校男子\n対戦：八頭 vs 境\n回戦：準々決勝\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：13:15（KO）\n会場：会場不明（鳥取県）\n結果：1-2\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260130-5e18e37ee3129e1d@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260130T100000
+DTEND;TZID=Asia/Tokyo:20260130T120000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：徳山 vs 山口農業・田布施農工・柳井学園\n回戦：1回戦\n大会：令和7年度山口新人戦（新人選手権
+ 大会）\n都道府県：山口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター
+ ）人工芝多目的G／周南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-3\n出典：高校サッカードット
+ コム（大会日程・結果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https:
+ //yamaguchi-fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260130-74fb80a6dc29f041@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260130T100000
+DTEND;TZID=Asia/Tokyo:20260130T120000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：下関工科 vs 山口鴻城\n回戦：1回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県
+ ：山口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／
+ 周南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-3\n出典：高校サッカードットコム（大会日程・結
+ 果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguc
+ hi-fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260130-b2a636a0ee11d749@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260130T120000
+DTEND;TZID=Asia/Tokyo:20260130T140000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：下関商 vs 防府\n回戦：1回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口
+ 県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市
+ サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果） 
+ https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-
+ fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260130-d0c87219ce547658@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260130T120000
+DTEND;TZID=Asia/Tokyo:20260130T140000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：光 vs 付属香川・宇部中央\n回戦：1回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道
+ 府県：山口県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的
+ G／周南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：4-0\n出典：高校サッカードットコム（大会日程
+ ・結果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamag
+ uchi-fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260130-865633e4add4fffd@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260130T140000
+DTEND;TZID=Asia/Tokyo:20260130T160000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：防府商工 vs 下関西\n回戦：1回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：
+ 山口県\n時刻：14:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周
+ 南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-5\n出典：高校サッカードットコム（大会日程・結果
+ ） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguch
+ i-fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:38400b9af267153a457ab57e011f4d348890be14@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:【中国-男子高校】島根新人戦（男子）準々決勝（カード未取得）
+LOCATION:益田（会場複数）
+DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
+ iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
+ 9A%E8%A6%81%E9%A0%85%28%E7%B7%8F%E4%BD%93%E3%80%81%E9%81%B8%E6%89%8B%E6%A8
+ %A9%E3%80%81%E6%96%B0%E4%BA%BA%E6%88%A6%29.pdf\n※組合せ（対戦カード）未取得のため、後で1試合=1イ
+ ベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:35ffc5697d63d33c51494d7d17d4a2f243b37a1d@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
+LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
+DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
+ カード）未取得のため、後で1試合=1イベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260131-fa6991fbd59fb846@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：高川学園 vs 山口農業・田布施農工・柳井学園\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選
+ 手権大会）\n都道府県：山口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセン
+ ター）人工芝多目的G／周南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：8-0\n出典：高校サッカード
+ ットコム（大会日程・結果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） http
+ s://yamaguchi-fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260131-598c77b11e18fd9c@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：徳山商工 vs 防府西\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：
+ 山口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周
+ 南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：1-3\n出典：高校サッカードットコム（大会日程・結果
+ ） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguch
+ i-fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260131-d225fa82649a1837@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：下関商 vs 聖光\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口
+ 県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市
+ サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：1-8\n出典：高校サッカードットコム（大会日程・結果） 
+ https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-
+ fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260131-e97777aedbcbe6e2@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：宇部鴻城 vs 山口鴻城\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県
+ ：山口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／
+ 周南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：1-0\n出典：高校サッカードットコム（大会日程・結
+ 果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguc
+ hi-fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260131-e2b2451dcda1c64a@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：下松工 vs 宇部\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口
+ 県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市
+ サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-16\n出典：高校サッカードットコム（大会日程・結果）
+  https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi
+ -fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260131-780c8b05abf44ba2@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260131T110000
+DTEND;TZID=Asia/Tokyo:20260131T130000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：宇部工 vs 小野田\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山
+ 口県\n時刻：11:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南
+ 市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-0（PK 5-4）\n出典：高校サッカードットコム（
+ 大会日程・結果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://y
+ amaguchi-fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:df84074956159858695848f1f33888b8f508eb54@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20260131T110000
+DTEND;TZID=Asia/Tokyo:20260131T130000
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：米子北 vs 倉吉北\n回戦：準決勝\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：11:00（KO）\n会場：会場不明（鳥取県）\n結果：8-0\n出典：https://koko-soccer.com/score/4255
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:27b5e874d9f14b2f207a226875ea4bfcf953c9db@my-ics
+DTSTAMP:20260205T095956Z
+DTSTART;TZID=Asia/Tokyo:20260131T110000
+DTEND;TZID=Asia/Tokyo:20260131T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：4回戦\n対戦：広島皆実 vs 広島工大高\n結果：1-0\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:29477f3173bf7ca5c5ea04966aebe5143bd968a9@my-ics
+DTSTAMP:20260205T095956Z
+DTSTART;TZID=Asia/Tokyo:20260131T110000
+DTEND;TZID=Asia/Tokyo:20260131T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：4回戦\n対戦：広島国泰寺 vs 銀河学院\n結果：1-1 PK 4-3\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:851ed9f671fd3be307abcc5b0b0179927bbd3ed8@my-ics
+DTSTAMP:20260205T095956Z
+DTSTART;TZID=Asia/Tokyo:20260131T110000
+DTEND;TZID=Asia/Tokyo:20260131T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：4回戦\n対戦：広島翔洋 vs 修道\n結果：3-0\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:2216690b36acf4057b13c5b3b1bc2ba779b51084@my-ics
+DTSTAMP:20260205T095956Z
+DTSTART;TZID=Asia/Tokyo:20260131T110000
+DTEND;TZID=Asia/Tokyo:20260131T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：4回戦\n対戦：広島観音 vs 沼田\n結果：0-2\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260131-85605a4ca1a3be24@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260131T120000
+DTEND;TZID=Asia/Tokyo:20260131T140000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：高水 vs 豊浦\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口県
+ \n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市サ
+ ッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-0（PK 2-4）\n出典：高校サッカードットコム（大会
+ 日程・結果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yam
+ aguchi-fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260131-15f7b4cc77ca270c@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260131T120000
+DTEND;TZID=Asia/Tokyo:20260131T140000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：早鞆 vs 下関西\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口
+ 県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市
+ サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-1\n出典：高校サッカードットコム（大会日程・結果） 
+ https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-
+ fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260131-9ad105be0ded56f5@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260131T120000
+DTEND;TZID=Asia/Tokyo:20260131T140000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：南陽工 vs 慶進\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口
+ 県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市
+ サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：3-0\n出典：高校サッカードットコム（大会日程・結果） 
+ https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-
+ fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260131-aec3ef711c83d53d@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260131T120000
+DTEND;TZID=Asia/Tokyo:20260131T140000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：岩国工 vs 宇部高専\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：
+ 山口県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周
+ 南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-3\n出典：高校サッカードットコム（大会日程・結果
+ ） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguch
+ i-fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260131-4d9bf8070ad6f340@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260131T120000
+DTEND;TZID=Asia/Tokyo:20260131T140000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：成進 vs 小野田工\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山
+ 口県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南
+ 市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-2\n出典：高校サッカードットコム（大会日程・結果）
+  https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi
+ -fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260131-f988815c76b916a4@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260131T120000
+DTEND;TZID=Asia/Tokyo:20260131T140000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：光 vs 西京\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口県\
+ n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市サッ
+ カー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：1-6\n出典：高校サッカードットコム（大会日程・結果） ht
+ tps://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-fa
+ .com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:5990730db792e24b15ecf311639d1c9a01fb49bb@my-ics
+DTSTAMP:20260205T095956Z
+DTSTART;TZID=Asia/Tokyo:20260131T133000
+DTEND;TZID=Asia/Tokyo:20260131T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：4回戦\n対戦：広島新庄 vs 山陽\n結果：1-2\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:75ba03a4ea48b76e820bf463d9b4cda195db8f7d@my-ics
+DTSTAMP:20260205T095956Z
+DTSTART;TZID=Asia/Tokyo:20260131T133000
+DTEND;TZID=Asia/Tokyo:20260131T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：4回戦\n対戦：崇徳 vs 如水館\n結果：1-6\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:dbae7dbe7c0cbe0d0aaba1cf8c1d0e15c0899d48@my-ics
+DTSTAMP:20260205T095956Z
+DTSTART;TZID=Asia/Tokyo:20260131T133000
+DTEND;TZID=Asia/Tokyo:20260131T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：4回戦\n対戦：広島国際学院 vs 清水ヶ丘\n結果：4-0\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:a98360dec16b8d0b3ad005cfae3b6834d95cca8d@my-ics
+DTSTAMP:20260205T095956Z
+DTSTART;TZID=Asia/Tokyo:20260131T133000
+DTEND;TZID=Asia/Tokyo:20260131T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：4回戦\n対戦：広島桜が丘 vs 瀬戸内\n結果：0-7\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260131-432d82351977c825@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260131T140000
+DTEND;TZID=Asia/Tokyo:20260131T160000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：長門 vs 下松\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口県
+ \n時刻：14:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市サ
+ ッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：長門 不戦勝（高校サッカードットコム表記）\n出典：高校サッ
+ カードットコム（大会日程・結果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） h
+ ttps://yamaguchi-fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260131-fa32eafdfec90040@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260131T140000
+DTEND;TZID=Asia/Tokyo:20260131T160000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：桜ヶ丘 vs 野田学園\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：
+ 山口県\n時刻：14:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周
+ 南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：6-0\n出典：高校サッカードットコム（大会日程・結果
+ ） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguch
+ i-fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260131-1f3420f3376b5196@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260131T140000
+DTEND;TZID=Asia/Tokyo:20260131T160000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：萩 vs 岩国\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口県\
+ n時刻：14:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市サッ
+ カー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：1-4\n出典：高校サッカードットコム（大会日程・結果） ht
+ tps://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-fa
+ .com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260131-a8d62d14bf0f81c0@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260131T140000
+DTEND;TZID=Asia/Tokyo:20260131T160000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：山口中央 vs 山口\n回戦：2回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山
+ 口県\n時刻：14:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南
+ 市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-1\n出典：高校サッカードットコム（大会日程・結果）
+  https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi
+ -fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:57541dbeb2060fa0dca5b255a13183bd8196cbb0@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
+LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
+DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
+ カード）未取得のため、後で1試合=1イベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260201-e36f677b2cc8a7a3@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260201T100000
+DTEND;TZID=Asia/Tokyo:20260201T120000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：高川学園 vs 豊浦\n回戦：3回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山
+ 口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南
+ 市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：5-0\n出典：高校サッカードットコム（大会日程・結果）
+  https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi
+ -fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260201-7b51edb7d44f4f43@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260201T100000
+DTEND;TZID=Asia/Tokyo:20260201T120000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：南陽工 vs 聖光\n回戦：3回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口
+ 県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市
+ サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-5\n出典：高校サッカードットコム（大会日程・結果） 
+ https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-
+ fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260201-77f09e2d6d9f08ea@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260201T100000
+DTEND;TZID=Asia/Tokyo:20260201T120000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：宇部鴻城 vs 宇部\n回戦：3回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山
+ 口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南
+ 市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果）
+  https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi
+ -fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260201-e68c2d748304c848@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260201T100000
+DTEND;TZID=Asia/Tokyo:20260201T120000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：宇部高専 vs 小野田工\n回戦：3回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県
+ ：山口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／
+ 周南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-2\n出典：高校サッカードットコム（大会日程・結
+ 果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguc
+ hi-fa.com/archives/16230
 END:VEVENT
 BEGIN:VEVENT
 UID:70bdaf1ef1c596ed05706c00e7eed92b7aefb7d7@my-ics
@@ -746,14 +1228,92 @@ DESCRIPTION:種別：高校男子\n対戦：鳥取東 vs 鳥取城北\n回戦：
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-UID:df84074956159858695848f1f33888b8f508eb54@my-ics
-DTSTAMP:20260205T095253Z
-DTSTART;TZID=Asia/Tokyo:20260131T110000
-DTEND;TZID=Asia/Tokyo:20260131T130000
-SUMMARY:鳥取県／鳥取新人戦
-LOCATION:会場不明（鳥取県）
-DESCRIPTION:種別：高校男子\n対戦：米子北 vs 倉吉北\n回戦：準決勝\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：11:00（KO）\n会場：会場不明（鳥取県）\n結果：8-0\n出典：https://koko-soccer.com/score/4255
-SEQUENCE:1
+UID:630395860635f0ae4b8f2a138c6b794f929550f0@my-ics
+DTSTAMP:20260205T095956Z
+DTSTART;TZID=Asia/Tokyo:20260201T110000
+DTEND;TZID=Asia/Tokyo:20260201T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：準々決勝\n対戦：広島皆実 vs 広島国泰寺\n結果：3-0\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:c1f44b50602f8399c07cac0476e2245ad1fd68e0@my-ics
+DTSTAMP:20260205T095956Z
+DTSTART;TZID=Asia/Tokyo:20260201T110000
+DTEND;TZID=Asia/Tokyo:20260201T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：準々決勝\n対戦：広島翔洋 vs 沼田\n結果：2-3\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260201-ebb85647d26eca92@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260201T120000
+DTEND;TZID=Asia/Tokyo:20260201T140000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：長門 vs 防府西\n回戦：3回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口
+ 県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市
+ サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果） 
+ https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-
+ fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260201-1a9d51432a557080@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260201T120000
+DTEND;TZID=Asia/Tokyo:20260201T140000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：下関西 vs 桜ヶ丘\n回戦：3回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山
+ 口県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南
+ 市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：3-2\n出典：高校サッカードットコム（大会日程・結果）
+  https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi
+ -fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260201-092b6ece4b5ffbf7@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260201T120000
+DTEND;TZID=Asia/Tokyo:20260201T140000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：宇部工 vs 岩国\n回戦：3回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口
+ 県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市
+ サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：4-1\n出典：高校サッカードットコム（大会日程・結果） 
+ https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-
+ fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260201-10dd19eaf6f748f5@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260201T120000
+DTEND;TZID=Asia/Tokyo:20260201T140000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：山口 vs 西京\n回戦：3回戦\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山口県
+ \n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南市サ
+ ッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：0-1\n出典：高校サッカードットコム（大会日程・結果） h
+ ttps://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi-f
+ a.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:a2db76036258a194cbbc22f044f4934dfd679e2c@my-ics
+DTSTAMP:20260205T095956Z
+DTSTART;TZID=Asia/Tokyo:20260201T133000
+DTEND;TZID=Asia/Tokyo:20260201T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：準々決勝\n対戦：山陽 vs 如水館\n結果：0-4\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:3ae35ff781a175c37b4b67670deb8be374d8682b@my-ics
+DTSTAMP:20260205T095956Z
+DTSTART;TZID=Asia/Tokyo:20260201T133000
+DTEND;TZID=Asia/Tokyo:20260201T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：準々決勝\n対戦：広島国際学院 vs 瀬戸内\n結果：0-1\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
 END:VEVENT
 BEGIN:VEVENT
 UID:d65e977678d00bbd6cfbfb564a5b0ac966a50f9b@my-ics
@@ -784,5 +1344,156 @@ SUMMARY:鳥取県／鳥取新人戦
 LOCATION:会場不明（鳥取県）
 DESCRIPTION:種別：高校男子\n対戦：米子北 vs 未定\n回戦：決勝\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：11:00（KO）\n会場：会場不明（鳥取県）\n結果：未確定\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:a971b5e43456cc1ef8ea240148cd8942e73c40e3@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+SUMMARY:【中国-男子高校】島根新人戦（男子）Finalラウンド（カード未取得）
+LOCATION:益田（会場複数）
+DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
+ iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
+ 9A%E8%A6%81%E9%A0%85%28%E7%B7%8F%E4%BD%93%E3%80%81%E9%81%B8%E6%89%8B%E6%A8
+ %A9%E3%80%81%E6%96%B0%E4%BA%BA%E6%88%A6%29.pdf\n※組合せ（対戦カード）未取得のため、後で1試合=1イ
+ ベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:571b16fb4cc52a8bbbeb7760944b09b8faac379d@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
+LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
+DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
+ カード）未取得のため、後で1試合=1イベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260207-d1eabed2b7f8b5ab@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260207T100000
+DTEND;TZID=Asia/Tokyo:20260207T120000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：高川学園 vs 長門\n回戦：準々決勝\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：
+ 山口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周
+ 南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：未確定\n出典：高校サッカードットコム（大会日程・結果
+ ） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguch
+ i-fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260207-2224f1950d6bc0ec@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260207T100000
+DTEND;TZID=Asia/Tokyo:20260207T120000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：宇部鴻城 vs 小野田工\n回戦：準々決勝\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府
+ 県：山口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G
+ ／周南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：未確定\n出典：高校サッカードットコム（大会日程・
+ 結果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamagu
+ chi-fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260207-c9fcba215059e2ca@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260207T100000
+DTEND;TZID=Asia/Tokyo:20260207T120000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：宇部工 vs 西京\n回戦：準々決勝\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山
+ 口県\n時刻：10:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南
+ 市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：未確定\n出典：高校サッカードットコム（大会日程・結果）
+  https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi
+ -fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:4fed87c033e6b238eca3d3ee5dcdf7b5ad60c50a@my-ics
+DTSTAMP:20260205T095956Z
+DTSTART;TZID=Asia/Tokyo:20260207T110000
+DTEND;TZID=Asia/Tokyo:20260207T130000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：準決勝\n対戦：広島皆実 vs 沼田\n結果：未確定\n時刻：11:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260207-9f3a3237dab32f64@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260207T120000
+DTEND;TZID=Asia/Tokyo:20260207T140000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：下関西 vs 聖光\n回戦：準々決勝\n大会：令和7年度山口新人戦（新人選手権大会）\n都道府県：山
+ 口県\n時刻：12:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝多目的G／周南
+ 市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：未確定\n出典：高校サッカードットコム（大会日程・結果）
+  https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://yamaguchi
+ -fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:cd4452ef422745b52fe7b570decc8e9115b83a87@my-ics
+DTSTAMP:20260205T095956Z
+DTSTART;TZID=Asia/Tokyo:20260207T133000
+DTEND;TZID=Asia/Tokyo:20260207T153000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：準決勝\n対戦：如水館 vs 瀬戸内\n結果：未確定\n時刻：13:30\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:771de8644dab5e9c9e8900d0b1fd4de7d492c992@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:【中国-男子高校】島根新人戦（男子）Finalラウンド（カード未取得）
+LOCATION:益田（会場複数）
+DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
+ iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
+ 9A%E8%A6%81%E9%A0%85%28%E7%B7%8F%E4%BD%93%E3%80%81%E9%81%B8%E6%89%8B%E6%A8
+ %A9%E3%80%81%E6%96%B0%E4%BA%BA%E6%88%A6%29.pdf\n※組合せ（対戦カード）未取得のため、後で1試合=1イ
+ ベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:bf8038e59841c78722faa99bb538bceff538fbee@my-ics
+DTSTAMP:20260203T075429Z
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
+LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
+DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
+ カード）未取得のため、後で1試合=1イベントに差し替え予定。
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260208-0ff65b7f7de622e0@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260208T110000
+DTEND;TZID=Asia/Tokyo:20260208T130000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：高川学園/長門 vs 下関西/聖光\n回戦：準決勝\n大会：令和7年度山口新人戦（新人選手権大会）\
+ n都道府県：山口県\n時刻：11:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人工芝
+ 多目的G／周南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：未確定\n出典：高校サッカードットコム（大
+ 会日程・結果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://ya
+ maguchi-fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_chugoku_hs_boys-20260208-2e794ab9448fe8af@my-ics
+DTSTAMP:20260205T093927Z
+DTSTART;TZID=Asia/Tokyo:20260208T110000
+DTEND;TZID=Asia/Tokyo:20260208T130000
+SUMMARY:山口県／令和7年度山口新人戦（新人選手権大会）
+LOCATION:会場不明（山口県）
+DESCRIPTION:種別：高校／男子\n対戦：宇部鴻城/小野田工 vs 宇部工/西京\n回戦：準決勝\n大会：令和7年度山口新人戦（新人選手権大会
+ ）\n都道府県：山口県\n時刻：11:00（KO）\n会場：会場不明（山口県）\n会場候補：ダイキョーニシカワ スクエア（防府市スポーツセンター）人
+ 工芝多目的G／周南市サッカー場／玖珂総合公園（人工芝）／高川学園高校 第2G（人工芝）／防府西高校G\n結果：未確定\n出典：高校サッカードットコム
+ （大会日程・結果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://
+ yamaguchi-fa.com/archives/16230
+END:VEVENT
+BEGIN:VEVENT
+UID:0015b003a0a959b174f87b48253a9bf612588422@my-ics
+DTSTAMP:20260205T095956Z
+DTSTART;TZID=Asia/Tokyo:20260208T140000
+DTEND;TZID=Asia/Tokyo:20260208T160000
+SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
+LOCATION:会場不明（広島県）
+DESCRIPTION:種別：高校／男子\n回戦：決勝\n対戦：未定 vs 未定\n結果：未確定\n時刻：14:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
 END:VEVENT
 END:VCALENDAR
