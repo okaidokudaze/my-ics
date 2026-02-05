@@ -1,1781 +1,801 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//masashi project//ics overwrite//JA
+PRODID:-//okaidokudaze//my-ics//JP
 CALSCALE:GREGORIAN
-METHOD:PUBLISH
 X-WR-CALNAME:その他イベント（天体・スポーツ・伝統）
-X-WR-CALDESC:統合：天体・スポーツ・伝統行事など（上書き運用、RRULEなし、期間は1日1件の終日で分割）
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:0ff3fc575cf126118259a72d5470d613af242285@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260111
-DTEND;VALUE=DATE:20260112
-SUMMARY:大相撲 一月場所（1日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:30d570302dd6744787f83e96fad234f57f34b72e@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260112
-DTEND;VALUE=DATE:20260113
-SUMMARY:大相撲 一月場所（2日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:22601f62d125a6dd8d1927c2bcd8df9fc995414d@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260113
-DTEND;VALUE=DATE:20260114
-SUMMARY:大相撲 一月場所（3日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:580ca8be7fff3a15442afc43913b410934b06e24@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260114
-DTEND;VALUE=DATE:20260115
-SUMMARY:大相撲 一月場所（4日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:0fa7fa0e35600907e7e252cf8b833a39172afa86@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260115
-DTEND;VALUE=DATE:20260116
-SUMMARY:大相撲 一月場所（5日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:5ee2ee4fb7c541355f1ca0808311ac1a73e70449@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260116
-DTEND;VALUE=DATE:20260117
-SUMMARY:大相撲 一月場所（6日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:e99c0d22fdedd6d1eb9758ac1e47859f0942a4f6@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260117
-DTEND;VALUE=DATE:20260118
-SUMMARY:大相撲 一月場所（7日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:cfe3acf33d0028ca3a125e923352f3f09254a69f@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260118
-DTEND;VALUE=DATE:20260119
-SUMMARY:大相撲 一月場所（8日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:6d524a8c0bf4ee26fc6054325e2929542c1c7941@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260119
-DTEND;VALUE=DATE:20260120
-SUMMARY:大相撲 一月場所（9日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:94acd10271679b0e3b539f24acf6eaead71ca5e0@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260120
-DTEND;VALUE=DATE:20260121
-SUMMARY:大相撲 一月場所（10日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:3bd9816bc8e3cba0e2e9e2d08e2fe7eb9f0abefb@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260121
-DTEND;VALUE=DATE:20260122
-SUMMARY:大相撲 一月場所（11日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:e73f747ef59796eac5254d4454f54f2b9142eebd@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260122
-DTEND;VALUE=DATE:20260123
-SUMMARY:大相撲 一月場所（12日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:49a9846ca5791554d1c1951fb46e7259c77f59e3@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260123
-DTEND;VALUE=DATE:20260124
-SUMMARY:大相撲 一月場所（13日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:06ba88bc253bdcff00f0365c206b5542499f3a79@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260124
-DTEND;VALUE=DATE:20260125
-SUMMARY:大相撲 一月場所（14日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:2c4d89178d0175d66dc158e311691a9f3c8a2d8b@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260125
-DTEND;VALUE=DATE:20260126
-SUMMARY:大相撲 一月場所（15日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:dae00a37a9fe83b5d3cd96d31b9e6e6ae3f7b67a@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260308
-DTEND;VALUE=DATE:20260309
-SUMMARY:大相撲 三月場所（1日目）
-LOCATION:エディオンアリーナ大阪（大阪府立体育会館）, 日本、〒556-0011 大阪府大阪市浪速区難波中3丁目4-36
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:f8c3b95cd998ba6711013c825dd16ea4fe90c5f8@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260309
-DTEND;VALUE=DATE:20260310
-SUMMARY:大相撲 三月場所（2日目）
-LOCATION:エディオンアリーナ大阪（大阪府立体育会館）, 日本、〒556-0011 大阪府大阪市浪速区難波中3丁目4-36
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:b8c7ceb643cf9bfe9bec529976ecdee4732d673c@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260310
-DTEND;VALUE=DATE:20260311
-SUMMARY:大相撲 三月場所（3日目）
-LOCATION:エディオンアリーナ大阪（大阪府立体育会館）, 日本、〒556-0011 大阪府大阪市浪速区難波中3丁目4-36
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:0f46df60fc71292542c9a46258357d94b7a8322e@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260311
-DTEND;VALUE=DATE:20260312
-SUMMARY:大相撲 三月場所（4日目）
-LOCATION:エディオンアリーナ大阪（大阪府立体育会館）, 日本、〒556-0011 大阪府大阪市浪速区難波中3丁目4-36
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:aca2a25c8b876c5f8f174f1832a14a008bbc3c5a@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260312
-DTEND;VALUE=DATE:20260313
-SUMMARY:大相撲 三月場所（5日目）
-LOCATION:エディオンアリーナ大阪（大阪府立体育会館）, 日本、〒556-0011 大阪府大阪市浪速区難波中3丁目4-36
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:ae9c413486ba2f878c01a00bb2ff8f0182dddec1@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260314
-SUMMARY:大相撲 三月場所（6日目）
-LOCATION:エディオンアリーナ大阪（大阪府立体育会館）, 日本、〒556-0011 大阪府大阪市浪速区難波中3丁目4-36
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:cfc18c88b6933435e09ec9de43499fda452d2eb8@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260314
-DTEND;VALUE=DATE:20260315
-SUMMARY:大相撲 三月場所（7日目）
-LOCATION:エディオンアリーナ大阪（大阪府立体育会館）, 日本、〒556-0011 大阪府大阪市浪速区難波中3丁目4-36
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:9765486fbecedf420f65ef1e55f50e010c34ad61@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260315
-DTEND;VALUE=DATE:20260316
-SUMMARY:大相撲 三月場所（8日目）
-LOCATION:エディオンアリーナ大阪（大阪府立体育会館）, 日本、〒556-0011 大阪府大阪市浪速区難波中3丁目4-36
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:a1e00b3b040516a998bf8659e6be29186b2f57f5@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260316
-DTEND;VALUE=DATE:20260317
-SUMMARY:大相撲 三月場所（9日目）
-LOCATION:エディオンアリーナ大阪（大阪府立体育会館）, 日本、〒556-0011 大阪府大阪市浪速区難波中3丁目4-36
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:742266a34ea18fd7c4ea2895e13f5688c18d3f0f@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260317
-DTEND;VALUE=DATE:20260318
-SUMMARY:大相撲 三月場所（10日目）
-LOCATION:エディオンアリーナ大阪（大阪府立体育会館）, 日本、〒556-0011 大阪府大阪市浪速区難波中3丁目4-36
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:52a4076f139fd7deefd831c29cdb423d60669d22@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260318
-DTEND;VALUE=DATE:20260319
-SUMMARY:大相撲 三月場所（11日目）
-LOCATION:エディオンアリーナ大阪（大阪府立体育会館）, 日本、〒556-0011 大阪府大阪市浪速区難波中3丁目4-36
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:6a1c2cfa74ce41f91c0789f20e0838b072b960e8@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
+UID:1490de3cb7aeee26b70ae70c039c912fd5c10b66@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
-SUMMARY:大相撲 三月場所（12日目）
-LOCATION:エディオンアリーナ大阪（大阪府立体育会館）, 日本、〒556-0011 大阪府大阪市浪速区難波中3丁目4-36
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+SUMMARY:選抜高校野球（センバツ）会期
+LOCATION:阪神甲子園球場, 日本、〒663-8152 兵庫県西宮市甲子園町1-82
+URL:https://www.hb-nippon.com/articles/8811
+DESCRIPTION:会期（3/19開幕・13日間）\n出典: 高校野球ドットコム
 END:VEVENT
 BEGIN:VEVENT
-UID:e8587a8f8cd88821d7ac70e8ada639f4e328c52d@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
+UID:d8d6ebd96074813ae0b16c8f95c4e0f99a892ebf@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
-SUMMARY:大相撲 三月場所（13日目）
-LOCATION:エディオンアリーナ大阪（大阪府立体育会館）, 日本、〒556-0011 大阪府大阪市浪速区難波中3丁目4-36
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+SUMMARY:選抜高校野球（センバツ）会期
+LOCATION:阪神甲子園球場, 日本、〒663-8152 兵庫県西宮市甲子園町1-82
+URL:https://www.hb-nippon.com/articles/8811
+DESCRIPTION:会期（3/19開幕・13日間）\n出典: 高校野球ドットコム
 END:VEVENT
 BEGIN:VEVENT
-UID:df5a59238353a5ad284e0c878eaab277b296ff3b@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
+UID:f9393563882f0be7a5f669c8f3012fac64f3c454@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:大相撲 三月場所（14日目）
-LOCATION:エディオンアリーナ大阪（大阪府立体育会館）, 日本、〒556-0011 大阪府大阪市浪速区難波中3丁目4-36
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+SUMMARY:選抜高校野球（センバツ）会期
+LOCATION:阪神甲子園球場, 日本、〒663-8152 兵庫県西宮市甲子園町1-82
+URL:https://www.hb-nippon.com/articles/8811
+DESCRIPTION:会期（3/19開幕・13日間）\n出典: 高校野球ドットコム
 END:VEVENT
 BEGIN:VEVENT
-UID:b11550f9863d36c3d509c1b232d51c9dfe676ae3@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
+UID:82c7f2fd7e803c336c845b758458f024c0fdab72@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
 DTSTART;VALUE=DATE:20260322
 DTEND;VALUE=DATE:20260323
-SUMMARY:大相撲 三月場所（15日目）
-LOCATION:エディオンアリーナ大阪（大阪府立体育会館）, 日本、〒556-0011 大阪府大阪市浪速区難波中3丁目4-36
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+SUMMARY:選抜高校野球（センバツ）会期
+LOCATION:阪神甲子園球場, 日本、〒663-8152 兵庫県西宮市甲子園町1-82
+URL:https://www.hb-nippon.com/articles/8811
+DESCRIPTION:会期（3/19開幕・13日間）\n出典: 高校野球ドットコム
 END:VEVENT
 BEGIN:VEVENT
-UID:53c0878ad0d4bdefb85318865c74dfeee3b596b5@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260510
-DTEND;VALUE=DATE:20260511
-SUMMARY:大相撲 五月場所（1日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:0b6ad80e6fdbe914462b0388e9fd0088f393bdee@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:選抜高校野球（センバツ）会期
+LOCATION:阪神甲子園球場, 日本、〒663-8152 兵庫県西宮市甲子園町1-82
+URL:https://www.hb-nippon.com/articles/8811
+DESCRIPTION:会期（3/19開幕・13日間）\n出典: 高校野球ドットコム
 END:VEVENT
 BEGIN:VEVENT
-UID:a20ea5774c114f5b15da3d5019844c5a6b948e80@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260512
-SUMMARY:大相撲 五月場所（2日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:a168b64e1298f8832b95f37fe46cb0b132b2e850@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+SUMMARY:選抜高校野球（センバツ）会期
+LOCATION:阪神甲子園球場, 日本、〒663-8152 兵庫県西宮市甲子園町1-82
+URL:https://www.hb-nippon.com/articles/8811
+DESCRIPTION:会期（3/19開幕・13日間）\n出典: 高校野球ドットコム
 END:VEVENT
 BEGIN:VEVENT
-UID:a8aef49a0e7a864ec80995ad0090209d97e6d8de@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260512
-DTEND;VALUE=DATE:20260513
-SUMMARY:大相撲 五月場所（3日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:0240eeba20513ecc7187f32b2afe6ceb916f73be@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+SUMMARY:選抜高校野球（センバツ）会期
+LOCATION:阪神甲子園球場, 日本、〒663-8152 兵庫県西宮市甲子園町1-82
+URL:https://www.hb-nippon.com/articles/8811
+DESCRIPTION:会期（3/19開幕・13日間）\n出典: 高校野球ドットコム
 END:VEVENT
 BEGIN:VEVENT
-UID:5e2b241b39b6f2d355d93c946bfbbc68b777d520@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260513
-DTEND;VALUE=DATE:20260514
-SUMMARY:大相撲 五月場所（4日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:a65810fcfe3ea3c5e5222f19536d1cace9348829@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:選抜高校野球（センバツ）会期
+LOCATION:阪神甲子園球場, 日本、〒663-8152 兵庫県西宮市甲子園町1-82
+URL:https://www.hb-nippon.com/articles/8811
+DESCRIPTION:会期（3/19開幕・13日間）\n出典: 高校野球ドットコム
 END:VEVENT
 BEGIN:VEVENT
-UID:54150a5072bac337e0691f2401e71d277c6e8111@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260514
-DTEND;VALUE=DATE:20260515
-SUMMARY:大相撲 五月場所（5日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:4887d66903df50616bca93bbeb268ecb8142db94@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:選抜高校野球（センバツ）会期
+LOCATION:阪神甲子園球場, 日本、〒663-8152 兵庫県西宮市甲子園町1-82
+URL:https://www.hb-nippon.com/articles/8811
+DESCRIPTION:会期（3/19開幕・13日間）\n出典: 高校野球ドットコム
 END:VEVENT
 BEGIN:VEVENT
-UID:03a8c4577604a881bd3f32d03ef802ccabb9a3d0@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-SUMMARY:大相撲 五月場所（6日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:42e6dc45dbe120d8ae1b111df1125fc34f782819@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:選抜高校野球（センバツ）会期
+LOCATION:阪神甲子園球場, 日本、〒663-8152 兵庫県西宮市甲子園町1-82
+URL:https://www.hb-nippon.com/articles/8811
+DESCRIPTION:会期（3/19開幕・13日間）\n出典: 高校野球ドットコム
 END:VEVENT
 BEGIN:VEVENT
-UID:c878546b18857770f703f7ebfd14790965123a5a@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:大相撲 五月場所（7日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:d392d4328ae8b5616f36ac7e79eb33c82f76c7ed@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:選抜高校野球（センバツ）会期
+LOCATION:阪神甲子園球場, 日本、〒663-8152 兵庫県西宮市甲子園町1-82
+URL:https://www.hb-nippon.com/articles/8811
+DESCRIPTION:会期（3/19開幕・13日間）\n出典: 高校野球ドットコム
 END:VEVENT
 BEGIN:VEVENT
-UID:5eb4515dec92eef400f7c4c7b3f437216de08a7f@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260518
-SUMMARY:大相撲 五月場所（8日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:7eb1cd4d2edaa7d7c4ac025d0e92b42609252597@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:選抜高校野球（センバツ）会期
+LOCATION:阪神甲子園球場, 日本、〒663-8152 兵庫県西宮市甲子園町1-82
+URL:https://www.hb-nippon.com/articles/8811
+DESCRIPTION:会期（3/19開幕・13日間）\n出典: 高校野球ドットコム
 END:VEVENT
 BEGIN:VEVENT
-UID:bb74661dd37e04c4084331788d6f16a16a99db64@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260518
-DTEND;VALUE=DATE:20260519
-SUMMARY:大相撲 五月場所（9日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:6700be04e5bc123d3d951c1f4f45ef0fa3f8ac41@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:選抜高校野球（センバツ）会期
+LOCATION:阪神甲子園球場, 日本、〒663-8152 兵庫県西宮市甲子園町1-82
+URL:https://www.hb-nippon.com/articles/8811
+DESCRIPTION:会期（3/19開幕・13日間）\n出典: 高校野球ドットコム
 END:VEVENT
 BEGIN:VEVENT
-UID:b7e5ab1115e62a90e5e83f6948b148f2a6a614b0@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260520
-SUMMARY:大相撲 五月場所（10日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:ef6bf2b9c9d68b70c5340dd6f4b44bc68f2cbd05@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260206T190000
+DTEND;TZID=Asia/Tokyo:20260206T210000
+SUMMARY:横浜F・マリノス vs FC町田ゼルビア
+LOCATION:日産スタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:533b2d973255346f695a9b1d6441c9b0bae0cc30@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260521
-SUMMARY:大相撲 五月場所（11日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:eafb0563391bf108377ad8d6f3653d5c3f39a13f@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260207T130000
+DTEND;TZID=Asia/Tokyo:20260207T150000
+SUMMARY:ジェフユナイテッド千葉 vs 浦和レッズ
+LOCATION:フクダ電子アリーナ
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:a3de531568a48e34f6ef34c524b87489c7cc6991@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260521
-DTEND;VALUE=DATE:20260522
-SUMMARY:大相撲 五月場所（12日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:94f5fe6378189fe3aabc474c30365427d752fd3c@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260207T133000
+DTEND;TZID=Asia/Tokyo:20260207T153000
+SUMMARY:FC東京 vs 鹿島アントラーズ
+LOCATION:味の素スタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:f2eb4e0c3c09dc2135d8dd6c8d00e99ba6de648f@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260523
-SUMMARY:大相撲 五月場所（13日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:538a09054893d91bc72cb6bd89ca93549b0881d3@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260208T150000
+DTEND;TZID=Asia/Tokyo:20260208T170000
+SUMMARY:川崎フロンターレ vs 柏レイソル
+LOCATION:Uvanceとどろきスタジアム by Fujitsu
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:95c3a7986c9431dc4a0c2074741a25c8fb90bb43@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-SUMMARY:大相撲 五月場所（14日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:6fb883e227217c6a4a35dd0d0657d0a492d2716a@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260208T160000
+DTEND;TZID=Asia/Tokyo:20260208T180000
+SUMMARY:東京ヴェルディ vs 水戸ホーリーホック
+LOCATION:味の素スタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:beba720701c337d1e90165f303a7586db6e8709a@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-SUMMARY:大相撲 五月場所（15日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:b4830a82c5f98c25c878ad9b7732c8f2bb931ae5@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260214T140000
+DTEND;TZID=Asia/Tokyo:20260214T160000
+SUMMARY:FC町田ゼルビア vs 水戸ホーリーホック
+LOCATION:町田GIONスタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:fe5099d22f7cc79be059b923a098f4db8b4d0850@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260712
-DTEND;VALUE=DATE:20260713
-SUMMARY:大相撲 七月場所（1日目）
-LOCATION:IGアリーナ, 日本、〒462-0846 愛知県名古屋市北区名城1丁目4-1
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:0da0028f93d5afc8d7d72eb12200d8191006d506@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260214T150000
+DTEND;TZID=Asia/Tokyo:20260214T170000
+SUMMARY:鹿島アントラーズ vs 横浜F・マリノス
+LOCATION:県立カシマサッカースタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:07f04420ed22252e4d0fb3374774501f64b296c4@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260713
-DTEND;VALUE=DATE:20260714
-SUMMARY:大相撲 七月場所（2日目）
-LOCATION:IGアリーナ, 日本、〒462-0846 愛知県名古屋市北区名城1丁目4-1
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:6d025932ded0ade794b4f2a318e7f281bed43e8a@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260214T150000
+DTEND;TZID=Asia/Tokyo:20260214T170000
+SUMMARY:FC東京 vs 浦和レッズ
+LOCATION:味の素スタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:841a7de5cab22e9f2c31fe83754485b7a501a0ca@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260714
-DTEND;VALUE=DATE:20260715
-SUMMARY:大相撲 七月場所（3日目）
-LOCATION:IGアリーナ, 日本、〒462-0846 愛知県名古屋市北区名城1丁目4-1
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:bd16e55a4fbe0f50197bb7b7924d5d77e69afd02@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260215T130000
+DTEND;TZID=Asia/Tokyo:20260215T150000
+SUMMARY:ジェフユナイテッド千葉 vs 川崎フロンターレ
+LOCATION:フクダ電子アリーナ
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:66249e424e0ebf40555d1b552546858d871b706e@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260716
-SUMMARY:大相撲 七月場所（4日目）
-LOCATION:IGアリーナ, 日本、〒462-0846 愛知県名古屋市北区名城1丁目4-1
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:af11eae43a92d99c95657d4704beaae3856662aa@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260215T140000
+DTEND;TZID=Asia/Tokyo:20260215T160000
+SUMMARY:柏レイソル vs 東京ヴェルディ
+LOCATION:三協フロンテア柏スタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:0b39fa22fc7b8a21234dba45020996faf04020ca@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260717
-SUMMARY:大相撲 七月場所（5日目）
-LOCATION:IGアリーナ, 日本、〒462-0846 愛知県名古屋市北区名城1丁目4-1
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:7f1aced9c9d10f11bb5a66d0c09962336f6276e6@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260206T190000
+DTEND;TZID=Asia/Tokyo:20260206T210000
+SUMMARY:京都サンガF.C. vs ヴィッセル神戸
+LOCATION:サンガスタジアム by KYOCERA
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:f126b543926dd51b4939a90c10bc691e93abe19a@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-SUMMARY:大相撲 七月場所（6日目）
-LOCATION:IGアリーナ, 日本、〒462-0846 愛知県名古屋市北区名城1丁目4-1
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:bd43c733c4bfb8d4173588210fea922fefc419d8@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260206T190000
+DTEND;TZID=Asia/Tokyo:20260206T210000
+SUMMARY:V・ファーレン長崎 vs サンフレッチェ広島
+LOCATION:ピーススタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:2cfda6989772eabeb68d6b8a49ece315559a0437@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260719
-SUMMARY:大相撲 七月場所（7日目）
-LOCATION:IGアリーナ, 日本、〒462-0846 愛知県名古屋市北区名城1丁目4-1
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:323b7e18e2dbc929cf5568b45640bc321a73dfc5@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260207T160000
+DTEND;TZID=Asia/Tokyo:20260207T180000
+SUMMARY:セレッソ大阪 vs ガンバ大阪
+LOCATION:ヤンマースタジアム長居
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:7425a0c1c3e1bf3e7e41899e42dea074ac5270ed@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-SUMMARY:大相撲 七月場所（8日目）
-LOCATION:IGアリーナ, 日本、〒462-0846 愛知県名古屋市北区名城1丁目4-1
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:e3ec2bcc0ec95eec8f2f43f9aa2e8942bd427dce@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260208T130500
+DTEND;TZID=Asia/Tokyo:20260208T150500
+SUMMARY:アビスパ福岡 vs ファジアーノ岡山
+LOCATION:ベスト電器スタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:def1eefa54103e89a9871b957b88c5e8a6550917@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260721
-SUMMARY:大相撲 七月場所（9日目）
-LOCATION:IGアリーナ, 日本、〒462-0846 愛知県名古屋市北区名城1丁目4-1
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:9038cdbdf501de3143deafae619cedfd918dfe69@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260208T140000
+DTEND;TZID=Asia/Tokyo:20260208T160000
+SUMMARY:名古屋グランパス vs 清水エスパルス
+LOCATION:豊田スタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:de2aba8c0bd64b4c5581295c45f13ae58a7e11c2@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260722
-SUMMARY:大相撲 七月場所（10日目）
-LOCATION:IGアリーナ, 日本、〒462-0846 愛知県名古屋市北区名城1丁目4-1
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:4770b457b98cf4e2773b1729eaf5e83d9cfeb3e2@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260213T190000
+DTEND;TZID=Asia/Tokyo:20260213T210000
+SUMMARY:ヴィッセル神戸 vs V・ファーレン長崎
+LOCATION:ノエビアスタジアム神戸
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:ed6b622ee8cc5d9ab6e02d22726c7615c8db77ba@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:大相撲 七月場所（11日目）
-LOCATION:IGアリーナ, 日本、〒462-0846 愛知県名古屋市北区名城1丁目4-1
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:92512ec53bec5d34a8f5199395e661ba146f37d1@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260214T140000
+DTEND;TZID=Asia/Tokyo:20260214T160000
+SUMMARY:清水エスパルス vs 京都サンガF.C.
+LOCATION:IAIスタジアム日本平
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:1c4b25afa55ceb6e33ff9ae505063f02d99d379e@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-SUMMARY:大相撲 七月場所（12日目）
-LOCATION:IGアリーナ, 日本、〒462-0846 愛知県名古屋市北区名城1丁目4-1
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:76e37249bf5e623a033889152baf9999d83139f1@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260214T140000
+DTEND;TZID=Asia/Tokyo:20260214T160000
+SUMMARY:サンフレッチェ広島 vs ファジアーノ岡山
+LOCATION:エディオンピースウイング広島
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:4574b36556a79eaa35eedeb02bf6645f07a05817@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260725
-SUMMARY:大相撲 七月場所（13日目）
-LOCATION:IGアリーナ, 日本、〒462-0846 愛知県名古屋市北区名城1丁目4-1
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:0deb2677d60163c69f089cfd5a4ccf1d2a47953b@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260215T150000
+DTEND;TZID=Asia/Tokyo:20260215T170000
+SUMMARY:アビスパ福岡 vs セレッソ大阪
+LOCATION:ベスト電器スタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:0808c53929115d1905b7e1c3b1ea4f00d5041a1a@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:大相撲 七月場所（14日目）
-LOCATION:IGアリーナ, 日本、〒462-0846 愛知県名古屋市北区名城1丁目4-1
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:0abee3bd7182af9750e37c48878f9dfd380daadd@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260215T160000
+DTEND;TZID=Asia/Tokyo:20260215T180000
+SUMMARY:ガンバ大阪 vs 名古屋グランパス
+LOCATION:パナソニックスタジアム吹田
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:e7ddb5c58607a28f51cada30905fa58ea8009e71@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260726
-DTEND;VALUE=DATE:20260727
-SUMMARY:大相撲 七月場所（15日目）
-LOCATION:IGアリーナ, 日本、〒462-0846 愛知県名古屋市北区名城1丁目4-1
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:207ccfa7e238dd376c1042d3d2ea06fe059b4d3a@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260207T140000
+DTEND;TZID=Asia/Tokyo:20260207T160000
+SUMMARY:栃木シティ vs ベガルタ仙台
+LOCATION:CFS
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:2fce7fff02f8a919793cd91ec49204f01e2340a0@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:大相撲 九月場所（1日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:7e660223afd8c48644254eba2790aa7b98f67bee@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260207T140000
+DTEND;TZID=Asia/Tokyo:20260207T160000
+SUMMARY:横浜FC vs モンテディオ山形
+LOCATION:ニッパツ三ツ沢球技場
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:12e2b810c4f315924ecf16231509c8f254085cef@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:大相撲 九月場所（2日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:004d260bf29922ef12c8d367b26ef5056df14e37@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260207T140000
+DTEND;TZID=Asia/Tokyo:20260207T160000
+SUMMARY:湘南ベルマーレ vs ブラウブリッツ秋田
+LOCATION:レモンガススタジアム平塚
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:809209b924dbb6fdea9bb32fb1f5f98dc90118dc@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:大相撲 九月場所（3日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:7af8ea4d5ac94f6ac134f9ad736a5e4c65117a43@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260208T140000
+DTEND;TZID=Asia/Tokyo:20260208T160000
+SUMMARY:栃木SC vs ヴァンラーレ八戸
+LOCATION:カンセキスタジアムとちぎ
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:8619d20c177170fedc6819bc3f364a84e499008e@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:大相撲 九月場所（4日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:a2c0f765a5393edcc39de1c2c26093318ed250e5@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260208T140000
+DTEND;TZID=Asia/Tokyo:20260208T160000
+SUMMARY:SC相模原 vs ザスパ群馬
+LOCATION:ギオンスタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:c575ddb076059bd71c7eee8ac58a65c7737acdd7@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:大相撲 九月場所（5日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:fb2ecad2934c2a04c3ad9d9913fec5761c1cc706@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260214T140000
+DTEND;TZID=Asia/Tokyo:20260214T160000
+SUMMARY:ザスパ群馬 vs ヴァンラーレ八戸
+LOCATION:正田醤油スタジアム群馬
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:fd0d9fca0e75ee5b69e6273981ed889c19d4b887@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:大相撲 九月場所（6日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:de7be1570f6bf03ff6dfd6bc012311ced89b8ad9@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260214T140000
+DTEND;TZID=Asia/Tokyo:20260214T160000
+SUMMARY:横浜FC vs ベガルタ仙台
+LOCATION:ニッパツ三ツ沢球技場
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:4096e3b15ffc727020157c743891b75204026796@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:大相撲 九月場所（7日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:eabe87c826c4821e68588e3a547457df921754fe@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260214T140000
+DTEND;TZID=Asia/Tokyo:20260214T160000
+SUMMARY:湘南ベルマーレ vs SC相模原
+LOCATION:レモンガススタジアム平塚
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:b55178e1ac745aab4c4a4705f61325fc32a411ed@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-SUMMARY:大相撲 九月場所（8日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:c91031a0b629b900059e9ae1be87433ce588dcff@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260215T140000
+DTEND;TZID=Asia/Tokyo:20260215T160000
+SUMMARY:栃木SC vs モンテディオ山形
+LOCATION:カンセキスタジアムとちぎ
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:091757fb0aea1275aa4b7f238621b55642f1b509@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:大相撲 九月場所（9日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:4dafbe9758babc16c279afbf0b8244b7860a8111@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260215T140000
+DTEND;TZID=Asia/Tokyo:20260215T160000
+SUMMARY:栃木シティ vs ブラウブリッツ秋田
+LOCATION:CFS
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:e40b4dcbf97de944308a7553a8327f0f3f56b709@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:大相撲 九月場所（10日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:5a50aa9e86c2b5fc0b52b2aad2623ed4fefc84cb@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260207T140000
+DTEND;TZID=Asia/Tokyo:20260207T160000
+SUMMARY:RB大宮アルディージャ vs 松本山雅FC
+LOCATION:NACK5スタジアム大宮
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:8e4c7da372dbff8e9ff6ddd894db72759f35b970@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:大相撲 九月場所（11日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:e3eced44e90653e6fe3c9e475a48b26f9420cfc9@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260207T140000
+DTEND;TZID=Asia/Tokyo:20260207T160000
+SUMMARY:ヴァンフォーレ甲府 vs 福島ユナイテッドFC
+LOCATION:JITリサイクルインクスタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
 END:VEVENT
 BEGIN:VEVENT
-UID:275f12f58cb4a942e93f94af864317b4cf21d25f@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
+UID:85555732ffe905f0aadd23f8d6ec368fa399e366@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260207T140000
+DTEND;TZID=Asia/Tokyo:20260207T160000
+SUMMARY:ジュビロ磐田 vs AC長野パルセイロ
+LOCATION:ヤマハスタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:90e9c9941d60c512fc4315f06d98daf822b6ecd8@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260208T133000
+DTEND;TZID=Asia/Tokyo:20260208T153000
+SUMMARY:藤枝MYFC vs FC岐阜
+LOCATION:藤枝総合運動公園サッカー場
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:010daf1f7b863f2b8215ec43eb53de35b6b37ae2@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260208T140000
+DTEND;TZID=Asia/Tokyo:20260208T160000
+SUMMARY:いわきFC vs 北海道コンサドーレ札幌
+LOCATION:ハワイアンズスタジアムいわき
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:7b296be7e5a8f335a0768501027944debf0a25f4@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260214T140000
+DTEND;TZID=Asia/Tokyo:20260214T160000
+SUMMARY:RB大宮アルディージャ vs 北海道コンサドーレ札幌
+LOCATION:NACK5スタジアム大宮
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:9ecd430376e1a96480a643891a04e30f0769bf1f@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260214T140000
+DTEND;TZID=Asia/Tokyo:20260214T160000
+SUMMARY:ヴァンフォーレ甲府 vs AC長野パルセイロ
+LOCATION:JITリサイクルインクスタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:fcfe7dd92782d25c779776be9efad4f5355185df@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260214T140000
+DTEND;TZID=Asia/Tokyo:20260214T160000
+SUMMARY:藤枝MYFC vs 松本山雅FC
+LOCATION:藤枝総合運動公園サッカー場
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:e9f08275e198b831e08c973992981583722554ad@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260215T130000
+DTEND;TZID=Asia/Tokyo:20260215T150000
+SUMMARY:いわきFC vs 福島ユナイテッドFC
+LOCATION:ハワイアンズスタジアムいわき
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:67967cf284eda8bd87cbec9f666702e11b765c30@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260215T140000
+DTEND;TZID=Asia/Tokyo:20260215T160000
+SUMMARY:FC岐阜 vs ジュビロ磐田
+LOCATION:長良川競技場
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:2fa072690f480f27da6044c19f49eefd2d8e05bc@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260207T140000
+DTEND;TZID=Asia/Tokyo:20260207T160000
+SUMMARY:奈良クラブ vs 徳島ヴォルティス
+LOCATION:ロートフィールド奈良
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:d1f1483818f852ff1981f3d4e47e39a1afd7f3e3@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260208T130500
+DTEND;TZID=Asia/Tokyo:20260208T150500
+SUMMARY:愛媛FC vs アルビレックス新潟
+LOCATION:ニンジニアスタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:0faf5db17c6be823d10b6165a649fb4e410115e9@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260208T140000
+DTEND;TZID=Asia/Tokyo:20260208T160000
+SUMMARY:FC大阪 vs カマタマーレ讃岐
+LOCATION:東大阪市花園ラグビー場
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:0a3917a7296c79ab19fcaaeb15e7f0948563153b@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260208T140000
+DTEND;TZID=Asia/Tokyo:20260208T160000
+SUMMARY:FC今治 vs ツエーゲン金沢
+LOCATION:アシックス里山スタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:56781c39904493086d3a739fab674980aa659ad3@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260208T140000
+DTEND;TZID=Asia/Tokyo:20260208T160000
+SUMMARY:高知ユナイテッドSC vs カターレ富山
+LOCATION:ギケンスタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:16c780869277fb98018fadfc2854b7ddb6adc713@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260214T140000
+DTEND;TZID=Asia/Tokyo:20260214T160000
+SUMMARY:奈良クラブ vs FC今治
+LOCATION:ロートフィールド奈良
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:8084430b2bd683e09a76275a26813297cc45e757@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260215T140000
+DTEND;TZID=Asia/Tokyo:20260215T160000
+SUMMARY:FC大阪 vs 高知ユナイテッドSC
+LOCATION:東大阪市花園ラグビー場
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:5d0de6844b39e76f9e8dc9a1aa1e3cbaa2a3b4ff@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260215T140000
+DTEND;TZID=Asia/Tokyo:20260215T160000
+SUMMARY:カマタマーレ讃岐 vs カターレ富山
+LOCATION:香川県立丸亀競技場
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:dae92ef6f1649ef0ef60322af0d15557d709d817@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260215T140000
+DTEND;TZID=Asia/Tokyo:20260215T160000
+SUMMARY:徳島ヴォルティス vs アルビレックス新潟
+LOCATION:鳴門・大塚スポーツパーク ポカリスエットスタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:cdb6f4a4d93ccfcb3fe94b377466e385dbc25b4a@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260215T140000
+DTEND;TZID=Asia/Tokyo:20260215T160000
+SUMMARY:愛媛FC vs ツエーゲン金沢
+LOCATION:ニンジニアスタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:10058720b674c3316465f2d7c692f89ede3043ac@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260207T140000
+DTEND;TZID=Asia/Tokyo:20260207T160000
+SUMMARY:ギラヴァンツ北九州 vs ガイナーレ鳥取
+LOCATION:ミクニワールドスタジアム北九州
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f0a1fdf3ffabff72d565498cacf0bad5916d28@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260208T130000
+DTEND;TZID=Asia/Tokyo:20260208T150000
+SUMMARY:ロアッソ熊本 vs レノファ山口FC
+LOCATION:えがお健康スタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:b4a5538c2721d6ed33e57927c390bf65ca8a40be@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260208T140000
+DTEND;TZID=Asia/Tokyo:20260208T160000
+SUMMARY:大分トリニータ vs レイラック滋賀FC
+LOCATION:クラサスドーム大分
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:d49cb81a904a25cfd5543e392b119b95fa5f8024@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260208T140000
+DTEND;TZID=Asia/Tokyo:20260208T160000
+SUMMARY:鹿児島ユナイテッドFC vs テゲバジャーロ宮崎
+LOCATION:白波スタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:5ebb37d918c9eede2262dede9b8a9bed6b94862b@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260208T140000
+DTEND;TZID=Asia/Tokyo:20260208T160000
+SUMMARY:FC琉球 vs サガン鳥栖
+LOCATION:沖縄県総合運動公園陸上競技場
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:5d8120bcd79a25c7055cd6d47a5fc32740171e94@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260215T140000
+DTEND;TZID=Asia/Tokyo:20260215T160000
+SUMMARY:レノファ山口FC vs レイラック滋賀FC
+LOCATION:みらスタ
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:3c83305cdcd351793ff44d711c768796f1cd124a@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260215T140000
+DTEND;TZID=Asia/Tokyo:20260215T160000
+SUMMARY:サガン鳥栖 vs ロアッソ熊本
+LOCATION:駅前不動産スタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:79e2b79f608d052e119eabc6a8529eece7fb9c20@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260215T140000
+DTEND;TZID=Asia/Tokyo:20260215T160000
+SUMMARY:大分トリニータ vs ギラヴァンツ北九州
+LOCATION:クラサスドーム大分
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:a3b7d26dfa52ae144a3b2debbf41ffb27a465070@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260215T140000
+DTEND;TZID=Asia/Tokyo:20260215T160000
+SUMMARY:テゲバジャーロ宮崎 vs ガイナーレ鳥取
+LOCATION:いちご
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:45dec8e5a2b8df069392c691343f63e5f139db87@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;TZID=Asia/Tokyo:20260215T140000
+DTEND;TZID=Asia/Tokyo:20260215T160000
+SUMMARY:鹿児島ユナイテッドFC vs FC琉球
+LOCATION:白波スタジアム
+URL:https://news.mynavi.jp/article/20251226-3876133/
+DESCRIPTION:明治安田百年構想リーグ（公式発表の詳細日程）\n出典: マイナビニュース
+END:VEVENT
+BEGIN:VEVENT
+UID:9f61cc6afaacc60d6d3c24966b2b0c742dc97d8d@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:SAMURAI BLUE 国際親善試合（対戦国調整中）
+LOCATION:国立競技場, 日本、〒160-0013 東京都新宿区霞ヶ丘町10-1
+URL:https://www.jfa.jp/national_team/news/00035877/
+DESCRIPTION:キリンチャレンジカップ2026（キックオフ時間・対戦国は調整中）\n出典: JFA
+END:VEVENT
+BEGIN:VEVENT
+UID:d436b71dafd4ff041df54abba215a45ee39e7555@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-SUMMARY:大相撲 九月場所（12日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+SUMMARY:SAMURAI BLUE 国際親善試合（対戦国調整中）
+URL:https://www.jfa.jp/national_team/news/00035877/
+DESCRIPTION:キリンチャレンジカップ2026（キックオフ時間・対戦国は調整中）\n出典: JFA
 END:VEVENT
 BEGIN:VEVENT
-UID:1ebedd318d2309d4eba6365b97865d75aad8e402@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:大相撲 九月場所（13日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
+UID:552f57af9c178c519e3e21562a6d8251eb9395f7@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:SAMURAI BLUE 国際親善試合（対戦国調整中）
+URL:https://www.jfa.jp/national_team/news/00035877/
+DESCRIPTION:キリンチャレンジカップ2026（キックオフ時間・対戦国は調整中）\n出典: JFA
 END:VEVENT
 BEGIN:VEVENT
-UID:aeba800e58be12f61f762222dba00b478bbf0fe5@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:大相撲 九月場所（14日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:fc51c564ec2801b31685f6508282110412fce271@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:大相撲 九月場所（15日目）
-LOCATION:両国国技館, 日本、〒130-0015 東京都墨田区横網1丁目3-28
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:0e5d5b5b735a08aa38a111bbf27de734677e231f@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:大相撲 十一月場所（1日目）
-LOCATION:福岡国際センター, 日本、〒812-0021 福岡県福岡市博多区築港本町2-2
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:8bed217c4d93fdc84ba77810dfa77000067e165e@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:大相撲 十一月場所（2日目）
-LOCATION:福岡国際センター, 日本、〒812-0021 福岡県福岡市博多区築港本町2-2
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:93c220ecfa9632334b4ee1f193b546e5c562e28b@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:大相撲 十一月場所（3日目）
-LOCATION:福岡国際センター, 日本、〒812-0021 福岡県福岡市博多区築港本町2-2
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:0c1532f774899316a33d0416d0434b6f87de790d@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:大相撲 十一月場所（4日目）
-LOCATION:福岡国際センター, 日本、〒812-0021 福岡県福岡市博多区築港本町2-2
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:8dcd9232456d3782d279d34e895cb4788f59d4c1@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:大相撲 十一月場所（5日目）
-LOCATION:福岡国際センター, 日本、〒812-0021 福岡県福岡市博多区築港本町2-2
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:7d2f724b721966b0ab3546ac320cf98a8ecc882c@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:大相撲 十一月場所（6日目）
-LOCATION:福岡国際センター, 日本、〒812-0021 福岡県福岡市博多区築港本町2-2
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:1de8e71cd9220cca4817fd05fcb8f2a6cb5991cf@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:大相撲 十一月場所（7日目）
-LOCATION:福岡国際センター, 日本、〒812-0021 福岡県福岡市博多区築港本町2-2
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:9f13d288fc899dc9391a7d7581a5d56e64a474a9@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:大相撲 十一月場所（8日目）
-LOCATION:福岡国際センター, 日本、〒812-0021 福岡県福岡市博多区築港本町2-2
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:05fdff1b8538aacc2a6fae539fb71d4f3b3393ad@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:大相撲 十一月場所（9日目）
-LOCATION:福岡国際センター, 日本、〒812-0021 福岡県福岡市博多区築港本町2-2
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:ccf0d35fd3edd71263625b8eab9c207c68f0df63@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:大相撲 十一月場所（10日目）
-LOCATION:福岡国際センター, 日本、〒812-0021 福岡県福岡市博多区築港本町2-2
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:693ee4e36a048e5c60b639e04f9b09fc290dc8d7@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:大相撲 十一月場所（11日目）
-LOCATION:福岡国際センター, 日本、〒812-0021 福岡県福岡市博多区築港本町2-2
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:4e83142ddc278ca8c41efb3eee6c17f5bd92020c@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:大相撲 十一月場所（12日目）
-LOCATION:福岡国際センター, 日本、〒812-0021 福岡県福岡市博多区築港本町2-2
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:aaa1064e0586e24482c2a8c45d8a5b567e25f732@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:大相撲 十一月場所（13日目）
-LOCATION:福岡国際センター, 日本、〒812-0021 福岡県福岡市博多区築港本町2-2
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:d240dfb6761c6f56b2249e1a467a3f0f646c5c29@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:大相撲 十一月場所（14日目）
-LOCATION:福岡国際センター, 日本、〒812-0021 福岡県福岡市博多区築港本町2-2
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:a3e381627bd00ed9ccfe23aa2c5170256c91528f@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:大相撲 十一月場所（15日目）
-LOCATION:福岡国際センター, 日本、〒812-0021 福岡県福岡市博多区築港本町2-2
-URL:https://www.sumo.or.jp/Admission/schedule/
-DESCRIPTION:出典：日本相撲協会 年間日程表\\nhttps://www.sumo.or.jp/Admission/schedule/
-END:VEVENT
-BEGIN:VEVENT
-UID:f8660579947f463a60ebe4d93ee8e46b55d61aa8@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260204
-DTEND;VALUE=DATE:20260205
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:日程：2026-02-04〜2026-02-22（期間は日別に分割）\\n出典：People.com
-END:VEVENT
-BEGIN:VEVENT
-UID:815d363fb39499a047d18c7d5c1f5493d9090398@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260205
-DTEND;VALUE=DATE:20260206
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:日程：2026-02-04〜2026-02-22（期間は日別に分割）\\n出典：People.com
-END:VEVENT
-BEGIN:VEVENT
-UID:3a4a45474c1a3acc1be59942f12e35a283445487@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260206
-DTEND;VALUE=DATE:20260207
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:日程：2026-02-04〜2026-02-22（期間は日別に分割）\\n出典：People.com
-END:VEVENT
-BEGIN:VEVENT
-UID:b8e079e3d6fc49abef2319726043713574300b77@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260207
-DTEND;VALUE=DATE:20260208
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:日程：2026-02-04〜2026-02-22（期間は日別に分割）\\n出典：People.com
-END:VEVENT
-BEGIN:VEVENT
-UID:4e043e0199277281fe05c5528ffd2056dd9f7fad@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260208
-DTEND;VALUE=DATE:20260209
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:日程：2026-02-04〜2026-02-22（期間は日別に分割）\\n出典：People.com
-END:VEVENT
-BEGIN:VEVENT
-UID:1037bebcb56c2fd8e91ba7252f4542e4719b684d@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260209
-DTEND;VALUE=DATE:20260210
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:日程：2026-02-04〜2026-02-22（期間は日別に分割）\\n出典：People.com
-END:VEVENT
-BEGIN:VEVENT
-UID:154379e10db5b85dc6c6a04714a27b73d6262b54@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260210
-DTEND;VALUE=DATE:20260211
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:日程：2026-02-04〜2026-02-22（期間は日別に分割）\\n出典：People.com
-END:VEVENT
-BEGIN:VEVENT
-UID:197944cce920a8604149c5de7022254dd8789b10@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260211
-DTEND;VALUE=DATE:20260212
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:日程：2026-02-04〜2026-02-22（期間は日別に分割）\\n出典：People.com
-END:VEVENT
-BEGIN:VEVENT
-UID:67799715c600bcea6c0de8d18ffed427198e0837@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260212
-DTEND;VALUE=DATE:20260213
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:日程：2026-02-04〜2026-02-22（期間は日別に分割）\\n出典：People.com
-END:VEVENT
-BEGIN:VEVENT
-UID:cabbec3575819225b514d840f52b2a2cdb558293@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260213
-DTEND;VALUE=DATE:20260214
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:日程：2026-02-04〜2026-02-22（期間は日別に分割）\\n出典：People.com
-END:VEVENT
-BEGIN:VEVENT
-UID:090d7053c7fabc3bd29ae211ccd7a9a2056fba5a@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260214
-DTEND;VALUE=DATE:20260215
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:日程：2026-02-04〜2026-02-22（期間は日別に分割）\\n出典：People.com
-END:VEVENT
-BEGIN:VEVENT
-UID:8f12e275cfe51462d034251ca21791891c579238@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260215
-DTEND;VALUE=DATE:20260216
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:日程：2026-02-04〜2026-02-22（期間は日別に分割）\\n出典：People.com
-END:VEVENT
-BEGIN:VEVENT
-UID:460dfe36dca0d11449a5e393eb576eb39b598cb1@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260216
-DTEND;VALUE=DATE:20260217
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:日程：2026-02-04〜2026-02-22（期間は日別に分割）\\n出典：People.com
-END:VEVENT
-BEGIN:VEVENT
-UID:65ce3cbc30096095cdbadc664069ac95602d1aaa@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260217
-DTEND;VALUE=DATE:20260218
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:日程：2026-02-04〜2026-02-22（期間は日別に分割）\\n出典：People.com
-END:VEVENT
-BEGIN:VEVENT
-UID:6eeadb34d61b757e44ea7ffdd07dd021be035185@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260218
-DTEND;VALUE=DATE:20260219
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:日程：2026-02-04〜2026-02-22（期間は日別に分割）\\n出典：People.com
-END:VEVENT
-BEGIN:VEVENT
-UID:3b344374deed851a0fc3a97b8bcfc91fe50f2d58@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260219
-DTEND;VALUE=DATE:20260220
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:日程：2026-02-04〜2026-02-22（期間は日別に分割）\\n出典：People.com
-END:VEVENT
-BEGIN:VEVENT
-UID:56e75d87246245f87572da406364beba99b6d04f@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260220
-DTEND;VALUE=DATE:20260221
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:日程：2026-02-04〜2026-02-22（期間は日別に分割）\\n出典：People.com
-END:VEVENT
-BEGIN:VEVENT
-UID:d9766c0b8cdd684db954b5a1a30efc2efdf97834@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260221
-DTEND;VALUE=DATE:20260222
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:日程：2026-02-04〜2026-02-22（期間は日別に分割）\\n出典：People.com
-END:VEVENT
-BEGIN:VEVENT
-UID:352be5b3c139b37f430bc56f6cc2e0e4e8e16dfa@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260222
-DTEND;VALUE=DATE:20260223
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:日程：2026-02-04〜2026-02-22（期間は日別に分割）\\n出典：People.com
-END:VEVENT
-BEGIN:VEVENT
-UID:cfc2da78016b3b8b788b39dd86afdc926f153541@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260206
-DTEND;VALUE=DATE:20260207
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026 開会式
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:出典：People.com（開会式/閉会式の記載）
-END:VEVENT
-BEGIN:VEVENT
-UID:95c6b0cef224c391a0b45d4022c1f67707a03afc@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260222
-DTEND;VALUE=DATE:20260223
-SUMMARY:ミラノ・コルティナ冬季オリンピック 2026 閉会式
-LOCATION:ミラノ, イタリア
-URL:https://people.com/2026-winter-olympics-everything-to-know-11897685
-DESCRIPTION:出典：People.com（開会式/閉会式の記載）
-END:VEVENT
-BEGIN:VEVENT
-UID:089794deac32fe2f6186ad5b4a682504997dbcf1@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
+UID:d22f6b8e56a133023a52bc0633f9c5d5cbb91617@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
+SUMMARY:FIFAワールドカップ2026 開幕
+URL:https://www.aljazeera.com/sports/2025/12/6/full-match-schedule-of-the-fifa-world-cup-2026-dates-start-times-stadiums
+DESCRIPTION:FIFAワールドカップ2026 開幕日\n出典: Al Jazeera
 END:VEVENT
 BEGIN:VEVENT
-UID:6a8f104713bde204b20050ed94d1d222ea98580b@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260613
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:f93f7649b87476b18a83447ed6180b94cbd50870@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260614
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:e675da27daa26a3e9eb6f5348522f0eab0d98c49@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260614
-DTEND;VALUE=DATE:20260615
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:88b7d539073b5a2ec7b5c26bb2c905a4cc6d67df@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260615
-DTEND;VALUE=DATE:20260616
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:bca499636b0159173e827398bb18896dc3cf6a0e@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260616
-DTEND;VALUE=DATE:20260617
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:9eeac9ea04bf769578e258751d795725e89ec508@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260617
-DTEND;VALUE=DATE:20260618
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:5c4bd0ab599a2c5747ec052d21b3927dac3b17c5@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260619
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:43fb510b7a6ae66173877bce71d0979d1eba966f@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260620
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:3e6c4cbf063004a5dc12b93b07413bdfbb421f33@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260620
-DTEND;VALUE=DATE:20260621
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:15a646f1243a1e762e1be157ebcc576e305d3ee6@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260621
-DTEND;VALUE=DATE:20260622
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:4f577c518c153d17371650e5adbcd09d75d37032@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260622
-DTEND;VALUE=DATE:20260623
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:9f15f17ecb8a8bd10fe69d3c3f1b0d653a4586ae@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260624
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:96edd5621925fcc510a731e943ac61a3bc7aca14@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260625
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:dc168cb6315dff91b4a68691e9100a8b4f6b1146@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20260626
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:cc76d7c25f05efd79b399b2b8127a37aefec421d@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260627
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:7bb6519667267dab2beb8fd339643af02ee255d6@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260628
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:f23d15b24780c76cc9a1f03847a932988288eb74@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260628
-DTEND;VALUE=DATE:20260629
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:cab774302b822644a6256c8d30fe46d65f358370@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260630
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:3ebd1fa6c053ca877648892683f21c9764dcebaf@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260630
-DTEND;VALUE=DATE:20260701
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:3427162e05ba6f5c91c8d8480123b50ad5f0d67f@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260702
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:9db6f5ef88a0551386e194b70bfbdb7168dcdd07@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260702
-DTEND;VALUE=DATE:20260703
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:6c0c2fb6672a4a5fddfeb9f17c7caf73297d105e@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260704
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:3d619b643bfba2c0b6bcd9cf7c9037c38b603472@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260705
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:c21146b8ae755c29e292f0b7dddfc58ce9a58d06@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260705
-DTEND;VALUE=DATE:20260706
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:006297a9fc56ed191cc14d1fbb02b54f7403241a@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260706
-DTEND;VALUE=DATE:20260707
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:d8f92fdabca9949206163fec31c5224a14b4de9b@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260707
-DTEND;VALUE=DATE:20260708
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:f2fcfe7ae182e57251ebf436876df67d52ed9145@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260709
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:bb602de069f38019f4544695cd4f7c6740b2d542@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20260710
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:cf200061b81e4ac6e42c37ba618f0a6531ee1f45@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:412ad743f963c52a804c7b0b461420a9c5d1ea51@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:26c23fd2a863d24318c865f43f514507d02d974b@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260712
-DTEND;VALUE=DATE:20260713
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:d9403e8e7ba3e1b1772ee56e2676641d4a7a0466@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260713
-DTEND;VALUE=DATE:20260714
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:877e868ec1e914028beddf8a0789809b8ef1adb7@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260714
-DTEND;VALUE=DATE:20260715
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:9c34bb57404fef63fc97771eb3ed263084f9b1d7@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260716
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:aee29d8c0c66e400cb298ef32141b26fc02e2119@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260717
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:67f949957230eb6cbcabdc1f9c9137cae90a3958@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:3b145aba4e3fd5280630379390dc5a254c4bfc42@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260719
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
-END:VEVENT
-BEGIN:VEVENT
-UID:3090a19ab554df57f9494fdddf3664973dad6af3@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
+UID:d35a18755ff716814c8e1ea9fcc057154ded8694@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
-SUMMARY:FIFAワールドカップ 2026
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:日程：2026-06-11〜2026-07-19（期間は日別に分割）\\n出典：FIFA
+SUMMARY:FIFAワールドカップ2026 決勝
+URL:https://www.aljazeera.com/sports/2025/12/6/full-match-schedule-of-the-fifa-world-cup-2026-dates-start-times-stadiums
+DESCRIPTION:FIFAワールドカップ2026 決勝日\n出典: Al Jazeera
 END:VEVENT
 BEGIN:VEVENT
-UID:15511e9c5c5dc93ac31bb2ac08d8220c2aad7dad@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-SUMMARY:FIFAワールドカップ 2026 決勝
-LOCATION:ニューヨーク・ニュージャージー, アメリカ合衆国
-URL:https://www.fifa.com/ja/tournaments/mens/worldcup/canadamexicousa2026
- /articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada-ja
-DESCRIPTION:出典：FIFA（決勝戦日程の記載）
+UID:1435352232b8c8d136b06b1b2c93cb7bb3908f9a@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:冬季オリンピック（ミラノ・コルティナ2026）開会式
+URL:https://time.com/7326904/milan-cortina-winter-2026-olympics/
+DESCRIPTION:冬季オリンピック（ミラノ・コルティナ2026）開会式\n出典: TIME
 END:VEVENT
 BEGIN:VEVENT
-UID:a89238df4166644cca004c28ca25b973562c990b@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260302T120000
-SUMMARY:阪神タイガース vs 韓国（WBC強化試合・大阪）
-LOCATION:京セラドーム大阪, 日本、〒550-0023 大阪府大阪市西区千代崎3丁目中2-1
-URL:https://www.2026wbc.jp/exhibition/
-DESCRIPTION:出典：2026WBC 東京プール 強化試合（大阪）\\nhttps://www.2026wbc.jp/exhibition
- /
-END:VEVENT
-BEGIN:VEVENT
-UID:743ae01979c07e4d93b2face6482c6bf4bf79418@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260302T190000
-SUMMARY:オリックス・バファローズ vs 日本（WBC強化試合・大阪）
-LOCATION:京セラドーム大阪, 日本、〒550-0023 大阪府大阪市西区千代崎3丁目中2-1
-URL:https://www.2026wbc.jp/exhibition/
-DESCRIPTION:出典：2026WBC 東京プール 強化試合（大阪）\\nhttps://www.2026wbc.jp/exhibition
- /
-END:VEVENT
-BEGIN:VEVENT
-UID:0ceae039c6b016ab5ea34ab24c9d68f851f472f5@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260303T120000
-SUMMARY:オリックス・バファローズ vs 韓国（WBC強化試合・大阪）
-LOCATION:京セラドーム大阪, 日本、〒550-0023 大阪府大阪市西区千代崎3丁目中2-1
-URL:https://www.2026wbc.jp/exhibition/
-DESCRIPTION:出典：2026WBC 東京プール 強化試合（大阪）\\nhttps://www.2026wbc.jp/exhibition
- /
-END:VEVENT
-BEGIN:VEVENT
-UID:62bc77bde20a27af8ddde8a7179d5ccacff68768@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260303T190000
-SUMMARY:阪神タイガース vs 日本（WBC強化試合・大阪）
-LOCATION:京セラドーム大阪, 日本、〒550-0023 大阪府大阪市西区千代崎3丁目中2-1
-URL:https://www.2026wbc.jp/exhibition/
-DESCRIPTION:出典：2026WBC 東京プール 強化試合（大阪）\\nhttps://www.2026wbc.jp/exhibition
- /
-END:VEVENT
-BEGIN:VEVENT
-UID:d451e08bda26deb6c637504779eeb496640129c9@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260306
-DTEND;VALUE=DATE:20260307
-SUMMARY:WBC 2026 1次ラウンド POOL A（サンフアン）
-LOCATION:ヒラム・ビソーン・スタジアム, サンフアン, プエルトリコ
-URL:https://www.2026wbc.jp/schedule/
-DESCRIPTION:出典：2026WBC公式（POOLA日程：2026年3月6日〜11日）
-END:VEVENT
-BEGIN:VEVENT
-UID:814327fa3cf19789416cb297f7860b0f0f27e870@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260307
-DTEND;VALUE=DATE:20260308
-SUMMARY:WBC 2026 1次ラウンド POOL A（サンフアン）
-LOCATION:ヒラム・ビソーン・スタジアム, サンフアン, プエルトリコ
-URL:https://www.2026wbc.jp/schedule/
-DESCRIPTION:出典：2026WBC公式（POOLA日程：2026年3月6日〜11日）
-END:VEVENT
-BEGIN:VEVENT
-UID:916cf0bdabecbae6b6b321d9946bb6c12224baa6@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260308
-DTEND;VALUE=DATE:20260309
-SUMMARY:WBC 2026 1次ラウンド POOL A（サンフアン）
-LOCATION:ヒラム・ビソーン・スタジアム, サンフアン, プエルトリコ
-URL:https://www.2026wbc.jp/schedule/
-DESCRIPTION:出典：2026WBC公式（POOLA日程：2026年3月6日〜11日）
-END:VEVENT
-BEGIN:VEVENT
-UID:d60df447ab36c8cb9ed4cbecdd4c76dc3fd65f8a@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260309
-DTEND;VALUE=DATE:20260310
-SUMMARY:WBC 2026 1次ラウンド POOL A（サンフアン）
-LOCATION:ヒラム・ビソーン・スタジアム, サンフアン, プエルトリコ
-URL:https://www.2026wbc.jp/schedule/
-DESCRIPTION:出典：2026WBC公式（POOLA日程：2026年3月6日〜11日）
-END:VEVENT
-BEGIN:VEVENT
-UID:3c8244f0fd5919861c57a4e77a0a1ab0b8fb9775@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260310
-DTEND;VALUE=DATE:20260311
-SUMMARY:WBC 2026 1次ラウンド POOL A（サンフアン）
-LOCATION:ヒラム・ビソーン・スタジアム, サンフアン, プエルトリコ
-URL:https://www.2026wbc.jp/schedule/
-DESCRIPTION:出典：2026WBC公式（POOLA日程：2026年3月6日〜11日）
-END:VEVENT
-BEGIN:VEVENT
-UID:26289f6e5e40f8c59c078fdecb33fc5714b7b0c3@masashi-ics
-DTSTAMP:20260205T031602Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260311
-DTEND;VALUE=DATE:20260312
-SUMMARY:WBC 2026 1次ラウンド POOL A（サンフアン）
-LOCATION:ヒラム・ビソーン・スタジアム, サンフアン, プエルトリコ
-URL:https://www.2026wbc.jp/schedule/
-DESCRIPTION:出典：2026WBC公式（POOLA日程：2026年3月6日〜11日）
+UID:6d39ecb48f0c39f3b329a2ddf733f94acc856ac6@okaidokudaze-my-ics
+DTSTAMP:20260205T092033Z
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:冬季オリンピック（ミラノ・コルティナ2026）閉会式
+URL:https://time.com/7326904/milan-cortina-winter-2026-olympics/
+DESCRIPTION:冬季オリンピック（ミラノ・コルティナ2026）閉会式\n出典: TIME
 END:VEVENT
 END:VCALENDAR
