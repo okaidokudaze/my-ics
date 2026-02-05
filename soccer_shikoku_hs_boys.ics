@@ -543,5 +543,145 @@ SUMMARY:愛媛県／令和7年度愛媛新人戦（新人選手権大会）
 LOCATION:会場不明（愛媛県）
 DESCRIPTION:種別：高校／男子\n対戦：対戦：未確定\n回戦：決勝\n大会：令和7年度愛媛新人戦（新人選手権大会）\n都道府県：愛媛県\n時刻：14:30（KO）\n会場：会場不明\nスコア：未確定\n出典：https://koko-soccer.com/score/4312
 END:VEVENT
+BEGIN:VEVENT
+UID:bc682979-b1f0-5242-9a4b-459f403d3d7b@soccer_shikoku_hs_boys
+DTSTAMP:20260205T085654Z
+SUMMARY:高知県／令和７年度 第９回高知県高等学校サッカー冬季大会（新人戦）
+DTSTART;TZID=Asia/Tokyo:20260110T110000
+DTEND;TZID=Asia/Tokyo:20260110T130000
+LOCATION:会場不明（高知県）
+DESCRIPTION:種別：高校男子\n回戦：1回戦\n対戦：高知農 vs 城山・高専・春野\n都道府県：高知県\n時刻：11:00（KO）\n会場：未確定\n結果：4-2\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4286\n出典：高知県サッカー協会（大会ページ／組合せ表） https://www.kochi-fa.com/class02/class02sch/entry-160.html
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:db5af21c-37ee-50e3-8466-e268589126bc@soccer_shikoku_hs_boys
+DTSTAMP:20260205T085654Z
+SUMMARY:高知県／令和７年度 第９回高知県高等学校サッカー冬季大会（新人戦）
+DTSTART;TZID=Asia/Tokyo:20260110T130000
+DTEND;TZID=Asia/Tokyo:20260110T150000
+LOCATION:会場不明（高知県）
+DESCRIPTION:種別：高校男子\n回戦：1回戦\n対戦：高知追手前 vs 高知商\n都道府県：高知県\n時刻：13:00（KO）\n会場：未確定\n結果：1-2\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4286\n出典：高知県サッカー協会（大会ページ／組合せ表） https://www.kochi-fa.com/class02/class02sch/entry-160.html
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:02387ac8-c530-5c23-ac20-c14f9f92df91@soccer_shikoku_hs_boys
+DTSTAMP:20260205T085654Z
+SUMMARY:高知県／令和７年度 第９回高知県高等学校サッカー冬季大会（新人戦）
+DTSTART;TZID=Asia/Tokyo:20260112T100000
+DTEND;TZID=Asia/Tokyo:20260112T120000
+LOCATION:会場不明（高知県）
+DESCRIPTION:種別：高校男子\n回戦：2回戦\n対戦：岡豊 vs 高知農\n都道府県：高知県\n時刻：10:00（KO）\n会場：未確定\n結果：5-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4286\n出典：高知県サッカー協会（大会ページ／組合せ表） https://www.kochi-fa.com/class02/class02sch/entry-160.html
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:c39e9d2a-a59a-5958-aa63-10c494dc3ffd@soccer_shikoku_hs_boys
+DTSTAMP:20260205T085654Z
+SUMMARY:高知県／令和７年度 第９回高知県高等学校サッカー冬季大会（新人戦）
+DTSTART;TZID=Asia/Tokyo:20260112T100000
+DTEND;TZID=Asia/Tokyo:20260112T120000
+LOCATION:会場不明（高知県）
+DESCRIPTION:種別：高校男子\n回戦：2回戦\n対戦：高知商 vs 土佐\n都道府県：高知県\n時刻：10:00（KO）\n会場：未確定\n結果：1-1 PK 4-3\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4286\n出典：高知県サッカー協会（大会ページ／組合せ表） https://www.kochi-fa.com/class02/class02sch/entry-160.html
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:8362e50b-b138-5864-8a14-8091fa92fd9e@soccer_shikoku_hs_boys
+DTSTAMP:20260205T085654Z
+SUMMARY:高知県／令和７年度 第９回高知県高等学校サッカー冬季大会（新人戦）
+DTSTART;TZID=Asia/Tokyo:20260112T100000
+DTEND;TZID=Asia/Tokyo:20260112T120000
+LOCATION:会場不明（高知県）
+DESCRIPTION:種別：高校男子\n回戦：2回戦\n対戦：高知国際 vs 高知中央\n都道府県：高知県\n時刻：10:00（KO）\n会場：未確定\n結果：0-8\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4286\n出典：高知県サッカー協会（大会ページ／組合せ表） https://www.kochi-fa.com/class02/class02sch/entry-160.html
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:94bfe4cb-28bc-5e3a-ab43-edd0547394e5@soccer_shikoku_hs_boys
+DTSTAMP:20260205T085654Z
+SUMMARY:高知県／令和７年度 第９回高知県高等学校サッカー冬季大会（新人戦）
+DTSTART;TZID=Asia/Tokyo:20260112T120000
+DTEND;TZID=Asia/Tokyo:20260112T140000
+LOCATION:会場不明（高知県）
+DESCRIPTION:種別：高校男子\n回戦：2回戦\n対戦：高知 vs 丸の内・学芸\n都道府県：高知県\n時刻：12:00（KO）\n会場：未確定\n結果：12-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4286\n出典：高知県サッカー協会（大会ページ／組合せ表） https://www.kochi-fa.com/class02/class02sch/entry-160.html
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:2932e587-f8b0-5d28-8fdb-ccec8c5a371e@soccer_shikoku_hs_boys
+DTSTAMP:20260205T085654Z
+SUMMARY:高知県／令和７年度 第９回高知県高等学校サッカー冬季大会（新人戦）
+DTSTART;TZID=Asia/Tokyo:20260112T120000
+DTEND;TZID=Asia/Tokyo:20260112T140000
+LOCATION:会場不明（高知県）
+DESCRIPTION:種別：高校男子\n回戦：2回戦\n対戦：高知東 vs 高知小津\n都道府県：高知県\n時刻：12:00（KO）\n会場：未確定\n結果：0-6\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4286\n出典：高知県サッカー協会（大会ページ／組合せ表） https://www.kochi-fa.com/class02/class02sch/entry-160.html
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:b806e08a-aa97-5a91-b99d-fe9634f609ee@soccer_shikoku_hs_boys
+DTSTAMP:20260205T085654Z
+SUMMARY:高知県／令和７年度 第９回高知県高等学校サッカー冬季大会（新人戦）
+DTSTART;TZID=Asia/Tokyo:20260112T120000
+DTEND;TZID=Asia/Tokyo:20260112T140000
+LOCATION:会場不明（高知県）
+DESCRIPTION:種別：高校男子\n回戦：2回戦\n対戦：須崎総・大方・幡多農 vs 中村\n都道府県：高知県\n時刻：12:00（KO）\n会場：未確定\n結果：0-5\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4286\n出典：高知県サッカー協会（大会ページ／組合せ表） https://www.kochi-fa.com/class02/class02sch/entry-160.html
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:73e289f6-865f-5250-a32a-05aed07a12d0@soccer_shikoku_hs_boys
+DTSTAMP:20260205T085654Z
+SUMMARY:高知県／令和７年度 第９回高知県高等学校サッカー冬季大会（新人戦）
+DTSTART;TZID=Asia/Tokyo:20260112T140000
+DTEND;TZID=Asia/Tokyo:20260112T160000
+LOCATION:会場不明（高知県）
+DESCRIPTION:種別：高校男子\n回戦：2回戦\n対戦：明徳義塾 vs 土佐塾\n都道府県：高知県\n時刻：14:00（KO）\n会場：未確定\n結果：8-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4286\n出典：高知県サッカー協会（大会ページ／組合せ表） https://www.kochi-fa.com/class02/class02sch/entry-160.html
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:0af0f2b9-7b37-5889-bbc5-c47aecef8f5a@soccer_shikoku_hs_boys
+DTSTAMP:20260205T085654Z
+SUMMARY:高知県／令和７年度 第９回高知県高等学校サッカー冬季大会（新人戦）
+DTSTART;TZID=Asia/Tokyo:20260112T140000
+DTEND;TZID=Asia/Tokyo:20260112T160000
+LOCATION:会場不明（高知県）
+DESCRIPTION:種別：高校男子\n回戦：2回戦\n対戦：高知工 vs 宿毛工\n都道府県：高知県\n時刻：14:00（KO）\n会場：未確定\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4286\n出典：高知県サッカー協会（大会ページ／組合せ表） https://www.kochi-fa.com/class02/class02sch/entry-160.html
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:9f38e4c2-67b3-511e-b649-37e914c9c803@soccer_shikoku_hs_boys
+DTSTAMP:20260205T085654Z
+SUMMARY:高知県／令和７年度 第９回高知県高等学校サッカー冬季大会（新人戦）
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+LOCATION:会場不明（高知県）
+DESCRIPTION:種別：高校男子\n回戦：3回戦（ブロック決勝）\n対戦：高知 vs 高知小津\n都道府県：高知県\n時刻：11:00（KO）\n会場：未確定\n結果：8-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4286\n出典：高知県サッカー協会（大会ページ／組合せ表） https://www.kochi-fa.com/class02/class02sch/entry-160.html
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:0d1a00f3-6dee-5151-929c-673779836ad6@soccer_shikoku_hs_boys
+DTSTAMP:20260205T085654Z
+SUMMARY:高知県／令和７年度 第９回高知県高等学校サッカー冬季大会（新人戦）
+DTSTART;TZID=Asia/Tokyo:20260117T140000
+DTEND;TZID=Asia/Tokyo:20260117T160000
+LOCATION:会場不明（高知県）
+DESCRIPTION:種別：高校男子\n回戦：3回戦（ブロック決勝）\n対戦：高知工 vs 高知中央\n都道府県：高知県\n時刻：14:00（KO）\n会場：未確定\n結果：1-3\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4286\n出典：高知県サッカー協会（大会ページ／組合せ表） https://www.kochi-fa.com/class02/class02sch/entry-160.html
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf3e328-9a3a-58c3-8983-e983e6ef04d5@soccer_shikoku_hs_boys
+DTSTAMP:20260205T085654Z
+SUMMARY:高知県／令和７年度 第９回高知県高等学校サッカー冬季大会（新人戦）
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+LOCATION:会場不明（高知県）
+DESCRIPTION:種別：高校男子\n回戦：3回戦（ブロック決勝）\n対戦：岡豊 vs 中村\n都道府県：高知県\n時刻：11:00（KO）\n会場：未確定\n結果：3-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4286\n出典：高知県サッカー協会（大会ページ／組合せ表） https://www.kochi-fa.com/class02/class02sch/entry-160.html
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:2b7a8d27-142f-5330-880b-ce0e7cac27b4@soccer_shikoku_hs_boys
+DTSTAMP:20260205T085654Z
+SUMMARY:高知県／令和７年度 第９回高知県高等学校サッカー冬季大会（新人戦）
+DTSTART;TZID=Asia/Tokyo:20260118T140000
+DTEND;TZID=Asia/Tokyo:20260118T160000
+LOCATION:会場不明（高知県）
+DESCRIPTION:種別：高校男子\n回戦：3回戦（ブロック決勝）\n対戦：明徳義塾 vs 高知商\n都道府県：高知県\n時刻：14:00（KO）\n会場：未確定\n結果：4-2\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4286\n出典：高知県サッカー協会（大会ページ／組合せ表） https://www.kochi-fa.com/class02/class02sch/entry-160.html
+SEQUENCE:0
+END:VEVENT
 END:VCALENDAR
 
