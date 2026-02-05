@@ -2894,4 +2894,396 @@ LOCATION:会場不明（佐賀県）
 DESCRIPTION:種別：高校／男子\n対戦：佐賀東 vs 龍谷\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：決勝\n結果：5-2\n出典：https://koko-soccer.com/score/4287
 SEQUENCE:1
 END:VEVENT
+
+BEGIN:VEVENT
+UID:a579686af73eb695bd5b38a7a8691495493e0a78@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260111T110000
+DTEND;TZID=Asia/Tokyo:20260111T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：八幡 vs 糸島\n回戦：1回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：0-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:a6e06ba9f8a0ec7682fb8ff4c1831408084a4034@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260111T110000
+DTEND;TZID=Asia/Tokyo:20260111T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：春日 vs 八女工\n回戦：1回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：0-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ca642a18cc252fca976f6c581e611320962a33f5@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260111T110000
+DTEND;TZID=Asia/Tokyo:20260111T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：久留米 vs 北筑\n回戦：1回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：0-0 PK2-4\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:82e960110ff7fee198cecfb2b796149abe23279a@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260111T110000
+DTEND;TZID=Asia/Tokyo:20260111T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：直方 vs 九産大九産\n回戦：1回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：0-2\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:f77d12b3035467ce31ce094eb8277b71c59bf9c9@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260111T130000
+DTEND;TZID=Asia/Tokyo:20260111T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：筑前 vs 小倉\n回戦：1回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：4-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:e7969a52b535bdf72f4373c53133b9febfc10c88@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260111T130000
+DTEND;TZID=Asia/Tokyo:20260111T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：久留米高専 vs 豊国学園\n回戦：1回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:bd1af30cceacc41de6b43277c046c24e4ac186d2@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260111T130000
+DTEND;TZID=Asia/Tokyo:20260111T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：福岡常葉 vs 北九州\n回戦：1回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：0-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:cd9f7bf1f4d02545dd8418dee474e35672c4c9c7@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260111T130000
+DTEND;TZID=Asia/Tokyo:20260111T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：福岡工大城東 vs 有明高専\n回戦：1回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：2-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:f564f3f7265900728c8556a453b9022160f312c7@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：東福岡 vs 糸島\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：2-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ea54f19f2746ee0b84383cb19aec68bc6a1fc867@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：小倉東 vs 久留米筑水\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：1-2\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:74a3326c553b333f33bb0b2d37c7889583351e4b@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：八女工 vs 福岡大大濠\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：0-2\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:8b0259d8c41454c8d0ae77cc48bac54041b74880@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：福大若葉 vs 筑前\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：3-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:588a5568201376343c8234a81e7c1e5006c2fbc2@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：久留米高専 vs 九州国際大付\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：0-3\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:f432f01eb4c0dd522742066d7cbd36f44272c2b4@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：九産大九州 vs 星琳\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：3-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:c2c170e54a04300fb12071925ff40790c8dce1c4@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：宗像 vs 福智\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：0-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:d7762c736d102f532a26f041fdb331b8f50fdf76@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：小郡 vs 小倉工\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：1-3\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ffb8ff85a751bb4015928b77248ff6bafa2e98a2@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：東海大福岡 vs 北九州\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：2-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:e9cf49116fd5986d25991fd8b5f7c990b8964b50@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：筑紫台 vs 誠修\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:f3e4de7b24b6afc63d2d692a6cd447150ac3cf41@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：北筑 vs 筑陽学園\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：1-4\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:8fffbf77e37053c5f91fa31cd205be8acb27c6bd@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：福岡工大城東 vs 飯塚\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：0-4\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:c07a10858d9b92cee060e6822f760a580413d8e3@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260118T130000
+DTEND;TZID=Asia/Tokyo:20260118T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：福翔 vs 希望が丘\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：0-4\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:d72da70abe1058c67a22ba06a1f9df2c07c140c0@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260118T130000
+DTEND;TZID=Asia/Tokyo:20260118T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：博多 vs 九産大九産\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：3-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:346aa2e3ae97b662b0ae45b454094cd3c5e2a4c2@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260118T130000
+DTEND;TZID=Asia/Tokyo:20260118T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：伝習館 vs 高稜\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：0-2\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:1567d927461f13cadccaba5b16054584f9a172ae@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260118T130000
+DTEND;TZID=Asia/Tokyo:20260118T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：鞍手 vs 修猷館\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：0-5\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:37b5c3db2686528d18bc96f8ab7ca8e0d803f096@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260124T110000
+DTEND;TZID=Asia/Tokyo:20260124T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：東福岡 vs 久留米筑水\n回戦：3回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：3-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:08dffb38a2c02c430d42c463ab2b4a4c52abc0c0@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260124T110000
+DTEND;TZID=Asia/Tokyo:20260124T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：九産大九州 vs 福岡大大濠\n回戦：3回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:186fe4f780a4bc9b489545b67ab5db5ab88a9c11@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260124T110000
+DTEND;TZID=Asia/Tokyo:20260124T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：博多 vs 高稜\n回戦：3回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：1-1 PK3-5\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:74a3800b7bb03a9b9509022586ae4d6ef02bee1a@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260124T110000
+DTEND;TZID=Asia/Tokyo:20260124T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：修猷館 vs 飯塚\n回戦：3回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：0-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:10d32b97e37ec505354b5b2d923c5ca8b8a1e0e3@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：福大若葉 vs 福智\n回戦：3回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：2-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:a09ad82979526992b0efeef68ef0b29636ec3908@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：小倉工 vs 九州国際大付\n回戦：3回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：0-9\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:2f2b9a2e46a4f571d93140c8eee6096ab14ddfaf@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：東海大福岡 vs 希望が丘\n回戦：3回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：2-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:f17134d96dcb78f4bab392a9beb6f0e14f3ab4a7@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：筑紫台 vs 筑陽学園\n回戦：3回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:487a4c49da10c044691cf2087cafb1c02639b2f4@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260125T110000
+DTEND;TZID=Asia/Tokyo:20260125T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：東福岡 vs 九産大九州\n回戦：準々決勝\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：2-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:32a4794d746208be321a16c513ac0134ba5f9c09@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260125T110000
+DTEND;TZID=Asia/Tokyo:20260125T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：高稜 vs 飯塚\n回戦：準々決勝\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：1-3\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:d8ef72a9ae6a0cae26973a9bfab0acde4988ed71@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260125T130000
+DTEND;TZID=Asia/Tokyo:20260125T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：福大若葉 vs 九州国際大付\n回戦：準々決勝\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：0-3\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:cb402f877faf8f396d6e78c2016c688917b3f419@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260125T130000
+DTEND;TZID=Asia/Tokyo:20260125T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：東海大福岡 vs 筑紫台\n回戦：準々決勝\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:3431cab02cc54ac952b5dad0b18332da758d95aa@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260131T110000
+DTEND;TZID=Asia/Tokyo:20260131T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：東福岡 vs 九州国際大付\n回戦：準決勝\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：1-1 PK7-6\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:c0a3bed268705325378a935f880751bce27bee2b@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260131T130000
+DTEND;TZID=Asia/Tokyo:20260131T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：東海大福岡 vs 飯塚\n回戦：準決勝\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：0-4\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:0735b8c0cfbb453b4e8f034f7fead9a5915f6148@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260201T130000
+DTEND;TZID=Asia/Tokyo:20260201T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：東福岡 vs 飯塚\n回戦：決勝\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+
 END:VCALENDAR
