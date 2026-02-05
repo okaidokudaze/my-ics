@@ -7,47 +7,62 @@ X-WR-CALNAME:【九州沖縄】男子大学サッカー
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m16@sora
-DTSTAMP:20260204T225145Z
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251214T110000
 DTEND;TZID=Asia/Tokyo:20251214T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[16] 日本体育大学 vs 国士舘大学
+SUMMARY:全日本大学サッカー選手権（インカレ）[16] 日本
+ 体育大学 vs 国士舘大学
 LOCATION:黒崎播磨陸上競技場inHONJO
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
+ 確認：SUMMARY未統一（都道府県/大会名の明記なし）
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m20@sora
-DTSTAMP:20260204T225145Z
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251214T110000
 DTEND;TZID=Asia/Tokyo:20251214T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[20] 日本大学 vs 福岡大学
+SUMMARY:全日本大学サッカー選手権（インカレ）[20] 日本
+ 大学 vs 福岡大学
 LOCATION:黒崎播磨陸上競技場inHONJO
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
+ 確認：SUMMARY未統一（都道府県/大会名の明記なし）
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m24@sora
-DTSTAMP:20260204T225145Z
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251214T140000
 DTEND;TZID=Asia/Tokyo:20251214T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[24] 国士舘大学 vs 日本体育大学
+SUMMARY:全日本大学サッカー選手権（インカレ）[24] 国士
+ 舘大学 vs 日本体育大学
 LOCATION:黒崎播磨陸上競技場inHONJO
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
+ 確認：SUMMARY未統一（都道府県/大会名の明記なし）
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m40@sora
-DTSTAMP:20260204T225145Z
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251217T110000
 DTEND;TZID=Asia/Tokyo:20251217T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[40] 日本体育大学 vs 福岡大学
+SUMMARY:全日本大学サッカー選手権（インカレ）[40] 日本
+ 体育大学 vs 福岡大学
 LOCATION:ミクニワールドスタジアム北九州
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
+ 確認：SUMMARY未統一（都道府県/大会名の明記なし）
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m44@sora
-DTSTAMP:20260204T225145Z
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251217T140000
 DTEND;TZID=Asia/Tokyo:20251217T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[44] 国士舘大学 vs 日本大学
+SUMMARY:全日本大学サッカー選手権（インカレ）[44] 国士
+ 舘大学 vs 日本大学
 LOCATION:ミクニワールドスタジアム北九州
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
+ 確認：SUMMARY未統一（都道府県/大会名の明記なし）
 END:VEVENT
 END:VCALENDAR

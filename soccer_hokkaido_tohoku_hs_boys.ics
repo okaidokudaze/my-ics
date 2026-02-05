@@ -8,254 +8,33 @@ X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:soccer_hokkaido_tohoku_hs_boys-b33278fdafec640454af3a2ecf9410aa0720ca21
  @my-ics
-DTSTAMP:20260203T011456Z
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20260131T103000
 DTEND;TZID=Asia/Tokyo:20260131T123000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人
- サッカー選手権大会 1回戦 山形中央 1-1 PK6-5 八戸学院光
- 星
+SUMMARY:Jヴィレッジ（福島県／大会ページ
 LOCATION:Jヴィレッジ（福島県）
-DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\n
- ラウンド：1回戦\n対戦：山形中央 vs 八戸学院光星\n結果
- ：1-1 PK6-5\nKO時刻：確定\n出典：東北サッカー協会（大会
- ページ） https://tohoku-fa.jp/?p=12647\n出典：東北サッカー協
- 会（公式記録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8
- fba3846f9e6e73d8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコ
- ム（大会日程・結果） https://koko-soccer.com/score/4284
+DESCRIPTION:大会：大会ページ\n都道府県：Jヴィレッジ（福
+ 島県\n第25回東北高等学校新人サッカー選手権大会\nラウ
+ ンド：1回戦\n対戦：山形中央 vs 八戸学院光星\n結果：1-1
+  PK6-5\nKO時刻：確定\n出典：東北サッカー協会（大会ペー
+ ジ） https://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（
+ 公式記録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba384
+ 6f9e6e73d8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコム（
+ 大会日程・結果） https://koko-soccer.com/score/4284
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_hokkaido_tohoku_hs_boys-c71b091ec1a0ebdfbceb2e73d1d90f1aced1e9df
  @my-ics
-DTSTAMP:20260203T011456Z
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20260131T103000
 DTEND;TZID=Asia/Tokyo:20260131T123000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人
- サッカー選手権大会 1回戦 秋田南 0-2 盛岡誠桜
+SUMMARY:Jヴィレッジ（福島県／大会ページ
 LOCATION:Jヴィレッジ（福島県）
-DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\n
- ラウンド：1回戦\n対戦：秋田南 vs 盛岡誠桜\n結果：0-2\nK
- O時刻：確定\n出典：東北サッカー協会（大会ページ） ht
- tps://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記
- 録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e73d
- 8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコム（大会日
- 程・結果） https://koko-soccer.com/score/4284
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-bd6968f29c0a8bca1070d76ec7da4911e297eb24
- @my-ics
-DTSTAMP:20260203T011456Z
-DTSTART;TZID=Asia/Tokyo:20260131T103000
-DTEND;TZID=Asia/Tokyo:20260131T123000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人
- サッカー選手権大会 1回戦 聖光学院 1-0 野辺地西
-LOCATION:Jヴィレッジ（福島県）
-DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\n
- ラウンド：1回戦\n対戦：聖光学院 vs 野辺地西\n結果：1-0
- \nKO時刻：確定\n出典：東北サッカー協会（大会ページ）
-  https://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式
- 記録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e
- 73d8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコム（大会
- 日程・結果） https://koko-soccer.com/score/4284
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-ef85960d1e541d048deafce64ef81d7b7a418d12
- @my-ics
-DTSTAMP:20260203T011456Z
-DTSTART;TZID=Asia/Tokyo:20260131T103000
-DTEND;TZID=Asia/Tokyo:20260131T123000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人
- サッカー選手権大会 1回戦 盛岡大附 0-1 東北生文大高
-LOCATION:Jヴィレッジ（福島県）
-DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\n
- ラウンド：1回戦\n対戦：盛岡大附 vs 東北生文大高\n結果
- ：0-1\nKO時刻：確定\n出典：東北サッカー協会（大会ペー
- ジ） https://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（
- 公式記録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba384
- 6f9e6e73d8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコム（
- 大会日程・結果） https://koko-soccer.com/score/4284
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-f6e25807a4a5e89df55650f3dda599fd9fc1c1b5
- @my-ics
-DTSTAMP:20260203T011456Z
-DTSTART;TZID=Asia/Tokyo:20260131T130000
-DTEND;TZID=Asia/Tokyo:20260131T150000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人
- サッカー選手権大会 1回戦 尚志 1-0 聖和学園
-LOCATION:Jヴィレッジ（福島県）
-DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\n
- ラウンド：1回戦\n対戦：尚志 vs 聖和学園\n結果：1-0\nKO
- 時刻：確定\n出典：東北サッカー協会（大会ページ） htt
- ps://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記
- 録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e73d
- 8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコム（大会日
- 程・結果） https://koko-soccer.com/score/4284
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-2d088188f1d3355e4d565a7fee7b5ca891b7b806
- @my-ics
-DTSTAMP:20260203T011456Z
-DTSTART;TZID=Asia/Tokyo:20260131T130000
-DTEND;TZID=Asia/Tokyo:20260131T150000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人
- サッカー選手権大会 1回戦 盛岡中央 0-1 鶴岡東
-LOCATION:Jヴィレッジ（福島県）
-DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\n
- ラウンド：1回戦\n対戦：盛岡中央 vs 鶴岡東\n結果：0-1\nK
- O時刻：確定\n出典：東北サッカー協会（大会ページ） ht
- tps://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記
- 録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e73d
- 8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコム（大会日
- 程・結果） https://koko-soccer.com/score/4284
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-fd8d2e2002983d4b875c104140815f7747ee9bed
- @my-ics
-DTSTAMP:20260203T011456Z
-DTSTART;TZID=Asia/Tokyo:20260131T130000
-DTEND;TZID=Asia/Tokyo:20260131T150000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人
- サッカー選手権大会 1回戦 青森山田 3-0 東北学院
-LOCATION:Jヴィレッジ（福島県）
-DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\n
- ラウンド：1回戦\n対戦：青森山田 vs 東北学院\n結果：3-0
- \nKO時刻：確定\n出典：東北サッカー協会（大会ページ）
-  https://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式
- 記録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e
- 73d8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコム（大会
- 日程・結果） https://koko-soccer.com/score/4284
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-001c4ea8ee86d87843c6dd00475575f5b57d7a5f
- @my-ics
-DTSTAMP:20260203T011456Z
-DTSTART;TZID=Asia/Tokyo:20260131T130000
-DTEND;TZID=Asia/Tokyo:20260131T150000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人
- サッカー選手権大会 1回戦 学法石川 1-5 明桜
-LOCATION:Jヴィレッジ（福島県）
-DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\n
- ラウンド：1回戦\n対戦：学法石川 vs 明桜\n結果：1-5\nKO
- 時刻：確定\n出典：東北サッカー協会（大会ページ） htt
- ps://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記
- 録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e73d
- 8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコム（大会日
- 程・結果） https://koko-soccer.com/score/4284
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-38cf1869d3301dcc25d101d07f53d0e4d22d9413
- @my-ics
-DTSTAMP:20260203T011456Z
-DTSTART;TZID=Asia/Tokyo:20260201T103000
-DTEND;TZID=Asia/Tokyo:20260201T123000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人
- サッカー選手権大会 準々決勝 山形中央 1-0 盛岡誠桜
-LOCATION:Jヴィレッジ（福島県）
-DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\n
- ラウンド：準々決勝\n対戦：山形中央 vs 盛岡誠桜\n結果
- ：1-0\nKO時刻：確定\n出典：東北サッカー協会（大会ペー
- ジ） https://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（
- 公式記録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba384
- 6f9e6e73d8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコム（
- 大会日程・結果） https://koko-soccer.com/score/4284
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-8690d8147cbc1e4aee91bb945c0e7a33fddb3a28
- @my-ics
-DTSTAMP:20260203T011456Z
-DTSTART;TZID=Asia/Tokyo:20260201T103000
-DTEND;TZID=Asia/Tokyo:20260201T123000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人
- サッカー選手権大会 準々決勝 聖光学院 2-0 東北生文大
- 高
-LOCATION:Jヴィレッジ（福島県）
-DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\n
- ラウンド：準々決勝\n対戦：聖光学院 vs 東北生文大高\n
- 結果：2-0\nKO時刻：確定\n出典：東北サッカー協会（大会
- ページ） https://tohoku-fa.jp/?p=12647\n出典：東北サッカー協
- 会（公式記録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8
- fba3846f9e6e73d8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコ
- ム（大会日程・結果） https://koko-soccer.com/score/4284
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-0597ea1c39f87246ca84e09bf3013143dd107dc7
- @my-ics
-DTSTAMP:20260203T011456Z
-DTSTART;TZID=Asia/Tokyo:20260201T103000
-DTEND;TZID=Asia/Tokyo:20260201T123000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人
- サッカー選手権大会 準々決勝 尚志 4-0 鶴岡東
-LOCATION:Jヴィレッジ（福島県）
-DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\n
- ラウンド：準々決勝\n対戦：尚志 vs 鶴岡東\n結果：4-0\nKO
- 時刻：確定\n出典：東北サッカー協会（大会ページ） htt
- ps://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記
- 録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e73d
- 8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコム（大会日
- 程・結果） https://koko-soccer.com/score/4284
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-26db939ec12f56c724d6ce13cd5436a6b7a838f5
- @my-ics
-DTSTAMP:20260203T011456Z
-DTSTART;TZID=Asia/Tokyo:20260201T103000
-DTEND;TZID=Asia/Tokyo:20260201T123000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人
- サッカー選手権大会 準々決勝 青森山田 2-5 明桜
-LOCATION:Jヴィレッジ（福島県）
-DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\n
- ラウンド：準々決勝\n対戦：青森山田 vs 明桜\n結果：2-5\
- nKO時刻：確定\n出典：東北サッカー協会（大会ページ） 
- https://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式
- 記録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e
- 73d8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコム（大会
- 日程・結果） https://koko-soccer.com/score/4284
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-31013580076d1d7fd280bc1c9a07a530aabd1e9f
- @my-ics
-DTSTAMP:20260203T011456Z
-DTSTART;TZID=Asia/Tokyo:20260202T093000
-DTEND;TZID=Asia/Tokyo:20260202T113000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人
- サッカー選手権大会 準決勝 山形中央 2-3 聖光学院
-LOCATION:Jヴィレッジ（福島県）
-DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\n
- ラウンド：準決勝\n対戦：山形中央 vs 聖光学院\n結果：2
- -3\nKO時刻：確定\n出典：東北サッカー協会（大会ページ
- ） https://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公
- 式記録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9
- e6e73d8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコム（大
- 会日程・結果） https://koko-soccer.com/score/4284
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-31be9d563411546078e3e114cfe25b7c206205ad
- @my-ics
-DTSTAMP:20260203T011456Z
-DTSTART;TZID=Asia/Tokyo:20260202T093000
-DTEND;TZID=Asia/Tokyo:20260202T113000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人
- サッカー選手権大会 準決勝 尚志 1-2 明桜
-LOCATION:Jヴィレッジ（福島県）
-DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\n
- ラウンド：準決勝\n対戦：尚志 vs 明桜\n結果：1-2\nKO時刻
- ：確定\n出典：東北サッカー協会（大会ページ） https://t
- ohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記録PDF
- ） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e73d8d0d3e
- c2c24ec9f.pdf\n出典：高校サッカードットコム（大会日程・
- 結果） https://koko-soccer.com/score/4284
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-38c772a697020f7006b5d2563ffebdada1786cba
- @my-ics
-DTSTAMP:20260203T011456Z
-DTSTART;TZID=Asia/Tokyo:20260202T133000
-DTEND;TZID=Asia/Tokyo:20260202T153000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人
- サッカー選手権大会 決勝 聖光学院 0-1 明桜
-LOCATION:Jヴィレッジ（福島県）
-DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\n
- ラウンド：決勝\n対戦：聖光学院 vs 明桜\n結果：0-1\nKO時
+DESCRIPTION:大会：大会ページ\n都道府県：Jヴィレッジ（福
+ 島県\n第25回東北高等学校新人サッカー選手権大会\nラウ
+ ンド：1回戦\n対戦：秋田南 vs 盛岡誠桜\n結果：0-2\nKO時
  刻：確定\n出典：東北サッカー協会（大会ページ） https:
  //tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記録PD
  F） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e73d8d0d3
@@ -263,514 +42,969 @@ DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\n
  ・結果） https://koko-soccer.com/score/4284
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-aaf7c79be83ee0b3419e12e7a
- 4a52a92ffc9ca9a@my-ics
-DTSTAMP:20260203T014556Z
+UID:soccer_hokkaido_tohoku_hs_boys-bd6968f29c0a8bca1070d76ec7da4911e297eb24
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T103000
+DTEND;TZID=Asia/Tokyo:20260131T123000
+SUMMARY:Jヴィレッジ（福島県／大会ページ
+LOCATION:Jヴィレッジ（福島県）
+DESCRIPTION:大会：大会ページ\n都道府県：Jヴィレッジ（福
+ 島県\n第25回東北高等学校新人サッカー選手権大会\nラウ
+ ンド：1回戦\n対戦：聖光学院 vs 野辺地西\n結果：1-0\nKO
+ 時刻：確定\n出典：東北サッカー協会（大会ページ） htt
+ ps://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記
+ 録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e73d
+ 8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコム（大会日
+ 程・結果） https://koko-soccer.com/score/4284
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-ef85960d1e541d048deafce64ef81d7b7a418d12
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T103000
+DTEND;TZID=Asia/Tokyo:20260131T123000
+SUMMARY:Jヴィレッジ（福島県／大会ページ
+LOCATION:Jヴィレッジ（福島県）
+DESCRIPTION:大会：大会ページ\n都道府県：Jヴィレッジ（福
+ 島県\n第25回東北高等学校新人サッカー選手権大会\nラウ
+ ンド：1回戦\n対戦：盛岡大附 vs 東北生文大高\n結果：0-1
+ \nKO時刻：確定\n出典：東北サッカー協会（大会ページ）
+  https://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式
+ 記録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e
+ 73d8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコム（大会
+ 日程・結果） https://koko-soccer.com/score/4284
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-f6e25807a4a5e89df55650f3dda599fd9fc1c1b5
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T130000
+DTEND;TZID=Asia/Tokyo:20260131T150000
+SUMMARY:Jヴィレッジ（福島県／大会ページ
+LOCATION:Jヴィレッジ（福島県）
+DESCRIPTION:大会：大会ページ\n都道府県：Jヴィレッジ（福
+ 島県\n第25回東北高等学校新人サッカー選手権大会\nラウ
+ ンド：1回戦\n対戦：尚志 vs 聖和学園\n結果：1-0\nKO時刻
+ ：確定\n出典：東北サッカー協会（大会ページ） https://t
+ ohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記録PDF
+ ） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e73d8d0d3e
+ c2c24ec9f.pdf\n出典：高校サッカードットコム（大会日程・
+ 結果） https://koko-soccer.com/score/4284
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-2d088188f1d3355e4d565a7fee7b5ca891b7b806
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T130000
+DTEND;TZID=Asia/Tokyo:20260131T150000
+SUMMARY:Jヴィレッジ（福島県／大会ページ
+LOCATION:Jヴィレッジ（福島県）
+DESCRIPTION:大会：大会ページ\n都道府県：Jヴィレッジ（福
+ 島県\n第25回東北高等学校新人サッカー選手権大会\nラウ
+ ンド：1回戦\n対戦：盛岡中央 vs 鶴岡東\n結果：0-1\nKO時
+ 刻：確定\n出典：東北サッカー協会（大会ページ） https:
+ //tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記録PD
+ F） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e73d8d0d3
+ ec2c24ec9f.pdf\n出典：高校サッカードットコム（大会日程
+ ・結果） https://koko-soccer.com/score/4284
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-fd8d2e2002983d4b875c104140815f7747ee9bed
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T130000
+DTEND;TZID=Asia/Tokyo:20260131T150000
+SUMMARY:Jヴィレッジ（福島県／大会ページ
+LOCATION:Jヴィレッジ（福島県）
+DESCRIPTION:大会：大会ページ\n都道府県：Jヴィレッジ（福
+ 島県\n第25回東北高等学校新人サッカー選手権大会\nラウ
+ ンド：1回戦\n対戦：青森山田 vs 東北学院\n結果：3-0\nKO
+ 時刻：確定\n出典：東北サッカー協会（大会ページ） htt
+ ps://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記
+ 録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e73d
+ 8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコム（大会日
+ 程・結果） https://koko-soccer.com/score/4284
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-001c4ea8ee86d87843c6dd00475575f5b57d7a5f
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T130000
+DTEND;TZID=Asia/Tokyo:20260131T150000
+SUMMARY:Jヴィレッジ（福島県／大会ページ
+LOCATION:Jヴィレッジ（福島県）
+DESCRIPTION:大会：大会ページ\n都道府県：Jヴィレッジ（福
+ 島県\n第25回東北高等学校新人サッカー選手権大会\nラウ
+ ンド：1回戦\n対戦：学法石川 vs 明桜\n結果：1-5\nKO時刻
+ ：確定\n出典：東北サッカー協会（大会ページ） https://t
+ ohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記録PDF
+ ） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e73d8d0d3e
+ c2c24ec9f.pdf\n出典：高校サッカードットコム（大会日程・
+ 結果） https://koko-soccer.com/score/4284
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-38cf1869d3301dcc25d101d07f53d0e4d22d9413
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260201T103000
+DTEND;TZID=Asia/Tokyo:20260201T123000
+SUMMARY:Jヴィレッジ（福島県／大会ページ
+LOCATION:Jヴィレッジ（福島県）
+DESCRIPTION:大会：大会ページ\n都道府県：Jヴィレッジ（福
+ 島県\n第25回東北高等学校新人サッカー選手権大会\nラウ
+ ンド：準々決勝\n対戦：山形中央 vs 盛岡誠桜\n結果：1-0\
+ nKO時刻：確定\n出典：東北サッカー協会（大会ページ） 
+ https://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式
+ 記録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e
+ 73d8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコム（大会
+ 日程・結果） https://koko-soccer.com/score/4284
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-8690d8147cbc1e4aee91bb945c0e7a33fddb3a28
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260201T103000
+DTEND;TZID=Asia/Tokyo:20260201T123000
+SUMMARY:Jヴィレッジ（福島県／大会ページ
+LOCATION:Jヴィレッジ（福島県）
+DESCRIPTION:大会：大会ページ\n都道府県：Jヴィレッジ（福
+ 島県\n第25回東北高等学校新人サッカー選手権大会\nラウ
+ ンド：準々決勝\n対戦：聖光学院 vs 東北生文大高\n結果
+ ：2-0\nKO時刻：確定\n出典：東北サッカー協会（大会ペー
+ ジ） https://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（
+ 公式記録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba384
+ 6f9e6e73d8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコム（
+ 大会日程・結果） https://koko-soccer.com/score/4284
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-0597ea1c39f87246ca84e09bf3013143dd107dc7
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260201T103000
+DTEND;TZID=Asia/Tokyo:20260201T123000
+SUMMARY:Jヴィレッジ（福島県／大会ページ
+LOCATION:Jヴィレッジ（福島県）
+DESCRIPTION:大会：大会ページ\n都道府県：Jヴィレッジ（福
+ 島県\n第25回東北高等学校新人サッカー選手権大会\nラウ
+ ンド：準々決勝\n対戦：尚志 vs 鶴岡東\n結果：4-0\nKO時刻
+ ：確定\n出典：東北サッカー協会（大会ページ） https://t
+ ohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記録PDF
+ ） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e73d8d0d3e
+ c2c24ec9f.pdf\n出典：高校サッカードットコム（大会日程・
+ 結果） https://koko-soccer.com/score/4284
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-26db939ec12f56c724d6ce13cd5436a6b7a838f5
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260201T103000
+DTEND;TZID=Asia/Tokyo:20260201T123000
+SUMMARY:Jヴィレッジ（福島県／大会ページ
+LOCATION:Jヴィレッジ（福島県）
+DESCRIPTION:大会：大会ページ\n都道府県：Jヴィレッジ（福
+ 島県\n第25回東北高等学校新人サッカー選手権大会\nラウ
+ ンド：準々決勝\n対戦：青森山田 vs 明桜\n結果：2-5\nKO時
+ 刻：確定\n出典：東北サッカー協会（大会ページ） https:
+ //tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記録PD
+ F） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e73d8d0d3
+ ec2c24ec9f.pdf\n出典：高校サッカードットコム（大会日程
+ ・結果） https://koko-soccer.com/score/4284
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-31013580076d1d7fd280bc1c9a07a530aabd1e9f
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260202T093000
+DTEND;TZID=Asia/Tokyo:20260202T113000
+SUMMARY:Jヴィレッジ（福島県／大会ページ
+LOCATION:Jヴィレッジ（福島県）
+DESCRIPTION:大会：大会ページ\n都道府県：Jヴィレッジ（福
+ 島県\n第25回東北高等学校新人サッカー選手権大会\nラウ
+ ンド：準決勝\n対戦：山形中央 vs 聖光学院\n結果：2-3\nKO
+ 時刻：確定\n出典：東北サッカー協会（大会ページ） htt
+ ps://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記
+ 録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e73d
+ 8d0d3ec2c24ec9f.pdf\n出典：高校サッカードットコム（大会日
+ 程・結果） https://koko-soccer.com/score/4284
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-31be9d563411546078e3e114cfe25b7c206205ad
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260202T093000
+DTEND;TZID=Asia/Tokyo:20260202T113000
+SUMMARY:Jヴィレッジ（福島県／大会ページ
+LOCATION:Jヴィレッジ（福島県）
+DESCRIPTION:大会：大会ページ\n都道府県：Jヴィレッジ（福
+ 島県\n第25回東北高等学校新人サッカー選手権大会\nラウ
+ ンド：準決勝\n対戦：尚志 vs 明桜\n結果：1-2\nKO時刻：確
+ 定\n出典：東北サッカー協会（大会ページ） https://tohoku-
+ fa.jp/?p=12647\n出典：東北サッカー協会（公式記録PDF） http
+ s://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e73d8d0d3ec2c24ec9
+ f.pdf\n出典：高校サッカードットコム（大会日程・結果
+ ） https://koko-soccer.com/score/4284
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-38c772a697020f7006b5d2563ffebdada1786cba
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260202T133000
+DTEND;TZID=Asia/Tokyo:20260202T153000
+SUMMARY:Jヴィレッジ（福島県／大会ページ
+LOCATION:Jヴィレッジ（福島県）
+DESCRIPTION:大会：大会ページ\n都道府県：Jヴィレッジ（福
+ 島県\n第25回東北高等学校新人サッカー選手権大会\nラウ
+ ンド：決勝\n対戦：聖光学院 vs 明桜\n結果：0-1\nKO時刻：
+ 確定\n出典：東北サッカー協会（大会ページ） https://toho
+ ku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記録PDF） h
+ ttps://tohoku-fa.jp/wp-content/uploads/2026/02/f8fba3846f9e6e73d8d0d3ec2c24
+ ec9f.pdf\n出典：高校サッカードットコム（大会日程・結
+ 果） https://koko-soccer.com/score/4284
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-aaf7c79be83ee0b3419e12e7a4a52a92ffc9ca9a
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20260131T093000
 DTEND;TZID=Asia/Tokyo:20260131T103000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 A1 函館大谷高等学校A
-  vs 中標津高等学校サッカー部
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B・表記不明）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：函館大谷高等学校A vs 中標津高等学校サッカー部\nキックオフ：09:30\n出典：北海道サッカー協会（組合せ
- ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/2025
- /11/2026012302.pdf\n備考：終了時刻は便宜上+60分
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B
+ ・表記不明）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：函館大谷高等学校A vs 
+ 中標津高等学校サッカー部\nキックオフ：09:30\n出典：北
+ 海道サッカー協会（組合せ・日程PDF） https://www.hfa-dream.o
+ r.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：終了時刻は便
+ 宜上+60分
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-b367e2738bcf727524e4f3e3c
- 92d9bec17cc775b@my-ics
-DTSTAMP:20260203T014556Z
+UID:soccer_hokkaido_tohoku_hs_boys-b367e2738bcf727524e4f3e3c92d9bec17cc775b
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20260131T102000
 DTEND;TZID=Asia/Tokyo:20260131T112000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 A2 北海道旭川商業高校
- サッカー部 vs 北海道帯広柏葉高等学校
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B・表記不明）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：北海道旭川商業高校サッカー部 vs 北海道帯広柏葉高等学校\nキックオフ：10:20\n出典：北海道サッカー協会
- （組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/
- 2025/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B
+ ・表記不明）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：北海道旭川商業高校サ
+ ッカー部 vs 北海道帯広柏葉高等学校\nキックオフ：10:20\
+ n出典：北海道サッカー協会（組合せ・日程PDF） https://ww
+ w.hfa-dream.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：終
+ 了時刻は便宜上+60分
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-8bb5a087fb81c2f7d44546700
- f131546ad6ac3f0@my-ics
-DTSTAMP:20260203T014556Z
+UID:soccer_hokkaido_tohoku_hs_boys-8bb5a087fb81c2f7d44546700f131546ad6ac3f0
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20260131T111000
 DTEND;TZID=Asia/Tokyo:20260131T121000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 A3 帯広大谷高等学校 
- vs 北海道岩見沢東高等学校
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B・表記不明）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：帯広大谷高等学校 vs 北海道岩見沢東高等学校\nキックオフ：11:10\n出典：北海道サッカー協会（組合せ・日
- 程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/2025/1
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B
+ ・表記不明）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：帯広大谷高等学校 vs 北
+ 海道岩見沢東高等学校\nキックオフ：11:10\n出典：北海道
+ サッカー協会（組合せ・日程PDF） https://www.hfa-dream.or.jp/w
+ p-content/uploads/2025/11/2026012302.pdf\n備考：終了時刻は便宜上
+ +60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-8552f5e684e679934f9f3f5761126267f3e0cd4b
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T111000
+DTEND;TZID=Asia/Tokyo:20260131T121000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B
+ ・表記不明）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：旭川実業高等学校 vs 駒
+ 澤大学附属苫小牧高等学校サッカー部ブルー\nキックオ
+ フ：11:10\n出典：北海道サッカー協会（組合せ・日程PDF
+ ） https://www.hfa-dream.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n
+ 備考：終了時刻は便宜上+60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-999ca936a29a189782384678dee8dbc0011d1f81
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T120000
+DTEND;TZID=Asia/Tokyo:20260131T130000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B
+ ・表記不明）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：北海道室蘭栄高等学校 
+ vs 旭川明成高等学校サッカー部\nキックオフ：12:00\n出典
+ ：北海道サッカー協会（組合せ・日程PDF） https://www.hfa-d
+ ream.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：終了時刻
+ は便宜上+60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-805d15c4715b151fca2ff9443a459225d7378254
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T125000
+DTEND;TZID=Asia/Tokyo:20260131T135000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B
+ ・表記不明）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：北海道釧路北陽高等学
+ 校A vs 北照高等学校男子サッカー部\nキックオフ：12:50\n
+ 出典：北海道サッカー協会（組合せ・日程PDF） https://www
+ .hfa-dream.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：終了
+ 時刻は便宜上+60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-bc002f5eece4e636912824d18138d05a2160eef5
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T125000
+DTEND;TZID=Asia/Tokyo:20260131T135000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B
+ ・表記不明）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：中標津高等学校サッカ
+ ー部 vs 北海道旭川商業高校サッカー部\nキックオフ：12:
+ 50\n出典：北海道サッカー協会（組合せ・日程PDF） https:/
+ /www.hfa-dream.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：
+ 終了時刻は便宜上+60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-238b4441e10da811dbf0745502cd208b59345370
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T134000
+DTEND;TZID=Asia/Tokyo:20260131T144000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B
+ ・表記不明）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：稚内大谷高等学校サッ
+ カー部 vs 帯広北高等学校サッカー部\nキックオフ：13:40\
+ n出典：北海道サッカー協会（組合せ・日程PDF） https://ww
+ w.hfa-dream.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：終
+ 了時刻は便宜上+60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-a5e883dcd37b8ce85dfed3cd3b97c7fb2e855c0a
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T134000
+DTEND;TZID=Asia/Tokyo:20260131T144000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B
+ ・表記不明）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：北海道帯広柏葉高等学
+ 校 vs 函館大谷高等学校A\nキックオフ：13:40\n出典：北海
+ 道サッカー協会（組合せ・日程PDF） https://www.hfa-dream.or.j
+ p/wp-content/uploads/2025/11/2026012302.pdf\n備考：終了時刻は便宜
+ 上+60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-14ea8804b5500ec75224a0f4c54a74c6abe320c2
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T143000
+DTEND;TZID=Asia/Tokyo:20260131T153000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B
+ ・表記不明）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：北海道滝川高等学校サ
+ ッカー部 vs 駒澤大学附属苫小牧高等学校サッカー部ホ
+ ワイト\nキックオフ：14:30\n出典：北海道サッカー協会（
+ 組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/202
+ 5/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-36091e94785911f674d38d4d51e4075b713a56ca
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T143000
+DTEND;TZID=Asia/Tokyo:20260131T153000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B
+ ・表記不明）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：北海道岩見沢東高等学
+ 校 vs 北海道室蘭栄高等学校\nキックオフ：14:30\n出典：
+ 北海道サッカー協会（組合せ・日程PDF） https://www.hfa-drea
+ m.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：終了時刻は
+ 便宜上+60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-5f9a439bbbb18f40bece589b28e1ea9373233110
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T152000
+DTEND;TZID=Asia/Tokyo:20260131T162000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B
+ ・表記不明）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：札幌日本大学高等学校1
+ 987 vs 北海道札幌月寒高等学校\nキックオフ：15:20\n出典
+ ：北海道サッカー協会（組合せ・日程PDF） https://www.hfa-d
+ ream.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：終了時刻
+ は便宜上+60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-e3063a1f90569982043473c5b099244f9ed57525
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T152000
+DTEND;TZID=Asia/Tokyo:20260131T162000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B
+ ・表記不明）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：旭川明成高等学校サッ
+ カー部 vs 帯広大谷高等学校\nキックオフ：15:20\n出典：
+ 北海道サッカー協会（組合せ・日程PDF） https://www.hfa-drea
+ m.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：終了時刻は
+ 便宜上+60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-e5ea9c35a2b75738e345576a2812f7ccb00d6d3c
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T161000
+DTEND;TZID=Asia/Tokyo:20260131T171000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B
+ ・表記不明）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：北海道旭川西高等学校A
+  vs 北照高等学校男子サッカー部\nキックオフ：16:10\n出
+ 典：北海道サッカー協会（組合せ・日程PDF） https://www.hf
+ a-dream.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：終了時
+ 刻は便宜上+60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-5da05fbf9527f663fc567df4169e0a19da0657ff
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T170000
+DTEND;TZID=Asia/Tokyo:20260131T180000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B
+ ・表記不明）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：北海道釧路北陽高等学
+ 校A vs 稚内大谷高等学校サッカー部\nキックオフ：17:00\n
+ 出典：北海道サッカー協会（組合せ・日程PDF） https://www
+ .hfa-dream.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：終了
+ 時刻は便宜上+60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-0ee0604c5c322e17a9983ef1bc7f8b85432d5a81
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T170000
+DTEND;TZID=Asia/Tokyo:20260131T180000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B
+ ・表記不明）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：旭川志峯高等学校 vs 北
+ 海道科学大学高等学校サッカー部A\nキックオフ：17:00\n
+ 出典：北海道サッカー協会（組合せ・日程PDF） https://www
+ .hfa-dream.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：終了
+ 時刻は便宜上+60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-5ca0339f2c66b692cc437ab637bb77ee90e1a08c
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T175000
+DTEND;TZID=Asia/Tokyo:20260131T185000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B
+ ・表記不明）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：北海道札幌月寒高等学
+ 校 vs 駒澤大学附属苫小牧高等学校サッカー部ホワイト\n
+ キックオフ：17:50\n出典：北海道サッカー協会（組合せ
+ ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/2025/11/2026
+ 012302.pdf\n備考：終了時刻は便宜上+60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-fff87df97a220e62f62ad5d776144eade56a7b11
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T184000
+DTEND;TZID=Asia/Tokyo:20260131T194000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B
+ ・表記不明）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：北海道滝川高等学校サ
+ ッカー部 vs 札幌日本大学高等学校1987\nキックオフ：18:40
+ \n出典：北海道サッカー協会（組合せ・日程PDF） https://w
+ ww.hfa-dream.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：終
+ 了時刻は便宜上+60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-3be886746f0f82c29c3dbcaa8a0a58be09735d8d
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T093000
+DTEND;TZID=Asia/Tokyo:20260131T103000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリ
+ ーナ）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：北海道旭川西高等学校A
+  vs 北海道釧路北陽高等学校A\nキックオフ：09:30\n出典：
+ 北海道サッカー協会（組合せ・日程PDF） https://www.hfa-drea
+ m.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：終了時刻は
+ 便宜上+60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-8bc95624b857b1f21fd30974d39dfee973ba6d13
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T102000
+DTEND;TZID=Asia/Tokyo:20260131T112000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリ
+ ーナ）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：北照高等学校男子サッ
+ カー部 vs 稚内大谷高等学校サッカー部\nキックオフ：10:
+ 20\n出典：北海道サッカー協会（組合せ・日程PDF） https:/
+ /www.hfa-dream.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：
+ 終了時刻は便宜上+60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-4338d0b64ed277a3ad9dd52b1fa970f0fadf845a
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T111000
+DTEND;TZID=Asia/Tokyo:20260131T121000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリ
+ ーナ）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：北海道札幌月寒高等学
+ 校 vs 北海道滝川高等学校サッカー部\nキックオフ：11:10\
+ n出典：北海道サッカー協会（組合せ・日程PDF） https://ww
+ w.hfa-dream.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：終
+ 了時刻は便宜上+60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-1c888c55e2f51e42d29145181efbdba72448211b
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T120000
+DTEND;TZID=Asia/Tokyo:20260131T130000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリ
+ ーナ）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：駒澤大学附属苫小牧高
+ 等学校サッカー部ホワイト vs 札幌日本大学高等学校1987\
+ nキックオフ：12:00\n出典：北海道サッカー協会（組合せ
+ ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/2025/11/2026
+ 012302.pdf\n備考：終了時刻は便宜上+60分
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_hokkaido_tohoku_hs_boys-ea3f5b4351f3082a1f7c81c944fe2499e3b96464
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T125000
+DTEND;TZID=Asia/Tokyo:20260131T135000
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリ
+ ーナ）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：旭川志峯高等学校 vs 道
+ 北FC\nキックオフ：12:50\n出典：北海道サッカー協会（組
+ 合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/2025/1
  1/2026012302.pdf\n備考：終了時刻は便宜上+60分
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-8552f5e684e679934f9f3f576
- 1126267f3e0cd4b@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T111000
-DTEND;TZID=Asia/Tokyo:20260131T121000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 B3 旭川実業高等学校 
- vs 駒澤大学附属苫小牧高等学校サッカー部ブルー
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B・表記不明）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：旭川実業高等学校 vs 駒澤大学附属苫小牧高等学校サッカー部ブルー\nキックオフ：11:10\n出典：北海道サッ
- カー協会（組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uplo
- ads/2025/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-999ca936a29a189782384678d
- ee8dbc0011d1f81@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T120000
-DTEND;TZID=Asia/Tokyo:20260131T130000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 A4 北海道室蘭栄高等学
- 校 vs 旭川明成高等学校サッカー部
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B・表記不明）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：北海道室蘭栄高等学校 vs 旭川明成高等学校サッカー部\nキックオフ：12:00\n出典：北海道サッカー協会（組
- 合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/20
- 25/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-805d15c4715b151fca2ff9443
- a459225d7378254@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T125000
-DTEND;TZID=Asia/Tokyo:20260131T135000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 A5 北海道釧路北陽高等
- 学校A vs 北照高等学校男子サッカー部
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B・表記不明）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：北海道釧路北陽高等学校A vs 北照高等学校男子サッカー部\nキックオフ：12:50\n出典：北海道サッカー協会
- （組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/
- 2025/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-bc002f5eece4e636912824d18
- 138d05a2160eef5@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T125000
-DTEND;TZID=Asia/Tokyo:20260131T135000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 B5 中標津高等学校サッ
- カー部 vs 北海道旭川商業高校サッカー部
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B・表記不明）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：中標津高等学校サッカー部 vs 北海道旭川商業高校サッカー部\nキックオフ：12:50\n出典：北海道サッカー協
- 会（組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads
- /2025/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-238b4441e10da811dbf074550
- 2cd208b59345370@my-ics
-DTSTAMP:20260203T014556Z
+UID:soccer_hokkaido_tohoku_hs_boys-976d1128bd9437ec323201c50bd8dfb138749be5
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20260131T134000
 DTEND;TZID=Asia/Tokyo:20260131T144000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 A6 稚内大谷高等学校サ
- ッカー部 vs 帯広北高等学校サッカー部
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B・表記不明）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：稚内大谷高等学校サッカー部 vs 帯広北高等学校サッカー部\nキックオフ：13:40\n出典：北海道サッカー協会
- （組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/
- 2025/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリ
+ ーナ）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：北海道科学大学高等学
+ 校サッカー部A vs ESPERANZA FC U-18\nキックオフ：13:40\n出典
+ ：北海道サッカー協会（組合せ・日程PDF） https://www.hfa-d
+ ream.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：終了時刻
+ は便宜上+60分
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-a5e883dcd37b8ce85dfed3cd3
- b97c7fb2e855c0a@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T134000
-DTEND;TZID=Asia/Tokyo:20260131T144000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 B6 北海道帯広柏葉高等
- 学校 vs 函館大谷高等学校A
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B・表記不明）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：北海道帯広柏葉高等学校 vs 函館大谷高等学校A\nキックオフ：13:40\n出典：北海道サッカー協会（組合せ・
- 日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/2025/
- 11/2026012302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-14ea8804b5500ec75224a0f4c
- 54a74c6abe320c2@my-ics
-DTSTAMP:20260203T014556Z
+UID:soccer_hokkaido_tohoku_hs_boys-c43534542e0d44176ba5308153caf8044d2d1440
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20260131T143000
 DTEND;TZID=Asia/Tokyo:20260131T153000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 A7 北海道滝川高等学校
- サッカー部 vs 駒澤大学附属苫小牧高等学校サッカー部ホワイト
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B・表記不明）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：北海道滝川高等学校サッカー部 vs 駒澤大学附属苫小牧高等学校サッカー部ホワイト\nキックオフ：14:30\n出
- 典：北海道サッカー協会（組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-conte
- nt/uploads/2025/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリ
+ ーナ）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：駒澤大学附属苫小牧高
+ 等学校サッカー部ブルー vs 帯広北高等学校サッカー部\n
+ キックオフ：14:30\n出典：北海道サッカー協会（組合せ
+ ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/2025/11/2026
+ 012302.pdf\n備考：終了時刻は便宜上+60分
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-36091e94785911f674d38d4d5
- 1e4075b713a56ca@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T143000
-DTEND;TZID=Asia/Tokyo:20260131T153000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 B7 北海道岩見沢東高等
- 学校 vs 北海道室蘭栄高等学校
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B・表記不明）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：北海道岩見沢東高等学校 vs 北海道室蘭栄高等学校\nキックオフ：14:30\n出典：北海道サッカー協会（組合せ
- ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/2025
- /11/2026012302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-5f9a439bbbb18f40bece589b2
- 8e1ea9373233110@my-ics
-DTSTAMP:20260203T014556Z
+UID:soccer_hokkaido_tohoku_hs_boys-64e23da18a7e6f34ad28646630961364ddcbfc1a
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20260131T152000
 DTEND;TZID=Asia/Tokyo:20260131T162000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 A8 札幌日本大学高等学
- 校1987 vs 北海道札幌月寒高等学校
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B・表記不明）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：札幌日本大学高等学校1987 vs 北海道札幌月寒高等学校\nキックオフ：15:20\n出典：北海道サッカー協会
- （組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/
- 2025/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリ
+ ーナ）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：北海道科学大学高等学
+ 校サッカー部B vs 旭川実業高等学校\nキックオフ：15:20\n
+ 出典：北海道サッカー協会（組合せ・日程PDF） https://www
+ .hfa-dream.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：終了
+ 時刻は便宜上+60分
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-e3063a1f90569982043473c5b
- 099244f9ed57525@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T152000
-DTEND;TZID=Asia/Tokyo:20260131T162000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 B8 旭川明成高等学校サ
- ッカー部 vs 帯広大谷高等学校
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B・表記不明）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：旭川明成高等学校サッカー部 vs 帯広大谷高等学校\nキックオフ：15:20\n出典：北海道サッカー協会（組合せ
- ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/2025
- /11/2026012302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-e5ea9c35a2b75738e345576a2
- 812f7ccb00d6d3c@my-ics
-DTSTAMP:20260203T014556Z
+UID:soccer_hokkaido_tohoku_hs_boys-88e2969a0cef2e7d394c675424d208c817e81ac1
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20260131T161000
 DTEND;TZID=Asia/Tokyo:20260131T171000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 B9 北海道旭川西高等学
- 校A vs 北照高等学校男子サッカー部
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B・表記不明）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：北海道旭川西高等学校A vs 北照高等学校男子サッカー部\nキックオフ：16:10\n出典：北海道サッカー協会（
- 組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/2
- 025/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリ
+ ーナ）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：函館大谷高等学校A vs 
+ 北海道旭川商業高校サッカー部\nキックオフ：16:10\n出典
+ ：北海道サッカー協会（組合せ・日程PDF） https://www.hfa-d
+ ream.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：終了時刻
+ は便宜上+60分
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-5da05fbf9527f663fc567df41
- 69e0a19da0657ff@my-ics
-DTSTAMP:20260203T014556Z
+UID:soccer_hokkaido_tohoku_hs_boys-b0df6846d732f4477eb1d6cf90521e2e57d9a999
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20260131T170000
 DTEND;TZID=Asia/Tokyo:20260131T180000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 B10 北海道釧路北陽高
- 等学校A vs 稚内大谷高等学校サッカー部
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B・表記不明）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：北海道釧路北陽高等学校A vs 稚内大谷高等学校サッカー部\nキックオフ：17:00\n出典：北海道サッカー協会
- （組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/
- 2025/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリ
+ ーナ）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：中標津高等学校サッカ
+ ー部 vs 北海道帯広柏葉高等学校\nキックオフ：17:00\n出
+ 典：北海道サッカー協会（組合せ・日程PDF） https://www.hf
+ a-dream.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：終了時
+ 刻は便宜上+60分
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-0ee0604c5c322e17a9983ef1b
- c7f8b85432d5a81@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T170000
-DTEND;TZID=Asia/Tokyo:20260131T180000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 A10 旭川志峯高等学校
-  vs 北海道科学大学高等学校サッカー部A
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B・表記不明）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：旭川志峯高等学校 vs 北海道科学大学高等学校サッカー部A\nキックオフ：17:00\n出典：北海道サッカー協会
- （組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/
- 2025/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-5ca0339f2c66b692cc437ab63
- 7bb77ee90e1a08c@my-ics
-DTSTAMP:20260203T014556Z
+UID:soccer_hokkaido_tohoku_hs_boys-28db1e4ea9a56333c080e328f1dd75649b13a74f
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20260131T175000
 DTEND;TZID=Asia/Tokyo:20260131T185000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 B11 北海道札幌月寒高
- 等学校 vs 駒澤大学附属苫小牧高等学校サッカー部ホワイト
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B・表記不明）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：北海道札幌月寒高等学校 vs 駒澤大学附属苫小牧高等学校サッカー部ホワイト\nキックオフ：17:50\n出典：北
- 海道サッカー協会（組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/
- uploads/2025/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリ
+ ーナ）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：帯広大谷高等学校 vs 北
+ 海道室蘭栄高等学校\nキックオフ：17:50\n出典：北海道サ
+ ッカー協会（組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-c
+ ontent/uploads/2025/11/2026012302.pdf\n備考：終了時刻は便宜上+60
+ 分
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-fff87df97a220e62f62ad5d77
- 6144eade56a7b11@my-ics
-DTSTAMP:20260203T014556Z
+UID:soccer_hokkaido_tohoku_hs_boys-ee2665f62439c53cdbab72492ae29a43b3ec7768
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20260131T184000
 DTEND;TZID=Asia/Tokyo:20260131T194000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 B12 北海道滝川高等学
- 校サッカー部 vs 札幌日本大学高等学校1987
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（メインA/B・表記不明）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：北海道滝川高等学校サッカー部 vs 札幌日本大学高等学校1987\nキックオフ：18:40\n出典：北海道サッカ
- ー協会（組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploa
- ds/2025/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（予選ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリ
+ ーナ）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（予選ラウンド）\n対戦：北海道岩見沢東高等学
+ 校 vs 旭川明成高等学校サッカー部\nキックオフ：18:40\n
+ 出典：北海道サッカー協会（組合せ・日程PDF） https://www
+ .hfa-dream.or.jp/wp-content/uploads/2025/11/2026012302.pdf\n備考：終了
+ 時刻は便宜上+60分
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-3be886746f0f82c29c3dbcaa8
- a0a58be09735d8d@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T093000
-DTEND;TZID=Asia/Tokyo:20260131T103000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 C1 北海道旭川西高等学
- 校A vs 北海道釧路北陽高等学校A
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリーナ）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：北海道旭川西高等学校A vs 北海道釧路北陽高等学校A\nキックオフ：09:30\n出典：北海道サッカー協会（組
- 合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/20
- 25/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-8bc95624b857b1f21fd30974d
- 39dfee973ba6d13@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T102000
-DTEND;TZID=Asia/Tokyo:20260131T112000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 C2 北照高等学校男子サ
- ッカー部 vs 稚内大谷高等学校サッカー部
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリーナ）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：北照高等学校男子サッカー部 vs 稚内大谷高等学校サッカー部\nキックオフ：10:20\n出典：北海道サッカー協
- 会（組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads
- /2025/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-4338d0b64ed277a3ad9dd52b1
- fa970f0fadf845a@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T111000
-DTEND;TZID=Asia/Tokyo:20260131T121000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 C3 北海道札幌月寒高等
- 学校 vs 北海道滝川高等学校サッカー部
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリーナ）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：北海道札幌月寒高等学校 vs 北海道滝川高等学校サッカー部\nキックオフ：11:10\n出典：北海道サッカー協会
- （組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/
- 2025/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-1c888c55e2f51e42d29145181
- efbdba72448211b@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T120000
-DTEND;TZID=Asia/Tokyo:20260131T130000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 C4 駒澤大学附属苫小牧
- 高等学校サッカー部ホワイト vs 札幌日本大学高等学校1987
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリーナ）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：駒澤大学附属苫小牧高等学校サッカー部ホワイト vs 札幌日本大学高等学校1987\nキックオフ：12:00\n出
- 典：北海道サッカー協会（組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-conte
- nt/uploads/2025/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-ea3f5b4351f3082a1f7c81c94
- 4fe2499e3b96464@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T125000
-DTEND;TZID=Asia/Tokyo:20260131T135000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 C5 旭川志峯高等学校 
- vs 道北FC
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリーナ）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：旭川志峯高等学校 vs 道北FC\nキックオフ：12:50\n出典：北海道サッカー協会（組合せ・日程PDF） h
- ttps://www.hfa-dream.or.jp/wp-content/uploads/2025/11/20260
- 12302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-976d1128bd9437ec323201c50
- bd8dfb138749be5@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T134000
-DTEND;TZID=Asia/Tokyo:20260131T144000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 C6 北海道科学大学高等
- 学校サッカー部A vs ESPERANZA FC U-18
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリーナ）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：北海道科学大学高等学校サッカー部A vs ESPERANZA FC U-18\nキックオフ：13:40\n出典：
- 北海道サッカー協会（組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content
- /uploads/2025/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-c43534542e0d44176ba530815
- 3caf8044d2d1440@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T143000
-DTEND;TZID=Asia/Tokyo:20260131T153000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 C7 駒澤大学附属苫小牧
- 高等学校サッカー部ブルー vs 帯広北高等学校サッカー部
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリーナ）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：駒澤大学附属苫小牧高等学校サッカー部ブルー vs 帯広北高等学校サッカー部\nキックオフ：14:30\n出典：北
- 海道サッカー協会（組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/
- uploads/2025/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-64e23da18a7e6f34ad2864663
- 0961364ddcbfc1a@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T152000
-DTEND;TZID=Asia/Tokyo:20260131T162000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 C8 北海道科学大学高等
- 学校サッカー部B vs 旭川実業高等学校
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリーナ）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：北海道科学大学高等学校サッカー部B vs 旭川実業高等学校\nキックオフ：15:20\n出典：北海道サッカー協会
- （組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/
- 2025/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-88e2969a0cef2e7d394c67542
- 4d208c817e81ac1@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T161000
-DTEND;TZID=Asia/Tokyo:20260131T171000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 C9 函館大谷高等学校A
-  vs 北海道旭川商業高校サッカー部
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリーナ）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：函館大谷高等学校A vs 北海道旭川商業高校サッカー部\nキックオフ：16:10\n出典：北海道サッカー協会（組
- 合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/20
- 25/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-b0df6846d732f4477eb1d6cf9
- 0521e2e57d9a999@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T170000
-DTEND;TZID=Asia/Tokyo:20260131T180000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 C10 中標津高等学校サ
- ッカー部 vs 北海道帯広柏葉高等学校
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリーナ）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：中標津高等学校サッカー部 vs 北海道帯広柏葉高等学校\nキックオフ：17:00\n出典：北海道サッカー協会（組
- 合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/20
- 25/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-28db1e4ea9a56333c080e328f
- 1dd75649b13a74f@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T175000
-DTEND;TZID=Asia/Tokyo:20260131T185000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 C11 帯広大谷高等学校
-  vs 北海道室蘭栄高等学校
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリーナ）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：帯広大谷高等学校 vs 北海道室蘭栄高等学校\nキックオフ：17:50\n出典：北海道サッカー協会（組合せ・日程
- PDF） https://www.hfa-dream.or.jp/wp-content/uploads/2025/11
- /2026012302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-ee2665f62439c53cdbab72492
- ae29a43b3ec7768@my-ics
-DTSTAMP:20260203T014556Z
-DTSTART;TZID=Asia/Tokyo:20260131T184000
-DTEND;TZID=Asia/Tokyo:20260131T194000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 予選 C12 北海道岩見沢東高
- 等学校 vs 旭川明成高等学校サッカー部
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（サブアリーナ）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（予選ラウンド）\n
- 対戦：北海道岩見沢東高等学校 vs 旭川明成高等学校サッカー部\nキックオフ：18:40\n出典：北海道サッカー協会（
- 組合せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/2
- 025/11/2026012302.pdf\n備考：終了時刻は便宜上+60分
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-057d7460f503f14f30e21575b
- 25c3db178de4f55@my-ics
-DTSTAMP:20260203T014710Z
+UID:soccer_hokkaido_tohoku_hs_boys-057d7460f503f14f30e21575b25c3db178de4f55
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20260201T093000
 DTEND;TZID=Asia/Tokyo:20260201T103000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 決勝ラウンド T1（対戦枠）
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（Aピッチ）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（決勝ラウンド）\n
- 対戦：予選順位枠（当日確定）\nキックオフ：09:30\n出典：北海道サッカー協会（組合せ・日程PDF） https:
- //www.hfa-dream.or.jp/wp-content/uploads/2025/11/2026012302
- .pdf\n備考：終了時刻は便宜上+60分
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（決勝ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（Aピッチ
+ ）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（決勝ラウンド）\n対戦：予選順位枠（当日確定
+ ）\nキックオフ：09:30\n出典：北海道サッカー協会（組合
+ せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/2025/11/2
+ 026012302.pdf\n備考：終了時刻は便宜上+60分
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-bfdd35e0a1261f5bdb7b0619e
- d8fd19de8c3c974@my-ics
-DTSTAMP:20260203T014710Z
+UID:soccer_hokkaido_tohoku_hs_boys-bfdd35e0a1261f5bdb7b0619ed8fd19de8c3c974
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20260201T105000
 DTEND;TZID=Asia/Tokyo:20260201T115000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 決勝ラウンド T3（対戦枠）
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（Aピッチ）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（決勝ラウンド）\n
- 対戦：予選順位枠（当日確定）\nキックオフ：10:50\n出典：北海道サッカー協会（組合せ・日程PDF） https:
- //www.hfa-dream.or.jp/wp-content/uploads/2025/11/2026012302
- .pdf\n備考：終了時刻は便宜上+60分
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（決勝ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（Aピッチ
+ ）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（決勝ラウンド）\n対戦：予選順位枠（当日確定
+ ）\nキックオフ：10:50\n出典：北海道サッカー協会（組合
+ せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/2025/11/2
+ 026012302.pdf\n備考：終了時刻は便宜上+60分
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-3cc44440f843be3a28594c0b7
- f0414d28c27862a@my-ics
-DTSTAMP:20260203T014710Z
+UID:soccer_hokkaido_tohoku_hs_boys-3cc44440f843be3a28594c0b7f0414d28c27862a
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20260201T124000
 DTEND;TZID=Asia/Tokyo:20260201T134000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 決勝ラウンド T5（対戦枠）
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（Aピッチ）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（決勝ラウンド）\n
- 対戦：予選順位枠（当日確定）\nキックオフ：12:40\n出典：北海道サッカー協会（組合せ・日程PDF） https:
- //www.hfa-dream.or.jp/wp-content/uploads/2025/11/2026012302
- .pdf\n備考：終了時刻は便宜上+60分
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（決勝ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（Aピッチ
+ ）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（決勝ラウンド）\n対戦：予選順位枠（当日確定
+ ）\nキックオフ：12:40\n出典：北海道サッカー協会（組合
+ せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/2025/11/2
+ 026012302.pdf\n備考：終了時刻は便宜上+60分
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-641401b719508f52e026bae73
- 884d0faee1013ed@my-ics
-DTSTAMP:20260203T014710Z
+UID:soccer_hokkaido_tohoku_hs_boys-641401b719508f52e026bae73884d0faee1013ed
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20260201T143000
 DTEND;TZID=Asia/Tokyo:20260201T153000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 決勝ラウンド T7（対戦枠）
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（Aピッチ）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（決勝ラウンド）\n
- 対戦：予選順位枠（当日確定）\nキックオフ：14:30\n出典：北海道サッカー協会（組合せ・日程PDF） https:
- //www.hfa-dream.or.jp/wp-content/uploads/2025/11/2026012302
- .pdf\n備考：終了時刻は便宜上+60分
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（決勝ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（Aピッチ
+ ）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（決勝ラウンド）\n対戦：予選順位枠（当日確定
+ ）\nキックオフ：14:30\n出典：北海道サッカー協会（組合
+ せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/2025/11/2
+ 026012302.pdf\n備考：終了時刻は便宜上+60分
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-463d31b23585f24e1a9a3d50c
- 9a29d7215751d1e@my-ics
-DTSTAMP:20260203T014710Z
+UID:soccer_hokkaido_tohoku_hs_boys-463d31b23585f24e1a9a3d50c9a29d7215751d1e
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20260201T093000
 DTEND;TZID=Asia/Tokyo:20260201T103000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 決勝ラウンド T2（対戦枠）
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（Bピッチ）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（決勝ラウンド）\n
- 対戦：予選順位枠（当日確定）\nキックオフ：09:30\n出典：北海道サッカー協会（組合せ・日程PDF） https:
- //www.hfa-dream.or.jp/wp-content/uploads/2025/11/2026012302
- .pdf\n備考：終了時刻は便宜上+60分
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（決勝ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（Bピッチ
+ ）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（決勝ラウンド）\n対戦：予選順位枠（当日確定
+ ）\nキックオフ：09:30\n出典：北海道サッカー協会（組合
+ せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/2025/11/2
+ 026012302.pdf\n備考：終了時刻は便宜上+60分
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-0c92ed73169e22751b9bb7b0a
- 4e7db46622e72dc@my-ics
-DTSTAMP:20260203T014710Z
+UID:soccer_hokkaido_tohoku_hs_boys-0c92ed73169e22751b9bb7b0a4e7db46622e72dc
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20260201T105000
 DTEND;TZID=Asia/Tokyo:20260201T115000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 決勝ラウンド T4（対戦枠）
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（Bピッチ）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（決勝ラウンド）\n
- 対戦：予選順位枠（当日確定）\nキックオフ：10:50\n出典：北海道サッカー協会（組合せ・日程PDF） https:
- //www.hfa-dream.or.jp/wp-content/uploads/2025/11/2026012302
- .pdf\n備考：終了時刻は便宜上+60分
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（決勝ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（Bピッチ
+ ）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（決勝ラウンド）\n対戦：予選順位枠（当日確定
+ ）\nキックオフ：10:50\n出典：北海道サッカー協会（組合
+ せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/2025/11/2
+ 026012302.pdf\n備考：終了時刻は便宜上+60分
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_boys-6488cbb20d21a8c322dd79e59
- 395d26fc0008e2b@my-ics
-DTSTAMP:20260203T014710Z
+UID:soccer_hokkaido_tohoku_hs_boys-6488cbb20d21a8c322dd79e59395d26fc0008e2b
+ @my-ics
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20260201T124000
 DTEND;TZID=Asia/Tokyo:20260201T134000
-SUMMARY:【北海道東北-男子高校】JFA全日本U-18フットサル 北海道代表決定戦 決勝ラウンド T6（対戦枠）
-LOCATION:よつ葉アリーナ十勝（北海道帯広市）（Bピッチ）
-DESCRIPTION:大会：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表決定戦（決勝ラウンド）\n
- 対戦：予選順位枠（当日確定）\nキックオフ：12:40\n出典：北海道サッカー協会（組合せ・日程PDF） https:
- //www.hfa-dream.or.jp/wp-content/uploads/2025/11/2026012302
- .pdf\n備考：終了時刻は便宜上+60分
+SUMMARY:よつ葉アリーナ十勝（北海道／JFA 第13回 全日本U-1
+ 8フットサル選手権大会 北海道代表決定戦（決勝ラウン
+ ド）
+LOCATION:よつ葉アリーナ十勝（北海道帯広市）（Bピッチ
+ ）
+DESCRIPTION:都道府県：よつ葉アリーナ十勝（北海道\n大会
+ ：JFA 第13回 全日本U-18フットサル選手権大会 北海道代表
+ 決定戦（決勝ラウンド）\n対戦：予選順位枠（当日確定
+ ）\nキックオフ：12:40\n出典：北海道サッカー協会（組合
+ せ・日程PDF） https://www.hfa-dream.or.jp/wp-content/uploads/2025/11/2
+ 026012302.pdf\n備考：終了時刻は便宜上+60分
 END:VEVENT
 END:VCALENDAR

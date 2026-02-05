@@ -8,47 +8,62 @@ X-WR-CALDESC:【東海北陸】男子大学サッカー
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m17@sora
-DTSTAMP:20260204T225145Z
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251214T110000
 DTEND;TZID=Asia/Tokyo:20251214T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[17] 東洋大学 vs 九州産業大学
+SUMMARY:全日本大学サッカー選手権（インカレ）[17] 東洋
+ 大学 vs 九州産業大学
 LOCATION:草薙総合運動場 陸上競技場
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
+ 確認：SUMMARY未統一（都道府県/大会名の明記なし）
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m22@sora
-DTSTAMP:20260204T225145Z
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251214T110000
 DTEND;TZID=Asia/Tokyo:20251214T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[22] 明治大学 vs 東海学園大学
+SUMMARY:全日本大学サッカー選手権（インカレ）[22] 明治
+ 大学 vs 東海学園大学
 LOCATION:草薙総合運動場 陸上競技場
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
+ 確認：SUMMARY未統一（都道府県/大会名の明記なし）
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m26@sora
-DTSTAMP:20260204T225145Z
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251214T140000
 DTEND;TZID=Asia/Tokyo:20251214T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[26] 東洋大学 vs 九州産業大学
+SUMMARY:全日本大学サッカー選手権（インカレ）[26] 東洋
+ 大学 vs 九州産業大学
 LOCATION:草薙総合運動場 陸上競技場
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
+ 確認：SUMMARY未統一（都道府県/大会名の明記なし）
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m42@sora
-DTSTAMP:20260204T225145Z
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251217T110000
 DTEND;TZID=Asia/Tokyo:20251217T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[42] 九州産業大学 vs 東海学園大学
+SUMMARY:全日本大学サッカー選手権（インカレ）[42] 九州
+ 産業大学 vs 東海学園大学
 LOCATION:草薙総合運動場 陸上競技場
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
+ 確認：SUMMARY未統一（都道府県/大会名の明記なし）
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m46@sora
-DTSTAMP:20260204T225145Z
+DTSTAMP:20260205T050342Z
+SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251217T140000
 DTEND;TZID=Asia/Tokyo:20251217T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[46] 東洋大学 vs 明治大学
+SUMMARY:全日本大学サッカー選手権（インカレ）[46] 東洋
+ 大学 vs 明治大学
 LOCATION:草薙総合運動場 陸上競技場
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n要
+ 確認：SUMMARY未統一（都道府県/大会名の明記なし）
 END:VEVENT
 END:VCALENDAR
