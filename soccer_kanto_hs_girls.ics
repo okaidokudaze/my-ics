@@ -615,7 +615,6 @@ DTEND;VALUE=DATE:20260118
 LOCATION:会場不明（東京都）
 DESCRIPTION:出典: 東京高校女子サッカー（新人戦 試合情報）\n結果: 文京学院女子 0-2 杉並総合
 END:VEVENT
-
 BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-0e957a39b3d29464@my-ics
 DTSTAMP:20260203T030000Z
@@ -626,7 +625,6 @@ DTEND;VALUE=DATE:20260118
 LOCATION:会場不明（東京都）
 DESCRIPTION:出典: 東京高校女子サッカー（新人戦 試合情報）\n結果: 東大和 4-0 清瀬
 END:VEVENT
-
 BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-b6bc8273f9951f7a@my-ics
 DTSTAMP:20260203T030000Z
@@ -637,7 +635,6 @@ DTEND;VALUE=DATE:20260118
 LOCATION:会場不明（東京都）
 DESCRIPTION:出典: 東京高校女子サッカー（新人戦 試合情報）\n結果: 日体大桜華 0-10 飛鳥
 END:VEVENT
-
 BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-4dbebae97af42943@my-ics
 DTSTAMP:20260203T030000Z
@@ -648,7 +645,6 @@ DTEND;VALUE=DATE:20260119
 LOCATION:会場不明（東京都）
 DESCRIPTION:出典: 東京高校女子サッカー（新人戦 試合情報）\n結果: 晴海総合 2-1 東久留米総合
 END:VEVENT
-
 BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-fe50ec0d684d4224@my-ics
 DTSTAMP:20260203T030000Z
@@ -659,7 +655,6 @@ DTEND;VALUE=DATE:20260125
 LOCATION:会場不明（東京都）
 DESCRIPTION:出典: 東京高校女子サッカー（新人戦 試合情報）\n結果: 十文字 4-0 杉並総合
 END:VEVENT
-
 BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-24de20023b43a3a2@my-ics
 DTSTAMP:20260203T030000Z
@@ -670,7 +665,6 @@ DTEND;VALUE=DATE:20260125
 LOCATION:会場不明（東京都）
 DESCRIPTION:出典: 東京高校女子サッカー（新人戦 試合情報）\n結果: 東大和 6-0 帝京
 END:VEVENT
-
 BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-ffb51caf61f1ad58@my-ics
 DTSTAMP:20260203T030000Z
@@ -681,7 +675,6 @@ DTEND;VALUE=DATE:20260125
 LOCATION:会場不明（東京都）
 DESCRIPTION:出典: 東京高校女子サッカー（新人戦 試合情報）\n結果: 合同D 0-6 飛鳥
 END:VEVENT
-
 BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-f5976bfdb1dc918b@my-ics
 DTSTAMP:20260203T030000Z
