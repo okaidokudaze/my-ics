@@ -12,13 +12,11 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251214T110000
 DTEND;TZID=Asia/Tokyo:20251214T130000
-SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
- カレ）[17] 東洋大学
+SUMMARY:静岡県／全日本大学サッカー選手権（インカレ）[17] 東洋大学
 LOCATION:草薙総合運動場 陸上競技場
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n都道府県：静岡県
 要確認：SUMMARY未統一（都道府県/大会名の明記なし）
-要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
- 足している可能性あり
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m22@sora
@@ -26,13 +24,11 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251214T110000
 DTEND;TZID=Asia/Tokyo:20251214T130000
-SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
- カレ）[22] 明治大学
+SUMMARY:静岡県／全日本大学サッカー選手権（インカレ）[22] 明治大学
 LOCATION:草薙総合運動場 陸上競技場
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n都道府県：静岡県
 要確認：SUMMARY未統一（都道府県/大会名の明記なし）
-要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
- 足している可能性あり
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m26@sora
@@ -40,13 +36,11 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251214T140000
 DTEND;TZID=Asia/Tokyo:20251214T160000
-SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
- カレ）[26] 東洋大学
+SUMMARY:静岡県／全日本大学サッカー選手権（インカレ）[26] 東洋大学
 LOCATION:草薙総合運動場 陸上競技場
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n都道府県：静岡県
 要確認：SUMMARY未統一（都道府県/大会名の明記なし）
-要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
- 足している可能性あり
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m42@sora
@@ -54,13 +48,11 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251217T110000
 DTEND;TZID=Asia/Tokyo:20251217T130000
-SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
- カレ）[42] 九州産業大学
+SUMMARY:静岡県／全日本大学サッカー選手権（インカレ）[42] 九州産業大学
 LOCATION:草薙総合運動場 陸上競技場
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n都道府県：静岡県
 要確認：SUMMARY未統一（都道府県/大会名の明記なし）
-要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
- 足している可能性あり
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不足している可能性あり
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m46@sora
@@ -68,12 +60,10 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 DTSTART;TZID=Asia/Tokyo:20251217T140000
 DTEND;TZID=Asia/Tokyo:20251217T160000
-SUMMARY:都道府県不明／全日本大学サッカー選手権（イン
- カレ）[46] 東洋大学
+SUMMARY:静岡県／全日本大学サッカー選手権（インカレ）[46] 東洋大学
 LOCATION:草薙総合運動場 陸上競技場
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n都道府県：静岡県
 要確認：SUMMARY未統一（都道府県/大会名の明記なし）
-要確認：SUMMARYは都道府県名/大会名にしたが、情報が不
- 足している可能性あり
+要確認：SUMMARYは都道府県名/大会名にしたが、情報が不足している可能性あり
 END:VEVENT
 END:VCALENDAR

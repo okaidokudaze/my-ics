@@ -12,10 +12,9 @@ DTSTART;TZID=Asia/Tokyo:20260111T100000
 DTEND;TZID=Asia/Tokyo:20260111T120000
 SUMMARY:静岡県／静岡新人 決勝T① NO.15 上位1位
 LOCATION:浜北平口スポーツ広場（浜松市）
-DESCRIPTION:出典：静岡県サッカー協会（令和７年度 静岡
- 県高等学校新人大会女子サッカー競技 日程PDF） https://w
- ww.shizuoka-fa.com/app/uploads/2026/01/23ef91a90a493b34719782169e683c3b.pd
- f\n要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：静岡県サッカー協会（令和７年度 静岡県高等学校新人大会女子サッカー競技 日程PDF） https://www.shi
+ zuoka-fa.com/app/uploads/2026/01/23ef91a90a493b34719782169e683c3b.pdf\n要
+ 確認：SUMMARY未統一（都道府県/大会名の明記なし）
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_tokai_hokuriku_hs_girls-8920b0a6884be62c@my-ics
@@ -25,10 +24,9 @@ DTSTART;TZID=Asia/Tokyo:20260111T120000
 DTEND;TZID=Asia/Tokyo:20260111T140000
 SUMMARY:静岡県／静岡新人 決勝T① NO.16 上位2位
 LOCATION:浜北平口スポーツ広場（浜松市）
-DESCRIPTION:出典：静岡県サッカー協会（令和７年度 静岡
- 県高等学校新人大会女子サッカー競技 日程PDF） https://w
- ww.shizuoka-fa.com/app/uploads/2026/01/23ef91a90a493b34719782169e683c3b.pd
- f\n要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：静岡県サッカー協会（令和７年度 静岡県高等学校新人大会女子サッカー競技 日程PDF） https://www.shi
+ zuoka-fa.com/app/uploads/2026/01/23ef91a90a493b34719782169e683c3b.pdf\n要
+ 確認：SUMMARY未統一（都道府県/大会名の明記なし）
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_tokai_hokuriku_hs_girls-0d820c2968a52d2e@my-ics
@@ -38,10 +36,9 @@ DTSTART;TZID=Asia/Tokyo:20260117T103000
 DTEND;TZID=Asia/Tokyo:20260117T123000
 SUMMARY:静岡県／静岡新人 決勝T② NO.13 上位4位
 LOCATION:藤枝市民グラウンド サッカー場（藤枝市）
-DESCRIPTION:出典：静岡県サッカー協会（令和７年度 静岡
- 県高等学校新人大会女子サッカー競技 日程PDF） https://w
- ww.shizuoka-fa.com/app/uploads/2026/01/23ef91a90a493b34719782169e683c3b.pd
- f\n要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：静岡県サッカー協会（令和７年度 静岡県高等学校新人大会女子サッカー競技 日程PDF） https://www.shi
+ zuoka-fa.com/app/uploads/2026/01/23ef91a90a493b34719782169e683c3b.pdf\n要
+ 確認：SUMMARY未統一（都道府県/大会名の明記なし）
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_tokai_hokuriku_hs_girls-d7d3505adc7c4840@my-ics
@@ -51,10 +48,9 @@ DTSTART;TZID=Asia/Tokyo:20260117T123000
 DTEND;TZID=Asia/Tokyo:20260117T143000
 SUMMARY:静岡県／静岡新人 決勝T② NO.14 上位3位
 LOCATION:藤枝市民グラウンド サッカー場（藤枝市）
-DESCRIPTION:出典：静岡県サッカー協会（令和７年度 静岡
- 県高等学校新人大会女子サッカー競技 日程PDF） https://w
- ww.shizuoka-fa.com/app/uploads/2026/01/23ef91a90a493b34719782169e683c3b.pd
- f\n要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：静岡県サッカー協会（令和７年度 静岡県高等学校新人大会女子サッカー競技 日程PDF） https://www.shi
+ zuoka-fa.com/app/uploads/2026/01/23ef91a90a493b34719782169e683c3b.pdf\n要
+ 確認：SUMMARY未統一（都道府県/大会名の明記なし）
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_tokai_hokuriku_hs_girls-f8fca88cb4f72d81@my-ics
@@ -64,9 +60,8 @@ DTSTART;TZID=Asia/Tokyo:20260131T103000
 DTEND;TZID=Asia/Tokyo:20260131T123000
 SUMMARY:静岡県／静岡新人 決勝 NO.19 NO.17勝者
 LOCATION:藤枝総合運動公園 陸上競技場（藤枝市）
-DESCRIPTION:出典：静岡県サッカー協会（令和７年度 静岡
- 県高等学校新人大会女子サッカー競技 日程PDF） https://w
- ww.shizuoka-fa.com/app/uploads/2026/01/23ef91a90a493b34719782169e683c3b.pd
- f\n要確認：SUMMARY未統一（都道府県/大会名の明記なし）
+DESCRIPTION:出典：静岡県サッカー協会（令和７年度 静岡県高等学校新人大会女子サッカー競技 日程PDF） https://www.shi
+ zuoka-fa.com/app/uploads/2026/01/23ef91a90a493b34719782169e683c3b.pdf\n要
+ 確認：SUMMARY未統一（都道府県/大会名の明記なし）
 END:VEVENT
 END:VCALENDAR
