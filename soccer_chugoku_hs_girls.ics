@@ -15,16 +15,6 @@ DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（鳥取県高校新�
  shinjin-soccer/
 END:VEVENT
 BEGIN:VEVENT
-UID:3047c2ac-cdad-50be-807f-4265b4286181@my-ics
-DTSTAMP:20260203T083626Z
-DTSTART;VALUE=DATE:20251213
-DTEND;VALUE=DATE:20251214
-SUMMARY:鳥取県／鳥取県高校新人女子
-LOCATION:会場不明（鳥取県）
-DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（鳥取県高校新人女子）\nhttps://www.sposoku.com/tottori-
- shinjin-soccer/
-END:VEVENT
-BEGIN:VEVENT
 UID:a6227b67-a54d-548a-af04-dd1baf9f0500@my-ics
 DTSTAMP:20260203T083626Z
 DTSTART;VALUE=DATE:20260125
@@ -95,16 +85,6 @@ DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（広島県高校新�
  a-shinjin-soccer/
 END:VEVENT
 BEGIN:VEVENT
-UID:afeb84fa-15c6-5204-b9af-a06b8c75e78d@my-ics
-DTSTAMP:20260203T083626Z
-DTSTART;VALUE=DATE:20260124
-DTEND;VALUE=DATE:20260125
-SUMMARY:広島県／広島県高校新人女子
-LOCATION:会場不明（広島県）
-DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（広島県高校新人女子）\nhttps://www.sposoku.com/hiroshim
- a-shinjin-soccer/
-END:VEVENT
-BEGIN:VEVENT
 UID:9ca4b22a-22cd-586c-a549-9fe01b25637b@my-ics
 DTSTAMP:20260203T083626Z
 DTSTART;VALUE=DATE:20260131
@@ -125,16 +105,6 @@ DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（広島県高校新�
  a-shinjin-soccer/
 END:VEVENT
 BEGIN:VEVENT
-UID:00ce2daf-4e90-5290-86f7-b6fca71f124b@my-ics
-DTSTAMP:20260203T083626Z
-DTSTART;VALUE=DATE:20260207
-DTEND;VALUE=DATE:20260208
-SUMMARY:広島県／広島県高校新人女子
-LOCATION:会場不明（広島県）
-DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（広島県高校新人女子）\nhttps://www.sposoku.com/hiroshim
- a-shinjin-soccer/
-END:VEVENT
-BEGIN:VEVENT
 UID:ee7f926e-b5b2-5618-8f21-fac31e370f9f@my-ics
 DTSTAMP:20260203T083626Z
 DTSTART;VALUE=DATE:20260214
@@ -144,15 +114,4 @@ LOCATION:会場不明（広島県）
 DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（広島県高校新人女子）\nhttps://www.sposoku.com/hiroshim
  a-shinjin-soccer/
 END:VEVENT
-BEGIN:VEVENT
-UID:1dba492e-a245-5482-841c-4dafe5714f06@my-ics
-DTSTAMP:20260203T083626Z
-DTSTART;VALUE=DATE:20260214
-DTEND;VALUE=DATE:20260215
-SUMMARY:広島県／広島県高校新人女子
-LOCATION:会場不明（広島県）
-DESCRIPTION:KO時刻不明（終日）\n出典：スポ速（広島県高校新人女子）\nhttps://www.sposoku.com/hiroshim
- a-shinjin-soccer/
-END:VEVENT
 END:VCALENDAR
-

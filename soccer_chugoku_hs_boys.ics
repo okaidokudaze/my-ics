@@ -156,16 +156,6 @@ DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人
  ews.com/post-1847912\n※雪の影響で準々決勝日程が変更（記事参照）。（スコア未反映）\n回戦等：決勝
 END:VEVENT
 BEGIN:VEVENT
-UID:b67e1eff83065bcb87ca0257fd2aa1da5fbc60ed@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260201
-DTEND;VALUE=DATE:20260202
-SUMMARY:鳥取県／鳥取新人戦
-LOCATION:会場不明（鳥取県）
-DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
- ews.com/post-1847912\n※雪の影響で準々決勝日程が変更（記事参照）。（スコア未反映）\n回戦等：決勝
-END:VEVENT
-BEGIN:VEVENT
 UID:17d478bdb8e754121845368a8edb0ddd29624e25@my-ics
 DTSTAMP:20260203T075429Z
 DTSTART;VALUE=DATE:20260116
@@ -291,4 +281,3 @@ DESCRIPTION:出典：要項（公式）\n参照：https://hiroshima-koutairen.jp
  ule/entry-19028.html\n※組合せ（対戦カード）未取得のため、後で1試合=1イベントに差し替え予定。
 END:VEVENT
 END:VCALENDAR
-

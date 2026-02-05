@@ -460,15 +460,6 @@ LOCATION:会場不明（香川県）
 DESCRIPTION:スコア：-\n出典：https://koko-soccer.com/score/4256
 END:VEVENT
 BEGIN:VEVENT
-UID:a4a2111a1158e204c89d6e5a4e6b77bb@my-ics
-DTSTAMP:20260203T065628Z
-DTSTART;TZID=Asia/Tokyo:20260207T110000
-DTEND;TZID=Asia/Tokyo:20260207T130000
-SUMMARY:香川県／香川新人戦（新人選手権大会）
-LOCATION:会場不明（香川県）
-DESCRIPTION:スコア：-\n出典：https://koko-soccer.com/score/4256
-END:VEVENT
-BEGIN:VEVENT
 UID:edcb76ed097bf29f2eeae4c49684a323@my-ics
 DTSTAMP:20260205T085236Z
 SEQUENCE:0
@@ -1272,6 +1263,4 @@ LOCATION:会場不明（香川県）
 DESCRIPTION:種別：高校男子\n対戦：大手前高松 vs 藤井学園寒川\n回戦：決勝\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：11:00（KO）\n会場：会場不明（香川県）\n結果：未確定\n出典：https://koko-soccer.com/score/4256
 
 END:VEVENT
-
 END:VCALENDAR
-
