@@ -683,5 +683,293 @@ LOCATION:会場不明（高知県）
 DESCRIPTION:種別：高校男子\n回戦：3回戦（ブロック決勝）\n対戦：明徳義塾 vs 高知商\n都道府県：高知県\n時刻：14:00（KO）\n会場：未確定\n結果：4-2\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4286\n出典：高知県サッカー協会（大会ページ／組合せ表） https://www.kochi-fa.com/class02/class02sch/entry-160.html
 SEQUENCE:0
 END:VEVENT
+BEGIN:VEVENT
+UID:72876817-8cd9-5641-97be-7fd3f42a384f@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260110T103000
+DTEND;TZID=Asia/Tokyo:20260110T123000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：高松西 vs 丸亀\n回戦：1回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：10:30（KO）\n会場：会場不明（香川県）\n結果：0 - 6\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:198f1a2c-68eb-54d0-97be-893e577c3962@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260110T103000
+DTEND;TZID=Asia/Tokyo:20260110T123000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：小豆島中央 vs 善通寺一\n回戦：1回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：10:30（KO）\n会場：会場不明（香川県）\n結果：6 - 0\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:40367732-8d75-5917-af7d-3d4f30ba29af@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260110T130000
+DTEND;TZID=Asia/Tokyo:20260110T150000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：志度 vs 高松東\n回戦：1回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：13:00（KO）\n会場：会場不明（香川県）\n結果：0 - 3\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:ad272ab8-504b-580f-ac86-807db5a673d3@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260110T130000
+DTEND;TZID=Asia/Tokyo:20260110T150000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：香川高等専門学校高松キャンパス vs 香川中央\n回戦：1回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：13:00（KO）\n会場：会場不明（香川県）\n結果：0 - 2\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:14f9c982-4219-5276-a943-5936bbbfe0d4@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260110T103000
+DTEND;TZID=Asia/Tokyo:20260110T123000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：多度津 vs 高松北\n回戦：2回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：10:30（KO）\n会場：会場不明（香川県）\n結果：0 - 2\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:e97f5cb1-f812-574a-8c8b-c03dfb14fa49@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260110T103000
+DTEND;TZID=Asia/Tokyo:20260110T123000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：香川高等専門学校詫間キャンパス vs 高松工芸\n回戦：2回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：10:30（KO）\n会場：会場不明（香川県）\n結果：1 - 4\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:df80ce24-072b-50f3-8a98-7fc52744ac6f@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260110T130000
+DTEND;TZID=Asia/Tokyo:20260110T150000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：大手前高松中学・高等学校 vs 丸亀城西\n回戦：2回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：13:00（KO）\n会場：会場不明（香川県）\n結果：8 - 0\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:51fcccd3-0911-5b9c-8084-4d693c5f153b@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260110T130000
+DTEND;TZID=Asia/Tokyo:20260110T150000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：高松中央 vs 英明\n回戦：2回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：13:00（KO）\n会場：会場不明（香川県）\n結果：3 - 0\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:86213afd-9667-5e74-bfbb-305e8d52cc96@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260111T103000
+DTEND;TZID=Asia/Tokyo:20260111T123000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：丸亀 vs 琴平・高瀬高等学校\n回戦：2回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：10:30（KO）\n会場：会場不明（香川県）\n結果：7 - 1\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:1d3c3a9d-45da-5092-8897-c42e51d649ea@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260111T103000
+DTEND;TZID=Asia/Tokyo:20260111T123000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：坂出一 vs 観音寺総合\n回戦：2回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：10:30（KO）\n会場：会場不明（香川県）\n結果：0 - 4\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:2631922c-f8bc-5098-a8d5-3c1860e39298@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260111T103000
+DTEND;TZID=Asia/Tokyo:20260111T123000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：小豆島中央 vs 高松南\n回戦：2回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：10:30（KO）\n会場：会場不明（香川県）\n結果：0 - 11\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:83d51488-0eb8-5387-a2de-b0e8069e2722@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260111T103000
+DTEND;TZID=Asia/Tokyo:20260111T123000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：高松桜井 vs 観音寺一\n回戦：2回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：10:30（KO）\n会場：会場不明（香川県）\n結果：0 - 1\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:a3faa157-7c1f-53ca-bfd0-c2fca194b985@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260111T130000
+DTEND;TZID=Asia/Tokyo:20260111T150000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：藤井 vs 坂出\n回戦：2回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：13:00（KO）\n会場：会場不明（香川県）\n結果：1 - 0\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:437fd4be-1967-55b7-987e-7c6e65bc5171@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260111T130000
+DTEND;TZID=Asia/Tokyo:20260111T150000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：坂出商 vs 高松東\n回戦：2回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：13:00（KO）\n会場：会場不明（香川県）\n結果：2 - 5\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:51c83d49-92ca-55c6-9b38-0890da215af6@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260111T130000
+DTEND;TZID=Asia/Tokyo:20260111T150000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：高松 vs 高松一\n回戦：2回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：13:00（KO）\n会場：会場不明（香川県）\n結果：3 - 0\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:f6aa13bb-6300-5fce-94dc-8a993094f260@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260111T130000
+DTEND;TZID=Asia/Tokyo:20260111T150000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：三本松・三木 vs 香川中央\n回戦：2回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：13:00（KO）\n会場：会場不明（香川県）\n結果：0 - 0（PK 2-4）\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:260efc89-00d7-5117-a350-f7bb4da5b62c@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260117T103000
+DTEND;TZID=Asia/Tokyo:20260117T123000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：高松商 vs 丸亀\n回戦：3回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：10:30（KO）\n会場：会場不明（香川県）\n結果：1 - 0\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:4d17c7a3-abb0-547d-bd68-a98aad1ec984@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260117T103000
+DTEND;TZID=Asia/Tokyo:20260117T123000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：観音寺総合 vs 高松北\n回戦：3回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：10:30（KO）\n会場：会場不明（香川県）\n結果：1 - 2\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:601ce1c1-1d0a-5ea0-b14b-99749d974332@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260117T103000
+DTEND;TZID=Asia/Tokyo:20260117T123000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：尽誠学園 vs 高松南\n回戦：3回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：10:30（KO）\n会場：会場不明（香川県）\n結果：2 - 0\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:e393ea9a-a61d-5e28-8d55-518f917d3380@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260117T103000
+DTEND;TZID=Asia/Tokyo:20260117T123000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：観音寺一 vs 高松工芸\n回戦：3回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：10:30（KO）\n会場：会場不明（香川県）\n結果：1 - 4\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:75d61ca3-6f5e-51ab-bbdb-e54b08c2320e@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：大手前高松 vs 藤井\n回戦：3回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：13:00（KO）\n会場：会場不明（香川県）\n結果：2 - 0\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:9fe65b41-8a99-5f8c-9348-eb62441ed694@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：高松東 vs 四国学院大学香川西\n回戦：3回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：13:00（KO）\n会場：会場不明（香川県）\n結果：0 - 1\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:46e7475f-f3b6-5f37-bf7a-b4c33f3bfbf0@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：高松中央 vs 高松\n回戦：3回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：13:00（KO）\n会場：会場不明（香川県）\n結果：2 - 0\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:75fb3a48-4a13-5417-bdce-627ff226a839@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：香川中央 vs 藤井学園寒川\n回戦：3回戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：13:00（KO）\n会場：会場不明（香川県）\n結果：0 - 8\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:867329ae-3a23-5367-9ed7-d8e5ee67669e@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260124T103000
+DTEND;TZID=Asia/Tokyo:20260124T123000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：高松商 vs 高松北\n回戦：準々決勝\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：10:30（KO）\n会場：会場不明（香川県）\n結果：3 - 2\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:226c491b-ea60-5341-a42f-cb4297060cc9@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260124T103000
+DTEND;TZID=Asia/Tokyo:20260124T123000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：尽誠学園 vs 高松工芸\n回戦：準々決勝\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：10:30（KO）\n会場：会場不明（香川県）\n結果：1 - 2\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:cbf7aa55-b5b9-512e-aa03-366598c4c0ad@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T150000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：大手前高松 vs 四国学院大学香川西\n回戦：準々決勝\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：13:00（KO）\n会場：会場不明（香川県）\n結果：3 - 2\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:4a01d7c0-1f8f-587d-bcc4-ab9186f45d78@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T150000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：高松中央 vs 藤井学園寒川\n回戦：準々決勝\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：13:00（KO）\n会場：会場不明（香川県）\n結果：0 - 1\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:5fcda65e-d40e-5e34-b6d5-76630d8ac28d@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260131T130000
+DTEND;TZID=Asia/Tokyo:20260131T150000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：高松商 vs 大手前高松\n回戦：準決勝\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：13:00（KO）\n会場：会場不明（香川県）\n結果：2 - 3\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:acf57a49-6b8b-5065-a673-57db1f854c3b@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260131T130000
+DTEND;TZID=Asia/Tokyo:20260131T150000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：高松工芸 vs 藤井学園寒川\n回戦：準決勝\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：13:00（KO）\n会場：会場不明（香川県）\n結果：0 - 2\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:f0dc2839-e360-5ad9-920b-05c864c6d8f3@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260207T110000
+DTEND;TZID=Asia/Tokyo:20260207T130000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：高松商 vs 高松工芸\n回戦：3位決定戦\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：11:00（KO）\n会場：会場不明（香川県）\n結果：未確定\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
+BEGIN:VEVENT
+UID:84aa1acf-69af-5907-a66a-8b59620cffc5@soccer_shikoku_hs_boys
+DTSTAMP:20260205T090314Z
+DTSTART;TZID=Asia/Tokyo:20260207T110000
+DTEND;TZID=Asia/Tokyo:20260207T130000
+SUMMARY:香川県／令和7年度香川新人戦（新人選手権大会）
+LOCATION:会場不明（香川県）
+DESCRIPTION:種別：高校男子\n対戦：大手前高松 vs 藤井学園寒川\n回戦：決勝\n大会：令和7年度香川新人戦（新人選手権大会）\n都道府県：香川県\n時刻：11:00（KO）\n会場：会場不明（香川県）\n結果：未確定\n出典：https://koko-soccer.com/score/4256
+END:VEVENT
 END:VCALENDAR
 
