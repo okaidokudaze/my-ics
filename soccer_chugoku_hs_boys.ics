@@ -736,4 +736,309 @@ DESCRIPTION:種別：高校／男子\n対戦：宇部鴻城/小野田工 vs 宇�
  （大会日程・結果） https://koko-soccer.com/score/4313\n出典：山口県サッカー協会（会場・期日） https://
  yamaguchi-fa.com/archives/16230
 END:VEVENT
+BEGIN:VEVENT
+UID:1b03c387a0359a2ae125e38bcadc5e3fcfab4c90@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260116T093000
+DTEND;TZID=Asia/Tokyo:20260116T113000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：平田 vs 吉賀\n回戦：1回
+ 戦\n大会：令和7年度島根新人戦（新人選手権大会）\n都
+ 道府県：島根県\n時刻：09:30\n会場：会場不明（島根県
+ ）\n結果：2-0\n出典：https://koko-soccer.com/score/4276
+END:VEVENT
+BEGIN:VEVENT
+UID:30e89fa3a184eddc4f77ba8f8b0900047ece0ca0@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260116T093000
+DTEND;TZID=Asia/Tokyo:20260116T113000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：出雲西 vs 三刀屋\n回戦
+ ：1回戦\n大会：令和7年度島根新人戦（新人選手権大会
+ ）\n都道府県：島根県\n時刻：09:30\n会場：会場不明（島
+ 根県）\n結果：1-9\n出典：https://koko-soccer.com/score/4276
+END:VEVENT
+BEGIN:VEVENT
+UID:fe97e70acee8e4cfffa3817cc8a256bba9a4ffda@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260116T093000
+DTEND;TZID=Asia/Tokyo:20260116T113000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：浜商・浜田・出農・出
+ 商 vs 松江工\n回戦：1回戦\n大会：令和7年度島根新人戦
+ （新人選手権大会）\n都道府県：島根県\n時刻：09:30\n会
+ 場：会場不明（島根県）\n結果：1-2\n出典：https://koko-soc
+ cer.com/score/4276
+END:VEVENT
+BEGIN:VEVENT
+UID:ad791fe0f12c82d7b715085f4fd08e16726895d4@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260116T120000
+DTEND;TZID=Asia/Tokyo:20260116T140000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：出雲 vs 松江南\n回戦：1
+ 回戦\n大会：令和7年度島根新人戦（新人選手権大会）\n
+ 都道府県：島根県\n時刻：12:00\n会場：会場不明（島根
+ 県）\n結果：3-2\n出典：https://koko-soccer.com/score/4276
+END:VEVENT
+BEGIN:VEVENT
+UID:89a2262d561d8eaf4f940c5b1e21b23ec4aed3c6@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260116T120000
+DTEND;TZID=Asia/Tokyo:20260116T140000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：松江北 vs 松江高専\n回
+ 戦：1回戦\n大会：令和7年度島根新人戦（新人選手権大
+ 会）\n都道府県：島根県\n時刻：12:00\n会場：会場不明（
+ 島根県）\n結果：2-1\n出典：https://koko-soccer.com/score/4276
+END:VEVENT
+BEGIN:VEVENT
+UID:c4a2eec6ff0b16503a313d4dc86788522b25d89d@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260116T123000
+DTEND;TZID=Asia/Tokyo:20260116T143000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：出雲北陵 vs 松江農林\n
+ 回戦：1回戦\n大会：令和7年度島根新人戦（新人選手権
+ 大会）\n都道府県：島根県\n時刻：12:30\n会場：会場不明
+ （島根県）\n結果：1-0\n出典：https://koko-soccer.com/score/4276
+END:VEVENT
+BEGIN:VEVENT
+UID:f423dd088654ab7e57ea6fe20c4a88d47483e55e@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260116T143000
+DTEND;TZID=Asia/Tokyo:20260116T163000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：大田 vs 石見智翠館\n回
+ 戦：1回戦\n大会：令和7年度島根新人戦（新人選手権大
+ 会）\n都道府県：島根県\n時刻：14:30\n会場：会場不明（
+ 島根県）\n結果：2-0\n出典：https://koko-soccer.com/score/4276
+END:VEVENT
+BEGIN:VEVENT
+UID:2d089a61701265365f13ca03680be142b9fa9258@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260116T143000
+DTEND;TZID=Asia/Tokyo:20260116T163000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：益田翔陽 vs 松江東\n回
+ 戦：1回戦\n大会：令和7年度島根新人戦（新人選手権大
+ 会）\n都道府県：島根県\n時刻：14:30\n会場：会場不明（
+ 島根県）\n結果：0-3\n出典：https://koko-soccer.com/score/4276
+END:VEVENT
+BEGIN:VEVENT
+UID:a171ced07b5af15fc74f5bddcecce07e2b2a99cd@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260117T093000
+DTEND;TZID=Asia/Tokyo:20260117T113000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：大社 vs 平田\n回戦：2回
+ 戦\n大会：令和7年度島根新人戦（新人選手権大会）\n都
+ 道府県：島根県\n時刻：09:30\n会場：会場不明（島根県
+ ）\n結果：5-1\n出典：https://koko-soccer.com/score/4276
+END:VEVENT
+BEGIN:VEVENT
+UID:11e4c59a302d01daa9178c0dca703c42f0a2bed7@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260117T093000
+DTEND;TZID=Asia/Tokyo:20260117T113000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：開星 vs 三刀屋\n回戦：2
+ 回戦\n大会：令和7年度島根新人戦（新人選手権大会）\n
+ 都道府県：島根県\n時刻：09:30\n会場：会場不明（島根
+ 県）\n結果：6-0\n出典：https://koko-soccer.com/score/4276
+END:VEVENT
+BEGIN:VEVENT
+UID:e42303de3d06829d67aa22eb84367a7a06d145d3@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260117T093000
+DTEND;TZID=Asia/Tokyo:20260117T113000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：松江工 vs 明誠\n回戦：2
+ 回戦\n大会：令和7年度島根新人戦（新人選手権大会）\n
+ 都道府県：島根県\n時刻：09:30\n会場：会場不明（島根
+ 県）\n結果：3-2\n出典：https://koko-soccer.com/score/4276
+END:VEVENT
+BEGIN:VEVENT
+UID:9f35ebd60219fe1f15578e8415ff3ede52a2620d@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：益田 vs 出雲\n回戦：2回
+ 戦\n大会：令和7年度島根新人戦（新人選手権大会）\n都
+ 道府県：島根県\n時刻：12:00\n会場：会場不明（島根県
+ ）\n結果：0-1\n出典：https://koko-soccer.com/score/4276
+END:VEVENT
+BEGIN:VEVENT
+UID:dce70d9b0de5f5eee302157506fd50368f6f657e@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：松江北 vs 立正大淞南\n
+ 回戦：2回戦\n大会：令和7年度島根新人戦（新人選手権
+ 大会）\n都道府県：島根県\n時刻：12:00\n会場：会場不明
+ （島根県）\n結果：0-4\n出典：https://koko-soccer.com/score/4276
+END:VEVENT
+BEGIN:VEVENT
+UID:7779c2150b24837e5f4ef2e77d79bef1c2335b1e@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260117T123000
+DTEND;TZID=Asia/Tokyo:20260117T143000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：出雲北陵 vs 出雲工\n回
+ 戦：2回戦\n大会：令和7年度島根新人戦（新人選手権大
+ 会）\n都道府県：島根県\n時刻：12:30\n会場：会場不明（
+ 島根県）\n結果：0-0 PK4-6\n出典：https://koko-soccer.com/score/4
+ 276
+END:VEVENT
+BEGIN:VEVENT
+UID:c179e89717ccf938c3abc863e2b4f51c6ae24397@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260117T143000
+DTEND;TZID=Asia/Tokyo:20260117T163000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：大田 vs 益田東\n回戦：2
+ 回戦\n大会：令和7年度島根新人戦（新人選手権大会）\n
+ 都道府県：島根県\n時刻：14:30\n会場：会場不明（島根
+ 県）\n結果：0-3\n出典：https://koko-soccer.com/score/4276
+END:VEVENT
+BEGIN:VEVENT
+UID:731e3aafe396dca855ab6937d6ac3a972d06a93e@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260117T143000
+DTEND;TZID=Asia/Tokyo:20260117T163000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：松江商 vs 松江東\n回戦
+ ：2回戦\n大会：令和7年度島根新人戦（新人選手権大会
+ ）\n都道府県：島根県\n時刻：14:30\n会場：会場不明（島
+ 根県）\n結果：2-0\n出典：https://koko-soccer.com/score/4276
+END:VEVENT
+BEGIN:VEVENT
+UID:e0b7f196e272cbc00e3b213f20ab804a8f9562f7@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：大社 vs 益田東\n回戦：
+ 準々決勝\n大会：令和7年度島根新人戦（新人選手権大
+ 会）\n都道府県：島根県\n時刻：10:00\n会場：会場不明（
+ 島根県）\n結果：0-2\n出典：https://koko-soccer.com/score/4276
+END:VEVENT
+BEGIN:VEVENT
+UID:7591dccf0c5e11549812ba865c68f33c2a71bf95@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：出雲 vs 出雲工\n回戦：
+ 準々決勝\n大会：令和7年度島根新人戦（新人選手権大
+ 会）\n都道府県：島根県\n時刻：10:00\n会場：会場不明（
+ 島根県）\n結果：1-2\n出典：https://koko-soccer.com/score/4276
+END:VEVENT
+BEGIN:VEVENT
+UID:2539509320b40a0f4ef9b1cacdba7cbb9e98bdcc@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T123000
+DTEND;TZID=Asia/Tokyo:20260131T143000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：開星 vs 立正大淞南\n回
+ 戦：準々決勝\n大会：令和7年度島根新人戦（新人選手
+ 権大会）\n都道府県：島根県\n時刻：12:30\n会場：会場不
+ 明（島根県）\n結果：0-3\n出典：https://koko-soccer.com/score/4
+ 276
+END:VEVENT
+BEGIN:VEVENT
+UID:06da9385cc90b38a8eba9753892a5fbab72616de@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260131T123000
+DTEND;TZID=Asia/Tokyo:20260131T143000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：松江商 vs 松江工\n回戦
+ ：準々決勝\n大会：令和7年度島根新人戦（新人選手権
+ 大会）\n都道府県：島根県\n時刻：12:30\n会場：会場不明
+ （島根県）\n結果：4-0\n出典：https://koko-soccer.com/score/4276
+END:VEVENT
+BEGIN:VEVENT
+UID:ced8bcf09036d928bc38728c6c071f6c497dc1a4@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260207T100000
+DTEND;TZID=Asia/Tokyo:20260207T120000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：益田東 vs 出雲工\n回戦
+ ：準決勝\n大会：令和7年度島根新人戦（新人選手権大
+ 会）\n都道府県：島根県\n時刻：10:00\n会場：会場不明（
+ 島根県）\n結果：未確定\n出典：https://koko-soccer.com/score/4
+ 276
+END:VEVENT
+BEGIN:VEVENT
+UID:9295b60772bf14a307ccf89426a5ee8e95aff3d1@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260207T123000
+DTEND;TZID=Asia/Tokyo:20260207T143000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：立正大淞南 vs 松江商\n
+ 回戦：準決勝\n大会：令和7年度島根新人戦（新人選手
+ 権大会）\n都道府県：島根県\n時刻：12:30\n会場：会場不
+ 明（島根県）\n結果：未確定\n出典：https://koko-soccer.com/s
+ core/4276
+END:VEVENT
+BEGIN:VEVENT
+UID:df7a497c6245a88cfa545352710d5be53f5518dd@my-ics
+DTSTAMP:20260205T094606Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260208T123000
+DTEND;TZID=Asia/Tokyo:20260208T143000
+SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
+LOCATION:会場不明（島根県）
+DESCRIPTION:種別：高校男子\n対戦：益田東/出雲工 vs 立正
+ 大淞南/松江商\n回戦：決勝\n大会：令和7年度島根新人
+ 戦（新人選手権大会）\n都道府県：島根県\n時刻：12:30\n
+ 会場：会場不明（島根県）\n結果：未確定\n出典：https:/
+ /koko-soccer.com/score/4276
+END:VEVENT
 END:VCALENDAR
