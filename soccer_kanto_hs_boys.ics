@@ -3797,4 +3797,474 @@ SUMMARY:【関東-男子高校】茨城新人 決勝 東洋大牛久 vs 第一�
 LOCATION:会場不明（茨城県）
 DESCRIPTION:出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4295
 END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-21040dc1cb9ca16f8eb8c47582eb70f86aa28a40@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 1回戦 第1試合
+DTSTART;TZID=Asia/Tokyo:20251228T143000
+DTEND;TZID=Asia/Tokyo:20251228T170000
+LOCATION:国立競技場（東京都）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：1\nラウンド：1回戦\n会場コード：国\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-0064ec8b8efea81052fc67dee6f9bbb62e33ba93@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 1回戦 第2試合
+DTSTART;TZID=Asia/Tokyo:20251229T141000
+DTEND;TZID=Asia/Tokyo:20251229T164000
+LOCATION:浦和駒場スタジアム（埼玉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：2\nラウンド：1回戦\n会場コード：浦\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-d4cdbed3371a17b4df71feaf8b90af82811bfd9b@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 1回戦 第3試合
+DTSTART;TZID=Asia/Tokyo:20251229T120500
+DTEND;TZID=Asia/Tokyo:20251229T143500
+LOCATION:浦和駒場スタジアム（埼玉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：3\nラウンド：1回戦\n会場コード：浦\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-8cfaa36e38aa3e35c2cd0254beac98724efafc7e@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 1回戦 第4試合
+DTSTART;TZID=Asia/Tokyo:20251229T141000
+DTEND;TZID=Asia/Tokyo:20251229T164000
+LOCATION:NACK５スタジアム大宮（埼玉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：4\nラウンド：1回戦\n会場コード：Ｎ\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-cb197230bb746049186780360cf495d99f388e86@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 1回戦 第5試合
+DTSTART;TZID=Asia/Tokyo:20251229T120500
+DTEND;TZID=Asia/Tokyo:20251229T143500
+LOCATION:NACK５スタジアム大宮（埼玉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：5\nラウンド：1回戦\n会場コード：Ｎ\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-19eb34cb647419f6d7e74f284d86cfbc2bd2d980@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 1回戦 第6試合
+DTSTART;TZID=Asia/Tokyo:20251229T120500
+DTEND;TZID=Asia/Tokyo:20251229T143500
+LOCATION:ニッパツ三ツ沢球技場（神奈川県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：6\nラウンド：1回戦\n会場コード：ニ\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-dfd686356c6ef8fac64da849823330c5fb8bf11a@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 1回戦 第7試合
+DTSTART;TZID=Asia/Tokyo:20251229T141000
+DTEND;TZID=Asia/Tokyo:20251229T164000
+LOCATION:ニッパツ三ツ沢球技場（神奈川県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：7\nラウンド：1回戦\n会場コード：ニ\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-ddc981c41159503f4bb70abc7272297915ff57ad@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 1回戦 第8試合
+DTSTART;TZID=Asia/Tokyo:20251229T120500
+DTEND;TZID=Asia/Tokyo:20251229T143500
+LOCATION:味の素フィールド西が丘（東京都）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：8\nラウンド：1回戦\n会場コード：西\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5412c0b8188102acd3d659600d26302e4af41747@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 1回戦 第9試合
+DTSTART;TZID=Asia/Tokyo:20251229T120500
+DTEND;TZID=Asia/Tokyo:20251229T143500
+LOCATION:Uvanceとどろきスタジアム by Fujitsu（神奈川県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：9\nラウンド：1回戦\n会場コード：等\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-26c079b7359e1c97597d6c466e4ba19dde9c0f1b@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 1回戦 第10試合
+DTSTART;TZID=Asia/Tokyo:20251229T141000
+DTEND;TZID=Asia/Tokyo:20251229T164000
+LOCATION:Uvanceとどろきスタジアム by Fujitsu（神奈川県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：10\nラウンド：1回戦\n会場コード：等\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-0d22039e6a4a1c8a5f22fde703c881b5844f7f17@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 1回戦 第11試合
+DTSTART;TZID=Asia/Tokyo:20251229T120500
+DTEND;TZID=Asia/Tokyo:20251229T143500
+LOCATION:駒沢陸上競技場（東京都）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：11\nラウンド：1回戦\n会場コード：駒\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-55404aedc3fabc6cfc8450acaa1b5f484e415a47@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 1回戦 第12試合
+DTSTART;TZID=Asia/Tokyo:20251229T141000
+DTEND;TZID=Asia/Tokyo:20251229T164000
+LOCATION:駒沢陸上競技場（東京都）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：12\nラウンド：1回戦\n会場コード：駒\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-7cf64fb8b9051efb40a7cae83d12d723774c2b0d@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 1回戦 第13試合
+DTSTART;TZID=Asia/Tokyo:20251229T120500
+DTEND;TZID=Asia/Tokyo:20251229T143500
+LOCATION:フクダ電子アリーナ（千葉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：13\nラウンド：1回戦\n会場コード：フ\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-00ee5b04ee810d275126d5bae01ce7ea91b5e371@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 1回戦 第14試合
+DTSTART;TZID=Asia/Tokyo:20251229T141000
+DTEND;TZID=Asia/Tokyo:20251229T164000
+LOCATION:フクダ電子アリーナ（千葉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：14\nラウンド：1回戦\n会場コード：フ\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-739d3014bbd3ee2748eabc73f867644f46227474@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 1回戦 第15試合
+DTSTART;TZID=Asia/Tokyo:20251229T120500
+DTEND;TZID=Asia/Tokyo:20251229T143500
+LOCATION:ゼットエーオリプリスタジアム（千葉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：15\nラウンド：1回戦\n会場コード：オ\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-1e6a59809be7369090472dbf11019caa36c6cf34@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 1回戦 第16試合
+DTSTART;TZID=Asia/Tokyo:20251229T141000
+DTEND;TZID=Asia/Tokyo:20251229T164000
+LOCATION:ゼットエーオリプリスタジアム（千葉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：16\nラウンド：1回戦\n会場コード：オ\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-78fcdb9a33342e97b5ee49c5eef3e2cefebe2354@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 2回戦 第17試合
+DTSTART;TZID=Asia/Tokyo:20251231T120500
+DTEND;TZID=Asia/Tokyo:20251231T143500
+LOCATION:浦和駒場スタジアム（埼玉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：17\nラウンド：2回戦\n会場コード：浦\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-83168a3d20c5f9f3f7e74a1a6ed2ca4c6b28aec4@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 2回戦 第18試合
+DTSTART;TZID=Asia/Tokyo:20251231T141000
+DTEND;TZID=Asia/Tokyo:20251231T164000
+LOCATION:浦和駒場スタジアム（埼玉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：18\nラウンド：2回戦\n会場コード：浦\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5852d368cfd62235973b32f1f93aa1cf1309a830@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 2回戦 第19試合
+DTSTART;TZID=Asia/Tokyo:20251231T141000
+DTEND;TZID=Asia/Tokyo:20251231T164000
+LOCATION:NACK５スタジアム大宮（埼玉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：19\nラウンド：2回戦\n会場コード：Ｎ\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-1cd76219473308eea929806a08728fdc02c53854@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 2回戦 第20試合
+DTSTART;TZID=Asia/Tokyo:20251231T120500
+DTEND;TZID=Asia/Tokyo:20251231T143500
+LOCATION:NACK５スタジアム大宮（埼玉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：20\nラウンド：2回戦\n会場コード：Ｎ\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-7f0159d1615fa7fc8e783a43035eda928bf16488@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 2回戦 第21試合
+DTSTART;TZID=Asia/Tokyo:20251231T120500
+DTEND;TZID=Asia/Tokyo:20251231T143500
+LOCATION:ニッパツ三ツ沢球技場（神奈川県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：21\nラウンド：2回戦\n会場コード：ニ\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-ceb62b585d1eccaa89371dc6d8c8293282bac73d@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 2回戦 第22試合
+DTSTART;TZID=Asia/Tokyo:20251231T141000
+DTEND;TZID=Asia/Tokyo:20251231T164000
+LOCATION:ニッパツ三ツ沢球技場（神奈川県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：22\nラウンド：2回戦\n会場コード：ニ\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-26de195073f76625411141059d37a40626a029dd@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 2回戦 第23試合
+DTSTART;TZID=Asia/Tokyo:20251231T141000
+DTEND;TZID=Asia/Tokyo:20251231T164000
+LOCATION:Uvanceとどろきスタジアム by Fujitsu（神奈川県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：23\nラウンド：2回戦\n会場コード：等\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-d6e36915c7af7ba37a4c9c82519dba22c325ed9e@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 2回戦 第24試合
+DTSTART;TZID=Asia/Tokyo:20251231T120500
+DTEND;TZID=Asia/Tokyo:20251231T143500
+LOCATION:Uvanceとどろきスタジアム by Fujitsu（神奈川県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：24\nラウンド：2回戦\n会場コード：等\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-94ff34d1e8cb9cdc75cc0ca5e5030abdb7da5086@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 2回戦 第25試合
+DTSTART;TZID=Asia/Tokyo:20251231T120500
+DTEND;TZID=Asia/Tokyo:20251231T143500
+LOCATION:味の素フィールド西が丘（東京都）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：25\nラウンド：2回戦\n会場コード：西\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-bf6b588d80ad0deac0bae1b1e8b31ab2f1e13e8b@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 2回戦 第26試合
+DTSTART;TZID=Asia/Tokyo:20251231T141000
+DTEND;TZID=Asia/Tokyo:20251231T164000
+LOCATION:味の素フィールド西が丘（東京都）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：26\nラウンド：2回戦\n会場コード：西\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5a8829036e79a5b7a1e0084f52ab65f8122aa023@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 2回戦 第27試合
+DTSTART;TZID=Asia/Tokyo:20251231T120500
+DTEND;TZID=Asia/Tokyo:20251231T143500
+LOCATION:駒沢陸上競技場（東京都）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：27\nラウンド：2回戦\n会場コード：駒\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-329a676914159e66f104de07ee00912d27ca1b23@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 2回戦 第28試合
+DTSTART;TZID=Asia/Tokyo:20251231T141000
+DTEND;TZID=Asia/Tokyo:20251231T164000
+LOCATION:駒沢陸上競技場（東京都）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：28\nラウンド：2回戦\n会場コード：駒\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-973e79f38fc57a10da7281dc997dbb5f04364f03@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 2回戦 第29試合
+DTSTART;TZID=Asia/Tokyo:20251231T141000
+DTEND;TZID=Asia/Tokyo:20251231T164000
+LOCATION:ゼットエーオリプリスタジアム（千葉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：29\nラウンド：2回戦\n会場コード：オ\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-cfbf215f4ae66a88dde6e3359bf210fb5ff56968@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 2回戦 第30試合
+DTSTART;TZID=Asia/Tokyo:20251231T141000
+DTEND;TZID=Asia/Tokyo:20251231T164000
+LOCATION:フクダ電子アリーナ（千葉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：30\nラウンド：2回戦\n会場コード：フ\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-d5b9b1b32b205075046a35a1c82285b369e1e459@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 2回戦 第31試合
+DTSTART;TZID=Asia/Tokyo:20251231T120500
+DTEND;TZID=Asia/Tokyo:20251231T143500
+LOCATION:ゼットエーオリプリスタジアム（千葉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：31\nラウンド：2回戦\n会場コード：オ\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-92d164129dc0e9d4c8e6dc68fc0ba7ac7e432294@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 2回戦 第32試合
+DTSTART;TZID=Asia/Tokyo:20251231T120500
+DTEND;TZID=Asia/Tokyo:20251231T143500
+LOCATION:フクダ電子アリーナ（千葉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：32\nラウンド：2回戦\n会場コード：フ\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-59f0a87a7501c6806fb2aeb785fc96713e9154fc@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 3回戦 第33試合
+DTSTART;TZID=Asia/Tokyo:20260102T120500
+DTEND;TZID=Asia/Tokyo:20260102T143500
+LOCATION:浦和駒場スタジアム（埼玉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：33\nラウンド：3回戦\n会場コード：浦\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-4600ab45913da2992bfd913302a15d9215ba93dd@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 3回戦 第34試合
+DTSTART;TZID=Asia/Tokyo:20260102T141000
+DTEND;TZID=Asia/Tokyo:20260102T164000
+LOCATION:浦和駒場スタジアム（埼玉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：34\nラウンド：3回戦\n会場コード：浦\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-e7c09e575c7de36c2705e9eeb8edee31f872e813@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 3回戦 第35試合
+DTSTART;TZID=Asia/Tokyo:20260102T120500
+DTEND;TZID=Asia/Tokyo:20260102T143500
+LOCATION:Uvanceとどろきスタジアム by Fujitsu（神奈川県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：35\nラウンド：3回戦\n会場コード：等\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-5265ed11172dde6603ea29ef16b65a9493a9bf84@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 3回戦 第36試合
+DTSTART;TZID=Asia/Tokyo:20260102T141000
+DTEND;TZID=Asia/Tokyo:20260102T164000
+LOCATION:Uvanceとどろきスタジアム by Fujitsu（神奈川県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：36\nラウンド：3回戦\n会場コード：等\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-62d144b38b8fb43fb77109b6cb570848c2d69c70@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 3回戦 第37試合
+DTSTART;TZID=Asia/Tokyo:20260102T120500
+DTEND;TZID=Asia/Tokyo:20260102T143500
+LOCATION:駒沢陸上競技場（東京都）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：37\nラウンド：3回戦\n会場コード：駒\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-6508ad6648e83c52266626c6178dd0cdf057269b@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 3回戦 第38試合
+DTSTART;TZID=Asia/Tokyo:20260102T141000
+DTEND;TZID=Asia/Tokyo:20260102T164000
+LOCATION:駒沢陸上競技場（東京都）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：38\nラウンド：3回戦\n会場コード：駒\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-a6be145d1ea7193534b1c16879e420b96a8c366d@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 3回戦 第39試合
+DTSTART;TZID=Asia/Tokyo:20260102T141000
+DTEND;TZID=Asia/Tokyo:20260102T164000
+LOCATION:フクダ電子アリーナ（千葉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：39\nラウンド：3回戦\n会場コード：フ\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-f8f58fa5f207a8a080abf33c3ffbe6c2b301767b@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 3回戦 第40試合
+DTSTART;TZID=Asia/Tokyo:20260102T120500
+DTEND;TZID=Asia/Tokyo:20260102T143500
+LOCATION:フクダ電子アリーナ（千葉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：40\nラウンド：3回戦\n会場コード：フ\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-2c176d1943dd1a431457f8e342b4b7c627e1ec5f@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 準々決勝 第41試合
+DTSTART;TZID=Asia/Tokyo:20260104T120500
+DTEND;TZID=Asia/Tokyo:20260104T143500
+LOCATION:浦和駒場スタジアム（埼玉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：41\nラウンド：準々決勝\n会場コード：浦\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-c6f764d26f77282ad16c3c5c564e1fed03c01437@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 準々決勝 第42試合
+DTSTART;TZID=Asia/Tokyo:20260104T141000
+DTEND;TZID=Asia/Tokyo:20260104T164000
+LOCATION:Uvanceとどろきスタジアム by Fujitsu（神奈川県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：42\nラウンド：準々決勝\n会場コード：等\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-940b7ff6b260396f4656d12c4a3cfe45d9692fd7@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 準々決勝 第43試合
+DTSTART;TZID=Asia/Tokyo:20260104T120500
+DTEND;TZID=Asia/Tokyo:20260104T143500
+LOCATION:Uvanceとどろきスタジアム by Fujitsu（神奈川県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：43\nラウンド：準々決勝\n会場コード：等\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-1af08a678aca95beb28d23121d3c795050f34c59@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 準々決勝 第44試合
+DTSTART;TZID=Asia/Tokyo:20260104T141000
+DTEND;TZID=Asia/Tokyo:20260104T164000
+LOCATION:浦和駒場スタジアム（埼玉県）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：44\nラウンド：準々決勝\n会場コード：浦\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-7fd438bb7d1103d031d8a9955a248c5b5228c515@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 準決勝 第45試合
+DTSTART;TZID=Asia/Tokyo:20260110T120500
+DTEND;TZID=Asia/Tokyo:20260110T143500
+LOCATION:MUFGスタジアム（国立競技場）（東京都）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：45\nラウンド：準決勝\n会場コード：MUFG国立\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-713bbf83cd6adf710b361cf65875e3ba4ffcd917@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 準決勝 第46試合
+DTSTART;TZID=Asia/Tokyo:20260110T142000
+DTEND;TZID=Asia/Tokyo:20260110T165000
+LOCATION:MUFGスタジアム（国立競技場）（東京都）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：46\nラウンド：準決勝\n会場コード：MUFG国立\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kanto_hs_boys-ceab6a7e7226afce0a51153472ad2224a4b74891@okaidokudaze
+DTSTAMP:20260205T120232
+STATUS:CONFIRMED
+SUMMARY:【関東-男子高校】全国高校サッカー選手権（第104回） 決勝 第47試合
+DTSTART;TZID=Asia/Tokyo:20260112T140500
+DTEND;TZID=Asia/Tokyo:20260112T163500
+LOCATION:MUFGスタジアム（国立競技場）（東京都）
+DESCRIPTION:出典：JFA『第104回全国高校サッカー選手権大会』PDF（トーナメント）\n試合番号：47\nラウンド：決勝\n会場コード：MUFG国立\n※対戦カードは後で追記（同UIDで上書き）
+END:VEVENT
 END:VCALENDAR
