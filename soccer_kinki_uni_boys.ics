@@ -7,26 +7,21 @@ X-WR-CALNAME:【近畿】男子大学サッカー（大阪除外）
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m02@sora
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260204T225145Z
 DTSTART;TZID=Asia/Tokyo:20251213T110000
 DTEND;TZID=Asia/Tokyo:20251213T130000
-SUMMARY:兵庫県／全日本大学サッカー選手権（インカレ）[2] 九州産業大学
+SUMMARY:全日本大学サッカー選手権（インカレ）[2] 九州産業大学 vs 福岡大学
 LOCATION:御崎公園球技場
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n都道府県：兵庫県
-要確認：SUMMARY未統一（都道府県/大会名の明記なし）
-要確認：SUMMARYは都道府県名/大会名にしたが、情報が不足している可能性あり
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
 END:VEVENT
 BEGIN:VEVENT
 UID:jufa-intercol-2025-m06@sora
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260204T225145Z
 DTSTART;TZID=Asia/Tokyo:20251213T140000
 DTEND;TZID=Asia/Tokyo:20251213T160000
-SUMMARY:兵庫県／全日本大学サッカー選手権（インカレ）[6] 日本体育大学
+SUMMARY:全日本大学サッカー選手権（インカレ）[6] 日本体育大学 vs 国士舘大学
 LOCATION:御崎公園球技場
-DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）\n都道府県：兵庫県
-要確認：SUMMARY未統一（都道府県/大会名の明記なし）
-要確認：SUMMARYは都道府県名/大会名にしたが、情報が不足している可能性あり
+DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
 END:VEVENT
 END:VCALENDAR
+

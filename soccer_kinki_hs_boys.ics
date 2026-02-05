@@ -6,817 +6,673 @@ METHOD:PUBLISH
 X-WR-CALNAME:【近畿】男子高校サッカー（大阪除外）
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:7bc1817e-591c-5007-9ba3-6c10fd0e1a47
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260110T100000
-DTEND;TZID=Asia/Tokyo:20260110T120000
-SUMMARY:和歌山県／和歌山新人戦 日高
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦 日高\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/scor
- e/4270\n会場：不明（和歌山県）
-END:VEVENT
-BEGIN:VEVENT
-UID:02e6f836-696d-538a-85c4-208c7a7b9237
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260110T120000
-DTEND;TZID=Asia/Tokyo:20260110T140000
-SUMMARY:和歌山県／和歌山新人戦 橋本
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦 橋本\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/scor
- e/4270\n会場：不明（和歌山県）
-END:VEVENT
-BEGIN:VEVENT
-UID:f73dd9d8-fd98-5538-a0d1-9e0b72376eb9
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260110T140000
-DTEND;TZID=Asia/Tokyo:20260110T160000
-SUMMARY:和歌山県／和歌山新人戦 神島・田辺工
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦 神島・田辺工\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/
- score/4270\n会場：不明（和歌山県）
-END:VEVENT
-BEGIN:VEVENT
-UID:5c547510-cd87-53a7-89cd-03cd2214b651
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260111T103000
-DTEND;TZID=Asia/Tokyo:20260111T123000
-SUMMARY:和歌山県／和歌山新人戦 和歌山高専
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦 和歌山高専\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/s
- core/4270\n会場：不明（和歌山県）
-END:VEVENT
-BEGIN:VEVENT
-UID:9315c3d6-ba7d-5066-a8b9-42f0f86ede99
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260111T133000
-DTEND;TZID=Asia/Tokyo:20260111T153000
-SUMMARY:和歌山県／和歌山新人戦 開智
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦 開智\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/scor
- e/4270\n会場：不明（和歌山県）
-END:VEVENT
-BEGIN:VEVENT
-UID:8ee1e3c4-15b9-52a3-8b7a-9719b58a2690
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260113T120000
-DTEND;TZID=Asia/Tokyo:20260113T140000
-SUMMARY:和歌山県／和歌山新人戦 星林
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦 星林\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/scor
- e/4270\n会場：不明（和歌山県）
-END:VEVENT
-BEGIN:VEVENT
-UID:1f80b238-622d-50e8-9f73-1297ae01eef7
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260116T123000
-DTEND;TZID=Asia/Tokyo:20260116T143000
-SUMMARY:和歌山県／和歌山新人戦 那賀
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦 那賀\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/scor
- e/4270\n会場：不明（和歌山県）
-END:VEVENT
-BEGIN:VEVENT
-UID:058f337f-6843-562c-809b-60f704906e6f
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260116T143000
-DTEND;TZID=Asia/Tokyo:20260116T163000
-SUMMARY:和歌山県／和歌山新人戦 近大新宮
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦 近大新宮\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/sc
- ore/4270\n会場：不明（和歌山県）
-END:VEVENT
-BEGIN:VEVENT
-UID:95c7b959-c949-5e17-b562-53cd6a758b63
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260117T100000
-DTEND;TZID=Asia/Tokyo:20260117T120000
-SUMMARY:奈良県／奈良新人戦 五條
-LOCATION:会場不明（奈良県）
-DESCRIPTION:大会：奈良新人戦 五條\n都道府県：会場不明（奈良県\n出典：https://koko-soccer.com/score/
- 4279\n会場：不明（奈良県）
-END:VEVENT
-BEGIN:VEVENT
-UID:3d25f91a-9de3-56fa-8727-6754c69a9325
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260117T100000
-DTEND;TZID=Asia/Tokyo:20260117T120000
-SUMMARY:奈良県／奈良新人戦 一条
-LOCATION:会場不明（奈良県）
-DESCRIPTION:大会：奈良新人戦 一条\n都道府県：会場不明（奈良県\n出典：https://koko-soccer.com/score/
- 4279\n会場：不明（奈良県）
-END:VEVENT
-BEGIN:VEVENT
-UID:6c5c3dcb-89d8-5c15-b468-c8fd0cd6f27c
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260117T100000
-DTEND;TZID=Asia/Tokyo:20260117T120000
-SUMMARY:奈良県／奈良新人戦 大和広陵
-LOCATION:会場不明（奈良県）
-DESCRIPTION:大会：奈良新人戦 大和広陵\n都道府県：会場不明（奈良県\n出典：https://koko-soccer.com/scor
- e/4279\n会場：不明（奈良県）
-END:VEVENT
-BEGIN:VEVENT
 UID:5743b706-e7f8-5b73-8bc6-e7b829214fef
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260117T110000
 DTEND;TZID=Asia/Tokyo:20260117T130000
-SUMMARY:京都府／京都新人戦 京都共栄
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 京都共栄\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/score
- /4296\n会場：不明（京都府）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：京都共栄
 END:VEVENT
 BEGIN:VEVENT
 UID:ebd943a5-6a2f-5afd-a43f-fc335420eca0
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260117T110000
 DTEND;TZID=Asia/Tokyo:20260117T130000
-SUMMARY:京都府／京都新人戦 同志社
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 同志社\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/score/
- 4296\n会場：不明（京都府）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：同志社
 END:VEVENT
 BEGIN:VEVENT
 UID:965024f1-8ecc-55b8-a5ed-074bfff95eea
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260117T110000
 DTEND;TZID=Asia/Tokyo:20260117T130000
-SUMMARY:京都府／京都新人戦 京都産大附
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 京都産大附\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/scor
- e/4296\n会場：不明（京都府）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：京都産大附
 END:VEVENT
 BEGIN:VEVENT
 UID:87bbb930-0ca3-5d8a-b2a8-60bddaa0bbeb
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260117T111500
 DTEND;TZID=Asia/Tokyo:20260117T131500
-SUMMARY:京都府／京都新人戦 京都西山
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 京都西山\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/score
- /4296\n会場：不明（京都府）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：京都西山
 END:VEVENT
 BEGIN:VEVENT
 UID:8e5399f7-88bf-56d3-89da-f85cbdc58dc3
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260117T113000
 DTEND;TZID=Asia/Tokyo:20260117T133000
-SUMMARY:京都府／京都新人戦 京都両洋
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 京都両洋\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/score
- /4296\n会場：不明（京都府）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：京都両洋
 END:VEVENT
 BEGIN:VEVENT
 UID:759c44f6-12a2-5291-bc36-79b22a500b0a
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260117T113000
 DTEND;TZID=Asia/Tokyo:20260117T133000
-SUMMARY:京都府／京都新人戦 花園
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 花園\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/score/4
- 296\n会場：不明（京都府）
-END:VEVENT
-BEGIN:VEVENT
-UID:068b9b41-55da-5644-8c7d-7e9ad5d26597
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260117T121500
-DTEND;TZID=Asia/Tokyo:20260117T141500
-SUMMARY:奈良県／奈良新人戦 郡山
-LOCATION:会場不明（奈良県）
-DESCRIPTION:大会：奈良新人戦 郡山\n都道府県：会場不明（奈良県\n出典：https://koko-soccer.com/score/
- 4279\n会場：不明（奈良県）
-END:VEVENT
-BEGIN:VEVENT
-UID:574429ff-47ed-5f0e-8cb5-ebaf0595cad0
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260117T121500
-DTEND;TZID=Asia/Tokyo:20260117T141500
-SUMMARY:奈良県／奈良新人戦 橿原
-LOCATION:会場不明（奈良県）
-DESCRIPTION:大会：奈良新人戦 橿原\n都道府県：会場不明（奈良県\n出典：https://koko-soccer.com/score/
- 4279\n会場：不明（奈良県）
-END:VEVENT
-BEGIN:VEVENT
-UID:097f72cc-cd2a-5b6f-bf5b-c9f3290a0c2c
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260117T121500
-DTEND;TZID=Asia/Tokyo:20260117T141500
-SUMMARY:奈良県／奈良新人戦 香芝
-LOCATION:会場不明（奈良県）
-DESCRIPTION:大会：奈良新人戦 香芝\n都道府県：会場不明（奈良県\n出典：https://koko-soccer.com/score/
- 4279\n会場：不明（奈良県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：花園
 END:VEVENT
 BEGIN:VEVENT
 UID:1864db01-9b30-555e-a8b0-e0c6fe72aead
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260117T124500
 DTEND;TZID=Asia/Tokyo:20260117T144500
-SUMMARY:京都府／京都新人戦 綾部
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 綾部\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/score/4
- 296\n会場：不明（京都府）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：綾部
 END:VEVENT
 BEGIN:VEVENT
 UID:f45bd549-5f98-59af-b11c-c3da9408eecc
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260117T133000
 DTEND;TZID=Asia/Tokyo:20260117T153000
-SUMMARY:京都府／京都新人戦 龍谷大平安
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 龍谷大平安\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/scor
- e/4296\n会場：不明（京都府）
-END:VEVENT
-BEGIN:VEVENT
-UID:c8aa05ca-aba3-530d-8936-d6510eb443c4
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260117T133000
-DTEND;TZID=Asia/Tokyo:20260117T153000
-SUMMARY:和歌山県／和歌山新人戦 日高
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦 日高\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/scor
- e/4270\n会場：不明（和歌山県）
-END:VEVENT
-BEGIN:VEVENT
-UID:b74cce1e-ce18-59c6-88ca-df7c253fe403
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260117T143000
-DTEND;TZID=Asia/Tokyo:20260117T163000
-SUMMARY:奈良県／奈良新人戦 生駒
-LOCATION:会場不明（奈良県）
-DESCRIPTION:大会：奈良新人戦 生駒\n都道府県：会場不明（奈良県\n出典：https://koko-soccer.com/score/
- 4279\n会場：不明（奈良県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：龍谷大平安
 END:VEVENT
 BEGIN:VEVENT
 UID:f83a3468-f199-5c7f-9436-e06718a46aaf
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260117T150000
 DTEND;TZID=Asia/Tokyo:20260117T170000
-SUMMARY:京都府／京都新人戦 立命館宇治
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 立命館宇治\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/scor
- e/4296\n会場：不明（京都府）
-END:VEVENT
-BEGIN:VEVENT
-UID:e5b6f7df-c439-5d3b-a06d-20e80ba182fd
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260117T153000
-DTEND;TZID=Asia/Tokyo:20260117T173000
-SUMMARY:和歌山県／和歌山新人戦 向陽
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦 向陽\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/scor
- e/4270\n会場：不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：立命館宇治
 END:VEVENT
 BEGIN:VEVENT
 UID:4001116f-15a6-5ea7-b93e-f3cf83c73ce0
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260118T093000
 DTEND;TZID=Asia/Tokyo:20260118T113000
-SUMMARY:京都府／京都新人戦 京都橘
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 京都橘\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/score/
- 4296\n会場：不明（京都府）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：京都橘
 END:VEVENT
 BEGIN:VEVENT
 UID:3e2390db-ef5d-54b6-b3eb-bd4fd8ab8bf9
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260118T093000
 DTEND;TZID=Asia/Tokyo:20260118T113000
-SUMMARY:京都府／京都新人戦 洛東
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 洛東\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/score/4
- 296\n会場：不明（京都府）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：洛東
 END:VEVENT
 BEGIN:VEVENT
 UID:70d1ba25-984f-58a2-8cdf-463a72196a44
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260118T093000
 DTEND;TZID=Asia/Tokyo:20260118T113000
-SUMMARY:京都府／京都新人戦 京都共栄
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 京都共栄\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/score
- /4296\n会場：不明（京都府）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：京都共栄
 END:VEVENT
 BEGIN:VEVENT
 UID:604eeed7-3e4e-55de-9c42-b062644a6721
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260118T094500
 DTEND;TZID=Asia/Tokyo:20260118T114500
-SUMMARY:京都府／京都新人戦 京都産大附
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 京都産大附\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/scor
- e/4296\n会場：不明（京都府）
-END:VEVENT
-BEGIN:VEVENT
-UID:741f0faf-68f6-5cff-9806-b76c3a440c0c
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260118T100000
-DTEND;TZID=Asia/Tokyo:20260118T120000
-SUMMARY:和歌山県／和歌山新人戦 和歌山北
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦 和歌山北\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/sc
- ore/4270\n会場：不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：京都産大附
 END:VEVENT
 BEGIN:VEVENT
 UID:8c6da90e-dc13-59cb-a125-7a4e4614f6b4
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260118T110000
 DTEND;TZID=Asia/Tokyo:20260118T130000
-SUMMARY:京都府／京都新人戦 城南菱創
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 城南菱創\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/score
- /4296\n会場：不明（京都府）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：城南菱創
 END:VEVENT
 BEGIN:VEVENT
 UID:80165b40-fccd-5533-a952-9ab5725e62c4
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260118T110000
 DTEND;TZID=Asia/Tokyo:20260118T130000
-SUMMARY:京都府／京都新人戦 大谷
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 大谷\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/score/4
- 296\n会場：不明（京都府）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：大谷
 END:VEVENT
 BEGIN:VEVENT
 UID:8d1c2485-da96-532a-99cf-4d9c02910c6a
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260118T110000
 DTEND;TZID=Asia/Tokyo:20260118T130000
-SUMMARY:京都府／京都新人戦 龍谷大平安
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 龍谷大平安\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/scor
- e/4296\n会場：不明（京都府）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：龍谷大平安
 END:VEVENT
 BEGIN:VEVENT
 UID:b8fa8e67-73b6-50dd-acdd-3156f9d0d192
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260118T111500
 DTEND;TZID=Asia/Tokyo:20260118T131500
-SUMMARY:京都府／京都新人戦 立命館
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 立命館\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/score/
- 4296\n会場：不明（京都府）
-END:VEVENT
-BEGIN:VEVENT
-UID:1b62e565-cff0-5a51-9e93-e6eaed2534bf
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260118T120000
-DTEND;TZID=Asia/Tokyo:20260118T140000
-SUMMARY:和歌山県／和歌山新人戦 粉河
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦 粉河\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/scor
- e/4270\n会場：不明（和歌山県）
-END:VEVENT
-BEGIN:VEVENT
-UID:fa6d8377-bdb5-5143-846b-54ac86d5beb4
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260118T140000
-DTEND;TZID=Asia/Tokyo:20260118T160000
-SUMMARY:和歌山県／和歌山新人戦 星林
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦 星林\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/scor
- e/4270\n会場：不明（和歌山県）
-END:VEVENT
-BEGIN:VEVENT
-UID:23c749f2-cd14-5abc-9be2-bd2ce421bdc5
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260124T100000
-DTEND;TZID=Asia/Tokyo:20260124T120000
-SUMMARY:奈良県／奈良新人戦 奈良育英
-LOCATION:会場不明（奈良県）
-DESCRIPTION:大会：奈良新人戦 奈良育英\n都道府県：会場不明（奈良県\n出典：https://koko-soccer.com/scor
- e/4279\n会場：不明（奈良県）
-END:VEVENT
-BEGIN:VEVENT
-UID:928a8067-ecd8-5f8e-a9e5-31f6a6308ade
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260124T100000
-DTEND;TZID=Asia/Tokyo:20260124T120000
-SUMMARY:奈良県／奈良新人戦 法隆寺国際
-LOCATION:会場不明（奈良県）
-DESCRIPTION:大会：奈良新人戦 法隆寺国際\n都道府県：会場不明（奈良県\n出典：https://koko-soccer.com/sco
- re/4279\n会場：不明（奈良県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：立命館
 END:VEVENT
 BEGIN:VEVENT
 UID:c609a107-f1a7-5e82-8969-69734c920717
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260124T110000
 DTEND;TZID=Asia/Tokyo:20260124T130000
-SUMMARY:京都府／京都新人戦 京都橘
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 京都橘\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/score/
- 4296\n会場：不明（京都府）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：京都橘
 END:VEVENT
 BEGIN:VEVENT
 UID:89419354-b49b-5064-af7d-46d38d9b88f1
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260124T110000
 DTEND;TZID=Asia/Tokyo:20260124T130000
-SUMMARY:京都府／京都新人戦 城陽
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 城陽\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/score/4
- 296\n会場：不明（京都府）
-END:VEVENT
-BEGIN:VEVENT
-UID:4c9fa644-7bb1-51c0-8798-6e9bc10d577a
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260124T123000
-DTEND;TZID=Asia/Tokyo:20260124T143000
-SUMMARY:奈良県／奈良新人戦 奈良学園登美ヶ丘
-LOCATION:会場不明（奈良県）
-DESCRIPTION:大会：奈良新人戦 奈良学園登美ヶ丘\n都道府県：会場不明（奈良県\n出典：https://koko-soccer.com/
- score/4279\n会場：不明（奈良県）
-END:VEVENT
-BEGIN:VEVENT
-UID:41792db8-1cb2-50b3-819b-e695f79b37f9
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260124T123000
-DTEND;TZID=Asia/Tokyo:20260124T143000
-SUMMARY:奈良県／奈良新人戦 一条
-LOCATION:会場不明（奈良県）
-DESCRIPTION:大会：奈良新人戦 一条\n都道府県：会場不明（奈良県\n出典：https://koko-soccer.com/score/
- 4279\n会場：不明（奈良県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：城陽
 END:VEVENT
 BEGIN:VEVENT
 UID:681cf996-ef17-59f0-bab8-9132790a9f98
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260124T133000
 DTEND;TZID=Asia/Tokyo:20260124T153000
-SUMMARY:京都府／京都新人戦 京都共栄
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 京都共栄\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/score
- /4296\n会場：不明（京都府）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：京都共栄
 END:VEVENT
 BEGIN:VEVENT
 UID:59abbf61-af78-5b50-83e0-e4e677e5a83d
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260124T133000
 DTEND;TZID=Asia/Tokyo:20260124T153000
-SUMMARY:京都府／京都新人戦 莵道
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 莵道\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/score/4
- 296\n会場：不明（京都府）
-END:VEVENT
-BEGIN:VEVENT
-UID:3907fa3f-a381-55c2-a914-f8d9270485d4
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260125T100000
-DTEND;TZID=Asia/Tokyo:20260125T120000
-SUMMARY:兵庫県／兵庫新人戦 関西学院
-LOCATION:会場不明（兵庫県）
-DESCRIPTION:大会：兵庫新人戦 関西学院\n都道府県：会場不明（兵庫県\n出典：https://koko-soccer.com/scor
- e/4299\n会場：不明（兵庫県）
-END:VEVENT
-BEGIN:VEVENT
-UID:a092c6b1-be40-5159-8fb0-8447ed39466c
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260125T113000
-DTEND;TZID=Asia/Tokyo:20260125T133000
-SUMMARY:兵庫県／兵庫新人戦 兵庫
-LOCATION:会場不明（兵庫県）
-DESCRIPTION:大会：兵庫新人戦 兵庫\n都道府県：会場不明（兵庫県\n出典：https://koko-soccer.com/score/
- 4299\n会場：不明（兵庫県）
-END:VEVENT
-BEGIN:VEVENT
-UID:103bdcf9-a266-5808-878e-b131d1e51202
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260125T113000
-DTEND;TZID=Asia/Tokyo:20260125T133000
-SUMMARY:兵庫県／兵庫新人戦 神戸科学技術
-LOCATION:会場不明（兵庫県）
-DESCRIPTION:大会：兵庫新人戦 神戸科学技術\n都道府県：会場不明（兵庫県\n出典：https://koko-soccer.com/sc
- ore/4299\n会場：不明（兵庫県）
-END:VEVENT
-BEGIN:VEVENT
-UID:ec288341-ea6c-5f49-baf9-a994fbcea117
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260125T130000
-DTEND;TZID=Asia/Tokyo:20260125T150000
-SUMMARY:兵庫県／兵庫新人戦 市立西宮
-LOCATION:会場不明（兵庫県）
-DESCRIPTION:大会：兵庫新人戦 市立西宮\n都道府県：会場不明（兵庫県\n出典：https://koko-soccer.com/scor
- e/4299\n会場：不明（兵庫県）
-END:VEVENT
-BEGIN:VEVENT
-UID:6cca09cd-9a70-5e3c-bbaa-65396bd4e2de
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260125T130000
-DTEND;TZID=Asia/Tokyo:20260125T150000
-SUMMARY:兵庫県／兵庫新人戦 神戸弘陵
-LOCATION:会場不明（兵庫県）
-DESCRIPTION:大会：兵庫新人戦 神戸弘陵\n都道府県：会場不明（兵庫県\n出典：https://koko-soccer.com/scor
- e/4299\n会場：不明（兵庫県）
-END:VEVENT
-BEGIN:VEVENT
-UID:7574fab6-4e77-5509-af0f-78910beaff62
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260125T130000
-DTEND;TZID=Asia/Tokyo:20260125T150000
-SUMMARY:兵庫県／兵庫新人戦 雲雀丘学園
-LOCATION:会場不明（兵庫県）
-DESCRIPTION:大会：兵庫新人戦 雲雀丘学園\n都道府県：会場不明（兵庫県\n出典：https://koko-soccer.com/sco
- re/4299\n会場：不明（兵庫県）
-END:VEVENT
-BEGIN:VEVENT
-UID:5e8969c3-bb53-58f7-88a4-8e5beab2e196
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260125T143000
-DTEND;TZID=Asia/Tokyo:20260125T163000
-SUMMARY:兵庫県／兵庫新人戦 報徳学園
-LOCATION:会場不明（兵庫県）
-DESCRIPTION:大会：兵庫新人戦 報徳学園\n都道府県：会場不明（兵庫県\n出典：https://koko-soccer.com/scor
- e/4299\n会場：不明（兵庫県）
-END:VEVENT
-BEGIN:VEVENT
-UID:f714bae5-53ba-5855-a90f-dc133d10d137
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260125T143000
-DTEND;TZID=Asia/Tokyo:20260125T163000
-SUMMARY:兵庫県／兵庫新人戦 神戸星城
-LOCATION:会場不明（兵庫県）
-DESCRIPTION:大会：兵庫新人戦 神戸星城\n都道府県：会場不明（兵庫県\n出典：https://koko-soccer.com/scor
- e/4299\n会場：不明（兵庫県）
-END:VEVENT
-BEGIN:VEVENT
-UID:e50e8a73-4012-5802-8352-643e3bd3937a
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260131T100000
-DTEND;TZID=Asia/Tokyo:20260131T120000
-SUMMARY:兵庫県／兵庫新人戦 関西学院
-LOCATION:会場不明（兵庫県）
-DESCRIPTION:大会：兵庫新人戦 関西学院\n都道府県：会場不明（兵庫県\n出典：https://koko-soccer.com/scor
- e/4299\n会場：不明（兵庫県）
-END:VEVENT
-BEGIN:VEVENT
-UID:f340d039-67e8-5942-b7d5-fa74ab065875
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260131T100000
-DTEND;TZID=Asia/Tokyo:20260131T120000
-SUMMARY:奈良県／奈良新人戦 奈良育英
-LOCATION:会場不明（奈良県）
-DESCRIPTION:大会：奈良新人戦 奈良育英\n都道府県：会場不明（奈良県\n出典：https://koko-soccer.com/scor
- e/4279\n会場：不明（奈良県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：莵道
 END:VEVENT
 BEGIN:VEVENT
 UID:86708901-3570-5766-9ea3-765a41631a3f
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260131T110000
 DTEND;TZID=Asia/Tokyo:20260131T130000
-SUMMARY:京都府／京都新人戦 京都橘
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 京都橘\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/score/
- 4296\n会場：不明（京都府）
-END:VEVENT
-BEGIN:VEVENT
-UID:cdd69e98-66f0-5e04-ba0b-540173bc200b
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260131T113000
-DTEND;TZID=Asia/Tokyo:20260131T133000
-SUMMARY:兵庫県／兵庫新人戦 報徳学園
-LOCATION:会場不明（兵庫県）
-DESCRIPTION:大会：兵庫新人戦 報徳学園\n都道府県：会場不明（兵庫県\n出典：https://koko-soccer.com/scor
- e/4299\n会場：不明（兵庫県）
-END:VEVENT
-BEGIN:VEVENT
-UID:97264d0c-ecec-57c8-addc-245a9630301e
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260131T120000
-DTEND;TZID=Asia/Tokyo:20260131T140000
-SUMMARY:和歌山県／和歌山新人戦 那賀
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦 那賀\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/scor
- e/4270\n会場：不明（和歌山県）
-END:VEVENT
-BEGIN:VEVENT
-UID:4c9f5faa-1e71-5110-823a-7907cee3dd7a
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260131T123000
-DTEND;TZID=Asia/Tokyo:20260131T143000
-SUMMARY:奈良県／奈良新人戦 奈良学園
-LOCATION:会場不明（奈良県）
-DESCRIPTION:大会：奈良新人戦 奈良学園\n都道府県：会場不明（奈良県\n出典：https://koko-soccer.com/scor
- e/4279\n会場：不明（奈良県）
-END:VEVENT
-BEGIN:VEVENT
-UID:cf76950d-7211-5694-95db-1f8640080a73
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260131T130000
-DTEND;TZID=Asia/Tokyo:20260131T150000
-SUMMARY:兵庫県／兵庫新人戦 神戸弘陵
-LOCATION:会場不明（兵庫県）
-DESCRIPTION:大会：兵庫新人戦 神戸弘陵\n都道府県：会場不明（兵庫県\n出典：https://koko-soccer.com/scor
- e/4299\n会場：不明（兵庫県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：京都橘
 END:VEVENT
 BEGIN:VEVENT
 UID:fcce4897-54ac-5eab-8740-a59c5bd939ff
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260131T133000
 DTEND;TZID=Asia/Tokyo:20260131T153000
-SUMMARY:京都府／京都新人戦 京都共栄
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 京都共栄\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/score
- /4296\n会場：不明（京都府）
-END:VEVENT
-BEGIN:VEVENT
-UID:116cf417-ef91-534d-8297-2bb2b60e0261
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260131T140000
-DTEND;TZID=Asia/Tokyo:20260131T160000
-SUMMARY:和歌山県／和歌山新人戦 近大新宮
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦 近大新宮\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/sc
- ore/4270\n会場：不明（和歌山県）
-END:VEVENT
-BEGIN:VEVENT
-UID:bb05c399-99ff-5509-b07d-4f24b6b88cb1
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260131T143000
-DTEND;TZID=Asia/Tokyo:20260131T163000
-SUMMARY:兵庫県／兵庫新人戦 長田
-LOCATION:会場不明（兵庫県）
-DESCRIPTION:大会：兵庫新人戦 長田\n都道府県：会場不明（兵庫県\n出典：https://koko-soccer.com/score/
- 4299\n会場：不明（兵庫県）
-END:VEVENT
-BEGIN:VEVENT
-UID:517aef90-8d66-5baf-9e03-452584dc2e39
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260201T103000
-DTEND;TZID=Asia/Tokyo:20260201T123000
-SUMMARY:和歌山県／和歌山新人戦 初芝橋本
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦 初芝橋本\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/sc
- ore/4270\n会場：不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：京都共栄
 END:VEVENT
 BEGIN:VEVENT
 UID:5d9dff7f-73d6-5c15-abc3-d16400c61190
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260201T110000
 DTEND;TZID=Asia/Tokyo:20260201T130000
-SUMMARY:京都府／京都新人戦 京都橘
+SUMMARY:京都府／京都新人戦
 LOCATION:会場不明（京都府）
-DESCRIPTION:大会：京都新人戦 京都橘\n都道府県：会場不明（京都\n出典：https://koko-soccer.com/score/
- 4296\n会場：不明（京都府）
+DESCRIPTION:出典：https://koko-soccer.com/score/4296\n会場：不明（京都府）\n回戦等：京都橘
 END:VEVENT
 BEGIN:VEVENT
-UID:691e0561-d149-589f-9011-b28349727c64
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260201T130000
-DTEND;TZID=Asia/Tokyo:20260201T150000
-SUMMARY:和歌山県／和歌山新人戦 和歌山北
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦 和歌山北\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/sc
- ore/4270\n会場：不明（和歌山県）
+UID:3907fa3f-a381-55c2-a914-f8d9270485d4
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260125T100000
+DTEND;TZID=Asia/Tokyo:20260125T120000
+SUMMARY:兵庫県／兵庫新人戦
+LOCATION:会場不明（兵庫県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4299\n会場：不明（兵庫県）\n回戦等：関西学院
 END:VEVENT
 BEGIN:VEVENT
-UID:41ea014a-9401-51b1-baf0-59b59b515f55
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260207T100000
-DTEND;TZID=Asia/Tokyo:20260207T120000
-SUMMARY:奈良県／奈良新人戦 奈良育英
-LOCATION:会場不明（奈良県）
-DESCRIPTION:大会：奈良新人戦 奈良育英\n都道府県：会場不明（奈良県\n出典：https://koko-soccer.com/scor
- e/4279\n会場：不明（奈良県）
+UID:a092c6b1-be40-5159-8fb0-8447ed39466c
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260125T113000
+DTEND;TZID=Asia/Tokyo:20260125T133000
+SUMMARY:兵庫県／兵庫新人戦
+LOCATION:会場不明（兵庫県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4299\n会場：不明（兵庫県）\n回戦等：兵庫
 END:VEVENT
 BEGIN:VEVENT
-UID:5f012d16-0215-5230-abd8-d6be2c789b2a
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260207T103000
-DTEND;TZID=Asia/Tokyo:20260207T123000
-SUMMARY:和歌山県／和歌山新人戦
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/score/4
- 270\n初芝橋本/日高 vs 那賀/桐蔭（勝者同士）\n会場：不明（和歌山県）
+UID:103bdcf9-a266-5808-878e-b131d1e51202
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260125T113000
+DTEND;TZID=Asia/Tokyo:20260125T133000
+SUMMARY:兵庫県／兵庫新人戦
+LOCATION:会場不明（兵庫県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4299\n会場：不明（兵庫県）\n回戦等：神戸科学技術
+END:VEVENT
+BEGIN:VEVENT
+UID:ec288341-ea6c-5f49-baf9-a994fbcea117
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260125T130000
+DTEND;TZID=Asia/Tokyo:20260125T150000
+SUMMARY:兵庫県／兵庫新人戦
+LOCATION:会場不明（兵庫県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4299\n会場：不明（兵庫県）\n回戦等：市立西宮
+END:VEVENT
+BEGIN:VEVENT
+UID:6cca09cd-9a70-5e3c-bbaa-65396bd4e2de
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260125T130000
+DTEND;TZID=Asia/Tokyo:20260125T150000
+SUMMARY:兵庫県／兵庫新人戦
+LOCATION:会場不明（兵庫県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4299\n会場：不明（兵庫県）\n回戦等：神戸弘陵
+END:VEVENT
+BEGIN:VEVENT
+UID:7574fab6-4e77-5509-af0f-78910beaff62
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260125T130000
+DTEND;TZID=Asia/Tokyo:20260125T150000
+SUMMARY:兵庫県／兵庫新人戦
+LOCATION:会場不明（兵庫県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4299\n会場：不明（兵庫県）\n回戦等：雲雀丘学園
+END:VEVENT
+BEGIN:VEVENT
+UID:5e8969c3-bb53-58f7-88a4-8e5beab2e196
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260125T143000
+DTEND;TZID=Asia/Tokyo:20260125T163000
+SUMMARY:兵庫県／兵庫新人戦
+LOCATION:会場不明（兵庫県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4299\n会場：不明（兵庫県）\n回戦等：報徳学園
+END:VEVENT
+BEGIN:VEVENT
+UID:f714bae5-53ba-5855-a90f-dc133d10d137
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260125T143000
+DTEND;TZID=Asia/Tokyo:20260125T163000
+SUMMARY:兵庫県／兵庫新人戦
+LOCATION:会場不明（兵庫県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4299\n会場：不明（兵庫県）\n回戦等：神戸星城
+END:VEVENT
+BEGIN:VEVENT
+UID:e50e8a73-4012-5802-8352-643e3bd3937a
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:兵庫県／兵庫新人戦
+LOCATION:会場不明（兵庫県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4299\n会場：不明（兵庫県）\n回戦等：関西学院
+END:VEVENT
+BEGIN:VEVENT
+UID:cdd69e98-66f0-5e04-ba0b-540173bc200b
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260131T113000
+DTEND;TZID=Asia/Tokyo:20260131T133000
+SUMMARY:兵庫県／兵庫新人戦
+LOCATION:会場不明（兵庫県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4299\n会場：不明（兵庫県）\n回戦等：報徳学園
+END:VEVENT
+BEGIN:VEVENT
+UID:cf76950d-7211-5694-95db-1f8640080a73
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260131T130000
+DTEND;TZID=Asia/Tokyo:20260131T150000
+SUMMARY:兵庫県／兵庫新人戦
+LOCATION:会場不明（兵庫県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4299\n会場：不明（兵庫県）\n回戦等：神戸弘陵
+END:VEVENT
+BEGIN:VEVENT
+UID:bb05c399-99ff-5509-b07d-4f24b6b88cb1
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260131T143000
+DTEND;TZID=Asia/Tokyo:20260131T163000
+SUMMARY:兵庫県／兵庫新人戦
+LOCATION:会場不明（兵庫県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4299\n会場：不明（兵庫県）\n回戦等：長田
 END:VEVENT
 BEGIN:VEVENT
 UID:1e6406cc-0fe7-5134-8b0f-8ab741e0119b
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260207T110000
 DTEND;TZID=Asia/Tokyo:20260207T130000
-SUMMARY:兵庫県／兵庫新人戦 芦屋学園
+SUMMARY:兵庫県／兵庫新人戦
 LOCATION:会場不明（兵庫県）
-DESCRIPTION:大会：兵庫新人戦 芦屋学園\n都道府県：会場不明（兵庫県\n出典：https://koko-soccer.com/scor
- e/4299\n会場：不明（兵庫県）
-END:VEVENT
-BEGIN:VEVENT
-UID:9f0d929e-8b5c-5650-bcf7-842271003c9c
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260207T123000
-DTEND;TZID=Asia/Tokyo:20260207T143000
-SUMMARY:和歌山県／和歌山新人戦
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/score/4
- 270\n和歌山北/星林 vs 近大新宮/近大和歌山（勝者同士）\n会場：不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4299\n会場：不明（兵庫県）\n回戦等：芦屋学園
 END:VEVENT
 BEGIN:VEVENT
 UID:22be8d2a-cc8b-57ce-acb0-7dbf5cec9757
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260207T130000
 DTEND;TZID=Asia/Tokyo:20260207T150000
-SUMMARY:兵庫県／兵庫新人戦 三田松聖
+SUMMARY:兵庫県／兵庫新人戦
 LOCATION:会場不明（兵庫県）
-DESCRIPTION:大会：兵庫新人戦 三田松聖\n都道府県：会場不明（兵庫県\n出典：https://koko-soccer.com/scor
- e/4299\n会場：不明（兵庫県）
-END:VEVENT
-BEGIN:VEVENT
-UID:ebb591e6-78f8-5675-97b4-1ea2a72b41be
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260208T103000
-DTEND;TZID=Asia/Tokyo:20260208T123000
-SUMMARY:和歌山県／和歌山新人戦
-LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/score/4
- 270\n対戦未確定（掲載時点）\n会場：不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4299\n会場：不明（兵庫県）\n回戦等：三田松聖
 END:VEVENT
 BEGIN:VEVENT
 UID:c93c3cbd-120f-50c0-8aa7-f21f291cf99b
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260208T130000
 DTEND;TZID=Asia/Tokyo:20260208T150000
 SUMMARY:兵庫県／兵庫新人戦
 LOCATION:会場不明（兵庫県）
-DESCRIPTION:大会：兵庫新人戦\n都道府県：会場不明（兵庫県\n出典：https://koko-soccer.com/score/429
- 9\n対戦カード未確定（掲載時点）\n会場：不明（兵庫県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4299\n対戦カード未確定（掲載時点）\n会場：不明（兵庫
+ 県）
+END:VEVENT
+BEGIN:VEVENT
+UID:95c7b959-c949-5e17-b562-53cd6a758b63
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:奈良県／奈良新人戦
+LOCATION:会場不明（奈良県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4279\n会場：不明（奈良県）\n回戦等：五條
+END:VEVENT
+BEGIN:VEVENT
+UID:3d25f91a-9de3-56fa-8727-6754c69a9325
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:奈良県／奈良新人戦
+LOCATION:会場不明（奈良県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4279\n会場：不明（奈良県）\n回戦等：一条
+END:VEVENT
+BEGIN:VEVENT
+UID:6c5c3dcb-89d8-5c15-b468-c8fd0cd6f27c
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:奈良県／奈良新人戦
+LOCATION:会場不明（奈良県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4279\n会場：不明（奈良県）\n回戦等：大和広陵
+END:VEVENT
+BEGIN:VEVENT
+UID:068b9b41-55da-5644-8c7d-7e9ad5d26597
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260117T121500
+DTEND;TZID=Asia/Tokyo:20260117T141500
+SUMMARY:奈良県／奈良新人戦
+LOCATION:会場不明（奈良県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4279\n会場：不明（奈良県）\n回戦等：郡山
+END:VEVENT
+BEGIN:VEVENT
+UID:574429ff-47ed-5f0e-8cb5-ebaf0595cad0
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260117T121500
+DTEND;TZID=Asia/Tokyo:20260117T141500
+SUMMARY:奈良県／奈良新人戦
+LOCATION:会場不明（奈良県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4279\n会場：不明（奈良県）\n回戦等：橿原
+END:VEVENT
+BEGIN:VEVENT
+UID:097f72cc-cd2a-5b6f-bf5b-c9f3290a0c2c
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260117T121500
+DTEND;TZID=Asia/Tokyo:20260117T141500
+SUMMARY:奈良県／奈良新人戦
+LOCATION:会場不明（奈良県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4279\n会場：不明（奈良県）\n回戦等：香芝
+END:VEVENT
+BEGIN:VEVENT
+UID:b74cce1e-ce18-59c6-88ca-df7c253fe403
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260117T143000
+DTEND;TZID=Asia/Tokyo:20260117T163000
+SUMMARY:奈良県／奈良新人戦
+LOCATION:会場不明（奈良県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4279\n会場：不明（奈良県）\n回戦等：生駒
+END:VEVENT
+BEGIN:VEVENT
+UID:23c749f2-cd14-5abc-9be2-bd2ce421bdc5
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:奈良県／奈良新人戦
+LOCATION:会場不明（奈良県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4279\n会場：不明（奈良県）\n回戦等：奈良育英
+END:VEVENT
+BEGIN:VEVENT
+UID:928a8067-ecd8-5f8e-a9e5-31f6a6308ade
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:奈良県／奈良新人戦
+LOCATION:会場不明（奈良県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4279\n会場：不明（奈良県）\n回戦等：法隆寺国際
+END:VEVENT
+BEGIN:VEVENT
+UID:4c9fa644-7bb1-51c0-8798-6e9bc10d577a
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260124T123000
+DTEND;TZID=Asia/Tokyo:20260124T143000
+SUMMARY:奈良県／奈良新人戦
+LOCATION:会場不明（奈良県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4279\n会場：不明（奈良県）\n回戦等：奈良学園登美ヶ丘
+END:VEVENT
+BEGIN:VEVENT
+UID:41792db8-1cb2-50b3-819b-e695f79b37f9
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260124T123000
+DTEND;TZID=Asia/Tokyo:20260124T143000
+SUMMARY:奈良県／奈良新人戦
+LOCATION:会場不明（奈良県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4279\n会場：不明（奈良県）\n回戦等：一条
+END:VEVENT
+BEGIN:VEVENT
+UID:f340d039-67e8-5942-b7d5-fa74ab065875
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:奈良県／奈良新人戦
+LOCATION:会場不明（奈良県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4279\n会場：不明（奈良県）\n回戦等：奈良育英
+END:VEVENT
+BEGIN:VEVENT
+UID:4c9f5faa-1e71-5110-823a-7907cee3dd7a
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260131T123000
+DTEND;TZID=Asia/Tokyo:20260131T143000
+SUMMARY:奈良県／奈良新人戦
+LOCATION:会場不明（奈良県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4279\n会場：不明（奈良県）\n回戦等：奈良学園
+END:VEVENT
+BEGIN:VEVENT
+UID:41ea014a-9401-51b1-baf0-59b59b515f55
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260207T100000
+DTEND;TZID=Asia/Tokyo:20260207T120000
+SUMMARY:奈良県／奈良新人戦
+LOCATION:会場不明（奈良県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4279\n会場：不明（奈良県）\n回戦等：奈良育英
+END:VEVENT
+BEGIN:VEVENT
+UID:7bc1817e-591c-5007-9ba3-6c10fd0e1a47
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260110T100000
+DTEND;TZID=Asia/Tokyo:20260110T120000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n会場：不明（和歌山県）\n回戦等：日高
+END:VEVENT
+BEGIN:VEVENT
+UID:02e6f836-696d-538a-85c4-208c7a7b9237
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260110T120000
+DTEND;TZID=Asia/Tokyo:20260110T140000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n会場：不明（和歌山県）\n回戦等：橋本
+END:VEVENT
+BEGIN:VEVENT
+UID:f73dd9d8-fd98-5538-a0d1-9e0b72376eb9
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260110T140000
+DTEND;TZID=Asia/Tokyo:20260110T160000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n会場：不明（和歌山県）\n回戦等：神島・田辺工
+END:VEVENT
+BEGIN:VEVENT
+UID:5c547510-cd87-53a7-89cd-03cd2214b651
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260111T103000
+DTEND;TZID=Asia/Tokyo:20260111T123000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n会場：不明（和歌山県）\n回戦等：和歌山高専
+END:VEVENT
+BEGIN:VEVENT
+UID:9315c3d6-ba7d-5066-a8b9-42f0f86ede99
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260111T133000
+DTEND;TZID=Asia/Tokyo:20260111T153000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n会場：不明（和歌山県）\n回戦等：開智
+END:VEVENT
+BEGIN:VEVENT
+UID:8ee1e3c4-15b9-52a3-8b7a-9719b58a2690
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260113T120000
+DTEND;TZID=Asia/Tokyo:20260113T140000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n会場：不明（和歌山県）\n回戦等：星林
+END:VEVENT
+BEGIN:VEVENT
+UID:1f80b238-622d-50e8-9f73-1297ae01eef7
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260116T123000
+DTEND;TZID=Asia/Tokyo:20260116T143000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n会場：不明（和歌山県）\n回戦等：那賀
+END:VEVENT
+BEGIN:VEVENT
+UID:058f337f-6843-562c-809b-60f704906e6f
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260116T143000
+DTEND;TZID=Asia/Tokyo:20260116T163000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n会場：不明（和歌山県）\n回戦等：近大新宮
+END:VEVENT
+BEGIN:VEVENT
+UID:c8aa05ca-aba3-530d-8936-d6510eb443c4
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260117T133000
+DTEND;TZID=Asia/Tokyo:20260117T153000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n会場：不明（和歌山県）\n回戦等：日高
+END:VEVENT
+BEGIN:VEVENT
+UID:e5b6f7df-c439-5d3b-a06d-20e80ba182fd
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260117T153000
+DTEND;TZID=Asia/Tokyo:20260117T173000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n会場：不明（和歌山県）\n回戦等：向陽
+END:VEVENT
+BEGIN:VEVENT
+UID:741f0faf-68f6-5cff-9806-b76c3a440c0c
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n会場：不明（和歌山県）\n回戦等：和歌山北
+END:VEVENT
+BEGIN:VEVENT
+UID:1b62e565-cff0-5a51-9e93-e6eaed2534bf
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260118T120000
+DTEND;TZID=Asia/Tokyo:20260118T140000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n会場：不明（和歌山県）\n回戦等：粉河
+END:VEVENT
+BEGIN:VEVENT
+UID:fa6d8377-bdb5-5143-846b-54ac86d5beb4
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260118T140000
+DTEND;TZID=Asia/Tokyo:20260118T160000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n会場：不明（和歌山県）\n回戦等：星林
+END:VEVENT
+BEGIN:VEVENT
+UID:97264d0c-ecec-57c8-addc-245a9630301e
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260131T120000
+DTEND;TZID=Asia/Tokyo:20260131T140000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n会場：不明（和歌山県）\n回戦等：那賀
+END:VEVENT
+BEGIN:VEVENT
+UID:116cf417-ef91-534d-8297-2bb2b60e0261
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260131T140000
+DTEND;TZID=Asia/Tokyo:20260131T160000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n会場：不明（和歌山県）\n回戦等：近大新宮
+END:VEVENT
+BEGIN:VEVENT
+UID:517aef90-8d66-5baf-9e03-452584dc2e39
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260201T103000
+DTEND;TZID=Asia/Tokyo:20260201T123000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n会場：不明（和歌山県）\n回戦等：初芝橋本
+END:VEVENT
+BEGIN:VEVENT
+UID:691e0561-d149-589f-9011-b28349727c64
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260201T130000
+DTEND;TZID=Asia/Tokyo:20260201T150000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n会場：不明（和歌山県）\n回戦等：和歌山北
+END:VEVENT
+BEGIN:VEVENT
+UID:5f012d16-0215-5230-abd8-d6be2c789b2a
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260207T103000
+DTEND;TZID=Asia/Tokyo:20260207T123000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n初芝橋本/日高 vs 那賀/桐蔭（勝者同士）\n
+ 会場：不明（和歌山県）\n対戦：初芝橋本/日高 vs 那賀/桐蔭（勝者同士）
+END:VEVENT
+BEGIN:VEVENT
+UID:9f0d929e-8b5c-5650-bcf7-842271003c9c
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260207T123000
+DTEND;TZID=Asia/Tokyo:20260207T143000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n和歌山北/星林 vs 近大新宮/近大和歌山（勝者
+ 同士）\n会場：不明（和歌山県）\n対戦：和歌山北/星林 vs 近大新宮/近大和歌山（勝者同士）
+END:VEVENT
+BEGIN:VEVENT
+UID:ebb591e6-78f8-5675-97b4-1ea2a72b41be
+DTSTAMP:20260203T064451Z
+DTSTART;TZID=Asia/Tokyo:20260208T103000
+DTEND;TZID=Asia/Tokyo:20260208T123000
+SUMMARY:和歌山県／和歌山新人戦
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n対戦未確定（掲載時点）\n会場：不明（和歌山県）
 END:VEVENT
 BEGIN:VEVENT
 UID:d9df0be3-a675-544b-9774-6eae933fefab
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T064451Z
 DTSTART;TZID=Asia/Tokyo:20260208T130000
 DTEND;TZID=Asia/Tokyo:20260208T150000
 SUMMARY:和歌山県／和歌山新人戦
 LOCATION:会場不明（和歌山県）
-DESCRIPTION:大会：和歌山新人戦\n都道府県：会場不明（和歌山県\n出典：https://koko-soccer.com/score/4
- 270\n対戦未確定（掲載時点）\n会場：不明（和歌山県）
+DESCRIPTION:出典：https://koko-soccer.com/score/4270\n対戦未確定（掲載時点）\n会場：不明（和歌山県）
 END:VEVENT
 END:VCALENDAR
+

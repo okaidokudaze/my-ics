@@ -6,101 +6,119 @@ METHOD:PUBLISH
 X-WR-CALNAME:【北海道東北】女子高校サッカー
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_girls-8d039b7be72637a7961a9c46c17dc9b2bc88d
- a38@my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+UID:soccer_hokkaido_tohoku_hs_girls-8d039b7be72637a7961a9c46c17dc9b2bc88da3
+ 8@my-ics
+DTSTAMP:20260203T011616Z
 DTSTART;TZID=Asia/Tokyo:20260124T103000
 DTEND;TZID=Asia/Tokyo:20260124T123000
-SUMMARY:福島県／大会ページ
+SUMMARY:【北海道東北-女子高校】第25回東北高校新人サッ
+ カー選手権大会（女子） 1回戦 聖和学園 5-1 ふたば未来
+ 学園
 LOCATION:相馬光陽サッカー場（福島県相馬市）（D）
-DESCRIPTION:大会：大会ページ\n都道府県：相馬光陽サッカー場（福島県\n第25回東北高校新人サッカー選手権大会（女子）\nラウンド：1
- 回戦\n対戦：聖和学園 vs ふたば未来学園\n結果：5-1\nKO時刻：確定\n出典：東北サッカー協会（大会ページ） https://toho
- ku-fa.jp/?p=10979\n出典：東北サッカー協会（公式記録PDF） https://tohoku-fa.jp/wp-content/
- uploads/2026/01/47e3e523f38e05d74d8e9640500fe304.pdf
+DESCRIPTION:第25回東北高校新人サッカー選手権大会（女子
+ ）\nラウンド：1回戦\n対戦：聖和学園 vs ふたば未来学園
+ \n結果：5-1\nKO時刻：確定\n出典：東北サッカー協会（大
+ 会ページ） https://tohoku-fa.jp/?p=10979\n出典：東北サッカー
+ 協会（公式記録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/01
+ /47e3e523f38e05d74d8e9640500fe304.pdf
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_girls-3d5356e22fa84bfd604fd4b377682682f96ad
- 561@my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+UID:soccer_hokkaido_tohoku_hs_girls-3d5356e22fa84bfd604fd4b377682682f96ad56
+ 1@my-ics
+DTSTAMP:20260203T011616Z
 DTSTART;TZID=Asia/Tokyo:20260124T130000
 DTEND;TZID=Asia/Tokyo:20260124T150000
-SUMMARY:福島県／大会ページ
+SUMMARY:【北海道東北-女子高校】第25回東北高校新人サッ
+ カー選手権大会（女子） 1回戦 尚志 1-1 山形明正
 LOCATION:相馬光陽サッカー場（福島県相馬市）（D）
-DESCRIPTION:大会：大会ページ\n都道府県：相馬光陽サッカー場（福島県\n第25回東北高校新人サッカー選手権大会（女子）\nラウンド：1
- 回戦\n対戦：尚志 vs 山形明正\n結果：1-1\nKO時刻：確定\n出典：東北サッカー協会（大会ページ） https://tohoku-fa
- .jp/?p=10979\n出典：東北サッカー協会（公式記録PDF） https://tohoku-fa.jp/wp-content/uploa
- ds/2026/01/47e3e523f38e05d74d8e9640500fe304.pdf
+DESCRIPTION:第25回東北高校新人サッカー選手権大会（女子
+ ）\nラウンド：1回戦\n対戦：尚志 vs 山形明正\n結果：1-1\
+ nKO時刻：確定\n出典：東北サッカー協会（大会ページ） 
+ https://tohoku-fa.jp/?p=10979\n出典：東北サッカー協会（公式
+ 記録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/01/47e3e523f38e05
+ d74d8e9640500fe304.pdf
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_girls-208bf08e23c137f77c4f6b6d66f98cd7da93d
- c93@my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+UID:soccer_hokkaido_tohoku_hs_girls-208bf08e23c137f77c4f6b6d66f98cd7da93dc9
+ 3@my-ics
+DTSTAMP:20260203T011616Z
 DTSTART;TZID=Asia/Tokyo:20260124T130000
 DTEND;TZID=Asia/Tokyo:20260124T150000
-SUMMARY:福島県／大会ページ
+SUMMARY:【北海道東北-女子高校】第25回東北高校新人サッ
+ カー選手権大会（女子） 1回戦 常盤木学園 0-0 専修大北
+ 上
 LOCATION:相馬光陽サッカー場（福島県相馬市）（E）
-DESCRIPTION:大会：大会ページ\n都道府県：相馬光陽サッカー場（福島県\n第25回東北高校新人サッカー選手権大会（女子）\nラウンド：1
- 回戦\n対戦：常盤木学園 vs 専修大北上\n結果：0-0\nKO時刻：確定\n出典：東北サッカー協会（大会ページ） https://tohok
- u-fa.jp/?p=10979\n出典：東北サッカー協会（公式記録PDF） https://tohoku-fa.jp/wp-content/u
- ploads/2026/01/47e3e523f38e05d74d8e9640500fe304.pdf
+DESCRIPTION:第25回東北高校新人サッカー選手権大会（女子
+ ）\nラウンド：1回戦\n対戦：常盤木学園 vs 専修大北上\n
+ 結果：0-0\nKO時刻：確定\n出典：東北サッカー協会（大会
+ ページ） https://tohoku-fa.jp/?p=10979\n出典：東北サッカー協
+ 会（公式記録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/01/47
+ e3e523f38e05d74d8e9640500fe304.pdf
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_girls-0c8106c31bcbb1f04ef3221d41288ee22b008
- 705@my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+UID:soccer_hokkaido_tohoku_hs_girls-0c8106c31bcbb1f04ef3221d41288ee22b00870
+ 5@my-ics
+DTSTAMP:20260203T011616Z
 DTSTART;TZID=Asia/Tokyo:20260125T103000
 DTEND;TZID=Asia/Tokyo:20260125T123000
-SUMMARY:福島県／大会ページ
+SUMMARY:【北海道東北-女子高校】第25回東北高校新人サッ
+ カー選手権大会（女子） 準決勝 聖和学園 3-0 ノースア
+ ジア大明桜
 LOCATION:相馬光陽サッカー場（福島県相馬市）（D）
-DESCRIPTION:大会：大会ページ\n都道府県：相馬光陽サッカー場（福島県\n第25回東北高校新人サッカー選手権大会（女子）\nラウンド：準
- 決勝\n対戦：聖和学園 vs ノースアジア大明桜\n結果：3-0\nKO時刻：確定\n出典：東北サッカー協会（大会ページ） https://to
- hoku-fa.jp/?p=10979\n出典：東北サッカー協会（公式記録PDF） https://tohoku-fa.jp/wp-conten
- t/uploads/2026/01/47e3e523f38e05d74d8e9640500fe304.pdf
+DESCRIPTION:第25回東北高校新人サッカー選手権大会（女子
+ ）\nラウンド：準決勝\n対戦：聖和学園 vs ノースアジア
+ 大明桜\n結果：3-0\nKO時刻：確定\n出典：東北サッカー協
+ 会（大会ページ） https://tohoku-fa.jp/?p=10979\n出典：東北サ
+ ッカー協会（公式記録PDF） https://tohoku-fa.jp/wp-content/upload
+ s/2026/01/47e3e523f38e05d74d8e9640500fe304.pdf
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_girls-fea7e2c8e94ede834a89e53d035348d50b4b5
- 9df@my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+UID:soccer_hokkaido_tohoku_hs_girls-fea7e2c8e94ede834a89e53d035348d50b4b59d
+ f@my-ics
+DTSTAMP:20260203T011616Z
 DTSTART;TZID=Asia/Tokyo:20260125T103000
 DTEND;TZID=Asia/Tokyo:20260125T123000
-SUMMARY:福島県／大会ページ
+SUMMARY:【北海道東北-女子高校】第25回東北高校新人サッ
+ カー選手権大会（女子） 準決勝 尚志 1-2 常盤木学園
 LOCATION:相馬光陽サッカー場（福島県相馬市）（E）
-DESCRIPTION:大会：大会ページ\n都道府県：相馬光陽サッカー場（福島県\n第25回東北高校新人サッカー選手権大会（女子）\nラウンド：準
- 決勝\n対戦：尚志 vs 常盤木学園\n結果：1-2\nKO時刻：確定\n出典：東北サッカー協会（大会ページ） https://tohoku-f
- a.jp/?p=10979\n出典：東北サッカー協会（公式記録PDF） https://tohoku-fa.jp/wp-content/uplo
- ads/2026/01/47e3e523f38e05d74d8e9640500fe304.pdf
+DESCRIPTION:第25回東北高校新人サッカー選手権大会（女子
+ ）\nラウンド：準決勝\n対戦：尚志 vs 常盤木学園\n結果
+ ：1-2\nKO時刻：確定\n出典：東北サッカー協会（大会ペー
+ ジ） https://tohoku-fa.jp/?p=10979\n出典：東北サッカー協会（
+ 公式記録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/01/47e3e523
+ f38e05d74d8e9640500fe304.pdf
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_girls-71da264edf59924f5b07091bc4badab848e53
- a13@my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+UID:soccer_hokkaido_tohoku_hs_girls-71da264edf59924f5b07091bc4badab848e53a1
+ 3@my-ics
+DTSTAMP:20260203T011616Z
 DTSTART;TZID=Asia/Tokyo:20260126T103000
 DTEND;TZID=Asia/Tokyo:20260126T123000
-SUMMARY:福島県／大会ページ
+SUMMARY:【北海道東北-女子高校】第25回東北高校新人サッ
+ カー選手権大会（女子） 3位決定戦 ノースアジア大明桜
+  0-4 尚志
 LOCATION:相馬光陽サッカー場（福島県相馬市）（D）
-DESCRIPTION:大会：大会ページ\n都道府県：相馬光陽サッカー場（福島県\n第25回東北高校新人サッカー選手権大会（女子）\nラウンド：3
- 位決定戦\n対戦：ノースアジア大明桜 vs 尚志\n結果：0-4\nKO時刻：確定\n出典：東北サッカー協会（大会ページ） https://to
- hoku-fa.jp/?p=10979\n出典：東北サッカー協会（公式記録PDF） https://tohoku-fa.jp/wp-conten
- t/uploads/2026/01/47e3e523f38e05d74d8e9640500fe304.pdf
+DESCRIPTION:第25回東北高校新人サッカー選手権大会（女子
+ ）\nラウンド：3位決定戦\n対戦：ノースアジア大明桜 vs 
+ 尚志\n結果：0-4\nKO時刻：確定\n出典：東北サッカー協会
+ （大会ページ） https://tohoku-fa.jp/?p=10979\n出典：東北サッ
+ カー協会（公式記録PDF） https://tohoku-fa.jp/wp-content/uploads/2
+ 026/01/47e3e523f38e05d74d8e9640500fe304.pdf
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_hokkaido_tohoku_hs_girls-d8970e7718bbc52ae2e0017d310885b924466
- 812@my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+UID:soccer_hokkaido_tohoku_hs_girls-d8970e7718bbc52ae2e0017d310885b92446681
+ 2@my-ics
+DTSTAMP:20260203T011616Z
 DTSTART;TZID=Asia/Tokyo:20260126T130000
 DTEND;TZID=Asia/Tokyo:20260126T150000
-SUMMARY:福島県／大会ページ
+SUMMARY:【北海道東北-女子高校】第25回東北高校新人サッ
+ カー選手権大会（女子） 決勝 聖和学園 1-0 常盤木学園
 LOCATION:相馬光陽サッカー場（福島県相馬市）（D）
-DESCRIPTION:大会：大会ページ\n都道府県：相馬光陽サッカー場（福島県\n第25回東北高校新人サッカー選手権大会（女子）\nラウンド：決
- 勝\n対戦：聖和学園 vs 常盤木学園\n結果：1-0\nKO時刻：確定\n出典：東北サッカー協会（大会ページ） https://tohoku-
- fa.jp/?p=10979\n出典：東北サッカー協会（公式記録PDF） https://tohoku-fa.jp/wp-content/upl
- oads/2026/01/47e3e523f38e05d74d8e9640500fe304.pdf
+DESCRIPTION:第25回東北高校新人サッカー選手権大会（女子
+ ）\nラウンド：決勝\n対戦：聖和学園 vs 常盤木学園\n結
+ 果：1-0\nKO時刻：確定\n出典：東北サッカー協会（大会ペ
+ ージ） https://tohoku-fa.jp/?p=10979\n出典：東北サッカー協会
+ （公式記録PDF） https://tohoku-fa.jp/wp-content/uploads/2026/01/47e3e
+ 523f38e05d74d8e9640500fe304.pdf
 END:VEVENT
 END:VCALENDAR

@@ -5,8 +5,5 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:【中国】男子大学サッカー
 X-WR-TIMEZONE:Asia/Tokyo
-X-WR-CALDESC:calendar_id=soccer_chugoku_uni_boys / region=中国 / scope=男子大学
- サッカー / timezone=Asia/Tokyo
+X-WR-CALDESC:calendar_id=soccer_chugoku_uni_boys / region=中国 / scope=男子大学サッカー / timezone=Asia/Tokyo
 END:VCALENDAR
-
-

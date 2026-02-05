@@ -7,387 +7,319 @@ X-WR-CALNAME:【甲信越】男子高校サッカー
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:5511254a33b42f840df9a98c6d6f9ffce69ff3f1@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20251202T103000
 DTEND;TZID=Asia/Tokyo:20251202T123000
 SUMMARY:長野県／長野新人戦（新人選手権大会）
 LOCATION:会場不明（長野県）
-DESCRIPTION:大会：長野新人戦（新人選手権大会）\n都道府県：会場不明（長野県\nスコア: 1-2\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4217
+DESCRIPTION:スコア: 1-2\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4217
 END:VEVENT
 BEGIN:VEVENT
 UID:cb0734ae865df57367358801e66dbd1b927580b1@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20251202T103000
 DTEND;TZID=Asia/Tokyo:20251202T123000
 SUMMARY:長野県／長野新人戦（新人選手権大会）
 LOCATION:会場不明（長野県）
-DESCRIPTION:大会：長野新人戦（新人選手権大会）\n都道府県：会場不明（長野県\nスコア: 0-4\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4217
+DESCRIPTION:スコア: 0-4\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4217
 END:VEVENT
 BEGIN:VEVENT
 UID:44015fa3436e50cd5972017be396034c06c7b9eb@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20251202T130000
 DTEND;TZID=Asia/Tokyo:20251202T150000
 SUMMARY:長野県／長野新人戦（新人選手権大会）
 LOCATION:会場不明（長野県）
-DESCRIPTION:大会：長野新人戦（新人選手権大会）\n都道府県：会場不明（長野県\nスコア: 0-2\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4217
+DESCRIPTION:スコア: 0-2\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4217
 END:VEVENT
 BEGIN:VEVENT
 UID:0dc95aa4129faac4e528a195faeccb4fda9107c2@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20251202T130000
 DTEND;TZID=Asia/Tokyo:20251202T150000
 SUMMARY:長野県／長野新人戦（新人選手権大会）
 LOCATION:会場不明（長野県）
-DESCRIPTION:大会：長野新人戦（新人選手権大会）\n都道府県：会場不明（長野県\nスコア: 4-0\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4217
+DESCRIPTION:スコア: 4-0\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4217
 END:VEVENT
 BEGIN:VEVENT
 UID:d1d53af53c01382a52fcf74060e23bfecc823444@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20251206T103000
 DTEND;TZID=Asia/Tokyo:20251206T123000
 SUMMARY:長野県／長野新人戦（新人選手権大会）
 LOCATION:会場不明（長野県）
-DESCRIPTION:大会：長野新人戦（新人選手権大会）\n都道府県：会場不明（長野県\nスコア: 1-0\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4217
+DESCRIPTION:スコア: 1-0\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4217
 END:VEVENT
 BEGIN:VEVENT
 UID:04fb9618e472ed832db55ddcf5e38e23b05afcc9@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20251206T130000
 DTEND;TZID=Asia/Tokyo:20251206T150000
 SUMMARY:長野県／長野新人戦（新人選手権大会）
 LOCATION:会場不明（長野県）
-DESCRIPTION:大会：長野新人戦（新人選手権大会）\n都道府県：会場不明（長野県\nスコア: 1-0\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4217
+DESCRIPTION:スコア: 1-0\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4217
 END:VEVENT
 BEGIN:VEVENT
 UID:ac2b14e49396396f68bd3b9a07f029f56b536a7b@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20251207T103000
 DTEND;TZID=Asia/Tokyo:20251207T123000
 SUMMARY:長野県／長野新人戦（新人選手権大会）
 LOCATION:会場不明（長野県）
-DESCRIPTION:大会：長野新人戦（新人選手権大会）\n都道府県：会場不明（長野県\nスコア: 1-8\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4217
+DESCRIPTION:スコア: 1-8\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4217
 END:VEVENT
 BEGIN:VEVENT
 UID:4bb0b6d34032773254c246b37b27db81d8ed90e4@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20251207T130000
 DTEND;TZID=Asia/Tokyo:20251207T150000
 SUMMARY:長野県／長野新人戦（新人選手権大会）
 LOCATION:会場不明（長野県）
-DESCRIPTION:大会：長野新人戦（新人選手権大会）\n都道府県：会場不明（長野県\nスコア: 2-1\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4217
+DESCRIPTION:スコア: 2-1\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4217
 END:VEVENT
 BEGIN:VEVENT
 UID:ca325121701eea43aebb9660647473d476556f5e@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260117T100000
 DTEND;TZID=Asia/Tokyo:20260117T120000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 勝（不戦）敗\n出典に掲載の時刻ベース\n出
- 典: https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 勝（不戦）敗\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/429
+ 7
 END:VEVENT
 BEGIN:VEVENT
 UID:b11e9bbd6e47a8aa43b6411a4dcc78d7b0ff4c8b@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260117T100000
 DTEND;TZID=Asia/Tokyo:20260117T120000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 0-1\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 0-1\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:ec0d2d57cfa6e7b1fc7fe001169c4a65bac2dbcc@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260117T120000
 DTEND;TZID=Asia/Tokyo:20260117T140000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 1-3\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 1-3\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:3bb270bae9ec44be151b16789a5a7428081f3ba9@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260117T121500
 DTEND;TZID=Asia/Tokyo:20260117T141500
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 0-1\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 0-1\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:a2b97415989dcdc5857fa7b748ed4e463bc33c99@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260117T123000
 DTEND;TZID=Asia/Tokyo:20260117T143000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 1-9\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 1-9\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:e6e43637d9596b0d36b2450d4a09b5c6959782ee@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260117T143000
 DTEND;TZID=Asia/Tokyo:20260117T163000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 2-8\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 2-8\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:64939f960f6fe3e8e4274037835f55940d847862@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260117T143000
 DTEND;TZID=Asia/Tokyo:20260117T163000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 4-1\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 4-1\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
+END:VEVENT
+BEGIN:VEVENT
+UID:2f607dddda7779c8fec8be9442252c71fd1c05b4@okaidokudaze-my-ics
+DTSTAMP:20260203T051726Z
+DTSTART;TZID=Asia/Tokyo:20260118T143000
+DTEND;TZID=Asia/Tokyo:20260118T163000
+SUMMARY:山梨県／山梨新人戦（新人選手権大会）
+LOCATION:会場不明（山梨県）
+DESCRIPTION:スコア: 0-4\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:852badbf485799049f05c2d5511842ea1466a95f@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260118T100000
 DTEND;TZID=Asia/Tokyo:20260118T120000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 1-7\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 1-7\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:0daf22bb1f48a7677b2e5b22951e08e61603d132@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260118T121500
 DTEND;TZID=Asia/Tokyo:20260118T141500
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 1-4\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 1-4\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:9bef689514c0a6ea97761db1735286b690e7e4e6@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260118T121500
 DTEND;TZID=Asia/Tokyo:20260118T141500
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 5-3\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
-END:VEVENT
-BEGIN:VEVENT
-UID:2f607dddda7779c8fec8be9442252c71fd1c05b4@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260118T143000
-DTEND;TZID=Asia/Tokyo:20260118T163000
-SUMMARY:山梨県／山梨新人戦（新人選手権大会）
-LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 0-4\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 5-3\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:556e58bc388fae37806ae47ef11a23ee31643286@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260118T143000
 DTEND;TZID=Asia/Tokyo:20260118T163000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 1-2\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 1-2\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:f90feda49d2379bdb679ab5be67c1ef575536e10@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260124T100000
 DTEND;TZID=Asia/Tokyo:20260124T120000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 0-5\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 0-5\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:5154c1d6c6f8258b7d8341fa56f7dbc3faf5ac56@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260124T100000
 DTEND;TZID=Asia/Tokyo:20260124T120000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 1-5\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 1-5\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:36f3d6a31291229b4ef0d7c9f3893873a6f0c2cc@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260124T100000
 DTEND;TZID=Asia/Tokyo:20260124T120000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 0-10\n出典に掲載の時刻ベース\n出典:
-  https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 0-10\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:d1028130e36a906282eea50e6a66d2c585d14ca4@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260124T121500
 DTEND;TZID=Asia/Tokyo:20260124T141500
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 4-0\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 4-0\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:80baafc70bbb5355ef6d2b4c7631ea69cc28266d@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260124T123000
 DTEND;TZID=Asia/Tokyo:20260124T143000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 0-8\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 0-8\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:59b40ec9055df107d8518aea36b7750fc3461c5c@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260124T123000
 DTEND;TZID=Asia/Tokyo:20260124T143000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 0-4\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 0-4\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:cd60b659d82addaa3cbf5a2806a74dfafdc2571a@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260124T143000
 DTEND;TZID=Asia/Tokyo:20260124T163000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 3-4\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 3-4\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:a91ab55c4d153b6f54349dfc7ab792696ed224a1@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260131T100000
 DTEND;TZID=Asia/Tokyo:20260131T120000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 4-0\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 4-0\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:b306ee345f5693928fc93e358ee0c1e62ce33f98@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260131T100000
 DTEND;TZID=Asia/Tokyo:20260131T120000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 1-2\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 1-2\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:24a91061d56ba67b1f407f71cf1f6749509ff451@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260131T130000
 DTEND;TZID=Asia/Tokyo:20260131T150000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 1-0\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 1-0\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:b737fdbe7e469da49d47f8f3fd974a0842d3e6ad@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260131T130000
 DTEND;TZID=Asia/Tokyo:20260131T150000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 0-1\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 0-1\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:e4d71762cb9a930d88cf16afd2a80707cb5e14b1@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260201T110000
 DTEND;TZID=Asia/Tokyo:20260201T130000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 4-0\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 4-0\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:7dbc43f8768638ba1608266ce40a010e51ef1523@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260201T133000
 DTEND;TZID=Asia/Tokyo:20260201T153000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 2-1\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 2-1\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:12947cb97951680b43870359917c9503ba263cd2@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260207T110000
 DTEND;TZID=Asia/Tokyo:20260207T130000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 未確定\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 未確定\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 BEGIN:VEVENT
 UID:cdc99217843901d7ff2318079f0b7425a0c888cf@okaidokudaze-my-ics
-DTSTAMP:20260205T050342Z
-SEQUENCE:1
+DTSTAMP:20260203T051726Z
 DTSTART;TZID=Asia/Tokyo:20260207T133000
 DTEND;TZID=Asia/Tokyo:20260207T153000
 SUMMARY:山梨県／山梨新人戦（新人選手権大会）
 LOCATION:会場不明（山梨県）
-DESCRIPTION:大会：山梨新人戦（新人選手権大会）\n都道府県：会場不明（山梨県\nスコア: 未確定\n出典に掲載の時刻ベース\n出典: 
- https://koko-soccer.com/score/4297
+DESCRIPTION:スコア: 未確定\n出典に掲載の時刻ベース\n出典: https://koko-soccer.com/score/4297
 END:VEVENT
 END:VCALENDAR
+
