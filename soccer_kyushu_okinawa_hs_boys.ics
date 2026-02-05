@@ -1278,4 +1278,445 @@ SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
 LOCATION:会場不明（鹿児島県）
 DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：決勝\n対戦：神村学園 vs 鹿児島城西\n時刻：11:00（KO）\n会場：会場不明\n結果：2-1\n出典：https://koko-soccer.com/score/4292
 END:VEVENT
+BEGIN:VEVENT
+UID:c32bdbd528f6d0057faa9a2363e1cde78b4eed4c@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：御船 vs 翔陽\n結果：0-14\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:5a025e8f2d8006eb0c0d90033f99cc6899b7532b@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：玉名 vs 開新\n結果：1-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:3abc7dd84cb53bb0f8b253ac34954030fff8a776@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：学園大付 vs 真和\n結果：13-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:bd9b0271c1f4581f79ae8260465042a0ce355aea@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：第一 vs 八代\n結果：1-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:81d9e97a271a3e9b125909e8fc7ff84b372f50e0@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：高専八代 vs 鎮西\n結果：0-4\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:5ab2bf0c1c8e05511f3baff1d66f729f7b82b31c@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：水俣 vs 人吉\n結果：2-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:dbeacf590e3ea5fa55500d8d068b57a81c547882@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：九州学院 vs 熊本工\n結果：0-5\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:e402ee63a60c861425338e71d2b4c4c2e59170af@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：済々黌 vs 小川工\n結果：1-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:c23708b5f715fe4f440412aa64011ff3936ddeb3@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：阿蘇中央 vs 東稜\n結果：0-10\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:5df3cb9d28738b94786fe259d9598f85ec78d801@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：第二 vs 芦北\n結果：5-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:e75eb0f6dcdbdf5baefae24b610c002d6e86cbcd@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：鹿本商工 vs 熊本北\n結果：0-15\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:b0e8d9855d02a4d132cc905018cb8c18e115b5f8@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：熊本 vs 矢部\n結果：4-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:c750624cd6f273f2f024ed9e4d7bab3639cda2fc@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：天草 vs 有明\n結果：0-5\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:b45d4f0f4eb395ea5ba4d2715aee7000c6a429e5@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：高専熊本 vs 玉名工\n結果：3-4\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:fa850748c6f73a3a09885a8a2bfc768dc18446cc@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：千原台 vs 必由館\n結果：0-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:87a9351d0408a2214222f4978a7dced5cc4ad477@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：熊本農 vs 天草工\n結果：6-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:c08f5ce37ae03e9dbd455985741e8a73a255a554@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：球磨工 vs 天草拓心\n結果：30-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:4f67b7a3545d8362ca2b8f5a3865dd06315faf1c@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：大津 vs 八代工\n結果：10-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:8b0076dddbeb7579a1620dbbf1614327630e8fcc@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：翔陽 vs 玉名\n結果：3-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:d8fe1da8562ea94d004e4c5941947f67144a185b@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：熊本商 vs 南稜\n結果：21-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:7deab3b8e94d26a19ff5084378916bae976b2368@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：ルーテル vs 文徳\n結果：6-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:7fd7267dda8399d17a5c4e42453950bfd5be255b@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：熊本 vs 有明\n結果：4-3\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:a8f382d3e30df42187c0f2262c5bcc753cc223a4@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：慶誠 vs 城北\n結果：5-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:a858feed6e564edca5ffaec3c4da49c041086bde@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：秀岳館 vs 菊池\n結果：6-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:8de133a14e403b57c4712b5728e5c0cc9470854d@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：東海星翔 vs 宇土\n結果：27-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:48d561562d0aacaa0e12782c1e910c29f8ce186b@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：学付 vs 第一\n結果：2-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:29edc654127ca6c2044e19402220b4a24e2d7c23@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：鹿本 vs 鎮西\n結果：3-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:7f25b9a60c346afb0bcbf844332eb4d78cc3774f@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：熊本工 vs 水俣\n結果：2-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:0190de58e9139b5914d2379745e2e33ca27b5d95@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：済々黌 vs 東稜\n結果：4-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:6f42db72082afce6b0535a7b4b327781d6d65701@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：国府 vs マリスト\n結果：10-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:7a321b39fcff7ac97709b549d48ba4c31d9b383d@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：熊本北 vs 第二\n結果：0-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:c6f4be866afa7f79e73a14638c2b34003f1fb089@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：玉名工 vs 必由館\n結果：0-2\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:b8c90ca076ac5eef5ccd93c5d26ef62ceafa6051@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：熊本農 vs 球磨工\n結果：1-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:31bc89ac617778fd2cd0a7b930a1b99afbac6a2f@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：3回戦\n対戦：大津 vs 翔陽\n結果：7-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:64efeb3a38189a37c8d26cc1c3d50f6f71484fab@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：3回戦\n対戦：学付 vs 鹿本\n結果：1-1(PK4-3)\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:28ea184f41311b257d90ed2addc7e57503ef2eac@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：3回戦\n対戦：熊本商 vs 熊本工\n結果：8-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:4996c128fc3238a146a88f8dd010183632555c9d@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：3回戦\n対戦：済々黌 vs 国府\n結果：1-1(PK5-4)\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:11e859101b8e405b76b7b694b5bbe9bd3b2bf708@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：3回戦\n対戦：ルーテル vs 第二\n結果：2-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:c05ef065715a6e550d7016a2d88d0de97db12436@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：3回戦\n対戦：熊本 vs 慶誠\n結果：0-7\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:bc150ac0b6b941b1da7844b4eae871849fd376cc@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：3回戦\n対戦：秀岳館 vs 必由館\n結果：4-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:958828c5be782d407527fc9fd368ff923db64f93@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：3回戦\n対戦：東海星翔 vs 熊本農\n結果：4-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:493d19c3771e2d7be86b2211248a0beacc3fbbd4@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：準々決勝\n対戦：大津 vs 学付\n結果：7-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:e1812ad00a9ef051962f9ab0e67cf25dd1dd0d62@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：準々決勝\n対戦：熊本商 vs 済々黌\n結果：3-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:5fdb4684dec316fc0357a7238daec010fb41b423@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：準々決勝\n対戦：ルーテル vs 慶誠\n結果：2-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:c2db55c82716737a3462b3de1df048d35b353f89@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：準々決勝\n対戦：秀岳館 vs 東海星翔\n結果：2-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:9e3824098628e0340625a544756fc1836ed0b8e5@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;TZID=Asia/Tokyo:20260125T110000
+DTEND;TZID=Asia/Tokyo:20260125T130000
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:県民総合運動公園補助競技場
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：準決勝\n対戦：大津 vs 熊本商業\n結果：3-1\n時刻：11:00（KO）\n会場：県民総合運動公園補助競技場\n出典：https://kyushu-shinjin.com/result-2025/kumamoto-result-2025/13477/ ／ https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:95f81c5683c166ae20dbd121da891a0b19bdb70f@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;TZID=Asia/Tokyo:20260125T140000
+DTEND;TZID=Asia/Tokyo:20260125T160000
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:県民総合運動公園補助競技場
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：準決勝\n対戦：慶誠 vs 秀岳館\n結果：1-3\n時刻：14:00（KO）\n会場：県民総合運動公園補助競技場\n出典：https://kyushu-shinjin.com/result-2025/kumamoto-result-2025/13478/ ／ https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:df45e1d8e6c2cf24bee2998da8b2fc7fae7bf63d@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;TZID=Asia/Tokyo:20260201T100000
+DTEND;TZID=Asia/Tokyo:20260201T120000
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:えがお健康スタジアム
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：3位決定戦\n対戦：熊本商業 vs 慶誠\n結果：5-0\n時刻：10:00（KO）\n会場：えがお健康スタジアム\n出典：https://kyushu-shinjin.com/result-2025/kumamoto-result-2025/13479/ ／ https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:f801c2372cc7f842a77b26c2fefa5cfe85658aa9@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;TZID=Asia/Tokyo:20260201T140000
+DTEND;TZID=Asia/Tokyo:20260201T160000
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:えがお健康スタジアム
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：決勝\n対戦：大津 vs 秀岳館\n結果：vs\n時刻：14:00（KO）\n会場：えがお健康スタジアム\n出典：https://kyushu-shinjin.com/result-2025/kumamoto-result-2025/13480/ ／ https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
 END:VCALENDAR
