@@ -2044,4 +2044,314 @@ SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
 LOCATION:会場不明（宮崎県）
 DESCRIPTION:種別：高校／男子\n回戦：決勝\n対戦：日章学園 vs 鵬翔\n都道府県：宮崎県\n時刻：14:00（KO）\n会場：会場不明\n結果：2-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
 END:VEVENT
+BEGIN:VEVENT
+UID:77b8554093f74875963f1a1d146f1dbb372abeba@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：情報科学 vs 岩田\n回戦：1回戦\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：3-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:4704a8f4c0aef13289a9753fa6d4f24be66780d9@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分豊府 vs 別府鶴見丘\n回戦：1回戦\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：4-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:0e7a7647a9570f0a8c29617ddfe8334f45108c25@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分舞鶴 vs 大分東明\n回戦：1回戦\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：0-2\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:65085a87aa31d64d459387e1c0fc8d6ba980bbd0@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260117T113000
+DTEND;TZID=Asia/Tokyo:20260117T133000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：臼杵 vs 日田\n回戦：1回戦\n都道府県：大分県\n時刻：11:30\n会場：会場不明（大分県）\n結果：6-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:79843605157678462eeff69f690078815a3b409a@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260117T113000
+DTEND;TZID=Asia/Tokyo:20260117T133000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：藤蔭 vs 玖珠美山\n回戦：1回戦\n都道府県：大分県\n時刻：11:30\n会場：会場不明（大分県）\n結果：0-3\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:1740259037cb23c04c9177e894684b2ef9271dbd@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260117T113000
+DTEND;TZID=Asia/Tokyo:20260117T133000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：中津南 vs 日出総合\n回戦：1回戦\n都道府県：大分県\n時刻：11:30\n会場：会場不明（大分県）\n結果：9-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:e8b65bd471ca79d44702980656b35df2898367c3@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分雄城台 vs 中津北・国東\n回戦：1回戦\n都道府県：大分県\n時刻：13:00\n会場：会場不明（大分県）\n結果：2-1\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:dc4be8b8c2f173002e7ddc01d9e54429668ad493@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：宇佐 vs 日田林工\n回戦：1回戦\n都道府県：大分県\n時刻：13:00\n会場：会場不明（大分県）\n結果：1-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:99f06f9e6a773a717a39cedc4787218cb6703386@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分鶴崎 vs 楊志館\n回戦：1回戦\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：10-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:37449509eb6c850a731475cf467db35572c45013@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：日本文理大附 vs 大分工\n回戦：1回戦\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：1-3\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:6969249b394ce8f7c45337b90028e488752deb2e@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：鶴崎工 vs 杵築\n回戦：1回戦\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：2-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:3a63a61a006dd4fd75c56cd68913ff380b2996b8@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260118T113000
+DTEND;TZID=Asia/Tokyo:20260118T133000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：溝部学園 vs 柳ヶ浦\n回戦：1回戦\n都道府県：大分県\n時刻：11:30\n会場：会場不明（大分県）\n結果：0-8\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:b9e7595fda6d4827a5204eb7a720da5cadc9f95e@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260118T113000
+DTEND;TZID=Asia/Tokyo:20260118T133000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分南 vs 大分上野丘\n回戦：1回戦\n都道府県：大分県\n時刻：11:30\n会場：会場不明（大分県）\n結果：1-3\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:26394f9ae1c4ba4c5f9c3b6a2d7dea855cb083f4@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260118T113000
+DTEND;TZID=Asia/Tokyo:20260118T133000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分西 vs 大分\n回戦：1回戦\n都道府県：大分県\n時刻：11:30\n会場：会場不明（大分県）\n結果：0-6\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:e7f65353d9aedcd712b18129a275778dca2a2066@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260118T130000
+DTEND;TZID=Asia/Tokyo:20260118T150000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：中津東 vs 佐伯豊南・竹田\n回戦：1回戦\n都道府県：大分県\n時刻：13:00\n会場：会場不明（大分県）\n結果：8-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:1d57e2bef57aa6d411834532ea756d06a7d794ed@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260118T130000
+DTEND;TZID=Asia/Tokyo:20260118T150000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：昭和学園 vs 佐伯鶴城\n回戦：1回戦\n都道府県：大分県\n時刻：13:00\n会場：会場不明（大分県）\n結果：2-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:6e38260ce42a99d4e6b1b11071a7aca6996617c1@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分鶴崎 vs 情報科学\n回戦：2回戦\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：6-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:1c66506df57157b5aeff0d046b48f244f9ee8aaf@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分豊府 vs 大分工\n回戦：2回戦\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：1-1 PK2-3\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:4b1313b63f7c90e9a254ceaedeb04c0b5ab9a371@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260124T113000
+DTEND;TZID=Asia/Tokyo:20260124T133000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：中津東 vs 臼杵\n回戦：2回戦\n都道府県：大分県\n時刻：11:30\n会場：会場不明（大分県）\n結果：2-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:45310dce3c2d65a2b18c0a2088a8c8c45611df3f@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260124T113000
+DTEND;TZID=Asia/Tokyo:20260124T133000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分東明 vs 柳ヶ浦\n回戦：2回戦\n都道府県：大分県\n時刻：11:30\n会場：会場不明（大分県）\n結果：0-1\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:136fd07fda7f33a7856baee7484d769c1c01577f@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T150000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：昭和学園 vs 宇佐\n回戦：2回戦\n都道府県：大分県\n時刻：13:00\n会場：会場不明（大分県）\n結果：2-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:5820060d6adccd0fc656baf4ab90b62d3e10c11a@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T150000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：中津南 vs 大分\n回戦：2回戦\n都道府県：大分県\n時刻：13:00\n会場：会場不明（大分県）\n結果：1-1 PK6-7\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:0679b650188bb7c1b732103d44cfcb9348c29586@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260124T143000
+DTEND;TZID=Asia/Tokyo:20260124T163000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：鶴崎工 vs 大分雄城台\n回戦：2回戦\n都道府県：大分県\n時刻：14:30\n会場：会場不明（大分県）\n結果：4-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:f01afd947a4d5a1e05ec31a6a9ddaf96f816ab61@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260124T143000
+DTEND;TZID=Asia/Tokyo:20260124T163000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：玖珠美山 vs 大分上野丘\n回戦：2回戦\n都道府県：大分県\n時刻：14:30\n会場：会場不明（大分県）\n結果：0-3\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:a7bd71c426c0e68ebb2d0f652f96f40c573eb644@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260125T100000
+DTEND;TZID=Asia/Tokyo:20260125T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分鶴崎 vs 大分工\n回戦：準々決勝\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：1-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:4ff4d69deffaf2c83d8e4867252a63418c8e147b@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260125T100000
+DTEND;TZID=Asia/Tokyo:20260125T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：中津東 vs 柳ヶ浦\n回戦：準々決勝\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：1-1 PK2-4\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:cb5ed8a294b0860339c6a1ce13ae2bc39ae8b7f2@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260125T123000
+DTEND;TZID=Asia/Tokyo:20260125T143000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：鶴崎工 vs 大分上野丘\n回戦：準々決勝\n都道府県：大分県\n時刻：12:30\n会場：会場不明（大分県）\n結果：1-2\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:04495e2e6174e26447bbfcf5f3905e0161118e26@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260125T123000
+DTEND;TZID=Asia/Tokyo:20260125T143000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：昭和学園 vs 大分\n回戦：準々決勝\n都道府県：大分県\n時刻：12:30\n会場：会場不明（大分県）\n結果：0-3\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:c164021cd90bdb1a85290f8a02c7c8b1aede4e5f@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分鶴崎 vs 柳ヶ浦\n回戦：準決勝\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：未確定\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:b2a6e95a03fa178c2a506d556ffa596b384257ed@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260131T123000
+DTEND;TZID=Asia/Tokyo:20260131T143000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分上野丘 vs 大分\n回戦：準決勝\n都道府県：大分県\n時刻：12:30\n会場：会場不明（大分県）\n結果：未確定\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:32901b7b2b8686e7ca193b20d575ae837223c9c6@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260201T123000
+DTEND;TZID=Asia/Tokyo:20260201T143000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:大分県スポーツ公園サッカー場(Aコート)
+DESCRIPTION:種別：高校男子\n対戦：大分鶴崎 vs 大分\n回戦：決勝\n都道府県：大分県\n時刻：12:30\n会場：大分県スポーツ公園サッカー場(Aコート)\n結果：2-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4288 / 九州高校サッカー新人戦ライブ配信公式サイト https://kyushu-shinjin.com/result-2025/oita-result-2025/13656/
+SEQUENCE:1
+END:VEVENT
 END:VCALENDAR
