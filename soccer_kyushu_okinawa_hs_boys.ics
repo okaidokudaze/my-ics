@@ -10,7 +10,7 @@ UID:aac0ea47c0ffc1ea91d00232af9a652ee2e3ef3c@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260114T110000
 DTEND;TZID=Asia/Tokyo:20260114T130000
-SUMMARY:【九州沖縄-男子高校】福大大濠 vs 近大福岡（福岡県新人 4回戦）
+SUMMARY:福大大濠 vs 近大福岡（福岡県／福大大濠 vs 近大福岡（福岡県新人
 LOCATION:福岡フットボールセンター A
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
 END:VEVENT
@@ -19,7 +19,7 @@ UID:754a7360195f16f817458d4c9cc315397fcb0f1f@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260114T130000
 DTEND;TZID=Asia/Tokyo:20260114T150000
-SUMMARY:【九州沖縄-男子高校】福岡常葉 vs 星琳（福岡県新人 4回戦）
+SUMMARY:福岡常葉 vs 星琳（福岡県／福岡常葉 vs 星琳（福岡県新人
 LOCATION:福岡フットボールセンター A
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
 END:VEVENT
@@ -28,7 +28,7 @@ UID:670918f1c7c3714401f1470de2516c722258d437@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260114T110000
 DTEND;TZID=Asia/Tokyo:20260114T130000
-SUMMARY:【九州沖縄-男子高校】筑紫 vs 折尾愛真（福岡県新人 4回戦）
+SUMMARY:筑紫 vs 折尾愛真（福岡県／筑紫 vs 折尾愛真（福岡県新人
 LOCATION:福岡フットボールセンター B
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
 END:VEVENT
@@ -37,7 +37,7 @@ UID:a53b6161b5ca82b982d5ee2111a5dce0dd2c11f2@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260114T130000
 DTEND;TZID=Asia/Tokyo:20260114T150000
-SUMMARY:【九州沖縄-男子高校】東海大福岡 vs 久留米（福岡県新人 4回戦）
+SUMMARY:東海大福岡 vs 久留米（福岡県／東海大福岡 vs 久留米（福岡県新人
 LOCATION:福岡フットボールセンター B
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
 END:VEVENT
@@ -46,7 +46,7 @@ UID:a08dba918314331736eb92567ff15fae9bef0133@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260115T110000
 DTEND;TZID=Asia/Tokyo:20260115T130000
-SUMMARY:【九州沖縄-男子高校】小倉 vs 折尾（福岡県新人 4回戦）
+SUMMARY:小倉 vs 折尾（福岡県／小倉 vs 折尾（福岡県新人
 LOCATION:福岡フットボールセンター A
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
 END:VEVENT
@@ -55,7 +55,7 @@ UID:b17ef27da6399acca5eb9ddd437c4c28c45c13b7@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260115T130000
 DTEND;TZID=Asia/Tokyo:20260115T150000
-SUMMARY:【九州沖縄-男子高校】筑紫台 vs 八女（福岡県新人 4回戦）
+SUMMARY:筑紫台 vs 八女（福岡県／筑紫台 vs 八女（福岡県新人
 LOCATION:福岡フットボールセンター A
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
 END:VEVENT
@@ -64,7 +64,7 @@ UID:4e6fc1cf97445d189b9715895fe3eba2b6364e17@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260115T110000
 DTEND;TZID=Asia/Tokyo:20260115T130000
-SUMMARY:【九州沖縄-男子高校】福岡大若葉 vs 小倉工業（福岡県新人 4回戦）
+SUMMARY:福岡大若葉 vs 小倉工業（福岡県／福岡大若葉 vs 小倉工業（福岡県新人
 LOCATION:福岡フットボールセンター B
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
 END:VEVENT
@@ -73,7 +73,7 @@ UID:e7d7d4e2fdc07e31753d1323c10efc39cdfe089d@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260115T130000
 DTEND;TZID=Asia/Tokyo:20260115T150000
-SUMMARY:【九州沖縄-男子高校】東福岡 vs 武蔵台（福岡県新人 4回戦）
+SUMMARY:東福岡 vs 武蔵台（福岡県／東福岡 vs 武蔵台（福岡県新人
 LOCATION:福岡フットボールセンター B
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
 END:VEVENT
@@ -82,7 +82,7 @@ UID:1b351e646905beb643fd29609243ab3be7be80c6@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260121T110000
 DTEND;TZID=Asia/Tokyo:20260121T130000
-SUMMARY:【九州沖縄-男子高校】九国大付 vs 飯塚（福岡県新人 5回戦）
+SUMMARY:九国大付 vs 飯塚（福岡県／九国大付 vs 飯塚（福岡県新人
 LOCATION:福岡フットボールセンター A
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）5回戦
 END:VEVENT
@@ -91,7 +91,7 @@ UID:82cbd7c726799857ee957d007626ce5db2a68087@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260121T130000
 DTEND;TZID=Asia/Tokyo:20260121T150000
-SUMMARY:【九州沖縄-男子高校】筑紫台 vs 福大大濠（福岡県新人 5回戦）
+SUMMARY:筑紫台 vs 福大大濠（福岡県／筑紫台 vs 福大大濠（福岡県新人
 LOCATION:福岡フットボールセンター A
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）5回戦
 END:VEVENT
@@ -100,7 +100,7 @@ UID:c8e10e9007b045218e84adf208ccfe1ee079a5d3@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260121T110000
 DTEND;TZID=Asia/Tokyo:20260121T130000
-SUMMARY:【九州沖縄-男子高校】九産大九州 vs 筑陽学園（福岡県新人 5回戦）
+SUMMARY:九産大九州 vs 筑陽学園（福岡県／九産大九州 vs 筑陽学園（福岡県新人
 LOCATION:福岡フットボールセンター B
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）5回戦
 END:VEVENT
@@ -109,7 +109,7 @@ UID:7b4033c9fda639e121aeed7e27816d35547f6448@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260121T130000
 DTEND;TZID=Asia/Tokyo:20260121T150000
-SUMMARY:【九州沖縄-男子高校】東海大福岡 vs 福岡大若葉（福岡県新人 5回戦）
+SUMMARY:東海大福岡 vs 福岡大若葉（福岡県／東海大福岡 vs 福岡大若葉（福岡県新人
 LOCATION:福岡フットボールセンター B
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）5回戦
 END:VEVENT
@@ -118,7 +118,7 @@ UID:754b2b5f6f34830db31e4be494ce6ed941cb2e6d@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260122T110000
 DTEND;TZID=Asia/Tokyo:20260122T130000
-SUMMARY:【九州沖縄-男子高校】東福岡 vs 筑紫台（福岡県新人 6回戦）
+SUMMARY:東福岡 vs 筑紫台（福岡県／東福岡 vs 筑紫台（福岡県新人 6回戦）
 LOCATION:福岡フットボールセンター A
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）6回戦
 END:VEVENT
@@ -127,7 +127,7 @@ UID:b0c53d545710b1e0c2e3213036533c6435d4a10b@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260122T130000
 DTEND;TZID=Asia/Tokyo:20260122T150000
-SUMMARY:【九州沖縄-男子高校】九国大付 vs 九産大九州（福岡県新人 6回戦）
+SUMMARY:九国大付 vs 九産大九州（福岡県／九国大付 vs 九産大九州（福岡県新人 6回戦）
 LOCATION:福岡フットボールセンター A
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）6回戦
 END:VEVENT
@@ -136,7 +136,7 @@ UID:1de5aa786c0fe1633cc67eda1e2c5474fbdf39ad@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260122T110000
 DTEND;TZID=Asia/Tokyo:20260122T130000
-SUMMARY:【九州沖縄-男子高校】飯塚 vs 高稜（福岡県新人 6回戦）
+SUMMARY:飯塚 vs 高稜（福岡県／飯塚 vs 高稜（福岡県新人 6回戦）
 LOCATION:福岡フットボールセンター B
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）6回戦
 END:VEVENT
@@ -145,7 +145,7 @@ UID:392f1c300dcc89d091c2525801e26dde039921ae@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260122T130000
 DTEND;TZID=Asia/Tokyo:20260122T150000
-SUMMARY:【九州沖縄-男子高校】東海大福岡 vs 筑紫台（福岡県新人 6回戦）
+SUMMARY:東海大福岡 vs 筑紫台（福岡県／東海大福岡 vs 筑紫台（福岡県新人 6回戦）
 LOCATION:福岡フットボールセンター B
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）6回戦
 END:VEVENT
@@ -264,7 +264,7 @@ UID:a0aa119caf8e71b894dc4dec58fe6b657ab255ad@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260124
 DTEND;VALUE=DATE:20260125
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：鹿島朝
@@ -278,7 +278,7 @@ UID:1c07f7ad6eb0a71c9e15527e1e7d3b4fa2bfefd6@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260124
 DTEND;VALUE=DATE:20260125
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：八重山
@@ -292,7 +292,7 @@ UID:0378b9c246cdee43ed5e1011367982512deb5ea6@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260124
 DTEND;VALUE=DATE:20260125
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：興南 vs 
@@ -306,7 +306,7 @@ UID:81329dbdcda043d07144c8b0978d2785fe989a78@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260124
 DTEND;VALUE=DATE:20260125
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：北中城 
@@ -320,7 +320,7 @@ UID:06c7085fc8fbfcce49215e1846ceb90a1d33fc45@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260124
 DTEND;VALUE=DATE:20260125
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：宜野湾 
@@ -334,7 +334,7 @@ UID:9586bb3664ea9860813d47547e8f7d38127e6e3e@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260124
 DTEND;VALUE=DATE:20260125
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：名護商
@@ -348,7 +348,7 @@ UID:9bb6cc11bdd7fbf5bab90456474cf2cac52e5b59@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260124
 DTEND;VALUE=DATE:20260125
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：北谷 vs 
@@ -362,7 +362,7 @@ UID:f2f725013b6d16460c9a0b46d96d4b9705240d03@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：知念 vs 
@@ -376,7 +376,7 @@ UID:a7ebcaf8f62065738a17ba30b80ba9b43471f4dd@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：前原 vs 
@@ -390,7 +390,7 @@ UID:f04a82c341f228f07ae60fb2c366136399ca56d3@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：沖縄工
@@ -405,7 +405,7 @@ UID:4c291a90e230f83e89f945307ccc1d9269e8864f@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：具志川 
@@ -419,7 +419,7 @@ UID:5a87b62a7394e22f292a0ac92ec86fe21ef343cd@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：小禄 vs 
@@ -433,7 +433,7 @@ UID:444b7b4725f6bdc9671194b39ab64055d36ebbcb@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：宜野湾 
@@ -447,7 +447,7 @@ UID:162aa420a8bc573d9de8293bde3069ae78ec03e6@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：KBC vs 名
@@ -461,7 +461,7 @@ UID:77d22cc4d54aaebadae963f3411132bb50005129@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：名護 vs 
@@ -475,7 +475,7 @@ UID:39f01d60c3f3d3690f11aed8ab0537e37c6d4426@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：向陽 vs 
@@ -489,7 +489,7 @@ UID:5710a85a9a46e9782baf5c624c4ea4ad74666f54@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：浦添 vs 
@@ -503,7 +503,7 @@ UID:787b21fd2b13a7bb6523389e8f4d28856ef59577@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：那覇西 
@@ -517,7 +517,7 @@ UID:9ad8b10b9c08c4f58baf3935a2dd7eccd7658878@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：那覇国
@@ -531,7 +531,7 @@ UID:50ff1b1aea81893f2a211343f7eee5ebf8f6f640@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：西原 vs 
@@ -545,7 +545,7 @@ UID:984e6a64b8f8fee2ef33b448f6cf1b3b458a7bf5@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：コザ vs 
@@ -559,7 +559,7 @@ UID:2a8a5d4f6fa46842ae85cdc4e35798cd0ce8779c@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：普天間 
@@ -573,7 +573,7 @@ UID:d0b6a5ab45ce2469714a1c95b2c7bf7eeb497fba@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：糸満 vs 
@@ -587,7 +587,7 @@ UID:115a6288f658d969a4278fbba3cce3648bd59ffe@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260127
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：那覇西 
@@ -601,7 +601,7 @@ UID:2865063f145482c4b8877313a715d03545bdb3b8@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260127
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：小禄 vs 
@@ -615,7 +615,7 @@ UID:e60b94b4d20a6513b04e7ca3703c4636b8c28b2d@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260127
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：具志川 
@@ -629,7 +629,7 @@ UID:203545a0bf07dda2f742837d6824269aefdb7396@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260127
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：糸満 vs 
@@ -643,7 +643,7 @@ UID:38302a36044453d163491edd416fc6bc1e88a522@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260127
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：名護 vs 
@@ -657,7 +657,7 @@ UID:477296b482fe7a22de279e5f70a1d0845724f35c@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260127
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：向陽 vs 
@@ -671,7 +671,7 @@ UID:19def571c52ce3d206346d8f636201cdf273c0ed@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260127
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：西原 vs 
@@ -685,7 +685,7 @@ UID:b26ae2e497890aa17f6315ad344836aa32f53e20@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260127
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：普天間 
@@ -699,7 +699,7 @@ UID:a1598e90f5e0f7601f50d49f8e8b5f8e113cbfcf@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260128
 DTEND;VALUE=DATE:20260129
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：準々決勝\n対戦：那
@@ -713,7 +713,7 @@ UID:60b87f089c3ae8ab17cc899e45b81aec48ca798a@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260128
 DTEND;VALUE=DATE:20260129
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：準々決勝\n対戦：具
@@ -727,7 +727,7 @@ UID:013fd9f930cfa86ead6d28436346ad7ab8e060d3@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260128
 DTEND;VALUE=DATE:20260129
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：準々決勝\n対戦：名
@@ -741,7 +741,7 @@ UID:f398c26cb919ca13b7fd7ad3fad460158a5a019c@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260128
 DTEND;VALUE=DATE:20260129
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：準々決勝\n対戦：西
@@ -755,7 +755,7 @@ UID:94fad79429130190c4c2df84ed31b331295a966f@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260131
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：準決勝\n対戦：那覇
@@ -769,7 +769,7 @@ UID:e5913c3a1b0275ced4e15059b9d489ed4439a4f0@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260131
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：準決勝\n対戦：宜野
@@ -783,7 +783,7 @@ UID:dfe1c2c57cb6cab8fa36d87d8e753dbebfaaa8d7@my-ics
 DTSTAMP:20260205T075209Z
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
-SUMMARY:沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
  会サッカー競技
 LOCATION:会場不明（沖縄県）
 DESCRIPTION:種別：高校／男子\n回戦：決勝\n対戦：那覇西 v

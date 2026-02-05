@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-3a6f04f7eaf03b59@my-ics
 DTSTAMP:20260203T022237Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】神奈川県女子新人大会 1回戦 多摩高等学校 vs 慶應義塾湘南藤沢高等部（M4）
+SUMMARY:神奈川県／神奈川県女子新人大会
 DTSTART;TZID=Asia/Tokyo:20251213T144000
 DTEND;TZID=Asia/Tokyo:20251213T164000
 LOCATION:伊勢原高等学校
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-5f0cdd198d6cc971@my-ics
 DTSTAMP:20260203T022237Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】神奈川県女子新人大会 1回戦 相洋高等学校 vs 法政大学国際高等学校（M8）
+SUMMARY:神奈川県／神奈川県女子新人大会
 DTSTART;TZID=Asia/Tokyo:20251213T130000
 DTEND;TZID=Asia/Tokyo:20251213T150000
 LOCATION:伊勢原高等学校
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-5816ac83105eb3ef@my-ics
 DTSTAMP:20260203T022237Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】神奈川県女子新人大会 1回戦 相模女子大学中学部・高等部 vs 白鵬女子高等学校（M17）
+SUMMARY:神奈川県／神奈川県女子新人大会
 DTSTART;TZID=Asia/Tokyo:20251213T144000
 DTEND;TZID=Asia/Tokyo:20251213T164000
 LOCATION:相模原弥栄高等学校
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-fb0ac188f63378c3@my-ics
 DTSTAMP:20260203T022237Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】神奈川県女子新人大会 2回戦 慶應義塾湘南藤沢高等部 vs 相模原弥栄高等学校（M17）
+SUMMARY:神奈川県／神奈川県女子新人大会
 DTSTART;TZID=Asia/Tokyo:20251221T090000
 DTEND;TZID=Asia/Tokyo:20251221T110000
 LOCATION:相模原弥栄高等学校
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-84f4148fffd0bd17@my-ics
 DTSTAMP:20260203T022237Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】神奈川県女子新人大会 2回戦 百合丘高等学校 vs 大和高等学校（M13）
+SUMMARY:神奈川県／神奈川県女子新人大会
 DTSTART;TZID=Asia/Tokyo:20251221T110000
 DTEND;TZID=Asia/Tokyo:20251221T130000
 LOCATION:相模原弥栄高等学校
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-241216d11f9381bf@my-ics
 DTSTAMP:20260203T022237Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】神奈川県女子新人大会 2回戦 三浦学苑高等学校 vs 白鵬女子高等学校（M14）
+SUMMARY:神奈川県／神奈川県女子新人大会
 DTSTART;TZID=Asia/Tokyo:20251221T130000
 DTEND;TZID=Asia/Tokyo:20251221T150000
 LOCATION:相模原弥栄高等学校
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-f803b5d8b4ab6e98@my-ics
 DTSTAMP:20260203T022237Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】神奈川県女子新人大会 2回戦 相洋高等学校 vs 桐蔭学園高等学校（M15）
+SUMMARY:神奈川県／神奈川県女子新人大会
 DTSTART;TZID=Asia/Tokyo:20251221T130000
 DTEND;TZID=Asia/Tokyo:20251221T150000
 LOCATION:桐蔭学園高等学校
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-e8f474da9e0d02d8@my-ics
 DTSTAMP:20260203T022237Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】神奈川県女子新人大会 2回戦 湘南台高等学校 vs 合同（厚木王子・旭・二宮）（M18）
+SUMMARY:神奈川県／神奈川県女子新人大会
 DTSTART;TZID=Asia/Tokyo:20251221T144000
 DTEND;TZID=Asia/Tokyo:20251221T164000
 LOCATION:桐蔭学園高等学校
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-90b2db3e69cfdbb7@my-ics
 DTSTAMP:20260203T022237Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】神奈川県女子新人大会 3回戦 湘南学院高等学校 vs 神奈川県立海老名高等学校（M16）
+SUMMARY:神奈川県／神奈川県女子新人大会
 DTSTART;TZID=Asia/Tokyo:20260112T133000
 DTEND;TZID=Asia/Tokyo:20260112T153000
 LOCATION:湘南学院高等学校
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-31cab8cd0d6f741b@my-ics
 DTSTAMP:20260203T022237Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】神奈川県女子新人大会 準々決勝 星槎国際高等学校湘南 vs 大和高等学校（M19）
+SUMMARY:神奈川県／神奈川県女子新人大会
 DTSTART;TZID=Asia/Tokyo:20260118T153000
 DTEND;TZID=Asia/Tokyo:20260118T173000
 LOCATION:星槎国際湘南高等学校
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-aa9f9570742609ee@my-ics
 DTSTAMP:20260203T022237Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】神奈川県女子新人大会 準々決勝 三浦学苑高等学校 vs 桐蔭学園高等学校（M20）
+SUMMARY:神奈川県／神奈川県女子新人大会
 DTSTART;TZID=Asia/Tokyo:20260118T153000
 DTEND;TZID=Asia/Tokyo:20260118T173000
 LOCATION:湘南学院高等学校
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-adf59e5fbd5bccc2@my-ics
 DTSTAMP:20260203T022237Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】神奈川県女子新人大会 準々決勝 湘南学院高等学校 vs 相模原弥栄高等学校（M21）
+SUMMARY:神奈川県／神奈川県女子新人大会
 DTSTART;TZID=Asia/Tokyo:20260118T133000
 DTEND;TZID=Asia/Tokyo:20260118T153000
 LOCATION:湘南学院高等学校
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-d55168c5953141c1@my-ics
 DTSTAMP:20260203T022237Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】神奈川県女子新人大会 準々決勝 合同（厚木王子・旭・二宮） vs 神奈川県立藤沢清流高等学校（M22）
+SUMMARY:神奈川県／神奈川県女子新人大会
 DTSTART;TZID=Asia/Tokyo:20260118T133000
 DTEND;TZID=Asia/Tokyo:20260118T153000
 LOCATION:星槎国際湘南高等学校
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-e13617da2058102a@my-ics
 DTSTAMP:20260203T022237Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】神奈川県女子新人大会 準決勝 星槎国際高等学校湘南 vs 桐蔭学園高等学校（M23）
+SUMMARY:神奈川県／神奈川県女子新人大会
 DTSTART;TZID=Asia/Tokyo:20260201T100000
 DTEND;TZID=Asia/Tokyo:20260201T120000
 LOCATION:馬入ふれあい公園サッカー場（人工芝）
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-e2bc2e412efe05c3@my-ics
 DTSTAMP:20260203T022237Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】神奈川県女子新人大会 準決勝 湘南学院高等学校 vs 神奈川県立藤沢清流高等学校（M24）
+SUMMARY:神奈川県／神奈川県女子新人大会
 DTSTART;TZID=Asia/Tokyo:20260201T123000
 DTEND;TZID=Asia/Tokyo:20260201T143000
 LOCATION:馬入ふれあい公園サッカー場（人工芝）
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-6d8da054d4628b25@my-ics
 DTSTAMP:20260203T022237Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】神奈川県女子新人大会 決勝 星槎国際高等学校湘南 vs 湘南学院高等学校（M25）
+SUMMARY:神奈川県／神奈川県女子新人大会
 DTSTART;TZID=Asia/Tokyo:20260208T110000
 DTEND;TZID=Asia/Tokyo:20260208T130000
 LOCATION:保土ケ谷公園サッカー場
@@ -295,7 +295,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-11629018718f80dc@my-ics
 DTSTAMP:20260203T044954Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】東京都高校女子新人戦 3回戦 日大三 vs 修徳
+SUMMARY:東京都／東京都高校女子新人戦
 DTSTART;TZID=Asia/Tokyo:20260117T110000
 DTEND;TZID=Asia/Tokyo:20260117T130000
 LOCATION:駒沢第二球技場
@@ -306,7 +306,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-ed5b7e5ea23a4dc9@my-ics
 DTSTAMP:20260203T044954Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】東京都高校女子新人戦 3回戦 日体大桜華 vs 実践学園
+SUMMARY:東京都／東京都高校女子新人戦
 DTSTART;TZID=Asia/Tokyo:20260117T123000
 DTEND;TZID=Asia/Tokyo:20260117T143000
 LOCATION:駒沢補助競技場
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-9f529d3992b3352e@my-ics
 DTSTAMP:20260203T044954Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】東京都高校女子新人戦 3回戦 駒澤大高 vs 日体大荏原
+SUMMARY:東京都／東京都高校女子新人戦
 DTSTART;TZID=Asia/Tokyo:20260118T140000
 DTEND;TZID=Asia/Tokyo:20260118T160000
 LOCATION:駒沢第二球技場
@@ -328,7 +328,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-a6326e318ad2754a@my-ics
 DTSTAMP:20260203T044954Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】東京都高校女子新人戦 準々決勝 日大三 vs 日体大荏原
+SUMMARY:東京都／東京都高校女子新人戦
 DTSTART;TZID=Asia/Tokyo:20260124T110000
 DTEND;TZID=Asia/Tokyo:20260124T130000
 LOCATION:駒沢第二球技場
@@ -339,7 +339,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-d5ef6f19c7d336bf@my-ics
 DTSTAMP:20260203T044954Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】東京都高校女子新人戦 準々決勝 日体大桜華 vs 十文字
+SUMMARY:東京都／東京都高校女子新人戦
 DTSTART;TZID=Asia/Tokyo:20260124T130000
 DTEND;TZID=Asia/Tokyo:20260124T150000
 LOCATION:駒沢補助競技場
@@ -372,7 +372,7 @@ BEGIN:VEVENT
 UID:soccer_kanto_hs_girls-6e6c4da14bd52f05@my-ics
 DTSTAMP:20260203T044954Z
 SEQUENCE:0
-SUMMARY:【関東-女子高校】神奈川県女子新人大会 準決勝 湘南学院 vs 藤沢清流
+SUMMARY:神奈川県／神奈川県女子新人大会
 DTSTART;TZID=Asia/Tokyo:20260201T123000
 DTEND;TZID=Asia/Tokyo:20260201T143000
 LOCATION:馬入ふれあい公園サッカー場（人工芝）
