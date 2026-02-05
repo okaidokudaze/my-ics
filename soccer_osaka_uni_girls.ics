@@ -8,16 +8,10 @@ BEGIN:VEVENT
 UID:soccer_osaka_uni_girls-a8d1f8d1acaa@ics
 DTSTAMP:20260205T050342Z
 SEQUENCE:1
-SUMMARY:大阪府／第34回全日本大学女子サッカー選手権 1回
- 戦 四国大学
+SUMMARY:大阪府／第34回全日本大学女子サッカー選手権大会（JFA）
 DTSTART;TZID=Asia/Tokyo:20251224T110000
-LOCATION:J-GREEN堺 S1 天然芝メインフィールド（大阪府堺市
- 堺区築港八幡町145）
-DESCRIPTION:第34回全日本大学女子サッカー選手権大会（JFA
- ）\nマッチNo.1\n結果：四国大学 1-0 福岡大学\n出典：https
- ://www.jfa.jp/match/university_womens_2025/schedule_result/pdf/Tournament.
- pdf\n要確認：SUMMARY未統一（都道府県/大会名の明記なし
- ）
+LOCATION:J-GREEN堺 S1 天然芝メインフィールド（大阪府堺市堺区築港八幡町145）
+DESCRIPTION:第34回全日本大学女子サッカー選手権大会（JFA）\nマッチNo.1\n結果：四国大学 1-0 福岡大学\n出典：https://www.jfa.jp/match/university_womens_2025/schedule_result/pdf/Tournament.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_osaka_uni_girls-b5e01e754d2a@ics
@@ -25,28 +19,17 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 SUMMARY:大阪府／第34回全日本大学女子サッカー選手権
 DTSTART;TZID=Asia/Tokyo:20251224T110000
-LOCATION:ヤンマースタジアム長居（大阪府大阪市東住吉区
- 長居公園1-1）
-DESCRIPTION:大会：第34回全日本大学女子サッカー選手権\n
- 都道府県：ヤンマースタジアム長居（大阪府\n第34回全
- 日本大学女子サッカー選手権大会（JFA）\nマッチNo.3\n結
- 果：大阪体育大学 1-0 新潟医療福祉大学\n出典：https://ww
- w.jfa.jp/match/university_womens_2025/schedule_result/pdf/Tournament.pdf
+LOCATION:ヤンマースタジアム長居（大阪府大阪市東住吉区長居公園1-1）
+DESCRIPTION:大会：第34回全日本大学女子サッカー選手権\n第34回全日本大学女子サッカー選手権大会（JFA）\nマッチNo.3\n結果：大阪体育大学 1-0 新潟医療福祉大学\n出典：https://www.jfa.jp/match/university_womens_2025/schedule_result/pdf/Tournament.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_osaka_uni_girls-3779bfe35d71@ics
 DTSTAMP:20260205T050342Z
 SEQUENCE:1
-SUMMARY:大阪府／第34回全日本大学女子サッカー選手権 1回
- 戦 追手門学院大学
+SUMMARY:大阪府／第34回全日本大学女子サッカー選手権大会（JFA）
 DTSTART;TZID=Asia/Tokyo:20251224T140000
-LOCATION:J-GREEN堺 S1 天然芝メインフィールド（大阪府堺市
- 堺区築港八幡町145）
-DESCRIPTION:第34回全日本大学女子サッカー選手権大会（JFA
- ）\nマッチNo.2\n結果：追手門学院大学 1-7 山梨学院大学\
- n出典：https://www.jfa.jp/match/university_womens_2025/schedule_result/
- pdf/Tournament.pdf\n要確認：SUMMARY未統一（都道府県/大会名
- の明記なし）
+LOCATION:J-GREEN堺 S1 天然芝メインフィールド（大阪府堺市堺区築港八幡町145）
+DESCRIPTION:第34回全日本大学女子サッカー選手権大会（JFA）\nマッチNo.2\n結果：追手門学院大学 1-7 山梨学院大学\n出典：https://www.jfa.jp/match/university_womens_2025/schedule_result/pdf/Tournament.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_osaka_uni_girls-3c0fa3d412f1@ics
@@ -54,13 +37,8 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 SUMMARY:大阪府／第34回全日本大学女子サッカー選手権
 DTSTART;TZID=Asia/Tokyo:20251224T140000
-LOCATION:ヤンマースタジアム長居（大阪府大阪市東住吉区
- 長居公園1-1）
-DESCRIPTION:大会：第34回全日本大学女子サッカー選手権\n
- 都道府県：ヤンマースタジアム長居（大阪府\n第34回全
- 日本大学女子サッカー選手権大会（JFA）\nマッチNo.4\n結
- 果：八戸学院大学 1-11 静岡産業大学\n出典：https://www.jfa
- .jp/match/university_womens_2025/schedule_result/pdf/Tournament.pdf
+LOCATION:ヤンマースタジアム長居（大阪府大阪市東住吉区長居公園1-1）
+DESCRIPTION:大会：第34回全日本大学女子サッカー選手権\n第34回全日本大学女子サッカー選手権大会（JFA）\nマッチNo.4\n結果：八戸学院大学 1-11 静岡産業大学\n出典：https://www.jfa.jp/match/university_womens_2025/schedule_result/pdf/Tournament.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_osaka_uni_girls-982e92ae3872@ics
@@ -68,28 +46,17 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 SUMMARY:大阪府／第34回全日本大学女子サッカー選手権
 DTSTART;TZID=Asia/Tokyo:20251226T110000
-LOCATION:ヤンマースタジアム長居（大阪府大阪市東住吉区
- 長居公園1-1）
-DESCRIPTION:大会：第34回全日本大学女子サッカー選手権\n
- 都道府県：ヤンマースタジアム長居（大阪府\n第34回全
- 日本大学女子サッカー選手権大会（JFA）\nマッチNo.9\n結
- 果：東洋大学 1PK4-1PK3 四国大学\n出典：https://www.jfa.jp/mat
- ch/university_womens_2025/schedule_result/pdf/Tournament.pdf
+LOCATION:ヤンマースタジアム長居（大阪府大阪市東住吉区長居公園1-1）
+DESCRIPTION:大会：第34回全日本大学女子サッカー選手権\n第34回全日本大学女子サッカー選手権大会（JFA）\nマッチNo.9\n結果：東洋大学 1PK4-1PK3 四国大学\n出典：https://www.jfa.jp/match/university_womens_2025/schedule_result/pdf/Tournament.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_osaka_uni_girls-04004370b0cb@ics
 DTSTAMP:20260205T050342Z
 SEQUENCE:1
-SUMMARY:大阪府／第34回全日本大学女子サッカー選手権 2回
- 戦 早稲田大学
+SUMMARY:大阪府／第34回全日本大学女子サッカー選手権大会（JFA）
 DTSTART;TZID=Asia/Tokyo:20251226T110000
-LOCATION:J-GREEN堺 S1 天然芝メインフィールド（大阪府堺市
- 堺区築港八幡町145）
-DESCRIPTION:第34回全日本大学女子サッカー選手権大会（JFA
- ）\nマッチNo.11\n結果：早稲田大学 0PK3-0PK4 大阪体育大学
- \n出典：https://www.jfa.jp/match/university_womens_2025/schedule_result
- /pdf/Tournament.pdf\n要確認：SUMMARY未統一（都道府県/大会名
- の明記なし）
+LOCATION:J-GREEN堺 S1 天然芝メインフィールド（大阪府堺市堺区築港八幡町145）
+DESCRIPTION:第34回全日本大学女子サッカー選手権大会（JFA）\nマッチNo.11\n結果：早稲田大学 0PK3-0PK4 大阪体育大学\n出典：https://www.jfa.jp/match/university_womens_2025/schedule_result/pdf/Tournament.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_osaka_uni_girls-35ab8f7488ec@ics
@@ -97,28 +64,17 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 SUMMARY:大阪府／第34回全日本大学女子サッカー選手権
 DTSTART;TZID=Asia/Tokyo:20251226T140000
-LOCATION:ヤンマースタジアム長居（大阪府大阪市東住吉区
- 長居公園1-1）
-DESCRIPTION:大会：第34回全日本大学女子サッカー選手権\n
- 都道府県：ヤンマースタジアム長居（大阪府\n第34回全
- 日本大学女子サッカー選手権大会（JFA）\nマッチNo.10\n
- 結果：吉備国際大学 0-2 山梨学院大学\n出典：https://www.j
- fa.jp/match/university_womens_2025/schedule_result/pdf/Tournament.pdf
+LOCATION:ヤンマースタジアム長居（大阪府大阪市東住吉区長居公園1-1）
+DESCRIPTION:大会：第34回全日本大学女子サッカー選手権\n第34回全日本大学女子サッカー選手権大会（JFA）\nマッチNo.10\n結果：吉備国際大学 0-2 山梨学院大学\n出典：https://www.jfa.jp/match/university_womens_2025/schedule_result/pdf/Tournament.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_osaka_uni_girls-3cb471f1a90a@ics
 DTSTAMP:20260205T050342Z
 SEQUENCE:1
-SUMMARY:大阪府／第34回全日本大学女子サッカー選手権 2回
- 戦 東京国際大学
+SUMMARY:大阪府／第34回全日本大学女子サッカー選手権大会（JFA）
 DTSTART;TZID=Asia/Tokyo:20251226T140000
-LOCATION:J-GREEN堺 S1 天然芝メインフィールド（大阪府堺市
- 堺区築港八幡町145）
-DESCRIPTION:第34回全日本大学女子サッカー選手権大会（JFA
- ）\nマッチNo.12\n結果：東京国際大学 0-3 静岡産業大学\n
- 出典：https://www.jfa.jp/match/university_womens_2025/schedule_result/p
- df/Tournament.pdf\n要確認：SUMMARY未統一（都道府県/大会名
- の明記なし）
+LOCATION:J-GREEN堺 S1 天然芝メインフィールド（大阪府堺市堺区築港八幡町145）
+DESCRIPTION:第34回全日本大学女子サッカー選手権大会（JFA）\nマッチNo.12\n結果：東京国際大学 0-3 静岡産業大学\n出典：https://www.jfa.jp/match/university_womens_2025/schedule_result/pdf/Tournament.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_osaka_uni_girls-f301b90a9246@ics
@@ -126,13 +82,8 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 SUMMARY:大阪府／第34回全日本大学女子サッカー選手権
 DTSTART;TZID=Asia/Tokyo:20251228T110000
-LOCATION:ヤンマースタジアム長居（大阪府大阪市東住吉区
- 長居公園1-1）
-DESCRIPTION:大会：第34回全日本大学女子サッカー選手権\n
- 都道府県：ヤンマースタジアム長居（大阪府\n第34回全
- 日本大学女子サッカー選手権大会（JFA）\nマッチNo.17\n
- 結果：東洋大学 1PK2-1PK4 山梨学院大学\n出典：https://www.j
- fa.jp/match/university_womens_2025/schedule_result/pdf/Tournament.pdf
+LOCATION:ヤンマースタジアム長居（大阪府大阪市東住吉区長居公園1-1）
+DESCRIPTION:大会：第34回全日本大学女子サッカー選手権\n第34回全日本大学女子サッカー選手権大会（JFA）\nマッチNo.17\n結果：東洋大学 1PK2-1PK4 山梨学院大学\n出典：https://www.jfa.jp/match/university_womens_2025/schedule_result/pdf/Tournament.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_osaka_uni_girls-5fe511c15c2a@ics
@@ -140,12 +91,7 @@ DTSTAMP:20260205T050342Z
 SEQUENCE:1
 SUMMARY:大阪府／第34回全日本大学女子サッカー選手権
 DTSTART;TZID=Asia/Tokyo:20251228T140000
-LOCATION:ヤンマースタジアム長居（大阪府大阪市東住吉区
- 長居公園1-1）
-DESCRIPTION:大会：第34回全日本大学女子サッカー選手権\n
- 都道府県：ヤンマースタジアム長居（大阪府\n第34回全
- 日本大学女子サッカー選手権大会（JFA）\nマッチNo.18\n
- 結果：大阪体育大学 0-2 静岡産業大学\n出典：https://www.j
- fa.jp/match/university_womens_2025/schedule_result/pdf/Tournament.pdf
+LOCATION:ヤンマースタジアム長居（大阪府大阪市東住吉区長居公園1-1）
+DESCRIPTION:大会：第34回全日本大学女子サッカー選手権\n第34回全日本大学女子サッカー選手権大会（JFA）\nマッチNo.18\n結果：大阪体育大学 0-2 静岡産業大学\n出典：https://www.jfa.jp/match/university_womens_2025/schedule_result/pdf/Tournament.pdf
 END:VEVENT
 END:VCALENDAR
