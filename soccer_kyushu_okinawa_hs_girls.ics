@@ -233,32 +233,5 @@ DESCRIPTION:種別：高校／女子\n回戦：準決勝\n対戦：那覇
  n時刻：未確定\n会場：会場不明（沖縄県）\n出典：https:/
  /www.juniorsoccer-news.com/post-1877507
 END:VEVENT
-BEGIN:VEVENT
-UID:cf217dc8c1440f105659654e508596da35dbfbb3@my-ics
-DTSTAMP:20260205T075209Z
-DTSTART;VALUE=DATE:20260130
-DTEND;VALUE=DATE:20260131
-SUMMARY:沖縄県／沖縄県/令和7年度第33回沖縄県高等学校新人体育大
- 会サッカー競技
-LOCATION:会場不明（沖縄県）
-DESCRIPTION:種別：高校／女子\n回戦：準決勝\n対戦：コザ v
- s 名護\n結果：0-1\n大会：令和7年度第33回沖縄県高等学校
- 新人体育大会サッカー競技\n都道府県：沖縄県\n時刻：
- 未確定\n会場：会場不明（沖縄県）\n出典：https://www.junio
- rsoccer-news.com/post-1877507
-END:VEVENT
-BEGIN:VEVENT
-UID:b31ed5f5626ad17df3452dca6f9ccce717ce9516@my-ics
-DTSTAMP:20260205T075209Z
-DTSTART;VALUE=DATE:20260131
-DTEND;VALUE=DATE:20260201
-SUMMARY:沖縄県／沖縄県/令和7年度第33回沖縄県高等学校新人体育大
- 会サッカー競技
-LOCATION:会場不明（沖縄県）
-DESCRIPTION:種別：高校／女子\n回戦：決勝\n対戦：那覇西 v
- s 名護\n結果：2-0(2-0.0-0)\n大会：令和7年度第33回沖縄県高
- 等学校新人体育大会サッカー競技\n都道府県：沖縄県\n
- 時刻：未確定\n会場：会場不明（沖縄県）\n出典：https://
- www.juniorsoccer-news.com/post-1877507
-END:VEVENT
+
 END:VCALENDAR
