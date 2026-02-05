@@ -16,146 +16,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:064a687616b0b34277681333d33a1bd98504f4d0@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20251213
-DTEND;VALUE=DATE:20251214
-SUMMARY:鳥取県／鳥取新人戦
-LOCATION:会場不明（鳥取県）
-DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
- ews.com/post-1847912\n結果：米子工業 10-0 鳥取商業
-END:VEVENT
-BEGIN:VEVENT
-UID:ab0cf98b626e9e518a04e183616eda962322d6c0@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20251213
-DTEND;VALUE=DATE:20251214
-SUMMARY:鳥取県／鳥取新人戦
-LOCATION:会場不明（鳥取県）
-DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
- ews.com/post-1847912\n結果：倉吉東 0-2 鳥取西
-END:VEVENT
-BEGIN:VEVENT
-UID:01b540041845b25a38f8b11c9440114ed939fbe0@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20251213
-DTEND;VALUE=DATE:20251214
-SUMMARY:鳥取県／鳥取新人戦
-LOCATION:会場不明（鳥取県）
-DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
- ews.com/post-1847912\n結果：倉吉総産 0-4 米子西
-END:VEVENT
-BEGIN:VEVENT
-UID:f3c7e76d3265408d221ca1ea3241963d4f1831c1@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20251214
-DTEND;VALUE=DATE:20251215
-SUMMARY:鳥取県／鳥取新人戦
-LOCATION:会場不明（鳥取県）
-DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
- ews.com/post-1847912\n結果：米子北 10-0 米子工業
-END:VEVENT
-BEGIN:VEVENT
-UID:7cfdf655d0089c7fff60b60a86c77426bcd66064@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20251214
-DTEND;VALUE=DATE:20251215
-SUMMARY:鳥取県／鳥取新人戦
-LOCATION:会場不明（鳥取県）
-DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
- ews.com/post-1847912\n結果：鳥取工業 0-4 米子東
-END:VEVENT
-BEGIN:VEVENT
-UID:63222a30a382f12cc320d3a75d1f96ff6aff2e43@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20251214
-DTEND;VALUE=DATE:20251215
-SUMMARY:鳥取県／鳥取新人戦
-LOCATION:会場不明（鳥取県）
-DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
- ews.com/post-1847912\n結果：倉吉北 8-0 鳥取敬愛
-END:VEVENT
-BEGIN:VEVENT
-UID:7f9b65a8c45aedfa1c281fca3dff111ed79a28dd@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20251214
-DTEND;VALUE=DATE:20251215
-SUMMARY:鳥取県／鳥取新人戦
-LOCATION:会場不明（鳥取県）
-DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
- ews.com/post-1847912\n結果：倉吉西 0-18 米子松蔭
-END:VEVENT
-BEGIN:VEVENT
-UID:79f34f4332d673a9573ee53e0ad4f755d2d3089c@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20251214
-DTEND;VALUE=DATE:20251215
-SUMMARY:鳥取県／鳥取新人戦
-LOCATION:会場不明（鳥取県）
-DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
- ews.com/post-1847912\n結果：八頭 2-1 鳥取西
-END:VEVENT
-BEGIN:VEVENT
-UID:9effca69bae0dafc46514f7157343e22e59c084b@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20251214
-DTEND;VALUE=DATE:20251215
-SUMMARY:鳥取県／鳥取新人戦
-LOCATION:会場不明（鳥取県）
-DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
- ews.com/post-1847912\n結果：鳥取育英 0-9 境
-END:VEVENT
-BEGIN:VEVENT
-UID:1bb98024e94d0cdea0d9c00300fbc1f91ee940eb@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20251214
-DTEND;VALUE=DATE:20251215
-SUMMARY:鳥取県／鳥取新人戦
-LOCATION:会場不明（鳥取県）
-DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
- ews.com/post-1847912\n結果：鳥取東 5-0 米子高専
-END:VEVENT
-BEGIN:VEVENT
-UID:24dbbbe6564a367b9a229249414691f1cb9613a8@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20251214
-DTEND;VALUE=DATE:20251215
-SUMMARY:鳥取県／鳥取新人戦
-LOCATION:会場不明（鳥取県）
-DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
- ews.com/post-1847912\n結果：米子西 0-0(EX0-1) 鳥取城北
-END:VEVENT
-BEGIN:VEVENT
-UID:34c8dcf11719191ee5dfc8395f5c8dfc1fc6802a@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260129
-DTEND;VALUE=DATE:20260130
-SUMMARY:鳥取県／鳥取新人戦
-LOCATION:会場不明（鳥取県）
-DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
- ews.com/post-1847912\n結果：米子北 9-0 米子東\n※雪の影響で準々決勝日程が変更（記事参照）。\n回戦等：決勝
-END:VEVENT
-BEGIN:VEVENT
-UID:26ea6842135dade52961864033964473054d8363@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260129
-DTEND;VALUE=DATE:20260130
-SUMMARY:鳥取県／鳥取新人戦
-LOCATION:会場不明（鳥取県）
-DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
- ews.com/post-1847912\n結果：八頭 1-2(延長) 境\n※雪の影響で準々決勝日程が変更（記事参照）。\n回戦等：決勝
-END:VEVENT
-BEGIN:VEVENT
-UID:de537d01b52217a392cffa78f98f7c680b14700f@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260201
-DTEND;VALUE=DATE:20260202
-SUMMARY:鳥取県／鳥取新人戦
-LOCATION:会場不明（鳥取県）
-DESCRIPTION:出典：Green Card ニュース（鳥取県高校サッカー新人戦）\n参照：https://www.juniorsoccer-n
- ews.com/post-1847912\n※雪の影響で準々決勝日程が変更（記事参照）。（スコア未反映）\n回戦等：決勝
-END:VEVENT
-BEGIN:VEVENT
 UID:17d478bdb8e754121845368a8edb0ddd29624e25@my-ics
 DTSTAMP:20260203T075429Z
 DTSTART;VALUE=DATE:20260116
@@ -280,7 +140,6 @@ LOCATION:広島県内公共施設・各高等学校 等
 DESCRIPTION:出典：要項（公式）\n参照：https://hiroshima-koutairen.jp/soccer/event/sched
  ule/entry-19028.html\n※組合せ（対戦カード）未取得のため、後で1試合=1イベントに差し替え予定。
 END:VEVENT
-
 BEGIN:VEVENT
 UID:soccer_chugoku_hs_boys-20260130-5e18e37ee3129e1d@my-ics
 DTSTAMP:20260205T093927Z
@@ -737,308 +596,193 @@ DESCRIPTION:種別：高校／男子\n対戦：宇部鴻城/小野田工 vs 宇�
  yamaguchi-fa.com/archives/16230
 END:VEVENT
 BEGIN:VEVENT
-UID:1b03c387a0359a2ae125e38bcadc5e3fcfab4c90@my-ics
-DTSTAMP:20260205T094606Z
+UID:6ccb7a5881e06927bb016e3a3242d3f4606a29c5@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20251213T100000
+DTEND;TZID=Asia/Tokyo:20251213T120000
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：米子工 vs 鳥取商\n回戦：1回戦\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：10:00（KO）\n会場：会場不明（鳥取県）\n結果：10-0\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260116T093000
-DTEND;TZID=Asia/Tokyo:20260116T113000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：平田 vs 吉賀\n回戦：1回
- 戦\n大会：令和7年度島根新人戦（新人選手権大会）\n都
- 道府県：島根県\n時刻：09:30\n会場：会場不明（島根県
- ）\n結果：2-0\n出典：https://koko-soccer.com/score/4276
 END:VEVENT
 BEGIN:VEVENT
-UID:30e89fa3a184eddc4f77ba8f8b0900047ece0ca0@my-ics
-DTSTAMP:20260205T094606Z
+UID:f1943f89840fc4849dacca88f5457f2bcb83a6a2@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20251213T100000
+DTEND;TZID=Asia/Tokyo:20251213T120000
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：倉吉総産 vs 米子西\n回戦：1回戦\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：10:00（KO）\n会場：会場不明（鳥取県）\n結果：0-4\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260116T093000
-DTEND;TZID=Asia/Tokyo:20260116T113000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：出雲西 vs 三刀屋\n回戦
- ：1回戦\n大会：令和7年度島根新人戦（新人選手権大会
- ）\n都道府県：島根県\n時刻：09:30\n会場：会場不明（島
- 根県）\n結果：1-9\n出典：https://koko-soccer.com/score/4276
 END:VEVENT
 BEGIN:VEVENT
-UID:fe97e70acee8e4cfffa3817cc8a256bba9a4ffda@my-ics
-DTSTAMP:20260205T094606Z
+UID:6eeed4eec1d99cb687a0a37a1e13e6e081ab652e@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20251213T121500
+DTEND;TZID=Asia/Tokyo:20251213T141500
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：倉吉東 vs 鳥取西\n回戦：1回戦\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：12:15（KO）\n会場：会場不明（鳥取県）\n結果：0-2\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260116T093000
-DTEND;TZID=Asia/Tokyo:20260116T113000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：浜商・浜田・出農・出
- 商 vs 松江工\n回戦：1回戦\n大会：令和7年度島根新人戦
- （新人選手権大会）\n都道府県：島根県\n時刻：09:30\n会
- 場：会場不明（島根県）\n結果：1-2\n出典：https://koko-soc
- cer.com/score/4276
 END:VEVENT
 BEGIN:VEVENT
-UID:ad791fe0f12c82d7b715085f4fd08e16726895d4@my-ics
-DTSTAMP:20260205T094606Z
+UID:a9d1448f57b95d9d320ab6473aedd018d988447b@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20251214T100000
+DTEND;TZID=Asia/Tokyo:20251214T120000
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：八頭 vs 鳥取西\n回戦：2回戦\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：10:00（KO）\n会場：会場不明（鳥取県）\n結果：2-1\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260116T120000
-DTEND;TZID=Asia/Tokyo:20260116T140000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：出雲 vs 松江南\n回戦：1
- 回戦\n大会：令和7年度島根新人戦（新人選手権大会）\n
- 都道府県：島根県\n時刻：12:00\n会場：会場不明（島根
- 県）\n結果：3-2\n出典：https://koko-soccer.com/score/4276
 END:VEVENT
 BEGIN:VEVENT
-UID:89a2262d561d8eaf4f940c5b1e21b23ec4aed3c6@my-ics
-DTSTAMP:20260205T094606Z
+UID:db4bd3667b2effd91fe75e2e59a972bc6f4c5ff0@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20251214T100000
+DTEND;TZID=Asia/Tokyo:20251214T120000
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：米子北 vs 米子工\n回戦：2回戦\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：10:00（KO）\n会場：会場不明（鳥取県）\n結果：10-0\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260116T120000
-DTEND;TZID=Asia/Tokyo:20260116T140000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：松江北 vs 松江高専\n回
- 戦：1回戦\n大会：令和7年度島根新人戦（新人選手権大
- 会）\n都道府県：島根県\n時刻：12:00\n会場：会場不明（
- 島根県）\n結果：2-1\n出典：https://koko-soccer.com/score/4276
 END:VEVENT
 BEGIN:VEVENT
-UID:c4a2eec6ff0b16503a313d4dc86788522b25d89d@my-ics
-DTSTAMP:20260205T094606Z
+UID:68fc815b603ab64c0b7964704bff46892dadb65b@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20251214T100000
+DTEND;TZID=Asia/Tokyo:20251214T120000
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：米子西 vs 鳥取城北\n回戦：2回戦\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：10:00（KO）\n会場：会場不明（鳥取県）\n結果：0-1\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260116T123000
-DTEND;TZID=Asia/Tokyo:20260116T143000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：出雲北陵 vs 松江農林\n
- 回戦：1回戦\n大会：令和7年度島根新人戦（新人選手権
- 大会）\n都道府県：島根県\n時刻：12:30\n会場：会場不明
- （島根県）\n結果：1-0\n出典：https://koko-soccer.com/score/4276
 END:VEVENT
 BEGIN:VEVENT
-UID:f423dd088654ab7e57ea6fe20c4a88d47483e55e@my-ics
-DTSTAMP:20260205T094606Z
+UID:aa5147edd267eddd74e3eb1dd66f083b3734ea00@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20251214T121500
+DTEND;TZID=Asia/Tokyo:20251214T141500
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：鳥取工 vs 米子東\n回戦：2回戦\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：12:15（KO）\n会場：会場不明（鳥取県）\n結果：0-4\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260116T143000
-DTEND;TZID=Asia/Tokyo:20260116T163000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：大田 vs 石見智翠館\n回
- 戦：1回戦\n大会：令和7年度島根新人戦（新人選手権大
- 会）\n都道府県：島根県\n時刻：14:30\n会場：会場不明（
- 島根県）\n結果：2-0\n出典：https://koko-soccer.com/score/4276
 END:VEVENT
 BEGIN:VEVENT
-UID:2d089a61701265365f13ca03680be142b9fa9258@my-ics
-DTSTAMP:20260205T094606Z
+UID:6d5e25d2a6f2e010273823b6b6bed7b0ef0f7e01@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20251214T121500
+DTEND;TZID=Asia/Tokyo:20251214T141500
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：倉吉西 vs 米子松蔭\n回戦：2回戦\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：12:15（KO）\n会場：会場不明（鳥取県）\n結果：0-18\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260116T143000
-DTEND;TZID=Asia/Tokyo:20260116T163000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：益田翔陽 vs 松江東\n回
- 戦：1回戦\n大会：令和7年度島根新人戦（新人選手権大
- 会）\n都道府県：島根県\n時刻：14:30\n会場：会場不明（
- 島根県）\n結果：0-3\n出典：https://koko-soccer.com/score/4276
 END:VEVENT
 BEGIN:VEVENT
-UID:a171ced07b5af15fc74f5bddcecce07e2b2a99cd@my-ics
-DTSTAMP:20260205T094606Z
+UID:ef84f66f00e05b730630253883eb8203b4fb89b4@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20251214T121500
+DTEND;TZID=Asia/Tokyo:20251214T141500
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：鳥取東 vs 米子高専\n回戦：2回戦\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：12:15（KO）\n会場：会場不明（鳥取県）\n結果：5-0\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260117T093000
-DTEND;TZID=Asia/Tokyo:20260117T113000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：大社 vs 平田\n回戦：2回
- 戦\n大会：令和7年度島根新人戦（新人選手権大会）\n都
- 道府県：島根県\n時刻：09:30\n会場：会場不明（島根県
- ）\n結果：5-1\n出典：https://koko-soccer.com/score/4276
 END:VEVENT
 BEGIN:VEVENT
-UID:11e4c59a302d01daa9178c0dca703c42f0a2bed7@my-ics
-DTSTAMP:20260205T094606Z
+UID:7759834fac9b06cfc9a2da89067efafdca552227@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20251214T143000
+DTEND;TZID=Asia/Tokyo:20251214T163000
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：鳥取中央育英 vs 境\n回戦：2回戦\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：14:30（KO）\n会場：会場不明（鳥取県）\n結果：0-9\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260117T093000
-DTEND;TZID=Asia/Tokyo:20260117T113000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：開星 vs 三刀屋\n回戦：2
- 回戦\n大会：令和7年度島根新人戦（新人選手権大会）\n
- 都道府県：島根県\n時刻：09:30\n会場：会場不明（島根
- 県）\n結果：6-0\n出典：https://koko-soccer.com/score/4276
 END:VEVENT
 BEGIN:VEVENT
-UID:e42303de3d06829d67aa22eb84367a7a06d145d3@my-ics
-DTSTAMP:20260205T094606Z
+UID:3f19af7c78cf30f34fab25b182cb7afe46875fba@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20251214T143000
+DTEND;TZID=Asia/Tokyo:20251214T163000
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：倉吉北 vs 鳥取敬愛\n回戦：2回戦\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：14:30（KO）\n会場：会場不明（鳥取県）\n結果：8-0\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260117T093000
-DTEND;TZID=Asia/Tokyo:20260117T113000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：松江工 vs 明誠\n回戦：2
- 回戦\n大会：令和7年度島根新人戦（新人選手権大会）\n
- 都道府県：島根県\n時刻：09:30\n会場：会場不明（島根
- 県）\n結果：3-2\n出典：https://koko-soccer.com/score/4276
 END:VEVENT
 BEGIN:VEVENT
-UID:9f35ebd60219fe1f15578e8415ff3ede52a2620d@my-ics
-DTSTAMP:20260205T094606Z
+UID:9fde6fdad6383c66bfbece426895695bbe7ce9b4@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20260129T110000
+DTEND;TZID=Asia/Tokyo:20260129T130000
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：米子北 vs 米子東\n回戦：準々決勝\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：11:00（KO）\n会場：会場不明（鳥取県）\n結果：9-0\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260117T120000
-DTEND;TZID=Asia/Tokyo:20260117T140000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：益田 vs 出雲\n回戦：2回
- 戦\n大会：令和7年度島根新人戦（新人選手権大会）\n都
- 道府県：島根県\n時刻：12:00\n会場：会場不明（島根県
- ）\n結果：0-1\n出典：https://koko-soccer.com/score/4276
 END:VEVENT
 BEGIN:VEVENT
-UID:dce70d9b0de5f5eee302157506fd50368f6f657e@my-ics
-DTSTAMP:20260205T094606Z
+UID:324ff88ed0ddddfa4faf3c2a27777c4eed336157@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20260129T131500
+DTEND;TZID=Asia/Tokyo:20260129T151500
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：八頭 vs 境\n回戦：準々決勝\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：13:15（KO）\n会場：会場不明（鳥取県）\n結果：1-2\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260117T120000
-DTEND;TZID=Asia/Tokyo:20260117T140000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：松江北 vs 立正大淞南\n
- 回戦：2回戦\n大会：令和7年度島根新人戦（新人選手権
- 大会）\n都道府県：島根県\n時刻：12:00\n会場：会場不明
- （島根県）\n結果：0-4\n出典：https://koko-soccer.com/score/4276
 END:VEVENT
 BEGIN:VEVENT
-UID:7779c2150b24837e5f4ef2e77d79bef1c2335b1e@my-ics
-DTSTAMP:20260205T094606Z
+UID:70bdaf1ef1c596ed05706c00e7eed92b7aefb7d7@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20260201T110000
+DTEND;TZID=Asia/Tokyo:20260201T130000
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：倉吉北 vs 米子松蔭\n回戦：準々決勝\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：11:00（KO）\n会場：会場不明（鳥取県）\n結果：1-0\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260117T123000
-DTEND;TZID=Asia/Tokyo:20260117T143000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：出雲北陵 vs 出雲工\n回
- 戦：2回戦\n大会：令和7年度島根新人戦（新人選手権大
- 会）\n都道府県：島根県\n時刻：12:30\n会場：会場不明（
- 島根県）\n結果：0-0 PK4-6\n出典：https://koko-soccer.com/score/4
- 276
 END:VEVENT
 BEGIN:VEVENT
-UID:c179e89717ccf938c3abc863e2b4f51c6ae24397@my-ics
-DTSTAMP:20260205T094606Z
+UID:e514c658dcb9539f85dd2bdf0b3bb1811f77ab5d@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20260201T110000
+DTEND;TZID=Asia/Tokyo:20260201T130000
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：鳥取東 vs 鳥取城北\n回戦：準々決勝\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：11:00（KO）\n会場：会場不明（鳥取県）\n結果：1-3\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260117T143000
-DTEND;TZID=Asia/Tokyo:20260117T163000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：大田 vs 益田東\n回戦：2
- 回戦\n大会：令和7年度島根新人戦（新人選手権大会）\n
- 都道府県：島根県\n時刻：14:30\n会場：会場不明（島根
- 県）\n結果：0-3\n出典：https://koko-soccer.com/score/4276
 END:VEVENT
 BEGIN:VEVENT
-UID:731e3aafe396dca855ab6937d6ac3a972d06a93e@my-ics
-DTSTAMP:20260205T094606Z
+UID:df84074956159858695848f1f33888b8f508eb54@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20260131T110000
+DTEND;TZID=Asia/Tokyo:20260131T130000
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：米子北 vs 倉吉北\n回戦：準決勝\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：11:00（KO）\n会場：会場不明（鳥取県）\n結果：8-0\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260117T143000
-DTEND;TZID=Asia/Tokyo:20260117T163000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：松江商 vs 松江東\n回戦
- ：2回戦\n大会：令和7年度島根新人戦（新人選手権大会
- ）\n都道府県：島根県\n時刻：14:30\n会場：会場不明（島
- 根県）\n結果：2-0\n出典：https://koko-soccer.com/score/4276
 END:VEVENT
 BEGIN:VEVENT
-UID:e0b7f196e272cbc00e3b213f20ab804a8f9562f7@my-ics
-DTSTAMP:20260205T094606Z
+UID:d65e977678d00bbd6cfbfb564a5b0ac966a50f9b@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20260205T131500
+DTEND;TZID=Asia/Tokyo:20260205T151500
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：境 vs 鳥取城北\n回戦：準決勝\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：13:15（KO）\n会場：会場不明（鳥取県）\n結果：未確定\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260131T100000
-DTEND;TZID=Asia/Tokyo:20260131T120000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：大社 vs 益田東\n回戦：
- 準々決勝\n大会：令和7年度島根新人戦（新人選手権大
- 会）\n都道府県：島根県\n時刻：10:00\n会場：会場不明（
- 島根県）\n結果：0-2\n出典：https://koko-soccer.com/score/4276
 END:VEVENT
 BEGIN:VEVENT
-UID:7591dccf0c5e11549812ba865c68f33c2a71bf95@my-ics
-DTSTAMP:20260205T094606Z
+UID:6489c458725c65fbfcea7926feb180c0843b1ce1@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20260206T093000
+DTEND;TZID=Asia/Tokyo:20260206T113000
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：倉吉北 vs 未定\n回戦：3位決定戦\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：09:30（KO）\n会場：会場不明（鳥取県）\n結果：未確定\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260131T100000
-DTEND;TZID=Asia/Tokyo:20260131T120000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：出雲 vs 出雲工\n回戦：
- 準々決勝\n大会：令和7年度島根新人戦（新人選手権大
- 会）\n都道府県：島根県\n時刻：10:00\n会場：会場不明（
- 島根県）\n結果：1-2\n出典：https://koko-soccer.com/score/4276
 END:VEVENT
 BEGIN:VEVENT
-UID:2539509320b40a0f4ef9b1cacdba7cbb9e98bdcc@my-ics
-DTSTAMP:20260205T094606Z
+UID:e61411f7d4d5ee02872cdc7770d2ba11965a66b0@my-ics
+DTSTAMP:20260205T095253Z
+DTSTART;TZID=Asia/Tokyo:20260206T110000
+DTEND;TZID=Asia/Tokyo:20260206T130000
+SUMMARY:鳥取県／鳥取新人戦
+LOCATION:会場不明（鳥取県）
+DESCRIPTION:種別：高校男子\n対戦：米子北 vs 未定\n回戦：決勝\n大会：鳥取新人戦\n都道府県：鳥取県\n時刻：11:00（KO）\n会場：会場不明（鳥取県）\n結果：未確定\n出典：https://koko-soccer.com/score/4255
 SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260131T123000
-DTEND;TZID=Asia/Tokyo:20260131T143000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：開星 vs 立正大淞南\n回
- 戦：準々決勝\n大会：令和7年度島根新人戦（新人選手
- 権大会）\n都道府県：島根県\n時刻：12:30\n会場：会場不
- 明（島根県）\n結果：0-3\n出典：https://koko-soccer.com/score/4
- 276
-END:VEVENT
-BEGIN:VEVENT
-UID:06da9385cc90b38a8eba9753892a5fbab72616de@my-ics
-DTSTAMP:20260205T094606Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260131T123000
-DTEND;TZID=Asia/Tokyo:20260131T143000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：松江商 vs 松江工\n回戦
- ：準々決勝\n大会：令和7年度島根新人戦（新人選手権
- 大会）\n都道府県：島根県\n時刻：12:30\n会場：会場不明
- （島根県）\n結果：4-0\n出典：https://koko-soccer.com/score/4276
-END:VEVENT
-BEGIN:VEVENT
-UID:ced8bcf09036d928bc38728c6c071f6c497dc1a4@my-ics
-DTSTAMP:20260205T094606Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260207T100000
-DTEND;TZID=Asia/Tokyo:20260207T120000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：益田東 vs 出雲工\n回戦
- ：準決勝\n大会：令和7年度島根新人戦（新人選手権大
- 会）\n都道府県：島根県\n時刻：10:00\n会場：会場不明（
- 島根県）\n結果：未確定\n出典：https://koko-soccer.com/score/4
- 276
-END:VEVENT
-BEGIN:VEVENT
-UID:9295b60772bf14a307ccf89426a5ee8e95aff3d1@my-ics
-DTSTAMP:20260205T094606Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260207T123000
-DTEND;TZID=Asia/Tokyo:20260207T143000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：立正大淞南 vs 松江商\n
- 回戦：準決勝\n大会：令和7年度島根新人戦（新人選手
- 権大会）\n都道府県：島根県\n時刻：12:30\n会場：会場不
- 明（島根県）\n結果：未確定\n出典：https://koko-soccer.com/s
- core/4276
-END:VEVENT
-BEGIN:VEVENT
-UID:df7a497c6245a88cfa545352710d5be53f5518dd@my-ics
-DTSTAMP:20260205T094606Z
-SEQUENCE:1
-DTSTART;TZID=Asia/Tokyo:20260208T123000
-DTEND;TZID=Asia/Tokyo:20260208T143000
-SUMMARY:島根県／令和7年度島根新人戦（新人選手権大会）
-LOCATION:会場不明（島根県）
-DESCRIPTION:種別：高校男子\n対戦：益田東/出雲工 vs 立正
- 大淞南/松江商\n回戦：決勝\n大会：令和7年度島根新人
- 戦（新人選手権大会）\n都道府県：島根県\n時刻：12:30\n
- 会場：会場不明（島根県）\n結果：未確定\n出典：https:/
- /koko-soccer.com/score/4276
 END:VEVENT
 END:VCALENDAR
