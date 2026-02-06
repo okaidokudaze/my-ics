@@ -164,7 +164,7 @@ UID:ea3bd7feae65ccf9@soccer_kanto_hs_girls
 DTSTAMP:20260203T005300Z
 DTSTART;TZID=Asia/Tokyo:20260110T100000
 DTEND;TZID=Asia/Tokyo:20260110T120000
-SUMMARY:【関東-女子高校】群馬女子新人 試合No1 太田女子 vs 伊勢崎清明
+SUMMARY:群馬県／群馬新人 試合No1 太田
 LOCATION:SUNAGAサッカースタジアムあずま
 DESCRIPTION:出典: https://management.gunma-fa.com/api/match/170
 END:VEVENT
@@ -173,7 +173,7 @@ UID:f2a0359df87fea82@soccer_kanto_hs_girls
 DTSTAMP:20260203T005300Z
 DTSTART;TZID=Asia/Tokyo:20260110T114500
 DTEND;TZID=Asia/Tokyo:20260110T134500
-SUMMARY:【関東-女子高校】群馬女子新人 試合No2 前橋女子 vs 渋女・館女・関学・沼田
+SUMMARY:群馬県／群馬新人 試合No2 前橋
 LOCATION:SUNAGAサッカースタジアムあずま
 DESCRIPTION:出典: https://management.gunma-fa.com/api/match/170
 END:VEVENT
@@ -182,7 +182,7 @@ UID:36cd677a6cfff0b0@soccer_kanto_hs_girls
 DTSTAMP:20260203T005300Z
 DTSTART;TZID=Asia/Tokyo:20260110T133000
 DTEND;TZID=Asia/Tokyo:20260110T153000
-SUMMARY:【関東-女子高校】群馬女子新人 試合No3 高崎女子 vs 商大附・新島
+SUMMARY:群馬県／群馬新人 試合No3 高崎
 LOCATION:SUNAGAサッカースタジアムあずま
 DESCRIPTION:出典: https://management.gunma-fa.com/api/match/170
 END:VEVENT
@@ -191,7 +191,7 @@ UID:3c5629c77954db94@soccer_kanto_hs_girls
 DTSTAMP:20260203T005300Z
 DTSTART;TZID=Asia/Tokyo:20260112T100000
 DTEND;TZID=Asia/Tokyo:20260112T120000
-SUMMARY:【関東-女子高校】群馬女子新人 試合No4 対戦番号1の勝者 vs 対戦番号2の勝者
+SUMMARY:群馬県／群馬新人
 LOCATION:SUNAGAサッカースタジアムあずま
 DESCRIPTION:出典: https://management.gunma-fa.com/api/match/170
 END:VEVENT
@@ -200,7 +200,7 @@ UID:70f3f8f86033c32a@soccer_kanto_hs_girls
 DTSTAMP:20260203T005300Z
 DTSTART;TZID=Asia/Tokyo:20260112T114500
 DTEND;TZID=Asia/Tokyo:20260112T134500
-SUMMARY:【関東-女子高校】群馬女子新人 試合No5 市立太田 vs 対戦番号3の勝者
+SUMMARY:群馬県／群馬新人 試合No5 市立太田
 LOCATION:SUNAGAサッカースタジアムあずま
 DESCRIPTION:出典: https://management.gunma-fa.com/api/match/170
 END:VEVENT
@@ -209,7 +209,7 @@ UID:d2b8c3dcdb5b058c@soccer_kanto_hs_girls
 DTSTAMP:20260203T005300Z
 DTSTART;TZID=Asia/Tokyo:20260118T100000
 DTEND;TZID=Asia/Tokyo:20260118T120000
-SUMMARY:【関東-女子高校】群馬女子新人 試合No6 前橋育英 vs 対戦番号4の勝者
+SUMMARY:群馬県／群馬新人 試合No6 前橋育英
 LOCATION:太田市運動公園サッカー/ラグビー場
 DESCRIPTION:出典: https://management.gunma-fa.com/api/match/170
 END:VEVENT
@@ -218,7 +218,7 @@ UID:4736afbbe55fdc1f@soccer_kanto_hs_girls
 DTSTAMP:20260203T005300Z
 DTSTART;TZID=Asia/Tokyo:20260118T123000
 DTEND;TZID=Asia/Tokyo:20260118T143000
-SUMMARY:【関東-女子高校】群馬女子新人 試合No7 健大高崎 vs 対戦番号5の勝者
+SUMMARY:群馬県／群馬新人 試合No7 健大高崎
 LOCATION:太田市運動公園サッカー/ラグビー場
 DESCRIPTION:出典: https://management.gunma-fa.com/api/match/170
 END:VEVENT
@@ -227,7 +227,7 @@ UID:a75bcfb57c924d12@soccer_kanto_hs_girls
 DTSTAMP:20260203T005300Z
 DTSTART;TZID=Asia/Tokyo:20260125T100000
 DTEND;TZID=Asia/Tokyo:20260125T120000
-SUMMARY:【関東-女子高校】群馬女子新人 試合No8 対戦番号6の勝者 vs 対戦番号7の勝者
+SUMMARY:群馬県／群馬新人
 LOCATION:SUNAGAサッカースタジアムあずま
 DESCRIPTION:出典: https://management.gunma-fa.com/api/match/170
 END:VEVENT

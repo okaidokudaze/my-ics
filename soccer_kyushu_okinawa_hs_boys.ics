@@ -10,7 +10,7 @@ UID:aac0ea47c0ffc1ea91d00232af9a652ee2e3ef3c@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260114T110000
 DTEND;TZID=Asia/Tokyo:20260114T130000
-SUMMARY:福大大濠 vs 近大福岡（福岡県／福大大濠 vs 近大福岡（福岡県新人
+SUMMARY:福岡県／福大大濠
 LOCATION:福岡フットボールセンター A
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
 END:VEVENT
@@ -19,7 +19,7 @@ UID:754a7360195f16f817458d4c9cc315397fcb0f1f@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260114T130000
 DTEND;TZID=Asia/Tokyo:20260114T150000
-SUMMARY:福岡常葉 vs 星琳（福岡県／福岡常葉 vs 星琳（福岡県新人
+SUMMARY:福岡県／福岡常葉
 LOCATION:福岡フットボールセンター A
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
 END:VEVENT
@@ -28,7 +28,7 @@ UID:670918f1c7c3714401f1470de2516c722258d437@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260114T110000
 DTEND;TZID=Asia/Tokyo:20260114T130000
-SUMMARY:筑紫 vs 折尾愛真（福岡県／筑紫 vs 折尾愛真（福岡県新人
+SUMMARY:福岡県／筑紫
 LOCATION:福岡フットボールセンター B
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
 END:VEVENT
@@ -37,7 +37,7 @@ UID:a53b6161b5ca82b982d5ee2111a5dce0dd2c11f2@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260114T130000
 DTEND;TZID=Asia/Tokyo:20260114T150000
-SUMMARY:東海大福岡 vs 久留米（福岡県／東海大福岡 vs 久留米（福岡県新人
+SUMMARY:福岡県／東海大福岡
 LOCATION:福岡フットボールセンター B
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
 END:VEVENT
@@ -46,7 +46,7 @@ UID:a08dba918314331736eb92567ff15fae9bef0133@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260115T110000
 DTEND;TZID=Asia/Tokyo:20260115T130000
-SUMMARY:小倉 vs 折尾（福岡県／小倉 vs 折尾（福岡県新人
+SUMMARY:福岡県／小倉
 LOCATION:福岡フットボールセンター A
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
 END:VEVENT
@@ -55,7 +55,7 @@ UID:b17ef27da6399acca5eb9ddd437c4c28c45c13b7@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260115T130000
 DTEND;TZID=Asia/Tokyo:20260115T150000
-SUMMARY:筑紫台 vs 八女（福岡県／筑紫台 vs 八女（福岡県新人
+SUMMARY:福岡県／筑紫台
 LOCATION:福岡フットボールセンター A
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
 END:VEVENT
@@ -64,7 +64,7 @@ UID:4e6fc1cf97445d189b9715895fe3eba2b6364e17@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260115T110000
 DTEND;TZID=Asia/Tokyo:20260115T130000
-SUMMARY:福岡大若葉 vs 小倉工業（福岡県／福岡大若葉 vs 小倉工業（福岡県新人
+SUMMARY:福岡県／福岡大若葉
 LOCATION:福岡フットボールセンター B
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
 END:VEVENT
@@ -73,7 +73,7 @@ UID:e7d7d4e2fdc07e31753d1323c10efc39cdfe089d@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260115T130000
 DTEND;TZID=Asia/Tokyo:20260115T150000
-SUMMARY:東福岡 vs 武蔵台（福岡県／東福岡 vs 武蔵台（福岡県新人
+SUMMARY:福岡県／東福岡
 LOCATION:福岡フットボールセンター B
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
 END:VEVENT
@@ -82,7 +82,7 @@ UID:1b351e646905beb643fd29609243ab3be7be80c6@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260121T110000
 DTEND;TZID=Asia/Tokyo:20260121T130000
-SUMMARY:九国大付 vs 飯塚（福岡県／九国大付 vs 飯塚（福岡県新人
+SUMMARY:福岡県／九国大付
 LOCATION:福岡フットボールセンター A
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）5回戦
 END:VEVENT
@@ -91,7 +91,7 @@ UID:82cbd7c726799857ee957d007626ce5db2a68087@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260121T130000
 DTEND;TZID=Asia/Tokyo:20260121T150000
-SUMMARY:筑紫台 vs 福大大濠（福岡県／筑紫台 vs 福大大濠（福岡県新人
+SUMMARY:福岡県／筑紫台
 LOCATION:福岡フットボールセンター A
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）5回戦
 END:VEVENT
@@ -100,7 +100,7 @@ UID:c8e10e9007b045218e84adf208ccfe1ee079a5d3@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260121T110000
 DTEND;TZID=Asia/Tokyo:20260121T130000
-SUMMARY:九産大九州 vs 筑陽学園（福岡県／九産大九州 vs 筑陽学園（福岡県新人
+SUMMARY:福岡県／九産大九州
 LOCATION:福岡フットボールセンター B
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）5回戦
 END:VEVENT
@@ -109,7 +109,7 @@ UID:7b4033c9fda639e121aeed7e27816d35547f6448@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260121T130000
 DTEND;TZID=Asia/Tokyo:20260121T150000
-SUMMARY:東海大福岡 vs 福岡大若葉（福岡県／東海大福岡 vs 福岡大若葉（福岡県新人
+SUMMARY:福岡県／東海大福岡
 LOCATION:福岡フットボールセンター B
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）5回戦
 END:VEVENT
@@ -118,7 +118,7 @@ UID:754b2b5f6f34830db31e4be494ce6ed941cb2e6d@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260122T110000
 DTEND;TZID=Asia/Tokyo:20260122T130000
-SUMMARY:東福岡 vs 筑紫台（福岡県／東福岡 vs 筑紫台（福岡県新人 6回戦）
+SUMMARY:福岡県／東福岡
 LOCATION:福岡フットボールセンター A
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）6回戦
 END:VEVENT
@@ -127,7 +127,7 @@ UID:b0c53d545710b1e0c2e3213036533c6435d4a10b@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260122T130000
 DTEND;TZID=Asia/Tokyo:20260122T150000
-SUMMARY:九国大付 vs 九産大九州（福岡県／九国大付 vs 九産大九州（福岡県新人 6回戦）
+SUMMARY:福岡県／九国大付
 LOCATION:福岡フットボールセンター A
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）6回戦
 END:VEVENT
@@ -136,7 +136,7 @@ UID:1de5aa786c0fe1633cc67eda1e2c5474fbdf39ad@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260122T110000
 DTEND;TZID=Asia/Tokyo:20260122T130000
-SUMMARY:飯塚 vs 高稜（福岡県／飯塚 vs 高稜（福岡県新人 6回戦）
+SUMMARY:福岡県／飯塚
 LOCATION:福岡フットボールセンター B
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）6回戦
 END:VEVENT
@@ -145,7 +145,7 @@ UID:392f1c300dcc89d091c2525801e26dde039921ae@my-ics
 DTSTAMP:20260203T070559Z
 DTSTART;TZID=Asia/Tokyo:20260122T130000
 DTEND;TZID=Asia/Tokyo:20260122T150000
-SUMMARY:東海大福岡 vs 筑紫台（福岡県／東海大福岡 vs 筑紫台（福岡県新人 6回戦）
+SUMMARY:福岡県／東海大福岡
 LOCATION:福岡フットボールセンター B
 DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）6回戦
 END:VEVENT

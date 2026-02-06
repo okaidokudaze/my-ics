@@ -11,7 +11,7 @@ UID:soccer_hokkaido_tohoku_hs_boys-b33278fdafec640454af3a2ecf9410aa0720ca21
 DTSTAMP:20260203T011456Z
 DTSTART;TZID=Asia/Tokyo:20260131T103000
 DTEND;TZID=Asia/Tokyo:20260131T123000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人サッカー選手権大会 1回戦 山形中央 1-1 PK6-5 八戸学院光星
+SUMMARY:山形県／第25回東北高等学校新人サッカー選手権大会
 LOCATION:Jヴィレッジ（福島県）
 DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\nラウンド：1回戦\n対戦：山形中央 vs 八戸学院光星\n結果：1-1 PK6-
  5\nKO時刻：確定\n出典：東北サッカー協会（大会ページ） https://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（
@@ -25,7 +25,7 @@ UID:soccer_hokkaido_tohoku_hs_boys-c71b091ec1a0ebdfbceb2e73d1d90f1aced1e9df
 DTSTAMP:20260203T011456Z
 DTSTART;TZID=Asia/Tokyo:20260131T103000
 DTEND;TZID=Asia/Tokyo:20260131T123000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人サッカー選手権大会 1回戦 秋田南 0-2 盛岡誠桜
+SUMMARY:秋田県／第25回東北高等学校新人サッカー選手権大会
 LOCATION:Jヴィレッジ（福島県）
 DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\nラウンド：1回戦\n対戦：秋田南 vs 盛岡誠桜\n結果：0-2\nKO時刻：確
  定\n出典：東北サッカー協会（大会ページ） https://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記録PDF） 
@@ -90,7 +90,7 @@ UID:soccer_hokkaido_tohoku_hs_boys-fd8d2e2002983d4b875c104140815f7747ee9bed
 DTSTAMP:20260203T011456Z
 DTSTART;TZID=Asia/Tokyo:20260131T130000
 DTEND;TZID=Asia/Tokyo:20260131T150000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人サッカー選手権大会 1回戦 青森山田 3-0 東北学院
+SUMMARY:青森県／第25回東北高等学校新人サッカー選手権大会
 LOCATION:Jヴィレッジ（福島県）
 DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\nラウンド：1回戦\n対戦：青森山田 vs 東北学院\n結果：3-0\nKO時刻：
  確定\n出典：東北サッカー協会（大会ページ） https://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記録PDF）
@@ -103,7 +103,7 @@ UID:soccer_hokkaido_tohoku_hs_boys-001c4ea8ee86d87843c6dd00475575f5b57d7a5f
 DTSTAMP:20260203T011456Z
 DTSTART;TZID=Asia/Tokyo:20260131T130000
 DTEND;TZID=Asia/Tokyo:20260131T150000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人サッカー選手権大会 1回戦 学法石川 1-5 明桜
+SUMMARY:石川県／第25回東北高等学校新人サッカー選手権大会
 LOCATION:Jヴィレッジ（福島県）
 DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\nラウンド：1回戦\n対戦：学法石川 vs 明桜\n結果：1-5\nKO時刻：確定
  \n出典：東北サッカー協会（大会ページ） https://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記録PDF） h
@@ -116,7 +116,7 @@ UID:soccer_hokkaido_tohoku_hs_boys-38cf1869d3301dcc25d101d07f53d0e4d22d9413
 DTSTAMP:20260203T011456Z
 DTSTART;TZID=Asia/Tokyo:20260201T103000
 DTEND;TZID=Asia/Tokyo:20260201T123000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人サッカー選手権大会 準々決勝 山形中央 1-0 盛岡誠桜
+SUMMARY:山形県／第25回東北高等学校新人サッカー選手権大会
 LOCATION:Jヴィレッジ（福島県）
 DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\nラウンド：準々決勝\n対戦：山形中央 vs 盛岡誠桜\n結果：1-0\nKO時刻
  ：確定\n出典：東北サッカー協会（大会ページ） https://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記録PDF
@@ -155,7 +155,7 @@ UID:soccer_hokkaido_tohoku_hs_boys-26db939ec12f56c724d6ce13cd5436a6b7a838f5
 DTSTAMP:20260203T011456Z
 DTSTART;TZID=Asia/Tokyo:20260201T103000
 DTEND;TZID=Asia/Tokyo:20260201T123000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人サッカー選手権大会 準々決勝 青森山田 2-5 明桜
+SUMMARY:青森県／第25回東北高等学校新人サッカー選手権大会
 LOCATION:Jヴィレッジ（福島県）
 DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\nラウンド：準々決勝\n対戦：青森山田 vs 明桜\n結果：2-5\nKO時刻：確
  定\n出典：東北サッカー協会（大会ページ） https://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記録PDF） 
@@ -168,7 +168,7 @@ UID:soccer_hokkaido_tohoku_hs_boys-31013580076d1d7fd280bc1c9a07a530aabd1e9f
 DTSTAMP:20260203T011456Z
 DTSTART;TZID=Asia/Tokyo:20260202T093000
 DTEND;TZID=Asia/Tokyo:20260202T113000
-SUMMARY:【北海道東北-男子高校】第25回東北高等学校新人サッカー選手権大会 準決勝 山形中央 2-3 聖光学院
+SUMMARY:山形県／第25回東北高等学校新人サッカー選手権大会
 LOCATION:Jヴィレッジ（福島県）
 DESCRIPTION:第25回東北高等学校新人サッカー選手権大会\nラウンド：準決勝\n対戦：山形中央 vs 聖光学院\n結果：2-3\nKO時刻：
  確定\n出典：東北サッカー協会（大会ページ） https://tohoku-fa.jp/?p=12647\n出典：東北サッカー協会（公式記録PDF）

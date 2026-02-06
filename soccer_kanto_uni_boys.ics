@@ -87,7 +87,7 @@ UID:820ff9fbec8a0f08cef7c38a4324d37e@my-ics
 DTSTAMP:20260203T015946Z
 DTSTART;TZID=Asia/Tokyo:20251215T110000
 DTEND;TZID=Asia/Tokyo:20251215T130000
-SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 IPU・環太平洋⼤学 vs 京都産業⼤学
+SUMMARY:京都府／第74回全日本大学サッカー選手権大会
 LOCATION:フクダ電⼦フィールドA⾯（千葉県）
 DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
  1765012943.pdf\n試合番号：27
@@ -120,7 +120,7 @@ UID:3cb7db26d3c3d0db5273f115b99a0f3f@my-ics
 DTSTAMP:20260203T015946Z
 DTSTART;TZID=Asia/Tokyo:20251215T140000
 DTEND;TZID=Asia/Tokyo:20251215T160000
-SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 新潟医療福祉⼤学 vs 富⼠⼤学
+SUMMARY:新潟県／第74回全日本大学サッカー選手権大会
 LOCATION:フクダ電⼦フィールドA⾯（千葉県）
 DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
  1765012943.pdf\n試合番号：30
@@ -131,7 +131,7 @@ UID:056df04039b9853265fd703eaabb9420@my-ics
 DTSTAMP:20260203T015946Z
 DTSTART;TZID=Asia/Tokyo:20251215T140000
 DTEND;TZID=Asia/Tokyo:20251215T160000
-SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 桃⼭学院⼤学 vs 広島経済⼤学
+SUMMARY:広島県／第74回全日本大学サッカー選手権大会
 LOCATION:フクダ電⼦フィールドB⾯（千葉県）
 DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
  1765012943.pdf\n試合番号：31
@@ -164,7 +164,7 @@ UID:f42481e00b7dce3734fe3f4e5cb89c99@my-ics
 DTSTAMP:20260203T015946Z
 DTSTART;TZID=Asia/Tokyo:20251216T110000
 DTEND;TZID=Asia/Tokyo:20251216T130000
-SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 甲南⼤学 vs 広島経済⼤学
+SUMMARY:広島県／第74回全日本大学サッカー選手権大会
 LOCATION:フクダ電⼦フィールドB⾯（千葉県）
 DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
  1765012943.pdf\n試合番号：34
@@ -186,7 +186,7 @@ UID:7a98a427fec85c147e4fe5af069be3bb@my-ics
 DTSTAMP:20260203T015946Z
 DTSTART;TZID=Asia/Tokyo:20251216T140000
 DTEND;TZID=Asia/Tokyo:20251216T160000
-SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 新潟医療福祉⼤学 vs 京都産業⼤学
+SUMMARY:新潟県／第74回全日本大学サッカー選手権大会
 LOCATION:フクダ電⼦フィールドA⾯（千葉県）
 DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
  1765012943.pdf\n試合番号：36
@@ -241,7 +241,7 @@ UID:dcfe0a71a91b768d3c10cb5664d6d666@my-ics
 DTSTAMP:20260203T015946Z
 DTSTART;TZID=Asia/Tokyo:20251217T110000
 DTEND;TZID=Asia/Tokyo:20251217T130000
-SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 京都産業⼤学 vs 富⼠⼤学
+SUMMARY:京都府／第74回全日本大学サッカー選手権大会
 LOCATION:フクダ電⼦フィールドA⾯（千葉県）
 DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
  1765012943.pdf\n試合番号：47
@@ -252,7 +252,7 @@ UID:0d0f76bd490262d9db06418f4d360d22@my-ics
 DTSTAMP:20260203T015946Z
 DTSTART;TZID=Asia/Tokyo:20251217T110000
 DTEND;TZID=Asia/Tokyo:20251217T130000
-SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 桐蔭横浜⼤学 vs 広島経済⼤学
+SUMMARY:広島県／第74回全日本大学サッカー選手権大会
 LOCATION:フクダ電⼦フィールドB⾯（千葉県）
 DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
  1765012943.pdf\n試合番号：48
@@ -274,7 +274,7 @@ UID:1e1715361c052e3227c38ac4ee888e2a@my-ics
 DTSTAMP:20260203T015946Z
 DTSTART;TZID=Asia/Tokyo:20251217T140000
 DTEND;TZID=Asia/Tokyo:20251217T160000
-SUMMARY:【関東-男子大学】第74回全日本大学サッカー選手権大会 新潟医療福祉⼤学 vs IPU・環太平洋⼤学
+SUMMARY:新潟県／第74回全日本大学サッカー選手権大会
 LOCATION:フクダ電⼦フィールドA⾯（千葉県）
 DESCRIPTION:出典：JUFA（全日本大学サッカー選手権大会／日程PDF）\nhttps://www.jufa.jp/_data/pdf/p_
  1765012943.pdf\n試合番号：50
@@ -376,7 +376,7 @@ UID:jufa-intercol-2025-m09@sora
 DTSTAMP:20260204T225145Z
 DTSTART;TZID=Asia/Tokyo:20251214T110000
 DTEND;TZID=Asia/Tokyo:20251214T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[9] 富士大学 vs 京都産業大学
+SUMMARY:京都府／全日本大学サッカー選手権（インカレ）[9]
 LOCATION:フクダ電子フィールドA面
 DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
 END:VEVENT
@@ -385,7 +385,7 @@ UID:jufa-intercol-2025-m10@sora
 DTSTAMP:20260204T225145Z
 DTSTART;TZID=Asia/Tokyo:20251214T110000
 DTEND;TZID=Asia/Tokyo:20251214T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[10] 桐蔭横浜大学 vs 広島経済大学
+SUMMARY:広島県／全日本大学サッカー選手権（インカレ）[10]
 LOCATION:フクダ電子フィールドB面
 DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
 END:VEVENT
@@ -403,7 +403,7 @@ UID:jufa-intercol-2025-m12@sora
 DTSTAMP:20260204T225145Z
 DTSTART;TZID=Asia/Tokyo:20251214T140000
 DTEND;TZID=Asia/Tokyo:20251214T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[12] 新潟医療福祉大学 vs IPU・環太平洋大学
+SUMMARY:新潟県／全日本大学サッカー選手権（インカレ）[12]
 LOCATION:フクダ電子フィールドA面
 DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
 END:VEVENT
@@ -457,7 +457,7 @@ UID:jufa-intercol-2025-m27@sora
 DTSTAMP:20260204T225145Z
 DTSTART;TZID=Asia/Tokyo:20251215T110000
 DTEND;TZID=Asia/Tokyo:20251215T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[27] IPU・環太平洋大学 vs 京都産業大学
+SUMMARY:京都府／全日本大学サッカー選手権（インカレ）[27]
 LOCATION:フクダ電子フィールドA面
 DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
 END:VEVENT
@@ -484,7 +484,7 @@ UID:jufa-intercol-2025-m30@sora
 DTSTAMP:20260204T225145Z
 DTSTART;TZID=Asia/Tokyo:20251215T140000
 DTEND;TZID=Asia/Tokyo:20251215T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[30] 新潟医療福祉大学 vs 富士大学
+SUMMARY:新潟県／全日本大学サッカー選手権（インカレ）[30]
 LOCATION:フクダ電子フィールドA面
 DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
 END:VEVENT
@@ -493,7 +493,7 @@ UID:jufa-intercol-2025-m31@sora
 DTSTAMP:20260204T225145Z
 DTSTART;TZID=Asia/Tokyo:20251215T140000
 DTEND;TZID=Asia/Tokyo:20251215T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[31] 桃山学院大学 vs 広島経済大学
+SUMMARY:広島県／全日本大学サッカー選手権（インカレ）[31]
 LOCATION:フクダ電子フィールドB面
 DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
 END:VEVENT
@@ -520,7 +520,7 @@ UID:jufa-intercol-2025-m34@sora
 DTSTAMP:20260204T225145Z
 DTSTART;TZID=Asia/Tokyo:20251216T110000
 DTEND;TZID=Asia/Tokyo:20251216T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[34] 甲南大学 vs 広島経済大学
+SUMMARY:広島県／全日本大学サッカー選手権（インカレ）[34]
 LOCATION:フクダ電子フィールドB面
 DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
 END:VEVENT
@@ -538,7 +538,7 @@ UID:jufa-intercol-2025-m36@sora
 DTSTAMP:20260204T225145Z
 DTSTART;TZID=Asia/Tokyo:20251216T140000
 DTEND;TZID=Asia/Tokyo:20251216T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[36] 新潟医療福祉大学 vs 京都産業大学
+SUMMARY:新潟県／全日本大学サッカー選手権（インカレ）[36]
 LOCATION:フクダ電子フィールドA面
 DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
 END:VEVENT
@@ -583,7 +583,7 @@ UID:jufa-intercol-2025-m47@sora
 DTSTAMP:20260204T225145Z
 DTSTART;TZID=Asia/Tokyo:20251217T110000
 DTEND;TZID=Asia/Tokyo:20251217T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[47] 京都産業大学 vs 富士大学
+SUMMARY:京都府／全日本大学サッカー選手権（インカレ）[47]
 LOCATION:フクダ電子フィールドA面
 DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
 END:VEVENT
@@ -592,7 +592,7 @@ UID:jufa-intercol-2025-m48@sora
 DTSTAMP:20260204T225145Z
 DTSTART;TZID=Asia/Tokyo:20251217T110000
 DTEND;TZID=Asia/Tokyo:20251217T130000
-SUMMARY:全日本大学サッカー選手権（インカレ）[48] 桐蔭横浜大学 vs 広島経済大学
+SUMMARY:広島県／全日本大学サッカー選手権（インカレ）[48]
 LOCATION:フクダ電子フィールドB面
 DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
 END:VEVENT
@@ -610,7 +610,7 @@ UID:jufa-intercol-2025-m50@sora
 DTSTAMP:20260204T225145Z
 DTSTART;TZID=Asia/Tokyo:20251217T140000
 DTEND;TZID=Asia/Tokyo:20251217T160000
-SUMMARY:全日本大学サッカー選手権（インカレ）[50] 新潟医療福祉大学 vs IPU・環太平洋大学
+SUMMARY:新潟県／全日本大学サッカー選手権（インカレ）[50]
 LOCATION:フクダ電子フィールドA面
 DESCRIPTION:出典：JUFA 日程表（2025大学選手権_日程表）
 END:VEVENT

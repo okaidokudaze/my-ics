@@ -10,7 +10,7 @@ UID:9895613ce65f56653460227a9113aff2@my-ics
 DTSTAMP:20260203T015946Z
 DTSTART;TZID=Asia/Tokyo:20251223T110000
 DTEND;TZID=Asia/Tokyo:20251223T130000
-SUMMARY:【関東-女子大学】第34回全日本大学女子サッカー選手権大会 新潟経営大学 vs 日本大学
+SUMMARY:新潟県／第34回全日本大学サッカー選手権大会
 LOCATION:ひたちなか市総合運動公園陸上競技場（茨城県ひたちなか市）
 DESCRIPTION:出典：JFA（日程・結果／PDFトーナメント表）\nhttps://www.jfa.jp/match/university_w
  omens_2025/schedule_result/\nhttps://www.jfa.jp/match/university_womens_20
@@ -58,7 +58,7 @@ UID:3b4797360d3ad8901dc7f30adae2e9fe@my-ics
 DTSTAMP:20260203T015946Z
 DTSTART;TZID=Asia/Tokyo:20251225T110000
 DTEND;TZID=Asia/Tokyo:20251225T130000
-SUMMARY:【関東-女子大学】第34回全日本大学女子サッカー選手権大会 十文字学園女子大学 vs 新潟経営大学
+SUMMARY:新潟県／第34回全日本大学サッカー選手権大会
 LOCATION:ひたちなか市総合運動公園スポーツ広場（茨城県ひたちなか市）
 DESCRIPTION:出典：JFA（日程・結果／PDFトーナメント表）\nhttps://www.jfa.jp/match/university_w
  omens_2025/schedule_result/\nhttps://www.jfa.jp/match/university_womens_20
@@ -70,7 +70,7 @@ UID:4b9e6f9f911d752b8ef9dce74bf60cf7@my-ics
 DTSTAMP:20260203T015946Z
 DTSTART;TZID=Asia/Tokyo:20251225T140000
 DTEND;TZID=Asia/Tokyo:20251225T160000
-SUMMARY:【関東-女子大学】第34回全日本大学女子サッカー選手権大会 周南公立大学 vs 愛知東邦大学
+SUMMARY:愛知県／第34回全日本大学サッカー選手権大会
 LOCATION:ひたちなか市総合運動公園スポーツ広場（茨城県ひたちなか市）
 DESCRIPTION:出典：JFA（日程・結果／PDFトーナメント表）\nhttps://www.jfa.jp/match/university_w
  omens_2025/schedule_result/\nhttps://www.jfa.jp/match/university_womens_20
@@ -94,7 +94,7 @@ UID:a08a3f74ea8fd840e7f60f2daae8b35b@my-ics
 DTSTAMP:20260203T015946Z
 DTSTART;TZID=Asia/Tokyo:20251225T140000
 DTEND;TZID=Asia/Tokyo:20251225T160000
-SUMMARY:【関東-女子大学】第34回全日本大学女子サッカー選手権大会 日本経済大学 vs 神奈川大学
+SUMMARY:神奈川県／第34回全日本大学サッカー選手権大会
 LOCATION:ひたちなか市総合運動公園陸上競技場（茨城県ひたちなか市）
 DESCRIPTION:出典：JFA（日程・結果／PDFトーナメント表）\nhttps://www.jfa.jp/match/university_w
  omens_2025/schedule_result/\nhttps://www.jfa.jp/match/university_womens_20
@@ -130,7 +130,7 @@ UID:4742f0310bcdc2c350c14061b2a5c3c3@my-ics
 DTSTAMP:20260203T015946Z
 DTSTART;TZID=Asia/Tokyo:20260104T110000
 DTEND;TZID=Asia/Tokyo:20260104T130000
-SUMMARY:【関東-女子大学】第34回全日本大学女子サッカー選手権大会 早稲田大学 vs 山梨学院大学
+SUMMARY:山梨県／第34回全日本大学サッカー選手権大会
 LOCATION:味の素フィールド西が丘（東京都北区）
 DESCRIPTION:出典：JFA（日程・結果／PDFトーナメント表）\nhttps://www.jfa.jp/match/university_w
  omens_2025/schedule_result/\nhttps://www.jfa.jp/match/university_womens_20
@@ -142,7 +142,7 @@ UID:7306692bd6af007bf4acf8a4a9f64b79@my-ics
 DTSTAMP:20260203T015946Z
 DTSTART;TZID=Asia/Tokyo:20260104T140000
 DTEND;TZID=Asia/Tokyo:20260104T160000
-SUMMARY:【関東-女子大学】第34回全日本大学女子サッカー選手権大会 帝塚山学院大学 vs 愛知東邦大学
+SUMMARY:愛知県／第34回全日本大学サッカー選手権大会
 LOCATION:味の素フィールド西が丘（東京都北区）
 DESCRIPTION:出典：JFA（日程・結果／PDFトーナメント表）\nhttps://www.jfa.jp/match/university_w
  omens_2025/schedule_result/\nhttps://www.jfa.jp/match/university_womens_20

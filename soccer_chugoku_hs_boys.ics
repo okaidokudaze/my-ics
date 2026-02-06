@@ -130,7 +130,7 @@ UID:17d478bdb8e754121845368a8edb0ddd29624e25@my-ics
 DTSTAMP:20260203T075429Z
 DTSTART;VALUE=DATE:20260116
 DTEND;VALUE=DATE:20260117
-SUMMARY:【中国-男子高校】島根新人戦（男子）1次ラウンド（カード未取得）
+SUMMARY:島根県／島根新人戦
 LOCATION:松江・出雲（会場複数）
 DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
  iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
@@ -143,7 +143,7 @@ UID:452bf70be59c316cfd4682c7c2c77775f1690281@my-ics
 DTSTAMP:20260203T075429Z
 DTSTART;VALUE=DATE:20260117
 DTEND;VALUE=DATE:20260118
-SUMMARY:【中国-男子高校】島根新人戦（男子）1次ラウンド（カード未取得）
+SUMMARY:島根県／島根新人戦
 LOCATION:松江・出雲（会場複数）
 DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
  iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
@@ -156,7 +156,7 @@ UID:02110e39f0e3f23b075d56b41d9976d7bcef0b8c@my-ics
 DTSTAMP:20260203T075429Z
 DTSTART;VALUE=DATE:20260117
 DTEND;VALUE=DATE:20260118
-SUMMARY:【中国-男子高校】広島新人戦（男子）大会期間（〜2/8）（カード未取得）
+SUMMARY:広島県／広島新人戦
 LOCATION:広島県内公共施設・各高等学校 等
 DESCRIPTION:出典：要項（公式）\n参照：https://hiroshima-koutairen.jp/soccer/event/sched
  ule/entry-19028.html\n※組合せ（対戦カード）未取得のため、後で1試合=1イベントに差し替え予定。
@@ -702,16 +702,6 @@ LOCATION:会場不明（広島県）
 DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：広島新庄 vs 可部\n結果：12-0\n時刻：14:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
 END:VEVENT
 BEGIN:VEVENT
-UID:165e8b80ecaab175291229caaaafd6388d72d41d@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260125
-DTEND;VALUE=DATE:20260126
-SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
-LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
-DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
- カード）未取得のため、後で1試合=1イベントに差し替え予定。
-END:VEVENT
-BEGIN:VEVENT
 UID:d0895f7a64df9e2078b0ea49ccb2af80f7021815@my-ics
 DTSTAMP:20260205T101030Z
 DTSTART;TZID=Asia/Tokyo:20260125T110000
@@ -837,23 +827,13 @@ UID:38400b9af267153a457ab57e011f4d348890be14@my-ics
 DTSTAMP:20260203T075429Z
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
-SUMMARY:【中国-男子高校】島根新人戦（男子）準々決勝（カード未取得）
+SUMMARY:島根県／島根新人戦
 LOCATION:益田（会場複数）
 DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
  iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
  9A%E8%A6%81%E9%A0%85%28%E7%B7%8F%E4%BD%93%E3%80%81%E9%81%B8%E6%89%8B%E6%A8
  %A9%E3%80%81%E6%96%B0%E4%BA%BA%E6%88%A6%29.pdf\n※組合せ（対戦カード）未取得のため、後で1試合=1イ
  ベントに差し替え予定。
-END:VEVENT
-BEGIN:VEVENT
-UID:35ffc5697d63d33c51494d7d17d4a2f243b37a1d@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260131
-DTEND;VALUE=DATE:20260201
-SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
-LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
-DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
- カード）未取得のため、後で1試合=1イベントに差し替え予定。
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_chugoku_hs_boys-20260131-fa6991fbd59fb846@my-ics
@@ -1146,16 +1126,6 @@ DESCRIPTION:種別：高校／男子\n対戦：山口中央 vs 山口\n回戦：
  -fa.com/archives/16230
 END:VEVENT
 BEGIN:VEVENT
-UID:57541dbeb2060fa0dca5b255a13183bd8196cbb0@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260201
-DTEND;VALUE=DATE:20260202
-SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
-LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
-DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
- カード）未取得のため、後で1試合=1イベントに差し替え予定。
-END:VEVENT
-BEGIN:VEVENT
 UID:soccer_chugoku_hs_boys-20260201-e36f677b2cc8a7a3@my-ics
 DTSTAMP:20260205T093927Z
 DTSTART;TZID=Asia/Tokyo:20260201T100000
@@ -1350,23 +1320,13 @@ UID:a971b5e43456cc1ef8ea240148cd8942e73c40e3@my-ics
 DTSTAMP:20260203T075429Z
 DTSTART;VALUE=DATE:20260207
 DTEND;VALUE=DATE:20260208
-SUMMARY:【中国-男子高校】島根新人戦（男子）Finalラウンド（カード未取得）
+SUMMARY:島根県／島根新人戦Finalラウンド
 LOCATION:益田（会場複数）
 DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
  iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
  9A%E8%A6%81%E9%A0%85%28%E7%B7%8F%E4%BD%93%E3%80%81%E9%81%B8%E6%89%8B%E6%A8
  %A9%E3%80%81%E6%96%B0%E4%BA%BA%E6%88%A6%29.pdf\n※組合せ（対戦カード）未取得のため、後で1試合=1イ
  ベントに差し替え予定。
-END:VEVENT
-BEGIN:VEVENT
-UID:571b16fb4cc52a8bbbeb7760944b09b8faac379d@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260207
-DTEND;VALUE=DATE:20260208
-SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
-LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
-DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
- カード）未取得のため、後で1試合=1イベントに差し替え予定。
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_chugoku_hs_boys-20260207-d1eabed2b7f8b5ab@my-ics
@@ -1443,23 +1403,13 @@ UID:771de8644dab5e9c9e8900d0b1fd4de7d492c992@my-ics
 DTSTAMP:20260203T075429Z
 DTSTART;VALUE=DATE:20260208
 DTEND;VALUE=DATE:20260209
-SUMMARY:【中国-男子高校】島根新人戦（男子）Finalラウンド（カード未取得）
+SUMMARY:島根県／島根新人戦Finalラウンド
 LOCATION:益田（会場複数）
 DESCRIPTION:出典：要項（公式）\n参照：https://www.fa-shimane.or.jp/_assets/page_files/f
  iles/000/063/569/75249cf6d972bcc9c6ea1f3e093231027010ccec/%E5%A4%A7%E4%BC%
  9A%E8%A6%81%E9%A0%85%28%E7%B7%8F%E4%BD%93%E3%80%81%E9%81%B8%E6%89%8B%E6%A8
  %A9%E3%80%81%E6%96%B0%E4%BA%BA%E6%88%A6%29.pdf\n※組合せ（対戦カード）未取得のため、後で1試合=1イ
  ベントに差し替え予定。
-END:VEVENT
-BEGIN:VEVENT
-UID:bf8038e59841c78722faa99bb538bceff538fbee@my-ics
-DTSTAMP:20260203T075429Z
-DTSTART;VALUE=DATE:20260208
-DTEND;VALUE=DATE:20260209
-SUMMARY:【中国-男子高校】岡山新人戦（男子）試合日（カード未取得）
-LOCATION:岡山県内（福田公園／学芸館／就実／作陽／理大附属／政田／灘崎 など）
-DESCRIPTION:出典：要項（公式）\n参照：https://town.kct.co.jp/local/010939.html\n※組合せ（対戦
- カード）未取得のため、後で1試合=1イベントに差し替え予定。
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_chugoku_hs_boys-20260208-0ff65b7f7de622e0@my-ics
@@ -1495,5 +1445,135 @@ DTEND;TZID=Asia/Tokyo:20260208T160000
 SUMMARY:広島県／令和7年度広島県高校サッカー新人戦
 LOCATION:会場不明（広島県）
 DESCRIPTION:種別：高校／男子\n回戦：決勝\n対戦：未定 vs 未定\n結果：未確定\n時刻：14:00\n会場：会場不明\n出典：https://koko-soccer.com/score/4298
+END:VEVENT
+BEGIN:VEVENT
+UID:9cb21b5b94625d1089c067a092832c517646c1fa@my-ics
+DTSTAMP:20260206T004119Z
+DTSTART;TZID=Asia/Tokyo:20260125T100000
+DTEND;TZID=Asia/Tokyo:20260125T120000
+SUMMARY:岡山県／令和7年度岡山新人戦（新人選手権大会）
+LOCATION:会場不明（岡山県）
+DESCRIPTION:種別：高校男子\n対戦：関西 vs 倉敷青陵\n回戦：1回戦\n大会：令和7年度岡山新人戦（新人選手権大会）\n都道府県：岡山県\n時刻：10:00（KO）\n会場：会場不明（岡山県）\n結果：不明\n出典：https://koko-soccer.com/score/4322/142892
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:d8440f923df66ce6e554dbde2fe377b3dc1327ee@my-ics
+DTSTAMP:20260206T004119Z
+DTSTART;TZID=Asia/Tokyo:20260125T100000
+DTEND;TZID=Asia/Tokyo:20260125T120000
+SUMMARY:岡山県／令和7年度岡山新人戦（新人選手権大会）
+LOCATION:会場不明（岡山県）
+DESCRIPTION:種別：高校男子\n対戦：総社 vs おかやま山陽\n回戦：1回戦\n大会：令和7年度岡山新人戦（新人選手権大会）\n都道府県：岡山県\n時刻：10:00（KO）\n会場：会場不明（岡山県）\n結果：0-1\n出典：https://koko-soccer.com/score/4322/142888
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ea7399f59a14d531e0386d3d85e369844589bc49@my-ics
+DTSTAMP:20260206T004119Z
+DTSTART;TZID=Asia/Tokyo:20260125T120000
+DTEND;TZID=Asia/Tokyo:20260125T140000
+SUMMARY:岡山県／令和7年度岡山新人戦（新人選手権大会）
+LOCATION:会場不明（岡山県）
+DESCRIPTION:種別：高校男子\n対戦：津山東 vs 創志学園\n回戦：1回戦\n大会：令和7年度岡山新人戦（新人選手権大会）\n都道府県：岡山県\n時刻：12:00（KO）\n会場：会場不明（岡山県）\n結果：不明\n出典：https://koko-soccer.com/score/4322/142883
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:72219b5de56dd7f18592077895000a732c74e220@my-ics
+DTSTAMP:20260206T004119Z
+DTSTART;TZID=Asia/Tokyo:20260131T110000
+DTEND;TZID=Asia/Tokyo:20260131T130000
+SUMMARY:岡山県／令和7年度岡山新人戦（新人選手権大会）
+LOCATION:会場不明（岡山県）
+DESCRIPTION:種別：高校男子\n対戦：倉敷古城池 vs 美作\n回戦：2回戦\n大会：令和7年度岡山新人戦（新人選手権大会）\n都道府県：岡山県\n時刻：11:00（KO）\n会場：会場不明（岡山県）\n結果：不明\n出典：https://koko-soccer.com/score/4322/142896
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:0f677e6ec0ca4ddcd1f5034318cd3f5ea496b456@my-ics
+DTSTAMP:20260206T004119Z
+DTSTART;TZID=Asia/Tokyo:20260131T110000
+DTEND;TZID=Asia/Tokyo:20260131T130000
+SUMMARY:岡山県／令和7年度岡山新人戦（新人選手権大会）
+LOCATION:会場不明（岡山県）
+DESCRIPTION:種別：高校男子\n対戦：岡山朝日 vs 倉敷翠松\n回戦：2回戦\n大会：令和7年度岡山新人戦（新人選手権大会）\n都道府県：岡山県\n時刻：11:00（KO）\n会場：会場不明（岡山県）\n結果：不明\n出典：https://koko-soccer.com/score/4322/142897
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:dca1345f4e1d2a2713dcb89c8bd74cba226882c0@my-ics
+DTSTAMP:20260206T004119Z
+DTSTART;TZID=Asia/Tokyo:20260131T110000
+DTEND;TZID=Asia/Tokyo:20260131T130000
+SUMMARY:岡山県／令和7年度岡山新人戦（新人選手権大会）
+LOCATION:会場不明（岡山県）
+DESCRIPTION:種別：高校男子\n対戦：岡山学芸館 vs 岡山龍谷\n回戦：2回戦\n大会：令和7年度岡山新人戦（新人選手権大会）\n都道府県：岡山県\n時刻：11:00（KO）\n会場：会場不明（岡山県）\n結果：不明\n出典：https://koko-soccer.com/score/4322/142894
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:8a336897d41661143346b8f7cfe54d6141ea1cdc@my-ics
+DTSTAMP:20260206T004119Z
+DTSTART;TZID=Asia/Tokyo:20260131T133000
+DTEND;TZID=Asia/Tokyo:20260131T153000
+SUMMARY:岡山県／令和7年度岡山新人戦（新人選手権大会）
+LOCATION:会場不明（岡山県）
+DESCRIPTION:種別：高校男子\n対戦：玉野光南 vs 総社/おかやま山陽\n回戦：2回戦\n大会：令和7年度岡山新人戦（新人選手権大会）\n都道府県：岡山県\n時刻：13:30（KO）\n会場：会場不明（岡山県）\n結果：不明\n出典：https://koko-soccer.com/score/4322/142900
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:f29e16ff0fc5c3ac33e1e03c3bc12f09979ea776@my-ics
+DTSTAMP:20260206T004119Z
+DTSTART;TZID=Asia/Tokyo:20260131T133000
+DTEND;TZID=Asia/Tokyo:20260131T153000
+SUMMARY:岡山県／令和7年度岡山新人戦（新人選手権大会）
+LOCATION:会場不明（岡山県）
+DESCRIPTION:種別：高校男子\n対戦：津山 vs 倉敷\n回戦：2回戦\n大会：令和7年度岡山新人戦（新人選手権大会）\n都道府県：岡山県\n時刻：13:30（KO）\n会場：会場不明（岡山県）\n結果：不明\n出典：https://koko-soccer.com/score/4322/142901
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:52f32d2504a3604812cd1d1df19c9a9312419111@my-ics
+DTSTAMP:20260206T004119Z
+DTSTART;TZID=Asia/Tokyo:20260131T133000
+DTEND;TZID=Asia/Tokyo:20260131T153000
+SUMMARY:岡山県／令和7年度岡山新人戦（新人選手権大会）
+LOCATION:会場不明（岡山県）
+DESCRIPTION:種別：高校男子\n対戦：岡山理大附 vs 就実\n回戦：2回戦\n大会：令和7年度岡山新人戦（新人選手権大会）\n都道府県：岡山県\n時刻：13:30（KO）\n会場：会場不明（岡山県）\n結果：不明\n出典：https://koko-soccer.com/score/4322/142903
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:724c96c980839fcbda5196a6b9aacd5f42ec2920@my-ics
+DTSTAMP:20260206T004119Z
+DTSTART;TZID=Asia/Tokyo:20260131T110000
+DTEND;TZID=Asia/Tokyo:20260131T130000
+SUMMARY:岡山県／令和7年度岡山新人戦（新人選手権大会）
+LOCATION:会場不明（岡山県）
+DESCRIPTION:種別：高校男子\n対戦：津山東/創志学園 vs 岡山工/朝日塾\n回戦：2回戦\n大会：令和7年度岡山新人戦（新人選手権大会）\n都道府県：岡山県\n時刻：11:00（KO）\n会場：会場不明（岡山県）\n結果：不明\n出典：https://koko-soccer.com/score/4322/142895
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:3796b40109d0689542c6448699de878b9f8c6dbb@my-ics
+DTSTAMP:20260206T004119Z
+DTSTART;TZID=Asia/Tokyo:20260201T133000
+DTEND;TZID=Asia/Tokyo:20260201T153000
+SUMMARY:岡山県／令和7年度岡山新人戦（新人選手権大会）
+LOCATION:会場不明（岡山県）
+DESCRIPTION:種別：高校男子\n対戦：玉野光南 vs 倉敷\n回戦：3回戦\n大会：令和7年度岡山新人戦（新人選手権大会）\n都道府県：岡山県\n時刻：13:30（KO）\n会場：会場不明（岡山県）\n結果：不明\n出典：https://koko-soccer.com/score/4322/142906
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:f7dfc36d8b27dee8157807433434c4cb3ef48582@my-ics
+DTSTAMP:20260206T004119Z
+DTSTART;TZID=Asia/Tokyo:20260201T133000
+DTEND;TZID=Asia/Tokyo:20260201T153000
+SUMMARY:岡山県／令和7年度岡山新人戦（新人選手権大会）
+LOCATION:会場不明（岡山県）
+DESCRIPTION:種別：高校男子\n対戦：作陽学園 vs 就実\n回戦：3回戦\n大会：令和7年度岡山新人戦（新人選手権大会）\n都道府県：岡山県\n時刻：13:30（KO）\n会場：会場不明（岡山県）\n結果：不明\n出典：https://koko-soccer.com/score/4322/142907
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:55dc3e8e7f697c57c62089f2fdce4a0089c113f1@my-ics
+DTSTAMP:20260206T004119Z
+DTSTART;TZID=Asia/Tokyo:20260207T110000
+DTEND;TZID=Asia/Tokyo:20260207T130000
+SUMMARY:岡山県／令和7年度岡山新人戦（新人選手権大会）
+LOCATION:会場不明（岡山県）
+DESCRIPTION:種別：高校男子\n対戦：岡山学芸館/創志学園 vs 倉敷古城池/岡山朝日\n回戦：準決勝\n大会：令和7年度岡山新人戦（新人選手権大会）\n都道府県：岡山県\n時刻：11:00（KO）\n会場：会場不明（岡山県）\n結果：不明\n出典：https://koko-soccer.com/score/4322/142908
+SEQUENCE:1
 END:VEVENT
 END:VCALENDAR

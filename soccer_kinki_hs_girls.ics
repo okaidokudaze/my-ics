@@ -10,7 +10,7 @@ UID:第34回-全日本高校女子サッカー選手権-女子-20251229-1100-航
 DTSTAMP:20260205T000000Z
 DTSTART;TZID=Asia/Tokyo:20251229T110000
 DTEND;TZID=Asia/Tokyo:20251229T130000
-SUMMARY:高校サッカー選手権 1回戦：航空石川 vs 神戸弘陵
+SUMMARY:石川県／高校サッカー選手権
 LOCATION:兵庫県内（大会会場）
 DESCRIPTION:第34回 全日本高校女子サッカー選手権（女子）\n1回戦\n航空石川 vs 神戸弘陵\n会場：大会公式PDF参照（下記）\n\
  n出典：\n高校サッカードットコム 大会日程・結果（第34回女子）: https://koko-soccer.com/score/4254\nJFA
@@ -22,7 +22,7 @@ UID:第34回-全日本高校女子サッカー選手権-女子-20251229-1100-福
 DTSTAMP:20260205T000000Z
 DTSTART;TZID=Asia/Tokyo:20251229T110000
 DTEND;TZID=Asia/Tokyo:20251229T130000
-SUMMARY:高校サッカー選手権 1回戦：福井工大福井 vs 三重
+SUMMARY:福井県／高校サッカー選手権
 LOCATION:兵庫県内（大会会場）
 DESCRIPTION:第34回 全日本高校女子サッカー選手権（女子）\n1回戦\n福井工大福井 vs 三重\n会場：大会公式PDF参照（下記）\n\
  n出典：\n高校サッカードットコム 大会日程・結果（第34回女子）: https://koko-soccer.com/score/4254\nJFA
@@ -70,7 +70,7 @@ UID:第34回-全日本高校女子サッカー選手権-女子-20251229-1100-昌
 DTSTAMP:20260205T000000Z
 DTSTART;TZID=Asia/Tokyo:20251229T110000
 DTEND;TZID=Asia/Tokyo:20251229T130000
-SUMMARY:高校サッカー選手権 1回戦：昌平 vs 京都精華
+SUMMARY:京都府／高校サッカー選手権
 LOCATION:兵庫県内（大会会場）
 DESCRIPTION:第34回 全日本高校女子サッカー選手権（女子）\n1回戦\n昌平 vs 京都精華\n会場：大会公式PDF参照（下記）\n\n出
  典：\n高校サッカードットコム 大会日程・結果（第34回女子）: https://koko-soccer.com/score/4254\nJFA 大
@@ -82,7 +82,7 @@ UID:第34回-全日本高校女子サッカー選手権-女子-20251229-1100-富
 DTSTAMP:20260205T000000Z
 DTSTART;TZID=Asia/Tokyo:20251229T110000
 DTEND;TZID=Asia/Tokyo:20251229T130000
-SUMMARY:高校サッカー選手権 1回戦：富山第一 vs 近大和歌山
+SUMMARY:富山県／高校サッカー選手権
 LOCATION:兵庫県内（大会会場）
 DESCRIPTION:第34回 全日本高校女子サッカー選手権（女子）\n1回戦\n富山第一 vs 近大和歌山\n会場：大会公式PDF参照（下記）\n
  \n出典：\n高校サッカードットコム 大会日程・結果（第34回女子）: https://koko-soccer.com/score/4254\nJF
@@ -106,7 +106,7 @@ UID:第34回-全日本高校女子サッカー選手権-女子-20251229-1100-鳥
 DTSTAMP:20260205T000000Z
 DTSTART;TZID=Asia/Tokyo:20251229T110000
 DTEND;TZID=Asia/Tokyo:20251229T130000
-SUMMARY:高校サッカー選手権 1回戦：鳥取城北 vs 開志学園JSC
+SUMMARY:鳥取県／高校サッカー選手権
 LOCATION:兵庫県内（大会会場）
 DESCRIPTION:第34回 全日本高校女子サッカー選手権（女子）\n1回戦\n鳥取城北 vs 開志学園JSC\n会場：大会公式PDF参照（下記）
  \n\n出典：\n高校サッカードットコム 大会日程・結果（第34回女子）: https://koko-soccer.com/score/4254\n
@@ -142,7 +142,7 @@ UID:第34回-全日本高校女子サッカー選手権-女子-20251229-1400-山
 DTSTAMP:20260205T000000Z
 DTSTART;TZID=Asia/Tokyo:20251229T140000
 DTEND;TZID=Asia/Tokyo:20251229T160000
-SUMMARY:高校サッカー選手権 1回戦：山形明正 vs 日本航空
+SUMMARY:山形県／高校サッカー選手権
 LOCATION:兵庫県内（大会会場）
 DESCRIPTION:第34回 全日本高校女子サッカー選手権（女子）\n1回戦\n山形明正 vs 日本航空\n会場：大会公式PDF参照（下記）\n\
  n出典：\n高校サッカードットコム 大会日程・結果（第34回女子）: https://koko-soccer.com/score/4254\nJFA
@@ -154,7 +154,7 @@ UID:第34回-全日本高校女子サッカー選手権-女子-20251229-1400-四
 DTSTAMP:20260205T000000Z
 DTSTART;TZID=Asia/Tokyo:20251229T140000
 DTEND;TZID=Asia/Tokyo:20251229T160000
-SUMMARY:高校サッカー選手権 1回戦：四学香川西 vs 明桜
+SUMMARY:香川県／高校サッカー選手権
 LOCATION:兵庫県内（大会会場）
 DESCRIPTION:第34回 全日本高校女子サッカー選手権（女子）\n1回戦\n四学香川西 vs 明桜\n会場：大会公式PDF参照（下記）\n\n
  出典：\n高校サッカードットコム 大会日程・結果（第34回女子）: https://koko-soccer.com/score/4254\nJFA 
@@ -202,7 +202,7 @@ UID:第34回-全日本高校女子サッカー選手権-女子-20251229-1400-鳴
 DTSTAMP:20260205T000000Z
 DTSTART;TZID=Asia/Tokyo:20251229T140000
 DTEND;TZID=Asia/Tokyo:20251229T160000
-SUMMARY:高校サッカー選手権 1回戦：鳴門渦潮 vs 宮崎学園
+SUMMARY:宮崎県／高校サッカー選手権
 LOCATION:兵庫県内（大会会場）
 DESCRIPTION:第34回 全日本高校女子サッカー選手権（女子）\n1回戦\n鳴門渦潮 vs 宮崎学園\n会場：大会公式PDF参照（下記）\n\
  n出典：\n高校サッカードットコム 大会日程・結果（第34回女子）: https://koko-soccer.com/score/4254\nJFA
@@ -226,7 +226,7 @@ UID:第34回-全日本高校女子サッカー選手権-女子-20251229-1400-星
 DTSTAMP:20260205T000000Z
 DTSTART;TZID=Asia/Tokyo:20251229T140000
 DTEND;TZID=Asia/Tokyo:20251229T160000
-SUMMARY:高校サッカー選手権 1回戦：星槎国際 vs 大阪学芸
+SUMMARY:大阪府／高校サッカー選手権
 LOCATION:兵庫県内（大会会場）
 DESCRIPTION:第34回 全日本高校女子サッカー選手権（女子）\n1回戦\n星槎国際 vs 大阪学芸\n会場：大会公式PDF参照（下記）\n\
  n出典：\n高校サッカードットコム 大会日程・結果（第34回女子）: https://koko-soccer.com/score/4254\nJFA
@@ -238,7 +238,7 @@ UID:第34回-全日本高校女子サッカー選手権-女子-20251229-1400-高
 DTSTAMP:20260205T000000Z
 DTSTART;TZID=Asia/Tokyo:20251229T140000
 DTEND;TZID=Asia/Tokyo:20251229T160000
-SUMMARY:高校サッカー選手権 1回戦：高知 vs 前橋育英
+SUMMARY:高知県／高校サッカー選手権
 LOCATION:兵庫県内（大会会場）
 DESCRIPTION:第34回 全日本高校女子サッカー選手権（女子）\n1回戦\n高知 vs 前橋育英\n会場：大会公式PDF参照（下記）\n\n出
  典：\n高校サッカードットコム 大会日程・結果（第34回女子）: https://koko-soccer.com/score/4254\nJFA 大
@@ -262,7 +262,7 @@ UID:第34回-全日本高校女子サッカー選手権-女子-20251230-1100-福
 DTSTAMP:20260205T000000Z
 DTSTART;TZID=Asia/Tokyo:20251230T110000
 DTEND;TZID=Asia/Tokyo:20251230T130000
-SUMMARY:高校サッカー選手権 2回戦：福井工大福井 vs 専大最上
+SUMMARY:福井県／高校サッカー選手権
 LOCATION:兵庫県内（大会会場）
 DESCRIPTION:第34回 全日本高校女子サッカー選手権（女子）\n2回戦\n福井工大福井 vs 専大最上\n会場：大会公式PDF参照（下記）\
  n\n出典：\n高校サッカードットコム 大会日程・結果（第34回女子）: https://koko-soccer.com/score/4254\nJ
@@ -310,7 +310,7 @@ UID:第34回-全日本高校女子サッカー選手権-女子-20251230-1100-富
 DTSTAMP:20260205T000000Z
 DTSTART;TZID=Asia/Tokyo:20251230T110000
 DTEND;TZID=Asia/Tokyo:20251230T130000
-SUMMARY:高校サッカー選手権 2回戦：富山第一 vs 聖和学園
+SUMMARY:富山県／高校サッカー選手権
 LOCATION:兵庫県内（大会会場）
 DESCRIPTION:第34回 全日本高校女子サッカー選手権（女子）\n2回戦\n富山第一 vs 聖和学園\n会場：大会公式PDF参照（下記）\n\
  n出典：\n高校サッカードットコム 大会日程・結果（第34回女子）: https://koko-soccer.com/score/4254\nJFA
@@ -394,7 +394,7 @@ UID:第34回-全日本高校女子サッカー選手権-女子-20251230-1400-佐
 DTSTAMP:20260205T000000Z
 DTSTART;TZID=Asia/Tokyo:20251230T140000
 DTEND;TZID=Asia/Tokyo:20251230T160000
-SUMMARY:高校サッカー選手権 2回戦：佐久長聖 vs 宮崎学園
+SUMMARY:宮崎県／高校サッカー選手権
 LOCATION:兵庫県内（大会会場）
 DESCRIPTION:第34回 全日本高校女子サッカー選手権（女子）\n2回戦\n佐久長聖 vs 宮崎学園\n会場：大会公式PDF参照（下記）\n\
  n出典：\n高校サッカードットコム 大会日程・結果（第34回女子）: https://koko-soccer.com/score/4254\nJFA
@@ -418,7 +418,7 @@ UID:第34回-全日本高校女子サッカー選手権-女子-20251230-1400-大
 DTSTAMP:20260205T000000Z
 DTSTART;TZID=Asia/Tokyo:20251230T140000
 DTEND;TZID=Asia/Tokyo:20251230T160000
-SUMMARY:高校サッカー選手権 2回戦：大阪学芸 vs 高知
+SUMMARY:大阪府／高校サッカー選手権
 LOCATION:兵庫県内（大会会場）
 DESCRIPTION:第34回 全日本高校女子サッカー選手権（女子）\n2回戦\n大阪学芸 vs 高知\n会場：大会公式PDF参照（下記）\n\n出
  典：\n高校サッカードットコム 大会日程・結果（第34回女子）: https://koko-soccer.com/score/4254\nJFA 大
@@ -442,7 +442,7 @@ UID:第34回-全日本高校女子サッカー選手権-女子-20260103-1100-常
 DTSTAMP:20260205T000000Z
 DTSTART;TZID=Asia/Tokyo:20260103T110000
 DTEND;TZID=Asia/Tokyo:20260103T130000
-SUMMARY:高校サッカー選手権 3回戦：常葉大橘 vs 工大福井
+SUMMARY:福井県／高校サッカー選手権
 LOCATION:兵庫県内（大会会場）
 DESCRIPTION:第34回 全日本高校女子サッカー選手権（女子）\n3回戦\n常葉大橘 vs 工大福井\n会場：大会公式PDF参照（下記）\n\
  n出典：\n高校サッカードットコム 大会日程・結果（第34回女子）: https://koko-soccer.com/score/4254\nJFA
@@ -526,7 +526,7 @@ UID:第34回-全日本高校女子サッカー選手権-女子-20260103-1400-大
 DTSTAMP:20260205T000000Z
 DTSTART;TZID=Asia/Tokyo:20260103T140000
 DTEND;TZID=Asia/Tokyo:20260103T160000
-SUMMARY:高校サッカー選手権 3回戦：大阪学芸 vs 神村学園
+SUMMARY:大阪府／高校サッカー選手権
 LOCATION:兵庫県内（大会会場）
 DESCRIPTION:第34回 全日本高校女子サッカー選手権（女子）\n3回戦\n大阪学芸 vs 神村学園\n会場：大会公式PDF参照（下記）\n\
  n出典：\n高校サッカードットコム 大会日程・結果（第34回女子）: https://koko-soccer.com/score/4254\nJFA
