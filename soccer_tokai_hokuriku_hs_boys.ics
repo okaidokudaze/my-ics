@@ -1398,5 +1398,27 @@ TRANSP:OPAQUE
 
 END:VEVENT
 
+BEGIN:VEVENT
+
+UID:fef2bfe08902556c0bccdf45a167383e1eacd5b5@okaidokudaze-my-ics
+
+DTSTAMP:20260206T064211
+
+SEQUENCE:0
+
+SUMMARY:福井県／第104回全国高校サッカー選手権大会
+
+DTSTART:20251229T141000
+
+LOCATION:NACK5スタジアム大宮
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 福井商 vs 高川学園\n結果: 0-3\n出典: JFA「第104回全国高校サッカー選手権大会」トーナメントPDF（日程・会場・結果）\n備考: 大阪会場ではないため全国版（大阪除外）に掲載。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
 END:VCALENDAR
 
