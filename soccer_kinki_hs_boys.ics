@@ -3104,4 +3104,112 @@ DESCRIPTION:出典：https://koko-soccer.com/score/4275
 SEQUENCE:1
 END:VEVENT
 
+BEGIN:VEVENT
+UID:4e32aa17-3bdd-56b4-99eb-cb3d10bd6988
+DTSTAMP:20260206T014337Z
+DTSTART;TZID=Asia/Tokyo:20251226T130000
+SUMMARY:奈良県／Blue Wave winter league～熱冬～
+LOCATION:奈良県フットボールセンター
+DESCRIPTION:種別：高校男子\n対戦：清明学院 vs 郡山\n節：第1節（関西W1）\n大会：Blue Wave winter league～熱冬～ 2025-26 関西W1\n都道府県：奈良県\n時刻：13:00\n会場：奈良県フットボールセンター\n結果：0-1\n出典：https://www.bluewave-netto.com/schedule/groups/95
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:4aa287ce-9438-5ed2-ad16-6178ead77ca7
+DTSTAMP:20260206T014337Z
+DTSTART;TZID=Asia/Tokyo:20251219T133000
+SUMMARY:京都府／Blue Wave winter league～熱冬～
+LOCATION:太陽が丘球技場A
+DESCRIPTION:種別：高校男子\n対戦：大谷 vs 城陽\n節：第1節（関西W1）\n大会：Blue Wave winter league～熱冬～ 2025-26 関西W1\n都道府県：京都府\n時刻：13:30\n会場：太陽が丘球技場A\n結果：1-1\n出典：https://www.bluewave-netto.com/schedule/groups/95
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:96ca1280-27de-5b68-ae70-28bd6e825885
+DTSTAMP:20260206T014337Z
+DTSTART;TZID=Asia/Tokyo:20260131T150000
+SUMMARY:滋賀県／Blue Wave winter league～熱冬～
+LOCATION:立命館守山高校
+DESCRIPTION:種別：高校男子\n対戦：立命館守山 vs 大阪偕星\n節：第1節（関西W1）\n大会：Blue Wave winter league～熱冬～ 2025-26 関西W1\n都道府県：滋賀県\n時刻：15:00\n会場：立命館守山高校\n結果：3-3\n出典：https://www.bluewave-netto.com/schedule/groups/95
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:4b3cffa6-907b-5c7e-be33-c29725e6ce8d
+DTSTAMP:20260206T014337Z
+DTSTART;TZID=Asia/Tokyo:20260228T160000
+SUMMARY:京都府／Blue Wave winter league～熱冬～
+LOCATION:京都先端大学亀岡キャンパスG
+DESCRIPTION:種別：高校男子\n対戦：三田松聖 vs 京都先端科学大附\n節：第1節（関西W1）\n大会：Blue Wave winter league～熱冬～ 2025-26 関西W1\n都道府県：京都府\n時刻：16:00\n会場：京都先端大学亀岡キャンパスG\n結果：未確定\n出典：https://www.bluewave-netto.com/schedule/groups/95
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:dc358b21-c30d-5de0-a16d-7cb60f7d79d5
+DTSTAMP:20260206T014337Z
+DTSTART;TZID=Asia/Tokyo:20260215T160000
+SUMMARY:京都府／Blue Wave winter league～熱冬～
+LOCATION:京都先端大学亀岡キャンパスG
+DESCRIPTION:種別：高校男子\n対戦：京都先端科学大附 vs 大谷\n節：第2節（関西W1）\n大会：Blue Wave winter league～熱冬～ 2025-26 関西W1\n都道府県：京都府\n時刻：16:00\n会場：京都先端大学亀岡キャンパスG\n結果：未確定\n出典：https://www.bluewave-netto.com/schedule/groups/95
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:560eee07-973e-54d1-b19a-ede841c65fba
+DTSTAMP:20260206T014337Z
+DTSTART;TZID=Asia/Tokyo:20260208T143000
+SUMMARY:滋賀県／Blue Wave winter league～熱冬～
+LOCATION:立命館守山高校
+DESCRIPTION:種別：高校男子\n対戦：大商大堺 vs 立命館守山\n節：第2節（関西W1）\n大会：Blue Wave winter league～熱冬～ 2025-26 関西W1\n都道府県：滋賀県\n時刻：14:30\n会場：立命館守山高校\n結果：未確定\n出典：https://www.bluewave-netto.com/schedule/groups/95
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a0001b-43c7-53ca-9b00-8d652278e9a4
+DTSTAMP:20260206T014337Z
+DTSTART;TZID=Asia/Tokyo:20260222T160000
+SUMMARY:京都府／Blue Wave winter league～熱冬～
+LOCATION:京都先端大学亀岡キャンパスG
+DESCRIPTION:種別：高校男子\n対戦：城陽 vs 京都先端科学大附\n節：第3節（関西W1）\n大会：Blue Wave winter league～熱冬～ 2025-26 関西W1\n都道府県：京都府\n時刻：16:00\n会場：京都先端大学亀岡キャンパスG\n結果：未確定\n出典：https://www.bluewave-netto.com/schedule/groups/95
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:135467c8-3987-58af-8a1f-59ba0f28668a
+DTSTAMP:20260206T014337Z
+DTSTART;TZID=Asia/Tokyo:20251225T100000
+SUMMARY:奈良県／Blue Wave winter league～熱冬～
+LOCATION:奈良県フットボールセンター
+DESCRIPTION:種別：高校男子\n対戦：郡山 vs 大商大堺\n節：第3節（関西W1）\n大会：Blue Wave winter league～熱冬～ 2025-26 関西W1\n都道府県：奈良県\n時刻：10:00\n会場：奈良県フットボールセンター\n結果：1-8\n出典：https://www.bluewave-netto.com/schedule/groups/95
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:94a6faa0-fd85-5a43-badb-988227bbcf62
+DTSTAMP:20260206T014337Z
+DTSTART;TZID=Asia/Tokyo:20260228T143000
+SUMMARY:京都府／Blue Wave winter league～熱冬～
+LOCATION:大谷高校
+DESCRIPTION:種別：高校男子\n対戦：大谷 vs 県立西宮\n節：第3節（関西W1）\n大会：Blue Wave winter league～熱冬～ 2025-26 関西W1\n都道府県：京都府\n時刻：14:30\n会場：大谷高校\n結果：未確定\n出典：https://www.bluewave-netto.com/schedule/groups/95
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:56be450e-4533-58df-b38e-0633059af533
+DTSTAMP:20260206T014337Z
+DTSTART;TZID=Asia/Tokyo:20251223T140000
+SUMMARY:滋賀県／Blue Wave winter league～熱冬～
+LOCATION:彦根総合高校〖松隆グラウンド〗
+DESCRIPTION:種別：高校男子\n対戦：雲雀丘学園 vs 彦根総合\n節：第1節（関西W2）\n大会：Blue Wave winter league～熱冬～ 2025-26 関西W2\n都道府県：滋賀県\n時刻：14:00\n会場：彦根総合高校〖松隆グラウンド〗\n結果：0-1\n出典：https://www.bluewave-netto.com/schedule/96/first
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:e32ffd91-2ddc-582b-8713-2cf39db8e881
+DTSTAMP:20260206T014337Z
+DTSTART;TZID=Asia/Tokyo:20251221T100000
+SUMMARY:滋賀県／Blue Wave winter league～熱冬～
+LOCATION:彦根総合高校〖松隆グラウンド〗
+DESCRIPTION:種別：高校男子\n対戦：野洲 vs 彦根総合\n節：第2節（関西W2）\n大会：Blue Wave winter league～熱冬～ 2025-26 関西W2\n都道府県：滋賀県\n時刻：10:00\n会場：彦根総合高校〖松隆グラウンド〗\n結果：1-3\n出典：https://www.bluewave-netto.com/schedule/96/first
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:8e66f0f8-70dd-51c7-b670-401679d03946
+DTSTAMP:20260206T014337Z
+DTSTART;TZID=Asia/Tokyo:20260322T100000
+SUMMARY:兵庫県／Blue Wave winter league～熱冬～
+LOCATION:啓明学院
+DESCRIPTION:種別：高校男子\n対戦：野洲 vs 啓明学院\n節：第1節（関西W2）\n大会：Blue Wave winter league～熱冬～ 2025-26 関西W2\n都道府県：兵庫県\n時刻：10:00\n会場：啓明学院\n結果：未確定\n出典：https://www.bluewave-netto.com/schedule/96/first
+SEQUENCE:0
+END:VEVENT
 END:VCALENDAR
