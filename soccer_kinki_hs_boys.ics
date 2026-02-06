@@ -1978,4 +1978,239 @@ LOCATION:会場不明（奈良県）
 DESCRIPTION:種別：高校／男子\\n対戦：奈良育英 vs 奈良学園\\n回戦：決勝\\n大会：令和7年度奈良新人戦（新人選手権大会）\\n都道府県：奈良県\\n時刻：10:00（出典記載）\\n会場：会場不明（奈良県）\\n結果：未確定\\n出典：https://koko-soccer.com/score/4279
 
 END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260110-和歌山県-新人戦-1回戦-日高vs和歌山工@my-ics-6a8acdc9@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260110T100000
+DTEND;TZID=Asia/Tokyo:20260110T120000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：日高 vs 和歌山工\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\n回戦
+ ：1回戦\n時刻：10:00\n会場：会場不明\n結果：1-0\n出典：https://koko-soccer.com/score/4270
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260110-和歌山県-新人戦-1回戦-橋本vs笠田@my-ics-c04dce56@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260110T120000
+DTEND;TZID=Asia/Tokyo:20260110T140000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：橋本 vs 笠田\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\n回戦：1
+ 回戦\n時刻：12:00\n会場：会場不明\n結果：0-0 PK 4-1\n出典：https://koko-soccer.com/score/427
+ 0
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260110-和歌山県-新人戦-1回戦-神島・田辺工vs向陽@my-ics-5d2c1908@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260110T140000
+DTEND;TZID=Asia/Tokyo:20260110T160000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：神島・田辺工 vs 向陽\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\n
+ 回戦：1回戦\n時刻：14:00\n会場：会場不明\n結果：0-1\n出典：https://koko-soccer.com/score/4270
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260111-和歌山県-新人戦-1回戦-和歌山高専vs紀北工@my-ics-269cdc48@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260111T103000
+DTEND;TZID=Asia/Tokyo:20260111T123000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：和歌山高専 vs 紀北工\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\n
+ 回戦：1回戦\n時刻：10:30\n会場：会場不明\n結果：1-1 PK 6-5\n出典：https://koko-soccer.com/score
+ /4270
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260111-和歌山県-新人戦-1回戦-開智vs高野山・市立和歌山・和歌山商業@my-ics-f7af4ac9@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260111T133000
+DTEND;TZID=Asia/Tokyo:20260111T153000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：開智 vs 高野山・市立和歌山・和歌山商業\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道
+ 府県：和歌山県\n回戦：1回戦\n時刻：13:30\n会場：会場不明\n結果：5-0\n出典：https://koko-soccer.com/sco
+ re/4270
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260113-和歌山県-新人戦-1回戦-星林vs新宮・新翔@my-ics-9668719e@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260113T120000
+DTEND;TZID=Asia/Tokyo:20260113T140000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：星林 vs 新宮・新翔\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\n回
+ 戦：1回戦\n時刻：12:00\n会場：会場不明\n結果：1-1 PK 5-4\n出典：https://koko-soccer.com/score/
+ 4270
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260116-和歌山県-新人戦-2回戦-那賀vs橋本@my-ics-ca9fddf0@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260116T123000
+DTEND;TZID=Asia/Tokyo:20260116T143000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：那賀 vs 橋本\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\n回戦：2
+ 回戦\n時刻：12:30\n会場：会場不明\n結果：1-0\n出典：https://koko-soccer.com/score/4270
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260116-和歌山県-新人戦-2回戦-近大新宮vs開智@my-ics-17ea846f@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260116T143000
+DTEND;TZID=Asia/Tokyo:20260116T163000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：近大新宮 vs 開智\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\n回戦
+ ：2回戦\n時刻：14:30\n会場：会場不明\n結果：4-0\n出典：https://koko-soccer.com/score/4270
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260117-和歌山県-新人戦-2回戦-日高vs海南@my-ics-e2a8a007@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260117T133000
+DTEND;TZID=Asia/Tokyo:20260117T153000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：日高 vs 海南\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\n回戦：2
+ 回戦\n時刻：13:30\n会場：会場不明\n結果：1-0\n出典：https://koko-soccer.com/score/4270
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260117-和歌山県-新人戦-2回戦-向陽vs桐蔭@my-ics-a996ec77@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260117T153000
+DTEND;TZID=Asia/Tokyo:20260117T173000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：向陽 vs 桐蔭\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\n回戦：2
+ 回戦\n時刻：15:30\n会場：会場不明\n結果：0-5\n出典：https://koko-soccer.com/score/4270
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260118-和歌山県-新人戦-2回戦-和歌山北vs和歌山高専@my-ics-84d9f4b5@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：和歌山北 vs 和歌山高専\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\
+ n回戦：2回戦\n時刻：10:00\n会場：会場不明\n結果：5-0\n出典：https://koko-soccer.com/score/4270
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260118-和歌山県-新人戦-2回戦-粉河vs近大和歌山@my-ics-236a1cad@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260118T120000
+DTEND;TZID=Asia/Tokyo:20260118T140000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：粉河 vs 近大和歌山\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\n回
+ 戦：2回戦\n時刻：12:00\n会場：会場不明\n結果：0-9\n出典：https://koko-soccer.com/score/4270
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260118-和歌山県-新人戦-2回戦-星林vs田辺@my-ics-5d78eb4b@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260118T140000
+DTEND;TZID=Asia/Tokyo:20260118T160000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：星林 vs 田辺\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\n回戦：2
+ 回戦\n時刻：14:00\n会場：会場不明\n結果：1-0\n出典：https://koko-soccer.com/score/4270
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260131-和歌山県-新人戦-準々決勝-那賀vs桐蔭@my-ics-4116a163@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260131T120000
+DTEND;TZID=Asia/Tokyo:20260131T140000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：那賀 vs 桐蔭\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\n回戦：準
+ 々決勝\n時刻：12:00\n会場：会場不明\n結果：0-4\n出典：https://koko-soccer.com/score/4270
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260131-和歌山県-新人戦-準々決勝-近大新宮vs近大和歌山@my-ics-1c77a277@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260131T140000
+DTEND;TZID=Asia/Tokyo:20260131T160000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：近大新宮 vs 近大和歌山\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\
+ n回戦：準々決勝\n時刻：14:00\n会場：会場不明\n結果：1-5\n出典：https://koko-soccer.com/score/4270
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260201-和歌山県-新人戦-準々決勝-初芝橋本vs日高@my-ics-5b3dc9a6@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260201T103000
+DTEND;TZID=Asia/Tokyo:20260201T123000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：初芝橋本 vs 日高\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\n回戦
+ ：準々決勝\n時刻：10:30\n会場：会場不明\n結果：4-0\n出典：https://koko-soccer.com/score/4270
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260201-和歌山県-新人戦-準々決勝-和歌山北vs星林@my-ics-2ba21f93@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260201T130000
+DTEND;TZID=Asia/Tokyo:20260201T150000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：和歌山北 vs 星林\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\n回戦
+ ：準々決勝\n時刻：13:00\n会場：会場不明\n結果：0-1\n出典：https://koko-soccer.com/score/4270
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260207-和歌山県-新人戦-準決勝-初芝橋本vs桐蔭@my-ics-6fa09047@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260207T103000
+DTEND;TZID=Asia/Tokyo:20260207T123000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：初芝橋本 vs 桐蔭\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\n回戦
+ ：準決勝\n時刻：10:30\n会場：会場不明\n結果：未確定\n出典：https://koko-soccer.com/score/4270
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260207-和歌山県-新人戦-準決勝-星林vs近大和歌山@my-ics-5386ab5d@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260207T123000
+DTEND;TZID=Asia/Tokyo:20260207T143000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：星林 vs 近大和歌山\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\n回
+ 戦：準決勝\n時刻：12:30\n会場：会場不明\n結果：未確定\n出典：https://koko-soccer.com/score/4270
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260208-和歌山県-新人戦-3位決定戦-未定vs未定@my-ics-4ba12711@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260208T103000
+DTEND;TZID=Asia/Tokyo:20260208T123000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：未定 vs 未定\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\n回戦：3
+ 位決定戦\n時刻：10:30\n会場：会場不明\n結果：未確定\n出典：https://koko-soccer.com/score/4270
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kinki_hs_boys-20260208-和歌山県-新人戦-決勝-未定vs未定@my-ics-9e13bb8a@my-ics
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260208T130000
+DTEND;TZID=Asia/Tokyo:20260208T150000
+SUMMARY:和歌山県／令和7年度和歌山新人戦（新人選手権大会）
+LOCATION:会場不明（和歌山県）
+DESCRIPTION:種別：高校／男子\n対戦：未定 vs 未定\n大会：令和7年度和歌山新人戦（新人選手権大会）\n都道府県：和歌山県\n回戦：決
+ 勝\n時刻：13:00\n会場：会場不明\n結果：未確定\n出典：https://koko-soccer.com/score/4270
+SEQUENCE:1
+END:VEVENT
 END:VCALENDAR
