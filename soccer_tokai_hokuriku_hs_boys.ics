@@ -1,1498 +1,1402 @@
 BEGIN:VCALENDAR
+
 VERSION:2.0
-PRODID:-//okaidokudaze//school-soccer//JP
+
+PRODID:-//okaidokudaze//my-ics//JP
+
 CALSCALE:GREGORIAN
-X-WR-CALNAME:【東海北陸】男子高校サッカー
+
+METHOD:PUBLISH
+
+X-WR-CALNAME:全国版 学校サッカー（大阪除外）東海北陸・男子高校
+
 X-WR-TIMEZONE:Asia/Tokyo
+
 BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-b813cdddf961b549e927bffde10ab395ed6e53af@
- okaidokudaze
-DTSTAMP:20260203T143329
+
+UID:5866fd2126fc38e67857c1f98e787dca5fe20f3b@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 沼津西 vs 浜松南\n結果: 2-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:1910f29280e79ff860002058269b02b9b94ddd89@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 加藤学園 vs 富士市立\n結果: 1-6\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:632890b517c2e25ae66258d31a89bd2b53537c83@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
 DTSTART;TZID=Asia/Tokyo:20260117T103000
-DTEND;TZID=Asia/Tokyo:20260117T123000
-SUMMARY:愛知県／大会日程・結果
-LOCATION:会場不明（愛知県）
-DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\\nhttps://koko-soccer.com/score/4308
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 磐田東 vs 浜松城北工\n結果: 13-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
 END:VEVENT
+
 BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-3d1165ce900e30dfb72b4cc105f17a9d8aeed2ac@
- okaidokudaze
-DTSTAMP:20260203T143329
-DTSTART;TZID=Asia/Tokyo:20260117T130000
-DTEND;TZID=Asia/Tokyo:20260117T150000
-SUMMARY:愛知県／大会日程・結果
-LOCATION:会場不明（愛知県）
-DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\\nhttps://koko-soccer.com/score/4308
+
+UID:cbf2c39f8cc7afa9e53777aaccda29229604bb38@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 飛龍 vs 静岡\n結果: 4-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
 END:VEVENT
+
 BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-b362841278e82bc6bf34e1b06319ae5b14d0e49d@
- okaidokudaze
-DTSTAMP:20260203T143329
+
+UID:b4d2be7cedad0d340d0b1712273842ea5a18ebae@okaidokudaze-my-ics
+
+DTSTAMP:20260206T160000
+
+SEQUENCE:1
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T103000
+
+LOCATION:静岡北高等学校グラウンド
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 静岡北 vs 浜松市立\n結果: 3-3 PK4-2\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE\n会場出典: 静岡北高校 公式
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:54ed86ae4a228136cd470beb565b5e8dd468dc69@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 科学技術 vs オイスカ\n結果: 1-1 PK4-5\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:70fb07c2dfd29cc33897562953c304c7e8349cf8@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 浜名 vs 静岡市立\n結果: 6-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:f8b81987df2fa0d53c5d7933eaa698e4abd02b13@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 清流館 vs 浜松北\n結果: 0-2\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:86c4c98365daf19f54a4dfc70aa2b34211695a8f@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 新居 vs 東海大翔洋\n結果: 0-4\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:c2420d97a4a56a0d294bc71648f422b321d95b78@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 常葉橘 vs 磐田北\n結果: 5-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:6e6b4ce433a538e8a2e8bac8f9579000579e0db9@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 静岡東 vs 浜松西\n結果: 0-0 PK1-3\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:f4b4c79c6a3dec74a4e7367331ad6d7645605529@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 藤枝明誠 vs 沼津工\n結果: 3-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:4b1f0a223147e2cd4d265a460cd8ad38ddec4b0f@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 静岡商 vs 磐田西\n結果: 3-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:83128e12fcc5783cf95b744e82f1341f214c5c36@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 静清 vs 聖隷クリストファー\n結果: 1-1 PK3-2\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:5669db9eafe89650af194745c19e5c60992882ec@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 榛原 vs 藤枝東\n結果: 0-6\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:ede9763e8822d809b8817255c7087dba7f6212db@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T121500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 城南静岡 vs 加藤学園暁秀\n結果: 0-5\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:ebbcb4012f0a192336adbf5ece6156783b046968@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T121500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 浜松開誠館 vs 韮山\n結果: 9-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:f5c7c8a2366a58afa73dc3f4f42fe424acd12dab@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T124500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 沼津東 vs 磐田南\n結果: 3-3 PK5-4\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:e7f28f84f0dc6fcb34971c1eb144ab592f2a4a70@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T124500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 富士東 vs 藤枝北\n結果: 2-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:5ed589c54669f14b177ef123ae1de6cae77707cf@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T124500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 清水西 vs 日大三島\n結果: 0-3\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:df163155e23aa26d0c49f7d223776ee68b67644a@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T124500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 伊豆総合 vs 清水桜が丘\n結果: 0-16\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:040078004b02193c17484d3c62a0fc0de8cf6e0f@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T124500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 星陵 vs 島田商\n結果: 0-3\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:091cc0a9f5c03db79796604c1602dcea10bcda75@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T124500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 浜松東 vs 桐陽\n結果: 1-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:1b071e555ae0f08158db69e78a5f05ba3de69802@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T124500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 沼津中央 vs 袋井\n結果: 0-0 PK6-7\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:87907f786f2cda9b71ad7d62eeb0fcbed20eee6b@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T124500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 静岡城北 vs 吉原\n結果: 3-2\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:17b55a5b06059091151e461b3f2cbc1ca47f41dd@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T124500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 浜北西 vs 静岡学園\n結果: 0-11\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:45eb5d4fa628351880a47dfc2093093a1c68eb3e@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T124500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 焼津中央 vs 三島北\n結果: 2-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:4a08e1194476bdc55979f5a707abeaac998aec59@okaidokudaze-my-ics
+
+DTSTAMP:20260206T160000
+
+SEQUENCE:1
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T124500
+
+LOCATION:静岡北G
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 清水東 vs 浜松聖星\n結果: 8-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE\n会場出典: 清水東高校サッカー部 公式
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:a02cd86e940c54c63185445c99045abea6dc9869@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T124500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 御殿場西 vs 浜松工\n結果: 0-6\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:5f585b1debc79d31493d6bac6ec7641264704d33@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T124500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 島田工 vs 三島南\n結果: 2-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:dc82daeb192a52bc1e2f79c2ab9d604a6119e1d2@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T143000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 富士見 vs 島田樟誠\n結果: 2-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:50580fb05ca4e57e5f10ff5c2cf953f2d08b402f@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260117T143000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 1回戦\n対戦: 浜松湖北 vs 富士宮北\n結果: 0-5\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:76023723d385290a94a9bae639fafc9b154e19be@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
 DTSTART;TZID=Asia/Tokyo:20260118T103000
-DTEND;TZID=Asia/Tokyo:20260118T123000
-SUMMARY:愛知県／大会日程・結果
-LOCATION:会場不明（愛知県）
-DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\\nhttps://koko-soccer.com/score/4308
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 2回戦\n対戦: 磐田東 vs 沼津東\n結果: 2-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
 END:VEVENT
+
 BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-9225f4038c67b44a40cbc48d4c8f0ccd313c9252@
- okaidokudaze
-DTSTAMP:20260203T143329
-DTSTART;TZID=Asia/Tokyo:20260118T130000
-DTEND;TZID=Asia/Tokyo:20260118T150000
-SUMMARY:愛知県／大会日程・結果
-LOCATION:会場不明（愛知県）
-DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\\nhttps://koko-soccer.com/score/4308
+
+UID:9c90da780ea6b8b0407913576ab27c99ef6861d6@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260118T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 2回戦\n対戦: 富士東 vs 日大三島\n結果: 0-3\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
 END:VEVENT
+
 BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-de5660ca8e3c81ebf1bcf6d0424dd4784ded32b2@
- okaidokudaze
-DTSTAMP:20260203T143329
-DTSTART;TZID=Asia/Tokyo:20260124T110000
-DTEND;TZID=Asia/Tokyo:20260124T130000
-SUMMARY:愛知県／大会日程・結果
-LOCATION:会場不明（愛知県）
-DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\\nhttps://koko-soccer.com/score/4308
+
+UID:194df6a6fe95b0c33514027560d5357e5f81b0a5@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260118T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 2回戦\n対戦: 飛龍 vs 静岡北\n結果: 2-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
 END:VEVENT
+
 BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-093271dd139c989aad59d996655fbf19f0fce55d@
- okaidokudaze
-DTSTAMP:20260203T143329
-DTSTART;TZID=Asia/Tokyo:20260124T140000
-DTEND;TZID=Asia/Tokyo:20260124T160000
-SUMMARY:愛知県／大会日程・結果
-LOCATION:会場不明（愛知県）
-DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\\nhttps://koko-soccer.com/score/4308
+
+UID:0715a2e2bf2ef45bb1b8e9bdf285b14d4267d82f@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260118T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 2回戦\n対戦: 浜名 vs 袋井\n結果: 2-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
 END:VEVENT
+
 BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-e28abda33ce4446c586f2523e80071a79463dced@
- okaidokudaze
-DTSTAMP:20260203T143329
+
+UID:594235d22014bb5411dd8f8471f998d451d35c49@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260118T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 2回戦\n対戦: 常葉橘 vs 浜松西\n結果: 5-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:29244d62a9e6b254e7697eefc4e0d76485a69950@okaidokudaze-my-ics
+
+DTSTAMP:20260206T160000
+
+SEQUENCE:1
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260118T103000
+
+LOCATION:藤枝明誠
+
+DESCRIPTION:ラウンド: 2回戦\n対戦: 清水東 vs 浜松工\n結果: 1-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE\n会場出典: 清水東高校サッカー部 公式
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:50994041808821eb73b1739d082da41a517222d0@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 2回戦\n対戦: 焼津中央 vs 東海大翔洋\n結果: 1-2\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:bd7120172b6607955ae6f4412594674e0c990e8e@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 2回戦\n対戦: 島田工 vs 藤枝東\n結果: 0-10\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:21b34093f5d53b8fa238fbc819b7be920cfeab11@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260118T124500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 2回戦\n対戦: 沼津西 vs 清水桜が丘\n結果: 0-9\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:3997311741af97d8575f2cc0553bbaa0a1d08233@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260118T124500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 2回戦\n対戦: 浜松東 vs 加藤学園暁秀\n結果: 1-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:67e63f079d7ef0293b67d8ab2a7703c95c4dcb1c@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260118T124500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 2回戦\n対戦: 静岡城北 vs 静岡学園\n結果: 0-7\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:7107db4a2934d09b545e23966f1a1ab9d73643c2@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260118T124500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 2回戦\n対戦: 浜松開誠館 vs 浜松北\n結果: 9-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:b1b6583a1cfa43cc93df3ff96a117470d9753857@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260118T124500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 2回戦\n対戦: 富士見 vs 富士市立\n結果: 0-10\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:b57232c9486d80c40323568d4dd53aedefc75f3c@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260118T131500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 2回戦\n対戦: 藤枝明誠 vs 富士宮北\n結果: 4-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:e5c1a8b1d594837af33fe4cc29bdefd080ed73e4@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260118T131500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 2回戦\n対戦: オイスカ vs 島田商\n結果: 0-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:7e9265c612611fc65805fee4afdb978c62868c54@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260118T131500
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 2回戦\n対戦: 静岡商 vs 静清\n結果: 2-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:68fafc7d12fe283a581dbe4f9c66f0c46fc99166@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260124T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 3回戦\n対戦: 浜松開誠館 vs 東海大翔洋\n結果: 0-0 PK1-4\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:ca1ef56695d8f1d89ff3f15c20d086d80e3620d6@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260124T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 3回戦\n対戦: 常葉橘 vs 富士市立\n結果: 1-1 PK5-3\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:19e14e3cf97bb8643efa38e83d30aaa6660098f0@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260124T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 3回戦\n対戦: 藤枝明誠 vs 静岡商\n結果: 4-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:dfcb6a786e28440818cc13a81eb1ed8423bea85c@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260124T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 3回戦\n対戦: 清水東 vs 藤枝東\n結果: 2-2 PK5-6\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:b213275d73305e683e184613056f68f938e9108f@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 3回戦\n対戦: 磐田東 vs 日大三島\n結果: 2-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:adf8253b635b3e7c6890a7f8bb85c867df76d19b@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 3回戦\n対戦: 飛龍 vs 清水桜が丘\n結果: 0-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:6dd427262da1a09a0729a6e21abe133c469e9964@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 3回戦\n対戦: 島田商 vs 浜松東\n結果: 0-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:5778794fec850561f88ba42591f1afe026b1775e@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 3回戦\n対戦: 浜名 vs 静岡学園\n結果: 0-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:95c40adfcf890e776001ee40e834bcda792ef611@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
 DTSTART;TZID=Asia/Tokyo:20260125T103000
-DTEND;TZID=Asia/Tokyo:20260125T123000
-SUMMARY:静岡県／大会日程・結果
+
 LOCATION:会場不明（静岡県）
-DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\\nhttps://koko-soccer.com/score/4271
+
+DESCRIPTION:ラウンド: 準々決勝\n対戦: 東海大翔洋 vs 常葉橘\n結果: 1-1 PK5-6\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
 END:VEVENT
+
 BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-bfdd0b6b02f8d750a00f220028a27db98b8a9dd3@
- okaidokudaze
-DTSTAMP:20260203T143329
+
+UID:f0e26a6560dfecc320a472d9edf2d5982fddb723@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260125T103000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 準々決勝\n対戦: 藤枝明誠 vs 藤枝東\n結果: 0-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:5c4859bbc87998d2900e7770294e750ade9f9962@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
 DTSTART;TZID=Asia/Tokyo:20260125T130000
-DTEND;TZID=Asia/Tokyo:20260125T150000
-SUMMARY:静岡県／大会日程・結果
+
 LOCATION:会場不明（静岡県）
-DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\\nhttps://koko-soccer.com/score/4271
+
+DESCRIPTION:ラウンド: 準々決勝\n対戦: 磐田東 vs 清水桜が丘\n結果: 3-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
 END:VEVENT
+
 BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-048b795b77863a0184b337d47e1678a27c0b675f@
- okaidokudaze
-DTSTAMP:20260203T143329
-DTSTART;TZID=Asia/Tokyo:20260131T100000
-DTEND;TZID=Asia/Tokyo:20260131T120000
-SUMMARY:岐阜県／大会日程・結果
-LOCATION:会場不明（岐阜県）
-DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\\nhttps://koko-soccer.com/score/4317
+
+UID:8b9dc765362f848710c50b753e83c8d29be357ca@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
+DTSTART;TZID=Asia/Tokyo:20260125T130000
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 準々決勝\n対戦: 浜松東 vs 静岡学園\n結果: 0-8\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
 END:VEVENT
+
 BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-ad75c8c9a6c695075d033904a4f076403b5a490c@
- okaidokudaze
-DTSTAMP:20260203T150000
+
+UID:3bf83cb085210e9913c576a6790482ff7276de4c@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
 DTSTART;TZID=Asia/Tokyo:20260131T103000
-DTEND;TZID=Asia/Tokyo:20260131T123000
-SUMMARY:静岡県／静岡新人 常葉橘
-LOCATION:草薙陸上競技場（静岡）
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\nhttps://www.excite.co.jp/news/article/S
- portsHochi_20260131_OHT1T51199/
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 準決勝\n対戦: 常葉橘 vs 藤枝東\n結果: 0-3\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
 END:VEVENT
+
 BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-8a61959fed36e6bbb859dfddfb07392c762076a0@
- okaidokudaze
-DTSTAMP:20260203T143329
-DTSTART;TZID=Asia/Tokyo:20260131T120000
-DTEND;TZID=Asia/Tokyo:20260131T140000
-SUMMARY:岐阜県／大会日程・結果
-LOCATION:会場不明（岐阜県）
-DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\\nhttps://koko-soccer.com/score/4317
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-3bd2a618e4e8e382f317056bb71da815631c8ed3@
- okaidokudaze
-DTSTAMP:20260203T150000
+
+UID:0eedfb9a9a6fb34b724abad33cb00d4dfefd9c59@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
 DTSTART;TZID=Asia/Tokyo:20260131T130000
-DTEND;TZID=Asia/Tokyo:20260131T150000
-SUMMARY:静岡県／静岡新人 磐田東
-LOCATION:草薙陸上競技場（静岡）
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\nhttps://www.excite.co.jp/news/article/S
- portsHochi_20260131_OHT1T51208/
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 準決勝\n対戦: 磐田東 vs 静岡学園\n結果: 0-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
 END:VEVENT
+
 BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-27b66c6d03985f527ed8d4d9293e0d945a35160e@
- okaidokudaze
-DTSTAMP:20260203T143329
-DTSTART;TZID=Asia/Tokyo:20260131T140000
-DTEND;TZID=Asia/Tokyo:20260131T160000
-SUMMARY:岐阜県／大会日程・結果
-LOCATION:会場不明（岐阜県）
-DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\\nhttps://koko-soccer.com/score/4317
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-fe98db9f21dc5fda7253da9782448f14dcc08c3d@
- okaidokudaze
-DTSTAMP:20260203T150000
+
+UID:a9db88b779dc6f9706d9bbabdc9d801bcaeeef6d@okaidokudaze-my-ics
+
+DTSTAMP:20260206T153213
+
+SEQUENCE:0
+
+SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
+
 DTSTART;TZID=Asia/Tokyo:20260201T130000
-DTEND;TZID=Asia/Tokyo:20260201T150000
-SUMMARY:静岡県／静岡新人 藤枝東
-LOCATION:藤枝総合運動公園サッカー場（静岡）
-DESCRIPTION:出典：高校サッカードットコム（決勝レポート）\nhttps://koko-soccer.com/report/4271/701
- 0-20260201shizuoka
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-be1fb4e55f96c74359519f03ba5935543d879d44@
- okaidokudaze
-DTSTAMP:20260203T143329
-DTSTART;TZID=Asia/Tokyo:20260207T100000
-DTEND;TZID=Asia/Tokyo:20260207T120000
-SUMMARY:岐阜県／大会日程・結果
-LOCATION:会場不明（岐阜県）
-DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\\nhttps://koko-soccer.com/score/4317
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-b4260bf705c7dd500221ecf02a24f7191ed13b9b@
- okaidokudaze
-DTSTAMP:20260203T143329
-DTSTART;TZID=Asia/Tokyo:20260207T120000
-DTEND;TZID=Asia/Tokyo:20260207T140000
-SUMMARY:岐阜県／大会日程・結果
-LOCATION:会場不明（岐阜県）
-DESCRIPTION:出典：高校サッカードットコム（大会日程・結果）\\nhttps://koko-soccer.com/score/4317
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-01c90214291a0afa63dfb50d9216936ee5baa89e@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T103000
-DTEND;TZID=Asia/Tokyo:20260117T123000
-SUMMARY:静岡県／静岡新人 磐田東
-LOCATION:磐田東Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-4b1e98fb16389bedcc937132595524659db3f9c3@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-DTEND;TZID=Asia/Tokyo:20260117T144500
-SUMMARY:静岡県／静岡新人 沼津中央
-LOCATION:磐田東Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-311c34089bba3b36c9be461f9296d6c90aae2335@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T103000
-DTEND;TZID=Asia/Tokyo:20260117T123000
-SUMMARY:静岡県／静岡新人 静岡商
-LOCATION:磐田安久路Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-91f82b931c26267a1aa919c5f3e00b70e2e7a23a@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-DTEND;TZID=Asia/Tokyo:20260117T144500
-SUMMARY:静岡県／静岡新人 沼津東
-LOCATION:磐田安久路Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-3ebb81c347a8a4c5c0f9c8c23fff04dc4e4303c4@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T103000
-DTEND;TZID=Asia/Tokyo:20260117T123000
-SUMMARY:静岡県／静岡新人 榛原
-LOCATION:藤枝東Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-e63392fea70c4787c7917f9ab326ae0bb022e223@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-DTEND;TZID=Asia/Tokyo:20260117T144500
-SUMMARY:静岡県／静岡新人 富士東
-LOCATION:藤枝東Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-b7f9769d2451778758937c2de7de3abaf6a02f96@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T103000
-DTEND;TZID=Asia/Tokyo:20260117T123000
-SUMMARY:静岡県／静岡新人 飛龍
-LOCATION:飛龍Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-46df4aeff61c600a75461292fe6fc47dd874745f@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-DTEND;TZID=Asia/Tokyo:20260117T144500
-SUMMARY:静岡県／静岡新人 清水西
-LOCATION:飛龍Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-655ca48c7b50e469586e28d95b6b08a4907c0150@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T103000
-DTEND;TZID=Asia/Tokyo:20260117T123000
-SUMMARY:静岡県／静岡新人 静岡北
-LOCATION:静岡北Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-4e2f23ebe30274300f5fdc8677ded8e4ab718560@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-DTEND;TZID=Asia/Tokyo:20260117T144500
-SUMMARY:静岡県／静岡新人 清水東
-LOCATION:静岡北Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-cf1c2755d5fa663d0dc0c5a08147e93d06e7c81b@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T100000
-DTEND;TZID=Asia/Tokyo:20260117T120000
-SUMMARY:静岡県／静岡新人 沼津西
-LOCATION:浜松開誠館総合Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-94d8e838eeb11820ef977a3cdea6d9069a63b7ad@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T121500
-DTEND;TZID=Asia/Tokyo:20260117T141500
-SUMMARY:静岡県／静岡新人 浜松開誠館
-LOCATION:浜松開誠館総合Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-08c4860b15f1a1e94f8ef935dc5600ac8b6cc597@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T143000
-DTEND;TZID=Asia/Tokyo:20260117T163000
-SUMMARY:静岡県／静岡新人 富士見
-LOCATION:浜松開誠館総合Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-19797cd497f421c4247b1d3cb8e46497b9ca5b39@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T103000
-DTEND;TZID=Asia/Tokyo:20260117T123000
-SUMMARY:静岡県／静岡新人 新居
-LOCATION:清水桜が丘Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-768407d0081c596a71a51ec0c5e04c644d67226b@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-DTEND;TZID=Asia/Tokyo:20260117T144500
-SUMMARY:静岡県／静岡新人 伊豆総合
-LOCATION:清水桜が丘Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-8f6ab77909e41fdf6596d8bc1dbb449e6476c37f@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T103000
-DTEND;TZID=Asia/Tokyo:20260117T123000
-SUMMARY:静岡県／静岡新人 静岡東
-LOCATION:竜洋スポーツ公園
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-b3ae0fdc9f2a8c660a266dcec3955c6d97300236@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-DTEND;TZID=Asia/Tokyo:20260117T144500
-SUMMARY:静岡県／静岡新人 星陵
-LOCATION:竜洋スポーツ公園
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-6b421df95e8145a5fac9e198063e315afcf928fb@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T103000
-DTEND;TZID=Asia/Tokyo:20260117T123000
-SUMMARY:静岡県／静岡新人 藤枝明誠
-LOCATION:藤枝明誠Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-e46ff48ea64661295e62c83bdaabb80bff10a1ae@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-DTEND;TZID=Asia/Tokyo:20260117T144500
-SUMMARY:静岡県／静岡新人 浜松東
-LOCATION:藤枝明誠Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-7637568672b093b8387c0b755c080a61b8a177eb@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T100000
-DTEND;TZID=Asia/Tokyo:20260117T120000
-SUMMARY:静岡県／静岡新人 加藤学園
-LOCATION:山宮ふじざくら球技場
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-0b3b67f925cd6f2ab393e92e69ead7ff9021a8c7@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T121500
-DTEND;TZID=Asia/Tokyo:20260117T141500
-SUMMARY:静岡県／静岡新人 城南静岡
-LOCATION:山宮ふじざくら球技場
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-a7b1228a1f364e6926649418dc493dc2834e4c04@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T143000
-DTEND;TZID=Asia/Tokyo:20260117T163000
-SUMMARY:静岡県／静岡新人 浜松湖北
-LOCATION:山宮ふじざくら球技場
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-b91c5f9bb748a42d40e8adbd7336b34c12100cab@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T103000
-DTEND;TZID=Asia/Tokyo:20260117T123000
-SUMMARY:静岡県／静岡新人 浜名
-LOCATION:平口スポーツ広場
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-c1f410488b129ec808ff971b08b4fdc893d30b6e@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-DTEND;TZID=Asia/Tokyo:20260117T144500
-SUMMARY:静岡県／静岡新人 静岡城北
-LOCATION:平口スポーツ広場
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-44d57a8853cd659ddfebce7570867896047e655b@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T103000
-DTEND;TZID=Asia/Tokyo:20260117T123000
-SUMMARY:静岡県／静岡新人 常葉大橘
-LOCATION:常葉ＧＦ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-5ab5655a0c51f76e823adb75c132d51e2ce0e52d@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-DTEND;TZID=Asia/Tokyo:20260117T144500
-SUMMARY:静岡県／静岡新人 浜北西
-LOCATION:常葉ＧＦ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-4ad35ff241fc807ecbe419a676f3782a817eba74@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T103000
-DTEND;TZID=Asia/Tokyo:20260117T123000
-SUMMARY:静岡県／静岡新人 清流館
-LOCATION:石人の星公園球技場
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-b3b991c25daec68832683fa70252a7ba92818f9d@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-DTEND;TZID=Asia/Tokyo:20260117T144500
-SUMMARY:静岡県／静岡新人 御殿場西
-LOCATION:石人の星公園球技場
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-8e7c664ac028c1a03741d7b12786946c9e928fed@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T103000
-DTEND;TZID=Asia/Tokyo:20260117T123000
-SUMMARY:静岡県／静岡新人 静清
-LOCATION:静清高田Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-c4646f7cd85bdd37ab6861bcf145fbb6d4db2182@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-DTEND;TZID=Asia/Tokyo:20260117T144500
-SUMMARY:静岡県／静岡新人 焼津中央
-LOCATION:静清高田Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-f143401cbddca3fd0275f6a087cad21f74d8a561@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T103000
-DTEND;TZID=Asia/Tokyo:20260117T123000
-SUMMARY:静岡県／静岡新人 科学技術
-LOCATION:オイスカ浜松国際Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_tokai_hokuriku_hs_boys-9fdcfcb8993068059bff7cc2115f26d22db7c2a2@
- okaidokudaze
-DTSTAMP:20260203T150000
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-DTEND;TZID=Asia/Tokyo:20260117T144500
-SUMMARY:静岡県／静岡新人 島田工
-LOCATION:オイスカ浜松国際Ｇ
-DESCRIPTION:出典：エキサイトニュース（スポーツ報知転載）\\nhttps://www.excite.co.jp/news/article/
- SportsHochi_20260115_OHT1T51096/
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-76de167356efcea8@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260103T113000
-DTEND;TZID=Asia/Tokyo:20260103T122000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 四日市中央工業B vs 大谷室蘭B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ:不明\\n試合時間目安:50分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-1e0ed7f8a20e0ac4@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260103T110000
-DTEND;TZID=Asia/Tokyo:20260103T121000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 横浜創英 vs 盛岡商業
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ:F\\n試合時間目安:70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-cf499dedd720ac48@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260103T130000
-DTEND;TZID=Asia/Tokyo:20260103T141000
-SUMMARY:石川県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ:D\\n試合時間目安:70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-fb7c17e0603841b3@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260103T123000
-DTEND;TZID=Asia/Tokyo:20260103T134000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 札幌大谷 vs 国士舘
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ:A\\n試合時間目安:70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-385f9f3efc5da900@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260103T123000
-DTEND;TZID=Asia/Tokyo:20260103T134000
-SUMMARY:静岡県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ:F\\n試合時間目安:70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-8cb9022f3c752f81@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260103T143000
-DTEND;TZID=Asia/Tokyo:20260103T152000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 共愛学園B vs 国士舘B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ:不明\\n試合時間目安:50分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-8008c6dc7dfae976@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260103T140000
-DTEND;TZID=Asia/Tokyo:20260103T151000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 東山 vs 立正大淞南
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ:H\\n試合時間目安:70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-d1ad04f94e905570@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260103T140000
-DTEND;TZID=Asia/Tokyo:20260103T145000
-SUMMARY:静岡県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ:不明\\n試合時間目安:50分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-6ffbe91518513389@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260103T153000
-DTEND;TZID=Asia/Tokyo:20260103T164000
-SUMMARY:大阪府／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ:A\\n試合時間目安:70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-40988cd026eb0a46@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260103T153000
-DTEND;TZID=Asia/Tokyo:20260103T164000
-SUMMARY:宮崎県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ:G\\n試合時間目安:70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-07bd7fc484197360@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260103T150000
-DTEND;TZID=Asia/Tokyo:20260103T161000
-SUMMARY:大阪府／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ:E\\n試合時間目安:70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-709bacd1d5758bfc@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260103T170000
-DTEND;TZID=Asia/Tokyo:20260103T175000
-SUMMARY:大阪府／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ:不明\\n試合時間目安:50分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-88de71b53b6cbcc6@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260103T170000
-DTEND;TZID=Asia/Tokyo:20260103T175000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 東山B vs 立正大淞南B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ:不明\\n試合時間目安:50分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-a7910897ff5ae48c@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260103T163000
-DTEND;TZID=Asia/Tokyo:20260103T172000
-SUMMARY:大阪府／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ:不明\\n試合時間目安:50分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-82614d0a4eaa6cfe@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T080000
-DTEND;TZID=Asia/Tokyo:20260104T085000
-SUMMARY:大阪府／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :50分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-4aa305fc3bf80c98@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T123000
-DTEND;TZID=Asia/Tokyo:20260104T134000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 駒大高 vs 愛工大名電
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:C\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-cf5e01f5d74e66a6@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T123000
-DTEND;TZID=Asia/Tokyo:20260104T134000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 大成 vs 藤枝東
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:G\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-43014621213c0904@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T140000
-DTEND;TZID=Asia/Tokyo:20260104T145000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 駒大高B vs 愛工大名電B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :50分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-3b574123b95601a7@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T140000
-DTEND;TZID=Asia/Tokyo:20260104T151000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 大谷室蘭 vs 桐生第一
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:H\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-d9941fb9edea98ee@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T140000
-DTEND;TZID=Asia/Tokyo:20260104T151000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 専大松戸 vs 丸岡
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:C\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-f66aae10c84fd86c@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T153000
-DTEND;TZID=Asia/Tokyo:20260104T162000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 横浜創英B vs 藤枝東B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :50分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-2c0d9e558b0d0a45@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T153000
-DTEND;TZID=Asia/Tokyo:20260104T162000
-SUMMARY:石川県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :50分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-4ed06abd80e6131e@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T153000
-DTEND;TZID=Asia/Tokyo:20260104T162000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 専大松戸B vs 丸岡B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :50分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-c27cf69b64078f16@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T123000
-DTEND;TZID=Asia/Tokyo:20260104T134000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 市立船橋 vs 関東第一
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:B\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-4ec2795c47222957@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T140000
-DTEND;TZID=Asia/Tokyo:20260104T145000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 市立船橋B vs 関東第一B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :50分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-b7d715c9f8d00279@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T140000
-DTEND;TZID=Asia/Tokyo:20260104T151000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 津工業 vs 滝川第二
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:B\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-3dc3b4bb0afc450b@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T153000
-DTEND;TZID=Asia/Tokyo:20260104T162000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 盛岡商業B vs 飯塚B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :50分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-31f95d6b5fdd0ad7@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T153000
-DTEND;TZID=Asia/Tokyo:20260104T162000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 津工業B vs 滝川第二B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :50分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-e2dcfab896bd85d8@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T080000
-DTEND;TZID=Asia/Tokyo:20260104T091000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 津工業 vs 関東第一
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:B\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-8daab7f45ed3ff33@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T080000
-DTEND;TZID=Asia/Tokyo:20260104T091000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 市立船橋 vs 滝川第二
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:B\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-8ea66ba2290655ab@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T080000
-DTEND;TZID=Asia/Tokyo:20260104T091000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 共愛学園 vs 作陽学園
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:E\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-c3f4177f27c107f1@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T093000
-DTEND;TZID=Asia/Tokyo:20260104T104000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 武南 vs 国士舘
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:A\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-fba7a1470b2f9cd9@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T093000
-DTEND;TZID=Asia/Tokyo:20260104T104000
-SUMMARY:大阪府／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:A\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-a17291cfa285fd0e@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T093000
-DTEND;TZID=Asia/Tokyo:20260104T104000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 東山 vs 桐生第一
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:H\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-aafe2ccce5247eb7@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T110000
-DTEND;TZID=Asia/Tokyo:20260104T121000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 武南B vs 関東第一B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-ad66bde1e99ec8cb@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T110000
-DTEND;TZID=Asia/Tokyo:20260104T121000
-SUMMARY:大阪府／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-8298b2e73e9df0eb@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T110000
-DTEND;TZID=Asia/Tokyo:20260104T121000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 作陽学園B vs 市立船橋B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-250a5289fc834c5e@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T123000
-DTEND;TZID=Asia/Tokyo:20260104T134000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 津工業 vs 市立船橋
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:B\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-4e69fe8639d441ae@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T123000
-DTEND;TZID=Asia/Tokyo:20260104T134000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 滝川第二 vs 関東第一
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:B\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-9ceff48fea4ea3f5@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T123000
-DTEND;TZID=Asia/Tokyo:20260104T134000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 作陽学園 vs 桐光学園
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:E\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-073e91acc2b1b699@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T140000
-DTEND;TZID=Asia/Tokyo:20260104T151000
-SUMMARY:大阪府／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:A\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-0448a80a69309239@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T140000
-DTEND;TZID=Asia/Tokyo:20260104T151000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 武南 vs 札幌大谷
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:A\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-d1971226b04cd202@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T140000
-DTEND;TZID=Asia/Tokyo:20260104T151000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 東山 vs 大谷室蘭
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:H\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-2586868268f04332@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T153000
-DTEND;TZID=Asia/Tokyo:20260104T164000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 滝川第二B vs 共愛学園B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-962ad2546933c3e3@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T153000
-DTEND;TZID=Asia/Tokyo:20260104T164000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 愛工大名電B vs 東山B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-a33961b7f7102d91@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T153000
-DTEND;TZID=Asia/Tokyo:20260104T164000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 作陽学園B vs 大谷室蘭B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-04c691e061a7380f@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T170000
-DTEND;TZID=Asia/Tokyo:20260104T181000
-SUMMARY:宮崎県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-18b34c1e0b9fb372@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T080000
-DTEND;TZID=Asia/Tokyo:20260104T091000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 日本文理 vs 帝京
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:D\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-dfc4d7007344e595@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T080000
-DTEND;TZID=Asia/Tokyo:20260104T091000
-SUMMARY:石川県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:D\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-f9d765ed96d3b50e@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T080000
-DTEND;TZID=Asia/Tokyo:20260104T091000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 大谷室蘭 vs 立正大淞南
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:H\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-5a12b8742295cb13@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T093000
-DTEND;TZID=Asia/Tokyo:20260104T104000
-SUMMARY:静岡県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:F\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-d10c6a9107a503eb@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T093000
-DTEND;TZID=Asia/Tokyo:20260104T104000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 西武台 vs 盛岡商業
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:F\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-38c38586d3becb5d@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T093000
-DTEND;TZID=Asia/Tokyo:20260104T104000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 大成 vs 中央学院
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:G\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-fde57429e01238ca@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T110000
-DTEND;TZID=Asia/Tokyo:20260104T121000
-SUMMARY:静岡県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-ebd0ffa4f13acca9@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T110000
-DTEND;TZID=Asia/Tokyo:20260104T121000
-SUMMARY:石川県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-c2660295bbc05191@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T110000
-DTEND;TZID=Asia/Tokyo:20260104T121000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 中央学院B vs 立正大淞南B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-6c38a65a5ce9adcc@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T123000
-DTEND;TZID=Asia/Tokyo:20260104T134000
-SUMMARY:石川県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:D\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-15db52973bb33db7@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T123000
-DTEND;TZID=Asia/Tokyo:20260104T134000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 名古屋 vs 帝京
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:D\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-14676276275b29d3@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T123000
-DTEND;TZID=Asia/Tokyo:20260104T134000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 立正大淞南 vs 桐生第一
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:H\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-6fc8ff1588730c08@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T140000
-DTEND;TZID=Asia/Tokyo:20260104T151000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 横浜創英 vs 西武台
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:F\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-b89c15a957fc2456@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T140000
-DTEND;TZID=Asia/Tokyo:20260104T151000
-SUMMARY:静岡県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:F\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-03816ef8947397d1@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T140000
-DTEND;TZID=Asia/Tokyo:20260104T151000
-SUMMARY:宮崎県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:G\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-4ac83017ab26dddb@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T153000
-DTEND;TZID=Asia/Tokyo:20260104T164000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 横浜創英B vs 西武台B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-84ba4041fe5f747e@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T153000
-DTEND;TZID=Asia/Tokyo:20260104T164000
-SUMMARY:静岡県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-2c4378f592751392@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T080000
-DTEND;TZID=Asia/Tokyo:20260104T091000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 専大松戸 vs 愛工大名電
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:C\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-bb2be4297b71e1de@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T080000
-DTEND;TZID=Asia/Tokyo:20260104T091000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 駒大高 vs 丸岡
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:C\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-e5027085690ea623@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T080000
-DTEND;TZID=Asia/Tokyo:20260104T091000
-SUMMARY:大阪府／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:E\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-85d0cae15e956f7b@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T093000
-DTEND;TZID=Asia/Tokyo:20260104T104000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 東海大相模 vs 四日市中央工業
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:I\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-5a00cb7e6a407ad1@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T093000
-DTEND;TZID=Asia/Tokyo:20260104T104000
-SUMMARY:新潟県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:I\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-db31aab37faba038@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T093000
-DTEND;TZID=Asia/Tokyo:20260104T104000
-SUMMARY:宮崎県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:G\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-3fbcc4373c0bbdd4@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T110000
-DTEND;TZID=Asia/Tokyo:20260104T121000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 東海大相模B vs 四日市中央工業B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-f9b88a139daa582a@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T110000
-DTEND;TZID=Asia/Tokyo:20260104T121000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 駒大高B vs 丸岡B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-e5aca6b59a791433@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T110000
-DTEND;TZID=Asia/Tokyo:20260104T121000
-SUMMARY:大阪府／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-59b18e710c1f128f@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T123000
-DTEND;TZID=Asia/Tokyo:20260104T134000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 専大松戸 vs 駒大高
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:C\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-525da2c84f40ef2d@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T123000
-DTEND;TZID=Asia/Tokyo:20260104T134000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 丸岡 vs 愛工大名電
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:C\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-1cd314084472ac97@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T123000
-DTEND;TZID=Asia/Tokyo:20260104T134000
-SUMMARY:大阪府／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:E\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-c85ada176ce9d072@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T140000
-DTEND;TZID=Asia/Tokyo:20260104T151000
-SUMMARY:新潟県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:I\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-aa27207af90f2c32@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T140000
-DTEND;TZID=Asia/Tokyo:20260104T151000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 飯塚 vs 四日市中央工業
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:I\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-7d2fd4d3c8e856d1@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T140000
-DTEND;TZID=Asia/Tokyo:20260104T151000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 中央学院 vs 藤枝東
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:G\\n試合時間目安:
- 70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-15779e2c21203667@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T153000
-DTEND;TZID=Asia/Tokyo:20260104T164000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 駒大高B vs 専大松戸B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-b8fcdf3a08938206@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T153000
-DTEND;TZID=Asia/Tokyo:20260104T164000
-SUMMARY:新潟県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-6f43d3b1d0ebd5b9@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T153000
-DTEND;TZID=Asia/Tokyo:20260104T164000
-SUMMARY:大阪府／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-dac520187345a75a@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260104T170000
-DTEND;TZID=Asia/Tokyo:20260104T181000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 東海大相模B vs 桐生第一B
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 時之栖スポーツセンター 公式PDF（試合日程・対戦表/トーナメント表）\\nグループ/ブロック:不明\\n試合時間目安
- :70分
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-2a4e65a96ef2899a@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260105T090000
-DTEND;TZID=Asia/Tokyo:20260105T101000
-SUMMARY:ニューバランスカップ in 時之栖 2026 決勝T 帝京 vs 滝川第二（M01）
-LOCATION:時之栖スポーツセンター（静岡県） 裾野D
-DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）／時之栖スポーツセンター公式PDF（決勝T表）\\n試合番号:M01\\n対戦
- :帝京 vs 滝川第二番号:M01
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-5030c845de2c879d@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260105T090000
-DTEND;TZID=Asia/Tokyo:20260105T101000
-SUMMARY:ニューバランスカップ in 時之栖 2026 決勝T 東海大仰星 vs 桐光学園（M02）
-LOCATION:時之栖スポーツセンター（静岡県） 裾野E1
-DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）／時之栖スポーツセンター公式PDF（決勝T表）\\n試合番号:M02\\n対戦
- :東海大仰星 vs 桐光学園番号:M02
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-3b65a31c59cb5f57@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260105T090000
-DTEND;TZID=Asia/Tokyo:20260105T101000
-SUMMARY:静岡県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県） 裾野E2
-DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）／時之栖スポーツセンター公式PDF（決勝T表）\\n試合番号:M03\\n対戦
- :静岡学園 vs 専大松戸番号:M03
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-24430b18477e3c29@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260105T090000
-DTEND;TZID=Asia/Tokyo:20260105T101000
-SUMMARY:ニューバランスカップ in 時之栖 2026 決勝T 東海大相模 vs 東山（M04）
-LOCATION:時之栖スポーツセンター（静岡県） うさぎ島1
-DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）／時之栖スポーツセンター公式PDF（決勝T表）\\n試合番号:M04\\n対戦
- :東海大相模 vs 東山番号:M04
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-24f2a1774908248f@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260105T090000
-DTEND;TZID=Asia/Tokyo:20260105T101000
-SUMMARY:ニューバランスカップ in 時之栖 2026 決勝T 作陽学園 vs 武南（M05）
-LOCATION:時之栖スポーツセンター（静岡県） うさぎ島2
-DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）／時之栖スポーツセンター公式PDF（決勝T表）\\n試合番号:M05\\n対戦
- :作陽学園 vs 武南番号:M05
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-36da6da431dc6d74@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260105T090000
-DTEND;TZID=Asia/Tokyo:20260105T101000
-SUMMARY:ニューバランスカップ in 時之栖 2026 決勝T 西武台 vs 名古屋（M06）
-LOCATION:時之栖スポーツセンター（静岡県） うさぎ島3
-DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）／時之栖スポーツセンター公式PDF（決勝T表）\\n試合番号:M06\\n対戦
- :西武台 vs 名古屋番号:M06
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-10447f03b1cdc90e@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260105T090000
-DTEND;TZID=Asia/Tokyo:20260105T101000
-SUMMARY:ニューバランスカップ in 時之栖 2026 決勝T 桐生第一 vs 藤枝東（M07）
-LOCATION:時之栖スポーツセンター（静岡県） うさぎ島4
-DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）／時之栖スポーツセンター公式PDF（決勝T表）\\n試合番号:M07\\n対戦
- :桐生第一 vs 藤枝東番号:M07
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-00e5d98d35737290@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260105T090000
-DTEND;TZID=Asia/Tokyo:20260105T101000
-SUMMARY:ニューバランスカップ in 時之栖 2026 決勝T 駒澤大学高等学校 vs 飯塚（M08）
-LOCATION:時之栖スポーツセンター（静岡県） うさぎ島5
-DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）／時之栖スポーツセンター公式PDF（決勝T表）\\n試合番号:M08\\n対戦
- :駒澤大学高等学校 vs 飯塚番号:M08
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-86739fd1dd528eb5@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260105T133000
-DTEND;TZID=Asia/Tokyo:20260105T144000
-SUMMARY:ニューバランスカップ in 時之栖 2026 決勝T 帝京 vs 桐光学園（M09）
-LOCATION:時之栖スポーツセンター（静岡県） 裾野D
-DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）／時之栖スポーツセンター公式PDF（決勝T表）\\n試合番号:M09\\n対戦
- :帝京 vs 桐光学園番号:M09
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-33e9bc6c79471299@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260105T133000
-DTEND;TZID=Asia/Tokyo:20260105T144000
-SUMMARY:静岡県／ニューバランスカップ
-LOCATION:時之栖スポーツセンター（静岡県） 裾野E1
-DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）／時之栖スポーツセンター公式PDF（決勝T表）\\n試合番号:M10\\n対戦
- :静岡学園 vs 武南番号:M10
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-f33f75cbd94fa57e@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260105T133000
-DTEND;TZID=Asia/Tokyo:20260105T144000
-SUMMARY:ニューバランスカップ in 時之栖 2026 決勝T 東海大相模 vs 西武台（M11）
-LOCATION:時之栖スポーツセンター（静岡県） 裾野E2
-DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）／時之栖スポーツセンター公式PDF（決勝T表）\\n試合番号:M11\\n対戦
- :東海大相模 vs 西武台番号:M11
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-04232e3795cfad56@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260105T133000
-DTEND;TZID=Asia/Tokyo:20260105T144000
-SUMMARY:ニューバランスカップ in 時之栖 2026 決勝T 藤枝東 vs 駒澤大学高等学校（M12）
-LOCATION:時之栖スポーツセンター（静岡県） 裾野A
-DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）／時之栖スポーツセンター公式PDF（決勝T表）\\n試合番号:M12\\n対戦
- :藤枝東 vs 駒澤大学高等学校番号:M12
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-2b48edc8ff3ae443@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260106T090000
-DTEND;TZID=Asia/Tokyo:20260106T101000
-SUMMARY:ニューバランスカップ in 時之栖 2026 決勝T 帝京 vs 武南（M13）
-LOCATION:時之栖スポーツセンター（静岡県） 裾野C
-DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）／時之栖スポーツセンター公式PDF（決勝T表）\\n試合番号:M13\\n対戦
- :帝京 vs 武南番号:M13
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-2b0dca922e290097@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260106T090000
-DTEND;TZID=Asia/Tokyo:20260106T101000
-SUMMARY:ニューバランスカップ in 時之栖 2026 決勝T 西武台 vs 藤枝東（M14）
-LOCATION:時之栖スポーツセンター（静岡県） 裾野A
-DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）／時之栖スポーツセンター公式PDF（決勝T表）\\n試合番号:M14\\n対戦
- :西武台 vs 藤枝東番号:M14
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-14c12487bd53f2fb@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260106T123000
-DTEND;TZID=Asia/Tokyo:20260106T134000
-SUMMARY:ニューバランスカップ in 時之栖 2026 決勝T 武南 vs 藤枝東（M15）
-LOCATION:時之栖スポーツセンター（静岡県） 裾野C
-DESCRIPTION:出典: 高校サッカードットコム（大会日程・結果）／時之栖スポーツセンター公式PDF（決勝T表）\\n試合番号:M15\\n対戦
- :武南 vs 藤枝東番号:M15
-END:VEVENT
-BEGIN:VEVENT
-UID:nbcup2026-68a6ac36bf5ddb8a@okaidokudaze.my-ics
-DTSTAMP:20260205T040000Z
-DTSTART;TZID=Asia/Tokyo:20260106T123000
-DTEND;TZID=Asia/Tokyo:20260106T134000
-SUMMARY:ニューバランスカップ in 時之栖 2026: 3位決定戦 帝京 vs 西武台
-LOCATION:時之栖スポーツセンター（静岡県）
-DESCRIPTION:出典: 高校サッカードットコム 大会日程・結果（3位決定戦ページ）\\nhttps://koko-soccer.com/sco
- re/4282/141545
-END:VEVENT
+
+LOCATION:会場不明（静岡県）
+
+DESCRIPTION:ラウンド: 決勝\n対戦: 藤枝東 vs 静岡学園\n結果: 0-3\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
+
+STATUS:CONFIRMED
+
+TRANSP:OPAQUE
+
+END:VEVENT
+
 END:VCALENDAR
+
