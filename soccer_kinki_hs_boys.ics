@@ -674,4 +674,28 @@ SUMMARY:和歌山県／和歌山新人戦
 LOCATION:会場不明（和歌山県）
 DESCRIPTION:出典：https://koko-soccer.com/score/4270\n対戦未確定（掲載時点）\n会場：不明（和歌山県）
 END:VEVENT
+BEGIN:VEVENT
+UID:9bd9cc7c-c702-5602-918b-e50e7000fcf4
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260110T123000
+DTEND;TZID=Asia/Tokyo:20260110T143000
+SUMMARY:兵庫県／新年サッカーフェスティバルin関西
+LOCATION:神戸弘陵高校グラウンド
+DESCRIPTION:種別：高校男子\n対戦：広島国際学院 vs 神戸弘
+ 陵\n回戦：交流戦\n時刻：12:30\n会場：神戸弘陵高校グラ
+ ウンド\n備考：35分×3\n出典：https://www.kokusaifc.sakura.ne.jp/
+ gameresultsjinnenkansai2026.html
+END:VEVENT
+BEGIN:VEVENT
+UID:222935bf-acd0-5d68-9d9c-acfec6d8ead7
+DTSTAMP:20260206T040000Z
+DTSTART;TZID=Asia/Tokyo:20260112T093000
+DTEND;TZID=Asia/Tokyo:20260112T113000
+SUMMARY:兵庫県／新年サッカーフェスティバルin関西
+LOCATION:三田学園高校グラウンド
+DESCRIPTION:種別：高校男子\n対戦：広島国際学院 vs 常翔学
+ 園\n回戦：交流戦\n時刻：09:30\n会場：三田学園高校グラ
+ ウンド\n備考：35分×3\n出典：https://www.kokusaifc.sakura.ne.jp/
+ gameresultsjinnenkansai2026.html
+END:VEVENT
 END:VCALENDAR
