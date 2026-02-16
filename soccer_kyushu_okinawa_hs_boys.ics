@@ -1,246 +1,392 @@
 BEGIN:VCALENDAR
-PRODID:-//masashi//School Soccer ICS//JA
 VERSION:2.0
+PRODID:-//okaidokudaze//school-soccer//JA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-BEGIN:VEVENT
-UID:d43208e5-4981-58b2-8271-3098ea684946
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260214T093000
-DTEND;TZID=Asia/Tokyo:20260214T113000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 日章学園（宮崎） vs 飯塚（福岡）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:2ce6e80a-cbf9-563b-b5b3-bcbd9bbbaa57
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260214T093000
-DTEND;TZID=Asia/Tokyo:20260214T113000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 宜野湾（沖縄） vs 佐賀東（佐賀）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:18de4c4f-4d03-5a7b-b93e-df012c00e323
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260214T093000
-DTEND;TZID=Asia/Tokyo:20260214T113000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 大津（熊本） vs 鵬翔（宮崎）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:69a55f29-83fb-5ddc-974e-0557aebfc5a1
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260214T093000
-DTEND;TZID=Asia/Tokyo:20260214T113000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 龍谷（佐賀） vs 国見（長崎）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:00eaf40c-a7fd-5934-b475-1338830a112f
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260214T113000
-DTEND;TZID=Asia/Tokyo:20260214T133000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 那覇西（沖縄） vs 秀岳館（熊本）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:6bda229e-cee3-5677-9bd3-2aef58c93173
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260214T113000
-DTEND;TZID=Asia/Tokyo:20260214T133000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 大分（大分） vs 神村学園（鹿児島）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:46a455f5-b995-54e8-8cdc-a69ae7c641dc
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260214T113000
-DTEND;TZID=Asia/Tokyo:20260214T133000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 東福岡（福岡） vs 鹿児島城西（鹿児島）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:41e1bedd-2387-5343-90c4-b5d125baabac
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260214T113000
-DTEND;TZID=Asia/Tokyo:20260214T133000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 長崎日大（長崎） vs 大分鶴崎（大分）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:cb1549a2-6c19-5c06-920d-507eb64e90d8
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260214T133000
-DTEND;TZID=Asia/Tokyo:20260214T153000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 日章学園（宮崎） vs 宜野湾（沖縄）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:5c0cee0e-1930-57ec-a10f-8cfaa38dd71f
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260214T133000
-DTEND;TZID=Asia/Tokyo:20260214T153000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 飯塚（福岡） vs 佐賀東（佐賀）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:a38181c8-2bae-564a-8ae2-c9bcc1bf0110
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260214T133000
-DTEND;TZID=Asia/Tokyo:20260214T153000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 大津（熊本） vs 龍谷（佐賀）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:5fcec845-82cf-5f59-9b9a-b8146379c173
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260214T133000
-DTEND;TZID=Asia/Tokyo:20260214T153000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 鵬翔（宮崎） vs 国見（長崎）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:b1151b75-75b7-51f5-840b-9d536ecd627a
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260214T153000
-DTEND;TZID=Asia/Tokyo:20260214T173000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 那覇西（沖縄） vs 大分（大分）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:bf716be9-9325-5936-a84d-dfe07c397616
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260214T153000
-DTEND;TZID=Asia/Tokyo:20260214T173000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 秀岳館（熊本） vs 神村学園（鹿児島）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:9b87b98e-d944-5f4a-8230-6fca9ffd157c
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260214T153000
-DTEND;TZID=Asia/Tokyo:20260214T173000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 東福岡（福岡） vs 長崎日大（長崎）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:89e466bf-10e1-59de-9276-942fc6b9cc33
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260214T153000
-DTEND;TZID=Asia/Tokyo:20260214T173000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 鹿児島城西（鹿児島） vs 大分鶴崎（大分）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:fbb8489a-fb41-5307-bd08-2dd5b3b58e12
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260215T100000
-DTEND;TZID=Asia/Tokyo:20260215T120000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 日章学園（宮崎） vs 佐賀東（佐賀）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:a11e99a1-b5df-5076-b303-90064a319e56
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260215T100000
-DTEND;TZID=Asia/Tokyo:20260215T120000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 飯塚（福岡） vs 宜野湾（沖縄）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:386c9505-73da-5445-957e-24a757d67ff2
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260215T100000
-DTEND;TZID=Asia/Tokyo:20260215T120000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 大津（熊本） vs 国見（長崎）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:6f697cf4-b199-520f-8963-862cac26aa0e
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260215T100000
-DTEND;TZID=Asia/Tokyo:20260215T120000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 鵬翔（宮崎） vs 龍谷（佐賀）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:e5103a89-78be-59b7-995e-9468321dc2fb
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260215T120000
-DTEND;TZID=Asia/Tokyo:20260215T140000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 那覇西（沖縄） vs 神村学園（鹿児島）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:d2ab9ecd-7cc4-5d4f-bce3-f5f1a2951891
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260215T120000
-DTEND;TZID=Asia/Tokyo:20260215T140000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 秀岳館（熊本） vs 大分（大分）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:1d23bd68-9b95-50d1-8849-8b4ea9e6c015
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260215T120000
-DTEND;TZID=Asia/Tokyo:20260215T140000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 東福岡（福岡） vs 大分鶴崎（大分）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
-BEGIN:VEVENT
-UID:9628b7dc-49dc-50ac-9807-dc7dc8fdcb50
-DTSTAMP:20260206T064445Z
-SEQUENCE:0
-SUMMARY:九州／令和7年度第47回九州高校U-17サッカー大会
-DTSTART;TZID=Asia/Tokyo:20260215T120000
-DTEND;TZID=Asia/Tokyo:20260215T140000
-LOCATION:会場不明（開催地不明）
-DESCRIPTION:対戦: 鹿児島城西（鹿児島） vs 長崎日大（長崎）\\n区分: ブロックリーグ\\n出典: https://koko-soccer.com/score/4324
-END:VEVENT
+X-WR-CALNAME:学校サッカー（kyushu_okinawa・高校男子）
+X-WR-TIMEZONE:Asia/Tokyo
 END:VCALENDAR
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-8f6ccefc2129ecb709ce@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260214T093000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：日章学園 vs 飯塚\n結果：0 - 1\n出典：\nhttps://koko-soccer
+ .com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%
+ e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%8
+ 3%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-e1a765adc9f5875adca6@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260214T093000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：宜野湾 vs 佐賀東\n結果：0 - 4\n出典：\nhttps://koko-soccer
+ .com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%
+ e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%8
+ 3%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-bf519a484dbca87f3ca6@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260214T093000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：大津 vs 鵬翔\n結果：3 - 1\n出典：\nhttps://koko-soccer.c
+ om/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4
+ %b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%
+ e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-a212f2ac30af3b325a30@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260214T093000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：龍谷 vs 国見\n結果：0 - 3\n出典：\nhttps://koko-soccer.c
+ om/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4
+ %b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%
+ e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-ffdef4db268bf0484155@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260214T113000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：那覇西 vs 秀岳館\n結果：2 - 1\n出典：\nhttps://koko-soccer
+ .com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%
+ e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%8
+ 3%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-dacd367876ed396e6af1@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260214T113000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：大分 vs 神村学園\n結果：0 - 2\n出典：\nhttps://koko-soccer
+ .com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%
+ e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%8
+ 3%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-a819f1d43d25ee5c71fc@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260214T113000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：東福岡 vs 鹿児島城西\n結果：0 - 0\n出典：\nhttps://koko-socc
+ er.com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9
+ e%e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83
+ %83%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-d0f0448dea6c6c8e0304@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260214T113000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：長崎日大 vs 大分鶴崎\n結果：1 - 2\n出典：\nhttps://koko-socc
+ er.com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9
+ e%e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83
+ %83%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-427f9bb6ac6f2e5d8a52@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260214T133000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：日章学園 vs 宜野湾\n結果：10 - 0\n出典：\nhttps://koko-socc
+ er.com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9
+ e%e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83
+ %83%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-93ca797f0aad52eccd88@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260214T133000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：飯塚 vs 佐賀東\n結果：1 - 0\n出典：\nhttps://koko-soccer.
+ com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e
+ 4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83
+ %e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-4461f689b5b8e522eb2c@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260214T133000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：大津 vs 龍谷\n結果：1 - 0\n出典：\nhttps://koko-soccer.c
+ om/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4
+ %b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%
+ e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-044aedfbc0605f193a2c@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260214T133000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：鵬翔 vs 国見\n結果：0 - 2\n出典：\nhttps://koko-soccer.c
+ om/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4
+ %b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%
+ e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-97ba368331da8c01c386@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260214T153000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：那覇西 vs 大分\n結果：1 - 0\n出典：\nhttps://koko-soccer.
+ com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e
+ 4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83
+ %e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-0fd80f907e3fd11ea01b@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260214T153000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：秀岳館 vs 神村学園\n結果：0 - 6\n出典：\nhttps://koko-socce
+ r.com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e
+ %e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%
+ 83%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-6f1cdecc7cbdc2e3180d@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260214T153000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：東福岡 vs 長崎日大\n結果：0 - 1\n出典：\nhttps://koko-socce
+ r.com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e
+ %e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%
+ 83%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-c172a6b0685736478815@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260214T153000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：鹿児島城西 vs 大分鶴崎\n結果：0 - 1\n出典：\nhttps://koko-soc
+ cer.com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%
+ 9e%e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%8
+ 3%83%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-d57e58c6ba0df5ec5aed@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260215T100000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：大分鶴崎 vs 日章学園\n結果：0 - 0\n出典：\nhttps://koko-socc
+ er.com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9
+ e%e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83
+ %83%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-19681ab3b9708172df41@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260215T100000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：佐賀東 vs 飯塚\n結果：6 - 0\n出典：\nhttps://koko-soccer.
+ com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e
+ 4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83
+ %e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-28d17825dc0a54505d9b@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260215T100000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：宜野湾 vs 大津\n結果：1 - 2\n出典：\nhttps://koko-soccer.
+ com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e
+ 4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83
+ %e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-f35a65211df4ba9d8cdd@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260215T100000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：国見 vs 鵬翔\n結果：4 - 2\n出典：\nhttps://koko-soccer.c
+ om/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4
+ %b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%
+ e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-5649badf286d7e70b625@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260215T120000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：龍谷 vs 那覇西\n結果：0 - 1\n出典：\nhttps://koko-soccer.
+ com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e
+ 4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83
+ %e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-5916175a87cd216f6b5c@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260215T120000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：神村学園 vs 秀岳館\n結果：2 - 0\n出典：\nhttps://koko-socce
+ r.com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e
+ %e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%
+ 83%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-ff8c335e7a15a68a1479@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260215T120000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：大分 vs 東福岡\n結果：0 - 1\n出典：\nhttps://koko-soccer.
+ com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e
+ 4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83
+ %e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-bca35ae8790fbb94da68@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260215T120000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：大分鶴崎 vs 鹿児島城西\n結果：4 - 0\n出典：\nhttps://koko-soc
+ cer.com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%
+ 9e%e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%8
+ 3%83%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-76bb41517ed9c2b6706a@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260216T100000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：決勝トーナメント1回戦\n対戦：神村学園 vs 日章学園\n結果：1 - 4\n出典：\nhttps://koko-
+ soccer.com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%
+ 9b%9e%e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e
+ 3%83%83%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-991eb7d43743f71351ba@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260216T100000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：決勝トーナメント1回戦\n対戦：国見 vs 那覇西\n結果：7 - 1\n出典：\nhttps://koko-soc
+ cer.com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%
+ 9e%e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%8
+ 3%83%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-427493755f5a770d13f0@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260216T100000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：決勝トーナメント1回戦\n対戦：飯塚 vs 鹿児島城西\n結果：2 - 0\n出典：\nhttps://koko-s
+ occer.com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9
+ b%9e%e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3
+ %83%83%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-b035c86df3e446e525d4@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260216T100000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：決勝トーナメント1回戦\n対戦：大分鶴崎 vs 大津\n結果：0 - 4\n出典：\nhttps://koko-so
+ ccer.com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b
+ %9e%e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%
+ 83%83%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-f978ac20f71de56d35db@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260216T140000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：決勝トーナメント準決勝\n対戦：日章学園 vs 国見\n結果：1 - 1 PK 7 - 6\n出典：\nhttps:
+ //koko-soccer.com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%a
+ c47%e5%9b%9e%e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%
+ 82%b5%e3%83%83%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-0bd0851aba5e4894db8d@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260216T140000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：決勝トーナメント準決勝\n対戦：飯塚 vs 大津\n結果：0 - 3\n出典：\nhttps://koko-socc
+ er.com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9
+ e%e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83
+ %83%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-a018f27c1b8e3a77bf23@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260217T100000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：決勝トーナメント3位決定戦\n対戦：国見 vs 飯塚\n出典：\nhttps://koko-soccer.com/s
+ core/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%
+ 9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%8
+ 2%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-7a7a5c813780761875ab@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260217T120000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：決勝トーナメント決勝\n対戦：日章学園 vs 大津\n出典：\nhttps://koko-soccer.com/sc
+ ore/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9
+ d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82
+ %ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT

@@ -1,1424 +1,512 @@
 BEGIN:VCALENDAR
-
 VERSION:2.0
-
-PRODID:-//okaidokudaze//my-ics//JP
-
+PRODID:-//okaidokudaze//school-soccer//JA
 CALSCALE:GREGORIAN
-
 METHOD:PUBLISH
-
-X-WR-CALNAME:全国版 学校サッカー（大阪除外）東海北陸・男子高校
-
+X-WR-CALNAME:学校サッカー（tokai_hokuriku・高校男子）
 X-WR-TIMEZONE:Asia/Tokyo
-
 BEGIN:VEVENT
-
-UID:5866fd2126fc38e67857c1f98e787dca5fe20f3b@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-bf6be7767f5c10e1cba2@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T100000
-
+DTSTART;VALUE=DATE:20260117
+SUMMARY:静岡県／令和7年度 静岡県高等学校新人大会 サッカー競技
 LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 沼津西 vs 浜松南\n結果: 2-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
+DESCRIPTION:この日は県大会の試合日（組合せPDF参照）。\n対戦カード・会場・時刻は一次資料に基づき個別試合として追加予定。\n出典：ht
+ tps://www.shizuoka-fa.com/app/uploads/2026/01/d517e13926e0d75e3adb22888d8e
+ a2ba.pdf
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:1910f29280e79ff860002058269b02b9b94ddd89@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-65d049f725b7d94b12e6@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T100000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 加藤学園 vs 富士市立\n結果: 1-6\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:632890b517c2e25ae66258d31a89bd2b53537c83@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
 DTSTART;TZID=Asia/Tokyo:20260117T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 磐田東 vs 浜松城北工\n結果: 13-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
+DTEND;TZID=Asia/Tokyo:20260117T123000
+SUMMARY:愛知県／令和７年度愛知県高等学校新人体育大会サッカー競技
+LOCATION:豊田市運動公園陸上競技場
+DESCRIPTION:対戦: 愛工大名電 vs 愛産大三河\nラウンド: Aブロック 1回戦\n出典: 愛知県サッカー協会 掲載PDF\n参照: h
+ ttps://www.aifa.jp/images/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E6
+ %84%9B%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E6%96%B0%E4%B
+ A%BA%E4%BD%93%E8%82%B2%E5%A4%A7%E4%BC%9A%E3%82%B5%E3%83%83%E3%82%AB%E3%83%
+ BC%E7%AB%B6%E6%8A%80.pdf
 STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:cbf2c39f8cc7afa9e53777aaccda29229604bb38@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-9e40393f3d830c606bba@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
 DTSTART;TZID=Asia/Tokyo:20260117T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 飛龍 vs 静岡\n結果: 4-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
+DTEND;TZID=Asia/Tokyo:20260117T123000
+SUMMARY:愛知県／令和７年度愛知県高等学校新人体育大会サッカー競技
+LOCATION:豊橋市民球技場（岩田運動公園内）
+DESCRIPTION:対戦: 桜丘 vs 中部大学春日丘\nラウンド: Aブロック 1回戦\n出典: 愛知県サッカー協会 掲載PDF\n参照: ht
+ tps://www.aifa.jp/images/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E6%
+ 84%9B%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E6%96%B0%E4%BA
+ %BA%E4%BD%93%E8%82%B2%E5%A4%A7%E4%BC%9A%E3%82%B5%E3%83%83%E3%82%AB%E3%83%B
+ C%E7%AB%B6%E6%8A%80.pdf
 STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:b4d2be7cedad0d340d0b1712273842ea5a18ebae@okaidokudaze-my-ics
-
-DTSTAMP:20260206T160000
-
-SEQUENCE:1
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
+UID:soccer_tokai_hokuriku_hs_boys-e432047aec6310ab57bf@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
 DTSTART;TZID=Asia/Tokyo:20260117T103000
-
-LOCATION:静岡北高等学校グラウンド
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 静岡北 vs 浜松市立\n結果: 3-3 PK4-2\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
+DTEND;TZID=Asia/Tokyo:20260117T123000
+SUMMARY:愛知県／令和７年度愛知県高等学校新人体育大会サッカー競技
+LOCATION:松屋地所FrechiField
+DESCRIPTION:対戦: 東邦 vs 同朋\nラウンド: Cブロック 1回戦\n出典: 愛知県サッカー協会 掲載PDF\n参照: https:/
+ /www.aifa.jp/images/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E6%84%9B
+ %E7%9F%A5%E7%9C%8C%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E6%96%B0%E4%BA%BA%E
+ 4%BD%93%E8%82%B2%E5%A4%A7%E4%BC%9A%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E7%
+ AB%B6%E6%8A%80.pdf
 STATUS:CONFIRMED
-
-TRANSP:OPAQUE\n会場出典: 静岡北高校 公式
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:54ed86ae4a228136cd470beb565b5e8dd468dc69@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-3763b6441f9672fceb2d@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
 DTSTART;TZID=Asia/Tokyo:20260117T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 科学技術 vs オイスカ\n結果: 1-1 PK4-5\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
+DTEND;TZID=Asia/Tokyo:20260117T123000
+SUMMARY:愛知県／令和７年度愛知県高等学校新人体育大会サッカー競技
+LOCATION:大同大学大同高等学校（会場表記のまま）
+DESCRIPTION:対戦: 津島 vs 大同大大同\nラウンド: Cブロック 1回戦\n出典: 愛知県サッカー協会 掲載PDF\n参照: http
+ s://www.aifa.jp/images/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E6%84
+ %9B%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E6%96%B0%E4%BA%B
+ A%E4%BD%93%E8%82%B2%E5%A4%A7%E4%BC%9A%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%
+ E7%AB%B6%E6%8A%80.pdf
 STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:70fb07c2dfd29cc33897562953c304c7e8349cf8@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-b2e9a41a48b89c63f9bb@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
 DTSTART;TZID=Asia/Tokyo:20260117T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 浜名 vs 静岡市立\n結果: 6-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
+DTEND;TZID=Asia/Tokyo:20260117T123000
+SUMMARY:愛知県／令和７年度愛知県高等学校新人体育大会サッカー競技
+LOCATION:テラスポ鶴舞（West）
+DESCRIPTION:対戦: 東海学園 vs 愛知\nラウンド: Bブロック 1回戦\n出典: 愛知県サッカー協会 掲載PDF\n参照: https
+ ://www.aifa.jp/images/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E6%84%
+ 9B%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E6%96%B0%E4%BA%BA
+ %E4%BD%93%E8%82%B2%E5%A4%A7%E4%BC%9A%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E
+ 7%AB%B6%E6%8A%80.pdf
 STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:f8b81987df2fa0d53c5d7933eaa698e4abd02b13@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-5e2e89957e210bf305ba@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
 DTSTART;TZID=Asia/Tokyo:20260117T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 清流館 vs 浜松北\n結果: 0-2\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
+DTEND;TZID=Asia/Tokyo:20260117T123000
+SUMMARY:愛知県／令和７年度愛知県高等学校新人体育大会サッカー競技
+LOCATION:海陽多目的広場C
+DESCRIPTION:対戦: 清林館 vs 中京大中京\nラウンド: Bブロック 1回戦\n出典: 愛知県サッカー協会 掲載PDF\n参照: htt
+ ps://www.aifa.jp/images/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E6%8
+ 4%9B%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E6%96%B0%E4%BA%
+ BA%E4%BD%93%E8%82%B2%E5%A4%A7%E4%BC%9A%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC
+ %E7%AB%B6%E6%8A%80.pdf
 STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:86c4c98365daf19f54a4dfc70aa2b34211695a8f@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-46aae8d7448e1840678f@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
 DTSTART;TZID=Asia/Tokyo:20260117T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 新居 vs 東海大翔洋\n結果: 0-4\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
+DTEND;TZID=Asia/Tokyo:20260117T123000
+SUMMARY:愛知県／令和７年度愛知県高等学校新人体育大会サッカー競技
+LOCATION:柳川瀬公園サッカー場
+DESCRIPTION:対戦: 名古屋 vs 三好\nラウンド: Dブロック 1回戦\n出典: 愛知県サッカー協会 掲載PDF\n参照: https:
+ //www.aifa.jp/images/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E6%84%9
+ B%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E6%96%B0%E4%BA%BA%
+ E4%BD%93%E8%82%B2%E5%A4%A7%E4%BC%9A%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E7
+ %AB%B6%E6%8A%80.pdf
 STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:c2420d97a4a56a0d294bc71648f422b321d95b78@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-d99dffcecf496ec7923e@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
 DTSTART;TZID=Asia/Tokyo:20260117T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 常葉橘 vs 磐田北\n結果: 5-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
+DTEND;TZID=Asia/Tokyo:20260117T123000
+SUMMARY:愛知県／令和７年度愛知県高等学校新人体育大会サッカー競技
+LOCATION:岡崎城西（会場表記のまま）
+DESCRIPTION:対戦: 大府東 vs 刈谷北\nラウンド: Dブロック 1回戦\n出典: 愛知県サッカー協会 掲載PDF\n参照: https
+ ://www.aifa.jp/images/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E6%84%
+ 9B%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E6%96%B0%E4%BA%BA
+ %E4%BD%93%E8%82%B2%E5%A4%A7%E4%BC%9A%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E
+ 7%AB%B6%E6%8A%80.pdf
 STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:6e6b4ce433a538e8a2e8bac8f9579000579e0db9@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-5111bd067988bd2eb90f@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 静岡東 vs 浜松西\n結果: 0-0 PK1-3\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:愛知県／令和７年度愛知県高等学校新人体育大会サッカー競技
+LOCATION:柳川瀬公園サッカー場
+DESCRIPTION:対戦: 中部大学第一 vs 名東\nラウンド: Aブロック 1回戦\n出典: 愛知県サッカー協会 掲載PDF\n参照: htt
+ ps://www.aifa.jp/images/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E6%8
+ 4%9B%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E6%96%B0%E4%BA%
+ BA%E4%BD%93%E8%82%B2%E5%A4%A7%E4%BC%9A%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC
+ %E7%AB%B6%E6%8A%80.pdf
 STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:f4b4c79c6a3dec74a4e7367331ad6d7645605529@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-5c1b126b8d1007dacb71@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 藤枝明誠 vs 沼津工\n結果: 3-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:愛知県／令和７年度愛知県高等学校新人体育大会サッカー競技
+LOCATION:岡崎城西（会場表記のまま）
+DESCRIPTION:対戦: 岡崎西 vs 岡崎城西\nラウンド: Aブロック 1回戦\n出典: 愛知県サッカー協会 掲載PDF\n参照: http
+ s://www.aifa.jp/images/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E6%84
+ %9B%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E6%96%B0%E4%BA%B
+ A%E4%BD%93%E8%82%B2%E5%A4%A7%E4%BC%9A%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%
+ E7%AB%B6%E6%8A%80.pdf
 STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:4b1f0a223147e2cd4d265a460cd8ad38ddec4b0f@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-4c2ee4bcc8375a9f9f86@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 静岡商 vs 磐田西\n結果: 3-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:愛知県／令和７年度愛知県高等学校新人体育大会サッカー競技
+LOCATION:豊橋市民球技場（岩田運動公園内）
+DESCRIPTION:対戦: 日福大付 vs 一宮興道\nラウンド: Cブロック 1回戦\n出典: 愛知県サッカー協会 掲載PDF\n参照: htt
+ ps://www.aifa.jp/images/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E6%8
+ 4%9B%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E6%96%B0%E4%BA%
+ BA%E4%BD%93%E8%82%B2%E5%A4%A7%E4%BC%9A%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC
+ %E7%AB%B6%E6%8A%80.pdf
 STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:83128e12fcc5783cf95b744e82f1341f214c5c36@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-9923e7557dfc17e29716@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 静清 vs 聖隷クリストファー\n結果: 1-1 PK3-2\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:愛知県／令和７年度愛知県高等学校新人体育大会サッカー競技
+LOCATION:テラスポ鶴舞（West）
+DESCRIPTION:対戦: 菊里 vs 名経大高蔵\nラウンド: Cブロック 1回戦\n出典: 愛知県サッカー協会 掲載PDF\n参照: http
+ s://www.aifa.jp/images/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E6%84
+ %9B%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E6%96%B0%E4%BA%B
+ A%E4%BD%93%E8%82%B2%E5%A4%A7%E4%BC%9A%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%
+ E7%AB%B6%E6%8A%80.pdf
 STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:5669db9eafe89650af194745c19e5c60992882ec@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-1ce48bfa64ee23249123@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 榛原 vs 藤枝東\n結果: 0-6\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:愛知県／令和７年度愛知県高等学校新人体育大会サッカー競技
+LOCATION:大同大学大同高等学校（会場表記のまま）
+DESCRIPTION:対戦: 大成 vs 熱田\nラウンド: Bブロック 1回戦\n出典: 愛知県サッカー協会 掲載PDF\n参照: https:/
+ /www.aifa.jp/images/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E6%84%9B
+ %E7%9F%A5%E7%9C%8C%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E6%96%B0%E4%BA%BA%E
+ 4%BD%93%E8%82%B2%E5%A4%A7%E4%BC%9A%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E7%
+ AB%B6%E6%8A%80.pdf
 STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:ede9763e8822d809b8817255c7087dba7f6212db@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-b23faacf1979978d4813@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T121500
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 城南静岡 vs 加藤学園暁秀\n結果: 0-5\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:愛知県／令和７年度愛知県高等学校新人体育大会サッカー競技
+LOCATION:松屋地所FrechiField
+DESCRIPTION:対戦: 横須賀 vs 至学館\nラウンド: Bブロック 1回戦\n出典: 愛知県サッカー協会 掲載PDF\n参照: https
+ ://www.aifa.jp/images/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E6%84%
+ 9B%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E6%96%B0%E4%BA%BA
+ %E4%BD%93%E8%82%B2%E5%A4%A7%E4%BC%9A%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E
+ 7%AB%B6%E6%8A%80.pdf
 STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:ebbcb4012f0a192336adbf5ece6156783b046968@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-3ef1fc0bc50c7350d4a3@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T121500
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 浜松開誠館 vs 韮山\n結果: 9-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:愛知県／令和７年度愛知県高等学校新人体育大会サッカー競技
+LOCATION:海陽多目的広場C
+DESCRIPTION:対戦: 豊川 vs 小坂井\nラウンド: Dブロック 1回戦\n出典: 愛知県サッカー協会 掲載PDF\n参照: https:
+ //www.aifa.jp/images/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E6%84%9
+ B%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E6%96%B0%E4%BA%BA%
+ E4%BD%93%E8%82%B2%E5%A4%A7%E4%BC%9A%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E7
+ %AB%B6%E6%8A%80.pdf
 STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:f5c7c8a2366a58afa73dc3f4f42fe424acd12dab@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-458ca9353fe8646bd6a7@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 沼津東 vs 磐田南\n結果: 3-3 PK5-4\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:愛知県／令和７年度愛知県高等学校新人体育大会サッカー競技
+LOCATION:豊田市運動公園陸上競技場
+DESCRIPTION:対戦: 修文学院 vs 刈谷\nラウンド: Dブロック 1回戦\n出典: 愛知県サッカー協会 掲載PDF\n参照: https
+ ://www.aifa.jp/images/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E6%84%
+ 9B%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E6%96%B0%E4%BA%BA
+ %E4%BD%93%E8%82%B2%E5%A4%A7%E4%BC%9A%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E
+ 7%AB%B6%E6%8A%80.pdf
 STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:e7f28f84f0dc6fcb34971c1eb144ab592f2a4a70@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-ac6ba430154b1eba3b70@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-
+DTSTART;VALUE=DATE:20260118
+SUMMARY:静岡県／令和7年度 静岡県高等学校新人大会 サッカー競技
 LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 富士東 vs 藤枝北\n結果: 2-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
+DESCRIPTION:この日は県大会の試合日（組合せPDF参照）。\n対戦カード・会場・時刻は一次資料に基づき個別試合として追加予定。\n出典：ht
+ tps://www.shizuoka-fa.com/app/uploads/2026/01/d517e13926e0d75e3adb22888d8e
+ a2ba.pdf
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:5ed589c54669f14b177ef123ae1de6cae77707cf@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-8b890173be0505c4ef08@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:三重県／三重県高校サッカー新人大会
+LOCATION:伊勢フットボールヴィレッジ（三重県）
+DESCRIPTION:ラウンド：準々決勝（第1試合）\n対戦カード：公式トーナメント表参照\n出典：三重県高体連サッカー専門部（行事日程）\n出典：
+ 三重県サッカー協会（2種委員会）PDF（組合せ／トーナメント表）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-9db8c5e11daaeaa4d2c8@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:三重県／三重県高校サッカー新人大会
+LOCATION:伊勢フットボールヴィレッジ（三重県）
+DESCRIPTION:ラウンド：準々決勝（第2試合）\n対戦カード：公式トーナメント表参照\n出典：三重県高体連サッカー専門部（行事日程）\n出典：
+ 三重県サッカー協会（2種委員会）PDF（組合せ／トーナメント表）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-d416e8b5eaa88459a2b9@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:三重県／三重県高校サッカー新人大会
+LOCATION:伊勢フットボールヴィレッジ（三重県）
+DESCRIPTION:ラウンド：準々決勝（第3試合）\n対戦カード：公式トーナメント表参照\n出典：三重県高体連サッカー専門部（行事日程）\n出典：
+ 三重県サッカー協会（2種委員会）PDF（組合せ／トーナメント表）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-57dad2e7a475eceb10a2@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:三重県／三重県高校サッカー新人大会
+LOCATION:伊勢フットボールヴィレッジ（三重県）
+DESCRIPTION:ラウンド：準々決勝（第4試合）\n対戦カード：公式トーナメント表参照\n出典：三重県高体連サッカー専門部（行事日程）\n出典：
+ 三重県サッカー協会（2種委員会）PDF（組合せ／トーナメント表）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-40aee21be0e2c1ac722f@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260124
+SUMMARY:静岡県／令和7年度 静岡県高等学校新人大会 サッカー競技
 LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 清水西 vs 日大三島\n結果: 0-3\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
+DESCRIPTION:この日は県大会の試合日（組合せPDF参照）。\n対戦カード・会場・時刻は一次資料に基づき個別試合として追加予定。\n出典：ht
+ tps://www.shizuoka-fa.com/app/uploads/2026/01/d517e13926e0d75e3adb22888d8e
+ a2ba.pdf
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:df163155e23aa26d0c49f7d223776ee68b67644a@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-09f84bacc0afa9abd2f1@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-
+DTSTART;VALUE=DATE:20260125
+SUMMARY:静岡県／令和7年度 静岡県高等学校新人大会 サッカー競技
 LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 伊豆総合 vs 清水桜が丘\n結果: 0-16\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
+DESCRIPTION:この日は県大会の試合日（組合せPDF参照）。\n対戦カード・会場・時刻は一次資料に基づき個別試合として追加予定。\n出典：ht
+ tps://www.shizuoka-fa.com/app/uploads/2026/01/d517e13926e0d75e3adb22888d8e
+ a2ba.pdf
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:040078004b02193c17484d3c62a0fc0de8cf6e0f@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-661d2c7c0b800c3cae80@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:三重県／三重県高校サッカー新人大会
+LOCATION:伊勢フットボールヴィレッジ（三重県）
+DESCRIPTION:ラウンド：準決勝（第1試合）\n対戦カード：公式トーナメント表参照\n出典：三重県高体連サッカー専門部（行事日程）\n出典：三
+ 重県サッカー協会（2種委員会）PDF（組合せ／トーナメント表）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-2d086552d39f15a95160@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:三重県／三重県高校サッカー新人大会
+LOCATION:伊勢フットボールヴィレッジ（三重県）
+DESCRIPTION:ラウンド：準決勝（第2試合）\n対戦カード：公式トーナメント表参照\n出典：三重県高体連サッカー専門部（行事日程）\n出典：三
+ 重県サッカー協会（2種委員会）PDF（組合せ／トーナメント表）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-bdff4d673d08be88c349@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260131
+SUMMARY:静岡県／令和7年度 静岡県高等学校新人大会 サッカー競技
 LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 星陵 vs 島田商\n結果: 0-3\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
+DESCRIPTION:この日は県大会の試合日（組合せPDF参照）。\n対戦カード・会場・時刻は一次資料に基づき個別試合として追加予定。\n出典：ht
+ tps://www.shizuoka-fa.com/app/uploads/2026/01/d517e13926e0d75e3adb22888d8e
+ a2ba.pdf
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:091cc0a9f5c03db79796604c1602dcea10bcda75@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
+UID:soccer_tokai_hokuriku_hs_boys-08bfec5e7a8c6a04b845@my-ics
+DTSTAMP:20260216T083249Z
 SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-
+DTSTART:20260131T100000
+DTEND:20260131T100000
+SUMMARY:岐阜県／令和7年度岐阜県高等学校サッカー新人大会
+LOCATION:大工
+DESCRIPTION:対戦：中津 vs 大垣工業\nラウンド：1回戦（No.2）\n出典：岐阜県サッカー協会（組合せ・日程PDF）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-3d1a675fc4271163dd92@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART:20260131T100000
+DTEND:20260131T100000
+SUMMARY:岐阜県／令和7年度岐阜県高等学校サッカー新人大会
+LOCATION:中池G
+DESCRIPTION:対戦：恵那 vs 関商工\nラウンド：1回戦（No.6）\n出典：岐阜県サッカー協会（組合せ・日程PDF）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-7fe43fc0690cfd8d60ef@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART:20260131T100000
+DTEND:20260131T100000
+SUMMARY:岐阜県／令和7年度岐阜県高等学校サッカー新人大会
+LOCATION:美並
+DESCRIPTION:対戦：土岐商 vs 郡上\nラウンド：1回戦（No.7）\n出典：岐阜県サッカー協会（組合せ・日程PDF）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-13e26b2e48ba7f0baf80@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART:20260131T100000
+DTEND:20260131T100000
+SUMMARY:岐阜県／令和7年度岐阜県高等学校サッカー新人大会
+LOCATION:多治見北
+DESCRIPTION:対戦：多治見北 vs 武義\nラウンド：1回戦（No.8）\n出典：岐阜県サッカー協会（組合せ・日程PDF）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-de5b2c4b2ccbda6f277c@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART:20260131T100000
+DTEND:20260131T100000
+SUMMARY:岐阜県／令和7年度岐阜県高等学校サッカー新人大会
+LOCATION:各務原
+DESCRIPTION:対戦：大垣日大 vs 美濃加茂\nラウンド：1回戦（No.12）\n出典：岐阜県サッカー協会（組合せ・日程PDF）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-7378e117f96d8685b0ba@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART:20260131T120000
+DTEND:20260131T120000
+SUMMARY:岐阜県／令和7年度岐阜県高等学校サッカー新人大会
+LOCATION:各務原
+DESCRIPTION:対戦：県岐阜商 vs 大垣東\nラウンド：1回戦（No.1）\n出典：岐阜県サッカー協会（組合せ・日程PDF）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-a2d5f50f809c5a27caa4@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART:20260131T120000
+DTEND:20260131T120000
+SUMMARY:岐阜県／令和7年度岐阜県高等学校サッカー新人大会
+LOCATION:中池G
+DESCRIPTION:対戦：加茂 vs 岐阜北\nラウンド：1回戦（No.4）\n出典：岐阜県サッカー協会（組合せ・日程PDF）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-077855c19d9fa83b4887@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART:20260131T120000
+DTEND:20260131T120000
+SUMMARY:岐阜県／令和7年度岐阜県高等学校サッカー新人大会
+LOCATION:多治見北
+DESCRIPTION:対戦：関 vs 斐太\nラウンド：1回戦（No.5）\n出典：岐阜県サッカー協会（組合せ・日程PDF）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-a98e3cec75148cedee41@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART:20260131T120000
+DTEND:20260131T120000
+SUMMARY:岐阜県／令和7年度岐阜県高等学校サッカー新人大会
+LOCATION:美並
+DESCRIPTION:対戦：高山西 vs 岐阜聖徳\nラウンド：1回戦（No.10）\n出典：岐阜県サッカー協会（組合せ・日程PDF）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-ca6a62d40ab3dc7c4650@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART:20260131T120000
+DTEND:20260131T120000
+SUMMARY:岐阜県／令和7年度岐阜県高等学校サッカー新人大会
+LOCATION:大工
+DESCRIPTION:対戦：岐阜 vs 大垣商\nラウンド：1回戦（No.11）\n出典：岐阜県サッカー協会（組合せ・日程PDF）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-dd4746cebfd1e60d2f78@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART:20260131T140000
+DTEND:20260131T140000
+SUMMARY:岐阜県／令和7年度岐阜県高等学校サッカー新人大会
+LOCATION:美並
+DESCRIPTION:対戦：長良 vs 大垣西\nラウンド：1回戦（No.3）\n出典：岐阜県サッカー協会（組合せ・日程PDF）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-99e90e9fd7cb03a6b845@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART:20260131T140000
+DTEND:20260131T140000
+SUMMARY:岐阜県／令和7年度岐阜県高等学校サッカー新人大会
+LOCATION:中池G
+DESCRIPTION:対戦：各務原 vs 多治見\nラウンド：1回戦（No.9）\n出典：岐阜県サッカー協会（組合せ・日程PDF）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-9098e5751c8a77f89c4a@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:三重県／三重県高校サッカー新人大会
+LOCATION:松阪市総合運動公園（三重県）
+DESCRIPTION:ラウンド：決勝\n対戦カード：公式トーナメント表参照\n出典：三重県高体連サッカー専門部（行事日程）\n出典：三重県サッカー協
+ 会（2種委員会）PDF（組合せ／トーナメント表）
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-64b791087ecba9e137c7@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260201
+SUMMARY:静岡県／令和7年度 静岡県高等学校新人大会 サッカー競技
 LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 浜松東 vs 桐陽\n結果: 1-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
+DESCRIPTION:この日は県大会の試合日（組合せPDF参照）。\n対戦カード・会場・時刻は一次資料に基づき個別試合として追加予定。\n出典：ht
+ tps://www.shizuoka-fa.com/app/uploads/2026/01/d517e13926e0d75e3adb22888d8e
+ a2ba.pdf
 END:VEVENT
-
-BEGIN:VEVENT
-
-UID:1b071e555ae0f08158db69e78a5f05ba3de69802@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 沼津中央 vs 袋井\n結果: 0-0 PK6-7\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:87907f786f2cda9b71ad7d62eeb0fcbed20eee6b@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 静岡城北 vs 吉原\n結果: 3-2\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:17b55a5b06059091151e461b3f2cbc1ca47f41dd@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 浜北西 vs 静岡学園\n結果: 0-11\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:45eb5d4fa628351880a47dfc2093093a1c68eb3e@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 焼津中央 vs 三島北\n結果: 2-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:4a08e1194476bdc55979f5a707abeaac998aec59@okaidokudaze-my-ics
-
-DTSTAMP:20260206T160000
-
-SEQUENCE:1
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-
-LOCATION:静岡北G
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 清水東 vs 浜松聖星\n結果: 8-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE\n会場出典: 清水東高校サッカー部 公式
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:a02cd86e940c54c63185445c99045abea6dc9869@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 御殿場西 vs 浜松工\n結果: 0-6\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:5f585b1debc79d31493d6bac6ec7641264704d33@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T124500
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 島田工 vs 三島南\n結果: 2-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:dc82daeb192a52bc1e2f79c2ab9d604a6119e1d2@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T143000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 富士見 vs 島田樟誠\n結果: 2-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:50580fb05ca4e57e5f10ff5c2cf953f2d08b402f@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260117T143000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 浜松湖北 vs 富士宮北\n結果: 0-5\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:76023723d385290a94a9bae639fafc9b154e19be@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260118T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 2回戦\n対戦: 磐田東 vs 沼津東\n結果: 2-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:9c90da780ea6b8b0407913576ab27c99ef6861d6@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260118T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 2回戦\n対戦: 富士東 vs 日大三島\n結果: 0-3\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:194df6a6fe95b0c33514027560d5357e5f81b0a5@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260118T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 2回戦\n対戦: 飛龍 vs 静岡北\n結果: 2-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:0715a2e2bf2ef45bb1b8e9bdf285b14d4267d82f@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260118T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 2回戦\n対戦: 浜名 vs 袋井\n結果: 2-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:594235d22014bb5411dd8f8471f998d451d35c49@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260118T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 2回戦\n対戦: 常葉橘 vs 浜松西\n結果: 5-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:29244d62a9e6b254e7697eefc4e0d76485a69950@okaidokudaze-my-ics
-
-DTSTAMP:20260206T160000
-
-SEQUENCE:1
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260118T103000
-
-LOCATION:藤枝明誠
-
-DESCRIPTION:ラウンド: 2回戦\n対戦: 清水東 vs 浜松工\n結果: 1-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE\n会場出典: 清水東高校サッカー部 公式
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:50994041808821eb73b1739d082da41a517222d0@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260118T110000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 2回戦\n対戦: 焼津中央 vs 東海大翔洋\n結果: 1-2\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:bd7120172b6607955ae6f4412594674e0c990e8e@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260118T110000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 2回戦\n対戦: 島田工 vs 藤枝東\n結果: 0-10\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:21b34093f5d53b8fa238fbc819b7be920cfeab11@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260118T124500
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 2回戦\n対戦: 沼津西 vs 清水桜が丘\n結果: 0-9\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:3997311741af97d8575f2cc0553bbaa0a1d08233@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260118T124500
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 2回戦\n対戦: 浜松東 vs 加藤学園暁秀\n結果: 1-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:67e63f079d7ef0293b67d8ab2a7703c95c4dcb1c@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260118T124500
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 2回戦\n対戦: 静岡城北 vs 静岡学園\n結果: 0-7\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:7107db4a2934d09b545e23966f1a1ab9d73643c2@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260118T124500
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 2回戦\n対戦: 浜松開誠館 vs 浜松北\n結果: 9-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:b1b6583a1cfa43cc93df3ff96a117470d9753857@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260118T124500
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 2回戦\n対戦: 富士見 vs 富士市立\n結果: 0-10\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:b57232c9486d80c40323568d4dd53aedefc75f3c@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260118T131500
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 2回戦\n対戦: 藤枝明誠 vs 富士宮北\n結果: 4-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:e5c1a8b1d594837af33fe4cc29bdefd080ed73e4@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260118T131500
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 2回戦\n対戦: オイスカ vs 島田商\n結果: 0-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:7e9265c612611fc65805fee4afdb978c62868c54@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260118T131500
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 2回戦\n対戦: 静岡商 vs 静清\n結果: 2-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:68fafc7d12fe283a581dbe4f9c66f0c46fc99166@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260124T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 3回戦\n対戦: 浜松開誠館 vs 東海大翔洋\n結果: 0-0 PK1-4\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:ca1ef56695d8f1d89ff3f15c20d086d80e3620d6@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260124T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 3回戦\n対戦: 常葉橘 vs 富士市立\n結果: 1-1 PK5-3\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:19e14e3cf97bb8643efa38e83d30aaa6660098f0@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260124T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 3回戦\n対戦: 藤枝明誠 vs 静岡商\n結果: 4-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:dfcb6a786e28440818cc13a81eb1ed8423bea85c@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260124T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 3回戦\n対戦: 清水東 vs 藤枝東\n結果: 2-2 PK5-6\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:b213275d73305e683e184613056f68f938e9108f@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260124T130000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 3回戦\n対戦: 磐田東 vs 日大三島\n結果: 2-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:adf8253b635b3e7c6890a7f8bb85c867df76d19b@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260124T130000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 3回戦\n対戦: 飛龍 vs 清水桜が丘\n結果: 0-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:6dd427262da1a09a0729a6e21abe133c469e9964@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260124T130000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 3回戦\n対戦: 島田商 vs 浜松東\n結果: 0-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:5778794fec850561f88ba42591f1afe026b1775e@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260124T130000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 3回戦\n対戦: 浜名 vs 静岡学園\n結果: 0-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:95c40adfcf890e776001ee40e834bcda792ef611@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260125T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 準々決勝\n対戦: 東海大翔洋 vs 常葉橘\n結果: 1-1 PK5-6\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:f0e26a6560dfecc320a472d9edf2d5982fddb723@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260125T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 準々決勝\n対戦: 藤枝明誠 vs 藤枝東\n結果: 0-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:5c4859bbc87998d2900e7770294e750ade9f9962@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260125T130000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 準々決勝\n対戦: 磐田東 vs 清水桜が丘\n結果: 3-0\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:8b9dc765362f848710c50b753e83c8d29be357ca@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260125T130000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 準々決勝\n対戦: 浜松東 vs 静岡学園\n結果: 0-8\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:3bf83cb085210e9913c576a6790482ff7276de4c@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260131T103000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 準決勝\n対戦: 常葉橘 vs 藤枝東\n結果: 0-3\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:0eedfb9a9a6fb34b724abad33cb00d4dfefd9c59@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260131T130000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 準決勝\n対戦: 磐田東 vs 静岡学園\n結果: 0-1\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:a9db88b779dc6f9706d9bbabdc9d801bcaeeef6d@okaidokudaze-my-ics
-
-DTSTAMP:20260206T153213
-
-SEQUENCE:0
-
-SUMMARY:静岡県／令和7年度静岡新人戦（新人選手権大会）
-
-DTSTART;TZID=Asia/Tokyo:20260201T130000
-
-LOCATION:会場不明（静岡県）
-
-DESCRIPTION:ラウンド: 決勝\n対戦: 藤枝東 vs 静岡学園\n結果: 0-3\n出典: https://koko-soccer.com/score/4271\n備考: 会場情報は一次資料で確定できたもののみLOCATIONに反映（本件は会場確定情報なし）。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:fef2bfe08902556c0bccdf45a167383e1eacd5b5@okaidokudaze-my-ics
-
-DTSTAMP:20260206T064211
-
-SEQUENCE:0
-
-SUMMARY:福井県／第104回全国高校サッカー選手権大会
-
-DTSTART:20251229T141000
-
-LOCATION:NACK5スタジアム大宮
-
-DESCRIPTION:ラウンド: 1回戦\n対戦: 福井商 vs 高川学園\n結果: 0-3\n出典: JFA「第104回全国高校サッカー選手権大会」トーナメントPDF（日程・会場・結果）\n備考: 大阪会場ではないため全国版（大阪除外）に掲載。
-
-STATUS:CONFIRMED
-
-TRANSP:OPAQUE
-
-END:VEVENT
-
 END:VCALENDAR
 
