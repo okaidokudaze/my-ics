@@ -6,6 +6,78 @@ METHOD:PUBLISH
 X-WR-CALNAME:学校サッカー（tokai_hokuriku・高校男子）
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-c172bd760acdb09b5633@my-ics
+DTSTAMP:20260218T041421Z
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260104
+SUMMARY:静岡県／ニューバランスカップin時之栖2026（裏
+ 選手権）
+LOCATION:時之栖スポーツセンター（静岡県）
+DESCRIPTION:大会: ニューバランスカップin時之栖2026（裏
+ 選手権）\n期間: 2026/1/3〜2026/1/6\n会場: 時之栖スポーツ
+センター（静岡県）\n出典: 高校サッカードットコム（
+ 日程・結果）\n参照: https://koko-soccer.com/score/4282\n※こ
+の4日分の試合カード（各試合の開始時刻・対戦・結果
+ ）は、上記ページに掲載。
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-60a62c8e8ccf6733eaec@my-ics
+DTSTAMP:20260218T041421Z
+DTSTART;VALUE=DATE:20260104
+DTEND;VALUE=DATE:20260105
+SUMMARY:静岡県／ニューバランスカップin時之栖2026（裏
+ 選手権）
+LOCATION:時之栖スポーツセンター（静岡県）
+DESCRIPTION:大会: ニューバランスカップin時之栖2026（裏
+ 選手権）\n期間: 2026/1/3〜2026/1/6\n会場: 時之栖スポーツ
+センター（静岡県）\n出典: 高校サッカードットコム（
+ 日程・結果）\n参照: https://koko-soccer.com/score/4282\n※こ
+の4日分の試合カード（各試合の開始時刻・対戦・結果
+ ）は、上記ページに掲載。
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-f07a9371ccc1c31f72eb@my-ics
+DTSTAMP:20260218T041421Z
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
+SUMMARY:静岡県／ニューバランスカップin時之栖2026（裏
+ 選手権）
+LOCATION:時之栖スポーツセンター（静岡県）
+DESCRIPTION:大会: ニューバランスカップin時之栖2026（裏
+ 選手権）\n期間: 2026/1/3〜2026/1/6\n会場: 時之栖スポーツ
+センター（静岡県）\n出典: 高校サッカードットコム（
+ 日程・結果）\n参照: https://koko-soccer.com/score/4282\n※こ
+の4日分の試合カード（各試合の開始時刻・対戦・結果
+ ）は、上記ページに掲載。
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_tokai_hokuriku_hs_boys-58d13aafdf90d3431123@my-ics
+DTSTAMP:20260218T041421Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:静岡県／ニューバランスカップin時之栖2026（裏
+ 選手権）
+LOCATION:時之栖スポーツセンター（静岡県）
+DESCRIPTION:大会: ニューバランスカップin時之栖2026（裏
+ 選手権）\n期間: 2026/1/3〜2026/1/6\n会場: 時之栖スポーツ
+センター（静岡県）\n出典: 高校サッカードットコム（
+ 日程・結果）\n参照: https://koko-soccer.com/score/4282\n※こ
+の4日分の試合カード（各試合の開始時刻・対戦・結果
+ ）は、上記ページに掲載。
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:soccer_tokai_hokuriku_hs_boys-bf6be7767f5c10e1cba2@my-ics
 DTSTAMP:20260216T083249Z
 SEQUENCE:0
@@ -509,4 +581,3 @@ DESCRIPTION:この日は県大会の試合日（組合せPDF参照）。\n対戦
  a2ba.pdf
 END:VEVENT
 END:VCALENDAR
-
