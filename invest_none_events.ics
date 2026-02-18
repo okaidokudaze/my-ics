@@ -1,199 +1,352 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//masashi//ics github overwrite//JP
+PRODID:-//okaidokudaze//my-ics//JP
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:〖投資〗重要イベント
+X-WR-CALNAME:投資 重要イベント
 X-WR-TIMEZONE:Asia/Tokyo
-X-WR-CALDESC:投資の重要イベント（SUMMARYタグ無し）。PF決算・権利は確定情報のみ追加（目安はDESCRIPTION明記）。
 BEGIN:VEVENT
-UID:invest-none-events-20260204-ecb-1-sonnemannstrasse-20-60314-frankfurt-am-main-germany-e43e4afabb@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20260204
-DTEND;VALUE=DATE:20260205
-SUMMARY:ECB金融政策会合（1日目）
-LOCATION:Sonnemannstrasse 20\, 60314 Frankfurt am Main\, Germany
-DESCRIPTION:出典: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n地図: https://www.google.com/maps/search/?api=1&query=Sonnemannstrasse%2020%2C%2060314%20Frankfurt%20am%20Main%2C%20Germany
+UID:invest_none_events-20260202-6971@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;TZID=Asia/Tokyo:20260202T153000
+DTEND;TZID=Asia/Tokyo:20260202T160000
+SUMMARY:京セラ(6971) 決算発表
+DESCRIPTION:出典: IRBANK 決算発表履歴
 END:VEVENT
 BEGIN:VEVENT
-UID:invest-none-events-20260205-ecb-2-sonnemannstrasse-20-60314-frankfurt-am-main-germany-f6317fc10b@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20260205
-DTEND;VALUE=DATE:20260206
-SUMMARY:ECB金融政策会合（2日目）
-LOCATION:Sonnemannstrasse 20\, 60314 Frankfurt am Main\, Germany
-DESCRIPTION:出典: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n地図: https://www.google.com/maps/search/?api=1&query=Sonnemannstrasse%2020%2C%2060314%20Frankfurt%20am%20Main%2C%20Germany
+UID:invest_none_events-20260204-7011@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;TZID=Asia/Tokyo:20260204T133000
+DTEND;TZID=Asia/Tokyo:20260204T140000
+SUMMARY:三菱重工(7011) 決算発表
+DESCRIPTION:出典: IRBANK 決算発表履歴
 END:VEVENT
 BEGIN:VEVENT
-UID:invest-none-events-20260205-ecb-sonnemannstrasse-20-60314-frankfurt-am-main-germany-30691cb0e1@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20260205
-DTEND;VALUE=DATE:20260206
-SUMMARY:ECB記者会見
-LOCATION:Sonnemannstrasse 20\, 60314 Frankfurt am Main\, Germany
-DESCRIPTION:出典: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n地図: https://www.google.com/maps/search/?api=1&query=Sonnemannstrasse%2020%2C%2060314%20Frankfurt%20am%20Main%2C%20Germany
+UID:invest_none_events-20260205-8058@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;TZID=Asia/Tokyo:20260205T140000
+DTEND;TZID=Asia/Tokyo:20260205T143000
+SUMMARY:三菱商事(8058) 決算発表
+DESCRIPTION:出典: IRBANK 決算発表履歴
 END:VEVENT
 BEGIN:VEVENT
-UID:invest-none-events-20260318-ecb-1-sonnemannstrasse-20-60314-frankfurt-am-main-germany-8dc2e26f86@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20260318
-DTEND;VALUE=DATE:20260319
-SUMMARY:ECB金融政策会合（1日目）
-LOCATION:Sonnemannstrasse 20\, 60314 Frankfurt am Main\, Germany
-DESCRIPTION:出典: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n地図: https://www.google.com/maps/search/?api=1&query=Sonnemannstrasse%2020%2C%2060314%20Frankfurt%20am%20Main%2C%20Germany
+UID:invest_none_events-20260205-4452@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;TZID=Asia/Tokyo:20260205T153000
+DTEND;TZID=Asia/Tokyo:20260205T160000
+SUMMARY:花王(4452) 決算発表
+DESCRIPTION:出典: IRBANK 決算発表履歴
 END:VEVENT
 BEGIN:VEVENT
-UID:invest-none-events-20260319-ecb-2-sonnemannstrasse-20-60314-frankfurt-am-main-germany-e77a651499@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-SUMMARY:ECB金融政策会合（2日目）
-LOCATION:Sonnemannstrasse 20\, 60314 Frankfurt am Main\, Germany
-DESCRIPTION:出典: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n地図: https://www.google.com/maps/search/?api=1&query=Sonnemannstrasse%2020%2C%2060314%20Frankfurt%20am%20Main%2C%20Germany
+UID:invest_none_events-20260205-3002@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;TZID=Asia/Tokyo:20260205T153000
+DTEND;TZID=Asia/Tokyo:20260205T160000
+SUMMARY:グンゼ(3002) 決算発表
+DESCRIPTION:出典: IRBANK 決算発表履歴
 END:VEVENT
 BEGIN:VEVENT
-UID:invest-none-events-20260319-ecb-sonnemannstrasse-20-60314-frankfurt-am-main-germany-234ddcdf6e@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-SUMMARY:ECB記者会見
-LOCATION:Sonnemannstrasse 20\, 60314 Frankfurt am Main\, Germany
-DESCRIPTION:出典: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n地図: https://www.google.com/maps/search/?api=1&query=Sonnemannstrasse%2020%2C%2060314%20Frankfurt%20am%20Main%2C%20Germany
+UID:invest_none_events-20260205-4183@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;TZID=Asia/Tokyo:20260205T130000
+DTEND;TZID=Asia/Tokyo:20260205T133000
+SUMMARY:三井化学(4183) 決算発表
+DESCRIPTION:出典: IRBANK 決算発表履歴
 END:VEVENT
 BEGIN:VEVENT
-UID:invest-none-events-20260318-1-103-0021-2-1-1-b31f187fe5@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20260318
-DTEND;VALUE=DATE:20260319
-SUMMARY:日銀金融政策決定会合（1日目）
-LOCATION:〒103-0021 東京都中央区日本橋本石町2-1-1（日本銀行本店）
-DESCRIPTION:出典: https://www.boj.or.jp/mopo/mpmsche_minu/index.htm\n地図: https://www.google.com/maps/search/?api=1&query=日本銀行%20本店%20東京都中央区日本橋本石町2-1-1
+UID:invest_none_events-20260206-8801@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;TZID=Asia/Tokyo:20260206T153000
+DTEND;TZID=Asia/Tokyo:20260206T160000
+SUMMARY:三井不動産(8801) 決算発表
+DESCRIPTION:出典: IRBANK 会社業績
 END:VEVENT
 BEGIN:VEVENT
-UID:invest-none-events-20260319-2-103-0021-2-1-1-64717214d8@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-SUMMARY:日銀金融政策決定会合（2日目）
-LOCATION:〒103-0021 東京都中央区日本橋本石町2-1-1（日本銀行本店）
-DESCRIPTION:出典: https://www.boj.or.jp/mopo/mpmsche_minu/index.htm\n地図: https://www.google.com/maps/search/?api=1&query=日本銀行%20本店%20東京都中央区日本橋本石町2-1-1
+UID:invest_none_events-20260209-4023@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;TZID=Asia/Tokyo:20260209T153000
+DTEND;TZID=Asia/Tokyo:20260209T160000
+SUMMARY:クレハ(4023) 決算発表
+DESCRIPTION:出典: IRBANK 決算発表履歴
 END:VEVENT
 BEGIN:VEVENT
-UID:invest-none-events-20260317-fomc-1-20th-street-and-constitution-avenue-n-w-washington-dc-20551-usa-f72cd38905@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20260317
-DTEND;VALUE=DATE:20260318
-SUMMARY:FOMC（1日目）
-LOCATION:20th Street and Constitution Avenue N.W.\, Washington\, DC 20551\, USA
-DESCRIPTION:出典: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n地図: https://www.google.com/maps/search/?api=1&query=20th%20Street%20and%20Constitution%20Avenue%20NW%2C%20Washington%2C%20DC%2020551
+UID:invest_none_events-20260212-JT2914@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;TZID=Asia/Tokyo:20260212T153000
+DTEND;TZID=Asia/Tokyo:20260212T160000
+SUMMARY:JT(2914) 決算発表
+DESCRIPTION:出典: IRBANK 決算発表履歴
 END:VEVENT
 BEGIN:VEVENT
-UID:invest-none-events-20260318-fomc-2-20th-street-and-constitution-avenue-n-w-washington-dc-20551-usa-3b021754a8@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20260318
-DTEND;VALUE=DATE:20260319
-SUMMARY:FOMC（2日目）
-LOCATION:20th Street and Constitution Avenue N.W.\, Washington\, DC 20551\, USA
-DESCRIPTION:出典: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n地図: https://www.google.com/maps/search/?api=1&query=20th%20Street%20and%20Constitution%20Avenue%20NW%2C%20Washington%2C%20DC%2020551
+UID:invest_none_events-20260212-5161@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;TZID=Asia/Tokyo:20260212T160000
+DTEND;TZID=Asia/Tokyo:20260212T163000
+SUMMARY:西川ゴム(5161) 決算発表
+DESCRIPTION:出典: IRBANK 決算発表履歴
 END:VEVENT
 BEGIN:VEVENT
-UID:invest-none-events-20260213-sq-75559783bd@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20260213
-DTEND;VALUE=DATE:20260214
-SUMMARY:SQ（特別清算指数）
-DESCRIPTION:出典: https://support.matsui.co.jp/faq/show/737?site_domain=faq
+UID:invest_none_events-20260213-FG8729@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;TZID=Asia/Tokyo:20260213T113000
+DTEND;TZID=Asia/Tokyo:20260213T120000
+SUMMARY:ソニーFG(8729) 決算発表
+DESCRIPTION:出典: 株探 決算記事
 END:VEVENT
 BEGIN:VEVENT
-UID:invest-none-events-20260313-sq-a91bbb4d49@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260314
-SUMMARY:SQ（特別清算指数）
-DESCRIPTION:出典: https://support.matsui.co.jp/faq/show/737?site_domain=faq
+UID:invest_none_events-20260213-HC8593@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;TZID=Asia/Tokyo:20260213T153000
+DTEND;TZID=Asia/Tokyo:20260213T160000
+SUMMARY:三菱HCキャピタル(8593) 決算発表
+DESCRIPTION:出典: IRBANK 決算発表履歴
 END:VEVENT
 BEGIN:VEVENT
-UID:invest-none-events-20260202-earn-6971-pf@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20260202
-DTEND;VALUE=DATE:20260203
-SUMMARY:京セラ 決算発表
-DESCRIPTION:出典: https://kabuyoho.jp/sp/report?bcode=6971 / https://www.kyocera.co.jp/ir/calendar/
+UID:invest_none_events-20260130-HD9042@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;TZID=Asia/Tokyo:20260130T153000
+DTEND;TZID=Asia/Tokyo:20260130T160000
+SUMMARY:阪急阪神HD(9042) 決算発表
+DESCRIPTION:出典: IRBANK 決算発表履歴
 END:VEVENT
 BEGIN:VEVENT
-UID:invest-none-events-20260204-earn-7011-pf@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20260204
-DTEND;VALUE=DATE:20260205
-SUMMARY:三菱重工 決算発表
-DESCRIPTION:出典: https://kabuyoho.jp/sp/report?bcode=7011
+UID:invest_none_events-20260129-9044@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;TZID=Asia/Tokyo:20260129T140000
+DTEND;TZID=Asia/Tokyo:20260129T143000
+SUMMARY:南海電鉄(9044) 決算発表
+DESCRIPTION:出典: IRBANK 決算発表履歴
 END:VEVENT
 BEGIN:VEVENT
-UID:invest-none-events-20260205-earn-4183-pf@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20260205
-DTEND;VALUE=DATE:20260206
-SUMMARY:三井化学 決算発表
-DESCRIPTION:出典: https://kabuyoho.jp/sp/report?bcode=4183
+UID:invest_none_events-20260130-4205@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;TZID=Asia/Tokyo:20260130T153000
+DTEND;TZID=Asia/Tokyo:20260130T160000
+SUMMARY:日本ゼオン(4205) 決算発表
+DESCRIPTION:出典: IRBANK 決算発表履歴
 END:VEVENT
 BEGIN:VEVENT
-UID:invest-none-events-20260205-earn-8058-pf@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20260205
-DTEND;VALUE=DATE:20260206
-SUMMARY:三菱商事 決算発表
-DESCRIPTION:出典: https://kabuyoho.jp/sp/report?bcode=8058 / https://www.mitsubishicorp.com/jp/ja/ir/event/
+UID:invest_none_events-20260129-G8697@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;TZID=Asia/Tokyo:20260129T120000
+DTEND;TZID=Asia/Tokyo:20260129T123000
+SUMMARY:日本取引所G(8697) 決算発表
+DESCRIPTION:出典: IRBANK 決算発表履歴
 END:VEVENT
 BEGIN:VEVENT
-UID:invest-none-events-20260212-earn-2914-pf@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20260212
-DTEND;VALUE=DATE:20260213
-SUMMARY:JT 決算発表
-DESCRIPTION:出典: https://kabuyoho.jp/sp/report?bcode=2914
+UID:invest_none_events-20260213-7272@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;TZID=Asia/Tokyo:20260213T130000
+DTEND;TZID=Asia/Tokyo:20260213T133000
+SUMMARY:ヤマハ発(7272) 決算発表
+DESCRIPTION:出典: IRBANK 決算発表履歴
 END:VEVENT
 BEGIN:VEVENT
-UID:invest-none-events-20260213-earn-8593-pf@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20260213
-DTEND;VALUE=DATE:20260214
-SUMMARY:三菱HCキャピタル 決算発表
-DESCRIPTION:出典: https://www.mitsubishi-hc-capital.com/investors/calendar/index.html
+UID:invest_none_events-20251210-2695@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;TZID=Asia/Tokyo:20251210T153000
+DTEND;TZID=Asia/Tokyo:20251210T160000
+SUMMARY:くら寿司(2695) 決算発表
+DESCRIPTION:出典: IRBANK IR情報（直近）
 END:VEVENT
 BEGIN:VEVENT
-UID:invest-none-events-20260213-earn-8729-pf@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20260213
-DTEND;VALUE=DATE:20260214
-SUMMARY:ソニーFG 決算発表
-DESCRIPTION:出典: https://kabutan.jp/news/?b=k202602130023 / https://kabuyoho.jp/sp/consNewsDetail?bcode=8729
+UID:invest_none_events-20260330-51613@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:5161 権利落ち日（3月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
 END:VEVENT
 BEGIN:VEVENT
-UID:invest-none-events-20260327-exrights-mar-end-estimate@ics
-DTSTAMP:20260218T020553Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20260327
-DTEND;VALUE=DATE:20260328
-SUMMARY:権利落ち日（3月末権利確定銘柄向け・目安）
-DESCRIPTION:目安: 3月末（3/31）権利確定銘柄向けの権利落ち日。休場日・銘柄個別条件は未反映。\n参考: 一般に権利付最終日=権利落ち日の前営業日。
+UID:invest_none_events-20260330-80583@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:8058 権利落ち日（3月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
+END:VEVENT
+BEGIN:VEVENT
+UID:invest_none_events-20260330-40233@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:4023 権利落ち日（3月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
+END:VEVENT
+BEGIN:VEVENT
+UID:invest_none_events-20260330-41833@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:4183 権利落ち日（3月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
+END:VEVENT
+BEGIN:VEVENT
+UID:invest_none_events-20260330-70113@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:7011 権利落ち日（3月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
+END:VEVENT
+BEGIN:VEVENT
+UID:invest_none_events-20260330-30023@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:3002 権利落ち日（3月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
+END:VEVENT
+BEGIN:VEVENT
+UID:invest_none_events-20260330-90423@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:9042 権利落ち日（3月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
+END:VEVENT
+BEGIN:VEVENT
+UID:invest_none_events-20260330-69713@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:6971 権利落ち日（3月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
+END:VEVENT
+BEGIN:VEVENT
+UID:invest_none_events-20260330-42053@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:4205 権利落ち日（3月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
+END:VEVENT
+BEGIN:VEVENT
+UID:invest_none_events-20260330-85933@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:8593 権利落ち日（3月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
+END:VEVENT
+BEGIN:VEVENT
+UID:invest_none_events-20260330-88013@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:8801 権利落ち日（3月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
+END:VEVENT
+BEGIN:VEVENT
+UID:invest_none_events-20260330-90443@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:9044 権利落ち日（3月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
+END:VEVENT
+BEGIN:VEVENT
+UID:invest_none_events-20260330-86973@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:8697 権利落ち日（3月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
+END:VEVENT
+BEGIN:VEVENT
+UID:invest_none_events-20260330-91013@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:9101 権利落ち日（3月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
+END:VEVENT
+BEGIN:VEVENT
+UID:invest_none_events-20260330-87293@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:8729 権利落ち日（3月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
+END:VEVENT
+BEGIN:VEVENT
+UID:invest_none_events-20260828-74538@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:7453 権利落ち日（8月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
+END:VEVENT
+BEGIN:VEVENT
+UID:invest_none_events-20261029-269510@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:2695 権利落ち日（10月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
+END:VEVENT
+BEGIN:VEVENT
+UID:invest_none_events-20261229-291412@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:2914 権利落ち日（12月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
+END:VEVENT
+BEGIN:VEVENT
+UID:invest_none_events-20261229-727212@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:7272 権利落ち日（12月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
+END:VEVENT
+BEGIN:VEVENT
+UID:invest_none_events-20261229-445212@okaidokudaze
+DTSTAMP:20260218T023343Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:4452 権利落ち日（12月）
+DESCRIPTION:月末権利確定の一般日程（休場日未反映の可能
+ 性あり）。銘柄の権利確定日が月末以外の場合はずれ
+ ます。出典: マネックス証券/権利日カレンダー
 END:VEVENT
 END:VCALENDAR
