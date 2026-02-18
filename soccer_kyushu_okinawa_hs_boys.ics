@@ -1,10 +1,3274 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//okaidokudaze//school-soccer//JA
+PRODID:-//masashi//school-soccer-ics//JP
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:学校サッカー（kyushu_okinawa・高校男子）
+X-WR-CALNAME:【九州沖縄】男子高校サッカー
 X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:5ab2bf0c1c8e05511f3baff1d66f729f7b82b31c@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：水俣 vs 人吉\n結果：2-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:5df3cb9d28738b94786fe259d9598f85ec78d801@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：第二 vs 芦北\n結果：5-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:81d9e97a271a3e9b125909e8fc7ff84b372f50e0@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：高専八代 vs 鎮西\n結果：0-4\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:87a9351d0408a2214222f4978a7dced5cc4ad477@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：熊本農 vs 天草工\n結果：6-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:b45d4f0f4eb395ea5ba4d2715aee7000c6a429e5@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：高専熊本 vs 玉名工\n結果：3-4\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:bd9b0271c1f4581f79ae8260465042a0ce355aea@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：第一 vs 八代\n結果：1-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:c08f5ce37ae03e9dbd455985741e8a73a255a554@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：球磨工 vs 天草拓心\n結果：30-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:c23708b5f715fe4f440412aa64011ff3936ddeb3@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：阿蘇中央 vs 東稜\n結果：0-10\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:c32bdbd528f6d0057faa9a2363e1cde78b4eed4c@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：御船 vs 翔陽\n結果：0-14\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:c750624cd6f273f2f024ed9e4d7bab3639cda2fc@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：天草 vs 有明\n結果：0-5\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:3abc7dd84cb53bb0f8b253ac34954030fff8a776@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：学園大付 vs 真和\n結果：13-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:5a025e8f2d8006eb0c0d90033f99cc6899b7532b@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：玉名 vs 開新\n結果：1-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:b0e8d9855d02a4d132cc905018cb8c18e115b5f8@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：熊本 vs 矢部\n結果：4-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:dbeacf590e3ea5fa55500d8d068b57a81c547882@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：九州学院 vs 熊本工\n結果：0-5\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:e402ee63a60c861425338e71d2b4c4c2e59170af@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：済々黌 vs 小川工\n結果：1-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:e75eb0f6dcdbdf5baefae24b610c002d6e86cbcd@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：鹿本商工 vs 熊本北\n結果：0-15\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:fa850748c6f73a3a09885a8a2bfc768dc18446cc@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：1回戦\n対戦：千原台 vs 必由館\n結果：0-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:82e960110ff7fee198cecfb2b796149abe23279a@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260111T110000
+DTEND;TZID=Asia/Tokyo:20260111T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：直方 vs 九産大九産\n回戦：1回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：0-2\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:a579686af73eb695bd5b38a7a8691495493e0a78@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260111T110000
+DTEND;TZID=Asia/Tokyo:20260111T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：八幡 vs 糸島\n回戦：1回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：0-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:a6e06ba9f8a0ec7682fb8ff4c1831408084a4034@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260111T110000
+DTEND;TZID=Asia/Tokyo:20260111T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：春日 vs 八女工\n回戦：1回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：0-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ca642a18cc252fca976f6c581e611320962a33f5@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260111T110000
+DTEND;TZID=Asia/Tokyo:20260111T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：久留米 vs 北筑\n回戦：1回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：0-0 PK2-4\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:bd1af30cceacc41de6b43277c046c24e4ac186d2@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260111T130000
+DTEND;TZID=Asia/Tokyo:20260111T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：福岡常葉 vs 北九州\n回戦：1回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：0-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:cd9f7bf1f4d02545dd8418dee474e35672c4c9c7@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260111T130000
+DTEND;TZID=Asia/Tokyo:20260111T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：福岡工大城東 vs 有明高専\n回戦：1回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：2-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:e7969a52b535bdf72f4373c53133b9febfc10c88@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260111T130000
+DTEND;TZID=Asia/Tokyo:20260111T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：久留米高専 vs 豊国学園\n回戦：1回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:f77d12b3035467ce31ce094eb8277b71c59bf9c9@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260111T130000
+DTEND;TZID=Asia/Tokyo:20260111T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：筑前 vs 小倉\n回戦：1回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：4-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:670918f1c7c3714401f1470de2516c722258d437@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;TZID=Asia/Tokyo:20260114T110000
+DTEND;TZID=Asia/Tokyo:20260114T130000
+SUMMARY:福岡県／筑紫
+LOCATION:福岡フットボールセンター B
+DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
+END:VEVENT
+BEGIN:VEVENT
+UID:aac0ea47c0ffc1ea91d00232af9a652ee2e3ef3c@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;TZID=Asia/Tokyo:20260114T110000
+DTEND;TZID=Asia/Tokyo:20260114T130000
+SUMMARY:福岡県／福大大濠
+LOCATION:福岡フットボールセンター A
+DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
+END:VEVENT
+BEGIN:VEVENT
+UID:754a7360195f16f817458d4c9cc315397fcb0f1f@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;TZID=Asia/Tokyo:20260114T130000
+DTEND;TZID=Asia/Tokyo:20260114T150000
+SUMMARY:福岡県／福岡常葉
+LOCATION:福岡フットボールセンター A
+DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
+END:VEVENT
+BEGIN:VEVENT
+UID:a53b6161b5ca82b982d5ee2111a5dce0dd2c11f2@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;TZID=Asia/Tokyo:20260114T130000
+DTEND;TZID=Asia/Tokyo:20260114T150000
+SUMMARY:福岡県／東海大福岡
+LOCATION:福岡フットボールセンター B
+DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
+END:VEVENT
+BEGIN:VEVENT
+UID:4e6fc1cf97445d189b9715895fe3eba2b6364e17@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;TZID=Asia/Tokyo:20260115T110000
+DTEND;TZID=Asia/Tokyo:20260115T130000
+SUMMARY:福岡県／福岡大若葉
+LOCATION:福岡フットボールセンター B
+DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
+END:VEVENT
+BEGIN:VEVENT
+UID:a08dba918314331736eb92567ff15fae9bef0133@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;TZID=Asia/Tokyo:20260115T110000
+DTEND;TZID=Asia/Tokyo:20260115T130000
+SUMMARY:福岡県／小倉
+LOCATION:福岡フットボールセンター A
+DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
+END:VEVENT
+BEGIN:VEVENT
+UID:b17ef27da6399acca5eb9ddd437c4c28c45c13b7@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;TZID=Asia/Tokyo:20260115T130000
+DTEND;TZID=Asia/Tokyo:20260115T150000
+SUMMARY:福岡県／筑紫台
+LOCATION:福岡フットボールセンター A
+DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
+END:VEVENT
+BEGIN:VEVENT
+UID:e7d7d4e2fdc07e31753d1323c10efc39cdfe089d@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;TZID=Asia/Tokyo:20260115T130000
+DTEND;TZID=Asia/Tokyo:20260115T150000
+SUMMARY:福岡県／東福岡
+LOCATION:福岡フットボールセンター B
+DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）4回戦
+END:VEVENT
+BEGIN:VEVENT
+UID:0190de58e9139b5914d2379745e2e33ca27b5d95@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：済々黌 vs 東稜\n結果：4-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:29edc654127ca6c2044e19402220b4a24e2d7c23@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：鹿本 vs 鎮西\n結果：3-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:48d561562d0aacaa0e12782c1e910c29f8ce186b@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：学付 vs 第一\n結果：2-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:4f67b7a3545d8362ca2b8f5a3865dd06315faf1c@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：大津 vs 八代工\n結果：10-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:6f42db72082afce6b0535a7b4b327781d6d65701@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：国府 vs マリスト\n結果：10-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:7a321b39fcff7ac97709b549d48ba4c31d9b383d@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：熊本北 vs 第二\n結果：0-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:7deab3b8e94d26a19ff5084378916bae976b2368@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：ルーテル vs 文徳\n結果：6-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:7f25b9a60c346afb0bcbf844332eb4d78cc3774f@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：熊本工 vs 水俣\n結果：2-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:7fd7267dda8399d17a5c4e42453950bfd5be255b@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：熊本 vs 有明\n結果：4-3\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:8b0076dddbeb7579a1620dbbf1614327630e8fcc@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：翔陽 vs 玉名\n結果：3-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:8de133a14e403b57c4712b5728e5c0cc9470854d@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：東海星翔 vs 宇土\n結果：27-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:a858feed6e564edca5ffaec3c4da49c041086bde@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：秀岳館 vs 菊池\n結果：6-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:a8f382d3e30df42187c0f2262c5bcc753cc223a4@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：慶誠 vs 城北\n結果：5-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:b8c90ca076ac5eef5ccd93c5d26ef62ceafa6051@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：熊本農 vs 球磨工\n結果：1-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:c6f4be866afa7f79e73a14638c2b34003f1fb089@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：玉名工 vs 必由館\n結果：0-2\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:d8fe1da8562ea94d004e4c5941947f67144a185b@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：2回戦\n対戦：熊本商 vs 南稜\n結果：21-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:0e7a7647a9570f0a8c29617ddfe8334f45108c25@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分舞鶴 vs 大分東明\n回戦：1回戦\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：0-2\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:40df3ba2c73504db88c4b5654dcc79bb068faaaf@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：県北3校合同 vs 五島3校合同\n回戦：1回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：4-1\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:4704a8f4c0aef13289a9753fa6d4f24be66780d9@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分豊府 vs 別府鶴見丘\n回戦：1回戦\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：4-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:52b7273fb04cb48d0bd29bb76b4b8cfcd12dc4cc@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：島原 vs 瓊浦\n回戦：1回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：1-0\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:5dd4ca86873514ef1dc66feac3fbc1e2cb81d2de@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：国見 vs 海星\n回戦：1回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：2-0\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:77b8554093f74875963f1a1d146f1dbb372abeba@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：情報科学 vs 岩田\n回戦：1回戦\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：3-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:e3a58897dc43bea1f939ec9d8dcd3aed70fb4f86@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260117T100000
+DTEND;TZID=Asia/Tokyo:20260117T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：西陵 vs 佐世保北\n回戦：1回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：2-0\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:588a5568201376343c8234a81e7c1e5006c2fbc2@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：久留米高専 vs 九州国際大付\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：0-3\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:74a3326c553b333f33bb0b2d37c7889583351e4b@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：八女工 vs 福岡大大濠\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：0-2\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:8b0259d8c41454c8d0ae77cc48bac54041b74880@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：福大若葉 vs 筑前\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：3-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ea54f19f2746ee0b84383cb19aec68bc6a1fc867@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：小倉東 vs 久留米筑水\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：1-2\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:f564f3f7265900728c8556a453b9022160f312c7@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260117T110000
+DTEND;TZID=Asia/Tokyo:20260117T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：東福岡 vs 糸島\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：2-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:1740259037cb23c04c9177e894684b2ef9271dbd@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260117T113000
+DTEND;TZID=Asia/Tokyo:20260117T133000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：中津南 vs 日出総合\n回戦：1回戦\n都道府県：大分県\n時刻：11:30\n会場：会場不明（大分県）\n結果：9-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:65085a87aa31d64d459387e1c0fc8d6ba980bbd0@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260117T113000
+DTEND;TZID=Asia/Tokyo:20260117T133000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：臼杵 vs 日田\n回戦：1回戦\n都道府県：大分県\n時刻：11:30\n会場：会場不明（大分県）\n結果：6-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:79843605157678462eeff69f690078815a3b409a@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260117T113000
+DTEND;TZID=Asia/Tokyo:20260117T133000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：藤蔭 vs 玖珠美山\n回戦：1回戦\n都道府県：大分県\n時刻：11:30\n会場：会場不明（大分県）\n結果：0-3\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:32d89a5c16e500bf825a18610705a2058e18cc64@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：長崎南 vs 佐世保実\n回戦：1回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：1-2\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:9c844542ed2100e2f9b91cb9c905b75e0226eb7b@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：鎮西学院 vs 長崎工\n回戦：1回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：0-1\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:eef1de3a75553148508266c10f15cf34e5cec860@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：大村 vs 鹿町工\n回戦：1回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：11-0\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:f1130eec7bc6b0c16c97900e3011add50677feaa@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260117T120000
+DTEND;TZID=Asia/Tokyo:20260117T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：島原中央 vs 長崎西\n回戦：1回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：2-2(PK2-3)\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:c2c170e54a04300fb12071925ff40790c8dce1c4@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：宗像 vs 福智\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：0-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:d7762c736d102f532a26f041fdb331b8f50fdf76@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：小郡 vs 小倉工\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：1-3\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:dc4be8b8c2f173002e7ddc01d9e54429668ad493@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：宇佐 vs 日田林工\n回戦：1回戦\n都道府県：大分県\n時刻：13:00\n会場：会場不明（大分県）\n結果：1-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:e8b65bd471ca79d44702980656b35df2898367c3@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分雄城台 vs 中津北・国東\n回戦：1回戦\n都道府県：大分県\n時刻：13:00\n会場：会場不明（大分県）\n結果：2-1\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:f432f01eb4c0dd522742066d7cbd36f44272c2b4@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260117T130000
+DTEND;TZID=Asia/Tokyo:20260117T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：九産大九州 vs 星琳\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：3-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:04d2b93266d4b7d5739de0498529987418771902@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：唐津商 vs 佐賀北\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：0-3\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:062555ff698534dacea28d9099a6940322422096@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀西 vs 鳥栖工\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：2-1\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:11e859101b8e405b76b7b694b5bbe9bd3b2bf708@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：3回戦\n対戦：ルーテル vs 第二\n結果：2-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:13bf0c9abfcb02675a64c0dfa08b33e82750b93c@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：小城 vs 佐賀学園\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：1-3\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:28ea184f41311b257d90ed2addc7e57503ef2eac@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：3回戦\n対戦：熊本商 vs 熊本工\n結果：8-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:31bc89ac617778fd2cd0a7b930a1b99afbac6a2f@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：3回戦\n対戦：大津 vs 翔陽\n結果：7-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:376bd297e983fc192ee2a27e9596d614f129580e@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：嬉野 vs 北陵\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：2-1\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:4436c203a4f4bbee3e014cb590fcf56c67f07f7f@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：唐津西 vs 唐津東\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：1-8\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:45179950a0bb78741aa08c578a056894fa5ba764@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：三養基 vs 武雄\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：0-3\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:4996c128fc3238a146a88f8dd010183632555c9d@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：3回戦\n対戦：済々黌 vs 国府\n結果：1-1(PK5-4)\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:547bf6d00c4c4c8620b083c302242f2681a30c56@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀農 vs 佐賀工\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：0-1\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:54e23f25c9e7d33ea4896367029d690c4aebeaea@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：敬徳 vs 唐津工\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：2-1\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:64efeb3a38189a37c8d26cc1c3d50f6f71484fab@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：3回戦\n対戦：学付 vs 鹿本\n結果：1-1(PK4-3)\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:7130eccc027c3263a5f66ce7509154444176c42c@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：有田工・白石 vs 東明館\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：1-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:8cc43b69e4873d3330695f95b9cd4fe4311c91c4@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀清和 vs 鹿島\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：12-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:958828c5be782d407527fc9fd368ff923db64f93@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：3回戦\n対戦：東海星翔 vs 熊本農\n結果：4-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:b1198b68ca480430ab670b505e180ff682635bbe@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：致遠館 vs 早稲田佐賀\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：0-0 PK5-6\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:bc150ac0b6b941b1da7844b4eae871849fd376cc@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：3回戦\n対戦：秀岳館 vs 必由館\n結果：4-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:bc754f5886cd18a8a8b96e5c14065323accd5e1a@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：伊万里 vs 多久\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：6-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:c05ef065715a6e550d7016a2d88d0de97db12436@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：3回戦\n対戦：熊本 vs 慶誠\n結果：0-7\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:d445b22f1e0921fe3ebae85595780c57cb55533f@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：鳥栖 vs 弘学館\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：1-1 PK1-4\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ffeb81b5ab745e6add59297e144f69add54b5d8d@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀商 vs 青翔・厳木\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：1回戦\n結果：15-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:236c73a2c682d56f745b91d4f868bbb57b060721@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：創成館 vs 県北3校合同\n回戦：2回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：5-1\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:36ea6f7d27543c97f6b02a31b0dd20842dabfecf@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：頴娃・種子島中央 vs 鹿児島高専\n時刻：10:00（KO）\n会場：会場不明\n結果：0-1\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:37449509eb6c850a731475cf467db35572c45013@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：日本文理大附 vs 大分工\n回戦：1回戦\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：1-3\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:390cdb58b68202db61aafaf494ceb1ba419cd5f2@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：長崎総科大附 vs 西陵\n回戦：2回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：6-0\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:3b75495e0cb64bbbe22cfc2c7a7ac116b01ae099@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：鶴丸 vs 与論･樟南第二\n時刻：10:00（KO）\n会場：会場不明\n結果：1-0\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:49591252771e406e8f18e2386c3d018449f93367@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：伊集院 vs れいめい\n時刻：10:00（KO）\n会場：会場不明\n結果：1-2\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:4dea7b71b604af158f29f05a8c961bc3c56137e3@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：国見 vs 九州文化学園\n回戦：2回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：2-1\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:5f0f33cc382840d8c068d43192ac675652a15f37@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：明桜館 vs 指宿・串木野・蒲生\n時刻：10:00（KO）\n会場：会場不明\n結果：0-0 PK5-4\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:6969249b394ce8f7c45337b90028e488752deb2e@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：鶴崎工 vs 杵築\n回戦：1回戦\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：2-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:7d1931e81f238f0ebac0063b806567fd3e0b76b1@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：鳳凰 vs 錦江湾\n時刻：10:00（KO）\n会場：会場不明\n結果：6-0\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:99f06f9e6a773a717a39cedc4787218cb6703386@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分鶴崎 vs 楊志館\n回戦：1回戦\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：10-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:abc64d27a43c3b578d2a7cbffccd74e4be361065@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：吹上 vs 曽於\n時刻：10:00（KO）\n会場：会場不明\n結果：4-0\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:b6d8e24b581ce399a89ea0cb54f221d9da01208c@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：佐世保工 vs 島原\n回戦：2回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：1-0\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:e62cd1369172223e6e332f68181b324a97dcfd3e@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T100000
+DTEND;TZID=Asia/Tokyo:20260118T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：鹿屋工 vs 池田\n時刻：10:00（KO）\n会場：会場不明\n結果：0-2\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:8fffbf77e37053c5f91fa31cd205be8acb27c6bd@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：福岡工大城東 vs 飯塚\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：0-4\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:e9cf49116fd5986d25991fd8b5f7c990b8964b50@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：筑紫台 vs 誠修\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:f3e4de7b24b6afc63d2d692a6cd447150ac3cf41@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：北筑 vs 筑陽学園\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：1-4\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ffb8ff85a751bb4015928b77248ff6bafa2e98a2@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+DTEND;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：東海大福岡 vs 北九州\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：2-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:26394f9ae1c4ba4c5f9c3b6a2d7dea855cb083f4@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260118T113000
+DTEND;TZID=Asia/Tokyo:20260118T133000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分西 vs 大分\n回戦：1回戦\n都道府県：大分県\n時刻：11:30\n会場：会場不明（大分県）\n結果：0-6\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:3a63a61a006dd4fd75c56cd68913ff380b2996b8@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260118T113000
+DTEND;TZID=Asia/Tokyo:20260118T133000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：溝部学園 vs 柳ヶ浦\n回戦：1回戦\n都道府県：大分県\n時刻：11:30\n会場：会場不明（大分県）\n結果：0-8\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:b9e7595fda6d4827a5204eb7a720da5cadc9f95e@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260118T113000
+DTEND;TZID=Asia/Tokyo:20260118T133000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分南 vs 大分上野丘\n回戦：1回戦\n都道府県：大分県\n時刻：11:30\n会場：会場不明（大分県）\n結果：1-3\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:03e9f1aca26d3cc4bcc82f3c388f76c7a968e86a@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T120000
+DTEND;TZID=Asia/Tokyo:20260118T140000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：鹿児島玉龍 vs 大口\n時刻：12:00（KO）\n会場：会場不明\n結果：2-2 PK4-5\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:25223f77664270b2419a9390da945d9b70b14f0b@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260118T120000
+DTEND;TZID=Asia/Tokyo:20260118T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：大村 vs 長崎南山\n回戦：2回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：0-0(PK5-6)\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:3e5434c1ae34b760b43ebafddd7c80c08ee756f7@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260118T120000
+DTEND;TZID=Asia/Tokyo:20260118T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：佐世保西 vs 長崎工\n回戦：2回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：3-0\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:3e708c8b03ad77c03c23032369cc029cccb3a6b8@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T120000
+DTEND;TZID=Asia/Tokyo:20260118T140000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：加世田 vs 沖永良部\n時刻：12:00（KO）\n会場：会場不明\n結果：2-0\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:51211b2b3e246ece764038e54891423812365903@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T120000
+DTEND;TZID=Asia/Tokyo:20260118T140000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：徳之島 vs 尚志館\n時刻：12:00（KO）\n会場：会場不明\n結果：0-2\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:6121dc09a9905f1aa36268737bc6040151f31abe@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260118T120000
+DTEND;TZID=Asia/Tokyo:20260118T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：長崎西 vs 長崎日大\n回戦：2回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：0-5\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:68f3300ffb531cd5ccefe8d9be2cddcd6e8a42d8@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T120000
+DTEND;TZID=Asia/Tokyo:20260118T140000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：大島 vs 国分中央\n時刻：12:00（KO）\n会場：会場不明\n結果：3-1\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:8231f99aaca9abbb48572023b9bad5392a6ea677@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T120000
+DTEND;TZID=Asia/Tokyo:20260118T140000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：加治木工 vs 甲南\n時刻：12:00（KO）\n会場：会場不明\n結果：1-2\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:8abd2f61e5df2a251cd7ca8baf3c0d15c922cdb7@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T120000
+DTEND;TZID=Asia/Tokyo:20260118T140000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：屋久島 vs 鹿児島南\n時刻：12:00（KO）\n会場：会場不明\n結果：0-8\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:96db5a5b608172ae4428b9f511f92b3bdf5b976f@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260118T120000
+DTEND;TZID=Asia/Tokyo:20260118T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：佐世保実 vs 諫早商\n回戦：2回戦\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：0-2\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:c37659b539d0fe68a7165c7cf7a6f2385f6e9a91@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T120000
+DTEND;TZID=Asia/Tokyo:20260118T140000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：ラ・サール vs 鹿屋\n時刻：12:00（KO）\n会場：会場不明\n結果：3-1\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:ee2c987b5951158832178a994d3b2096db2b10ba@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T120000
+DTEND;TZID=Asia/Tokyo:20260118T140000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：奄美 vs 指宿商\n時刻：12:00（KO）\n会場：会場不明\n結果：0-8\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:1567d927461f13cadccaba5b16054584f9a172ae@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260118T130000
+DTEND;TZID=Asia/Tokyo:20260118T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：鞍手 vs 修猷館\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：0-5\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:1d57e2bef57aa6d411834532ea756d06a7d794ed@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260118T130000
+DTEND;TZID=Asia/Tokyo:20260118T150000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：昭和学園 vs 佐伯鶴城\n回戦：1回戦\n都道府県：大分県\n時刻：13:00\n会場：会場不明（大分県）\n結果：2-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:346aa2e3ae97b662b0ae45b454094cd3c5e2a4c2@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260118T130000
+DTEND;TZID=Asia/Tokyo:20260118T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：伝習館 vs 高稜\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：0-2\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:c07a10858d9b92cee060e6822f760a580413d8e3@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260118T130000
+DTEND;TZID=Asia/Tokyo:20260118T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：福翔 vs 希望が丘\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：0-4\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:d72da70abe1058c67a22ba06a1f9df2c07c140c0@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260118T130000
+DTEND;TZID=Asia/Tokyo:20260118T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：博多 vs 九産大九産\n回戦：2回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：3-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:e7f65353d9aedcd712b18129a275778dca2a2066@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260118T130000
+DTEND;TZID=Asia/Tokyo:20260118T150000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：中津東 vs 佐伯豊南・竹田\n回戦：1回戦\n都道府県：大分県\n時刻：13:00\n会場：会場不明（大分県）\n結果：8-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:28d329b24c300163ca4f8cadde1fac9aedb34f84@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T140000
+DTEND;TZID=Asia/Tokyo:20260118T160000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：出水商 vs 加治木\n時刻：14:00（KO）\n会場：会場不明\n結果：0-1\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:4ea2430173a272469b7653f520f23ebee58e1729@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T140000
+DTEND;TZID=Asia/Tokyo:20260118T160000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：鹿児島中央 vs 国分\n時刻：14:00（KO）\n会場：会場不明\n結果：0-2\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:903aea7284df295e9eba67031c33307e433a727e@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T140000
+DTEND;TZID=Asia/Tokyo:20260118T160000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：楠隼・鹿屋農 vs 隼人工\n時刻：14:00（KO）\n会場：会場不明\n結果：0-6\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:95a146e5fd88bdd9f003743affb9f0c7c0460704@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T140000
+DTEND;TZID=Asia/Tokyo:20260118T160000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：武岡台 vs 出水工\n時刻：14:00（KO）\n会場：会場不明\n結果：7-0\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:b5c0c98a76781e08cdece8245f1507b9476137f2@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T140000
+DTEND;TZID=Asia/Tokyo:20260118T160000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：鹿児島工 vs 川内商工\n時刻：14:00（KO）\n会場：会場不明\n結果：0-1\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:ba3f048780441a2b01c27bdb07805193679e81bf@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T140000
+DTEND;TZID=Asia/Tokyo:20260118T160000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：鹿児島第一・志布志 vs 鹿児島商\n時刻：14:00（KO）\n会場：会場不明\n結果：0-8\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:d5c08a85dea5b4f4fa9028edac071c2723748dde@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T140000
+DTEND;TZID=Asia/Tokyo:20260118T160000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：志學館 vs 喜界・種子島\n時刻：14:00（KO）\n会場：会場不明\n結果：3-0\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:dd3fbe5f6af1463f3c699cb149647763c73e7228@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260118T140000
+DTEND;TZID=Asia/Tokyo:20260118T160000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：1回戦\n対戦：樟南 vs 出水\n時刻：14:00（KO）\n会場：会場不明\n結果：勝（不戦）敗\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:0813cf40b07f3fc43c190419a4d3295d48eb09b8@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260119T100000
+DTEND;TZID=Asia/Tokyo:20260119T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：2回戦\n対戦：出水中央 vs ラ・サール\n時刻：10:00（KO）\n会場：会場不明\n結果：1-0\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:4b8362163635ee45136cc9a87dc03839ef4f6396@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260119T100000
+DTEND;TZID=Asia/Tokyo:20260119T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：2回戦\n対戦：鹿児島高専 vs 鹿児島情報\n時刻：10:00（KO）\n会場：会場不明\n結果：0-1\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:67a10112992622d442500721f75cbbe52b3a08ad@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260119T100000
+DTEND;TZID=Asia/Tokyo:20260119T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：2回戦\n対戦：川内 vs 吹上\n時刻：10:00（KO）\n会場：会場不明\n結果：5-0\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:8297b6f0595a6a9484de861ca85d83990c94e5df@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260119T100000
+DTEND;TZID=Asia/Tokyo:20260119T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：2回戦\n対戦：池田 vs 鹿児島城西\n時刻：10:00（KO）\n会場：会場不明\n結果：0-7\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:b7737d3e61957044c5209ca3d46fb87f03e90c01@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260119T100000
+DTEND;TZID=Asia/Tokyo:20260119T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：2回戦\n対戦：神村学園 vs 鹿児島南\n時刻：10:00（KO）\n会場：会場不明\n結果：4-0\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:c7fe3d8188cb0ffe6f3afd76b88d83407ec1701e@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260119T100000
+DTEND;TZID=Asia/Tokyo:20260119T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：2回戦\n対戦：明桜館 vs 鹿児島実\n時刻：10:00（KO）\n会場：会場不明\n結果：0-7\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:d78c50a337dafacb2f07736efda8d428ff6464d6@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260119T100000
+DTEND;TZID=Asia/Tokyo:20260119T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：2回戦\n対戦：鹿児島 vs 鳳凰\n時刻：10:00（KO）\n会場：会場不明\n結果：0-1\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:f6325d0c5e37e5fba141fd61b225ffcfaf95f6b6@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260119T100000
+DTEND;TZID=Asia/Tokyo:20260119T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：2回戦\n対戦：鶴丸 vs 鹿屋中央\n時刻：10:00（KO）\n会場：会場不明\n結果：0-5\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:12ee175e25c77e23ac4f4d68e694d1b72c037e8a@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260119T130000
+DTEND;TZID=Asia/Tokyo:20260119T150000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：2回戦\n対戦：れいめい vs 大島\n時刻：13:00（KO）\n会場：会場不明\n結果：3-4\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:1f5a27fc6f2d0e62cfd0108f3926a271d7ebc29e@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260119T130000
+DTEND;TZID=Asia/Tokyo:20260119T150000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：2回戦\n対戦：鹿児島商 vs 加治木\n時刻：13:00（KO）\n会場：会場不明\n結果：0-3\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:1f5dc36c86a0591fc7ea6c49d3d3baa7c353f18a@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260119T130000
+DTEND;TZID=Asia/Tokyo:20260119T150000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：2回戦\n対戦：志學館 vs 甲南\n時刻：13:00（KO）\n会場：会場不明\n結果：5-1\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:4239e9123093fefa579529f788abac29350da43d@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260119T130000
+DTEND;TZID=Asia/Tokyo:20260119T150000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：2回戦\n対戦：武岡台 vs 松陽\n時刻：13:00（KO）\n会場：会場不明\n結果：1-2\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:5c30950104f62e17261f4c81a99c2b31f88fce2a@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260119T130000
+DTEND;TZID=Asia/Tokyo:20260119T150000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：2回戦\n対戦：樟南 vs 大口\n時刻：13:00（KO）\n会場：会場不明\n結果：2-0\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:7284c40f046802fd831e8b7698270495da0cd09e@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260119T130000
+DTEND;TZID=Asia/Tokyo:20260119T150000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：2回戦\n対戦：指宿商 vs 国分\n時刻：13:00（KO）\n会場：会場不明\n結果：2-0\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:8e1962f553060bb9e10062ed55e073e24f6895d6@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260119T130000
+DTEND;TZID=Asia/Tokyo:20260119T150000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：2回戦\n対戦：隼人工 vs 加世田\n時刻：13:00（KO）\n会場：会場不明\n結果：3-1\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:b03b53c3da0448f2f0c3a2f2a71067a824799bfe@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260119T130000
+DTEND;TZID=Asia/Tokyo:20260119T150000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：2回戦\n対戦：尚志館 vs 川内商工\n時刻：13:00（KO）\n会場：会場不明\n結果：5-1\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:0fd3c0d07cc4a43a8b366bd7222fc9d8948ca8d9@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260120T100000
+DTEND;TZID=Asia/Tokyo:20260120T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：3回戦\n対戦：志學館 vs 鹿児島実\n時刻：10:00（KO）\n会場：会場不明\n結果：0-7\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:20ffcb529ad2af2d15dd4c14243e5f0e3d6e731d@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260120T100000
+DTEND;TZID=Asia/Tokyo:20260120T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：3回戦\n対戦：樟南 vs 鹿児島城西\n時刻：10:00（KO）\n会場：会場不明\n結果：0-4\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:5babda8f2737bb6021af7e19a592dc1053cef398@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260120T100000
+DTEND;TZID=Asia/Tokyo:20260120T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：3回戦\n対戦：出水中央 vs 大島\n時刻：10:00（KO）\n会場：会場不明\n結果：6-0\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:fca2bea17c028e2e409dcf0f6e65eb43d15422c1@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260120T100000
+DTEND;TZID=Asia/Tokyo:20260120T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：3回戦\n対戦：鳳凰 vs 尚志館\n時刻：10:00（KO）\n会場：会場不明\n結果：1-2\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:36a17cbc7f611bf400f9b575db5b1661229d35f0@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260120T130000
+DTEND;TZID=Asia/Tokyo:20260120T150000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：3回戦\n対戦：神村学園 vs 松陽\n時刻：13:00（KO）\n会場：会場不明\n結果：2-0\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:4c18697d546dcbbd0db32fa80ea773d0d48c12f7@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260120T130000
+DTEND;TZID=Asia/Tokyo:20260120T150000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：3回戦\n対戦：川内 vs 指宿商\n時刻：13:00（KO）\n会場：会場不明\n結果：0-4\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:98b2f6a3f9321f0cde164ed4224e9b5b170af73a@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260120T130000
+DTEND;TZID=Asia/Tokyo:20260120T150000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：3回戦\n対戦：加治木 vs 鹿屋中央\n時刻：13:00（KO）\n会場：会場不明\n結果：0-5\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:cb526c210a7a0241d82e3bb9546dd3d634011714@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260120T130000
+DTEND;TZID=Asia/Tokyo:20260120T150000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：3回戦\n対戦：隼人工 vs 鹿児島情報\n時刻：13:00（KO）\n会場：会場不明\n結果：0-4\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:1b351e646905beb643fd29609243ab3be7be80c6@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;TZID=Asia/Tokyo:20260121T110000
+DTEND;TZID=Asia/Tokyo:20260121T130000
+SUMMARY:福岡県／九国大付
+LOCATION:福岡フットボールセンター A
+DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）5回戦
+END:VEVENT
+BEGIN:VEVENT
+UID:c8e10e9007b045218e84adf208ccfe1ee079a5d3@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;TZID=Asia/Tokyo:20260121T110000
+DTEND;TZID=Asia/Tokyo:20260121T130000
+SUMMARY:福岡県／九産大九州
+LOCATION:福岡フットボールセンター B
+DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）5回戦
+END:VEVENT
+BEGIN:VEVENT
+UID:7b4033c9fda639e121aeed7e27816d35547f6448@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;TZID=Asia/Tokyo:20260121T130000
+DTEND;TZID=Asia/Tokyo:20260121T150000
+SUMMARY:福岡県／東海大福岡
+LOCATION:福岡フットボールセンター B
+DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）5回戦
+END:VEVENT
+BEGIN:VEVENT
+UID:82cbd7c726799857ee957d007626ce5db2a68087@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;TZID=Asia/Tokyo:20260121T130000
+DTEND;TZID=Asia/Tokyo:20260121T150000
+SUMMARY:福岡県／筑紫台
+LOCATION:福岡フットボールセンター A
+DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）5回戦
+END:VEVENT
+BEGIN:VEVENT
+UID:165f86230beb3d5020ee03b58a026371140410bf@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260122T100000
+DTEND;TZID=Asia/Tokyo:20260122T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：準々決勝\n対戦：出水中央 vs 鹿児島実\n時刻：10:00（KO）\n会場：会場不明\n結果：4-1\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:8d156b3123bf90744117d4d45d7d63d4a1d75fdf@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260122T100000
+DTEND;TZID=Asia/Tokyo:20260122T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：準々決勝\n対戦：神村学園 vs 鹿児島情報\n時刻：10:00（KO）\n会場：会場不明\n結果：4-0\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:1de5aa786c0fe1633cc67eda1e2c5474fbdf39ad@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;TZID=Asia/Tokyo:20260122T110000
+DTEND;TZID=Asia/Tokyo:20260122T130000
+SUMMARY:福岡県／飯塚
+LOCATION:福岡フットボールセンター B
+DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）6回戦
+END:VEVENT
+BEGIN:VEVENT
+UID:754b2b5f6f34830db31e4be494ce6ed941cb2e6d@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;TZID=Asia/Tokyo:20260122T110000
+DTEND;TZID=Asia/Tokyo:20260122T130000
+SUMMARY:福岡県／東福岡
+LOCATION:福岡フットボールセンター A
+DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）6回戦
+END:VEVENT
+BEGIN:VEVENT
+UID:2129cf2e766019627da88a6e54f799599ae22a01@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260122T130000
+DTEND;TZID=Asia/Tokyo:20260122T150000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：準々決勝\n対戦：指宿商 vs 鹿児島城西\n時刻：13:00（KO）\n会場：会場不明\n結果：0-5\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:392f1c300dcc89d091c2525801e26dde039921ae@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;TZID=Asia/Tokyo:20260122T130000
+DTEND;TZID=Asia/Tokyo:20260122T150000
+SUMMARY:福岡県／東海大福岡
+LOCATION:福岡フットボールセンター B
+DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）6回戦
+END:VEVENT
+BEGIN:VEVENT
+UID:b0c53d545710b1e0c2e3213036533c6435d4a10b@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;TZID=Asia/Tokyo:20260122T130000
+DTEND;TZID=Asia/Tokyo:20260122T150000
+SUMMARY:福岡県／九国大付
+LOCATION:福岡フットボールセンター A
+DESCRIPTION:出典：福岡県サッカー協会（大会ページ）\n（男子）6回戦
+END:VEVENT
+BEGIN:VEVENT
+UID:e6f995d5fc4aa2d00661a75a2755776aff3d8e05@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260122T130000
+DTEND;TZID=Asia/Tokyo:20260122T150000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：準々決勝\n対戦：尚志館 vs 鹿屋中央\n時刻：13:00（KO）\n会場：会場不明\n結果：0-1\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:aed622b86f5976f63bf71e269b34d7c7c8b06848@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:鹿児島県／結果速報
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:出典：九州高校サッカー新人戦予選大会特設サイト（結果速報）\n準決勝：鹿屋中央-鹿児島城西／神村学園-出水中央\n回戦等：決勝
+END:VEVENT
+BEGIN:VEVENT
+UID:0a156833ce3a1cbbe9c604068d23d052d2f5417c@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260123T100000
+DTEND;TZID=Asia/Tokyo:20260123T120000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：高千穂 vs 五ヶ瀬・延岡星雲\n都道府県：宮崎県\n時刻：10:00（KO）\n会場：会場不明\n結果：2-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:d65b23f1bca0a0c4ad7f5abc6e6dd929b244613a@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260123T100000
+DTEND;TZID=Asia/Tokyo:20260123T120000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：準決勝\n対戦：神村学園 vs 出水中央\n時刻：10:00（KO）\n会場：会場不明\n結果：1-0\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:eb43d196f6c1134fca0f549fcd4f75e17ab9b542@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260123T100000
+DTEND;TZID=Asia/Tokyo:20260123T120000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：宮崎西 vs 宮崎大宮\n都道府県：宮崎県\n時刻：10:00（KO）\n会場：会場不明\n結果：3-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:00638e78819da8741e7edc6a9aa56cd65b0b3e7b@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260123T110000
+DTEND;TZID=Asia/Tokyo:20260123T130000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：日向学院 vs 櫻美学園\n都道府県：宮崎県\n時刻：11:00（KO）\n会場：会場不明\n結果：0-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:30bb318cbf5c0e6386d5d320715b4619756aa7e2@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260123T113000
+DTEND;TZID=Asia/Tokyo:20260123T133000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：日向工 vs 都城高専\n都道府県：宮崎県\n時刻：11:30（KO）\n会場：会場不明\n結果：2-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:6373aef35e028ef8d77e5f849a36fa548f3d81fd@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260123T113000
+DTEND;TZID=Asia/Tokyo:20260123T133000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：都城 vs 日南\n都道府県：宮崎県\n時刻：11:30（KO）\n会場：会場不明\n結果：2-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:cd5833ba5d5237d45fe02c9b1ac9d7a45bacda6b@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260123T113000
+DTEND;TZID=Asia/Tokyo:20260123T133000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：佐土原 vs 本庄\n都道府県：宮崎県\n時刻：11:30（KO）\n会場：会場不明\n結果：0-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:df598eac3b9581ffef13f2536b97cfa50df37567@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260123T113000
+DTEND;TZID=Asia/Tokyo:20260123T133000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：妻 vs 延岡学園\n都道府県：宮崎県\n時刻：11:30（KO）\n会場：会場不明\n結果：0-11\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:fa917616128c971f5a00fa53d63fe505d03d98bb@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260123T113000
+DTEND;TZID=Asia/Tokyo:20260123T133000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：宮崎北 vs 都城工\n都道府県：宮崎県\n時刻：11:30（KO）\n会場：会場不明\n結果：0-0 PK 3-5\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:f3bab683cb96046d051aa0cbb62cf6357d464642@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260123T120000
+DTEND;TZID=Asia/Tokyo:20260123T140000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：日向 vs 延岡\n都道府県：宮崎県\n時刻：12:00（KO）\n会場：会場不明\n結果：0-3\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:badc32e04662ab1b1b50fc27dddd88a2b1902829@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260123T123000
+DTEND;TZID=Asia/Tokyo:20260123T143000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：準決勝\n対戦：鹿屋中央 vs 鹿児島城西\n時刻：12:30（KO）\n会場：会場不明\n結果：0-1\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:69111d7f382797d4593cbd423e2366f5bf8b2fb1@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260123T130000
+DTEND;TZID=Asia/Tokyo:20260123T150000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：高鍋 vs 宮崎南\n都道府県：宮崎県\n時刻：13:00（KO）\n会場：会場不明\n結果：0-4\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:9e6abb75337d30e437efbf50a8e40abec0c93d9b@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260123T130000
+DTEND;TZID=Asia/Tokyo:20260123T150000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：都城西 vs 都城農\n都道府県：宮崎県\n時刻：13:00（KO）\n会場：会場不明\n結果：0-4\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:bb43ce52e87a94c91bfc742ce5dcdeb5ce54707f@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260123T130000
+DTEND;TZID=Asia/Tokyo:20260123T150000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：宮崎商 vs 小林\n都道府県：宮崎県\n時刻：13:00（KO）\n会場：会場不明\n結果：1-3\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:0378b9c246cdee43ed5e1011367982512deb5ea6@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：興南 vs 
+ 南風原\n結果：6-2(2-2.4-0)\n大会：令和7年度第60回沖縄県
+ 高等学校新人体育大会サッカー競技\n都道府県：沖縄県\
+ n時刻：未確定\n会場：会場不明（沖縄県）\n出典：https:/
+ /www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:06c7085fc8fbfcce49215e1846ceb90a1d33fc45@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：宜野湾 
+ vs 与勝\n結果：4-0(4-0.0-0)\n大会：令和7年度第60回沖縄県
+ 高等学校新人体育大会サッカー競技\n都道府県：沖縄県\
+ n時刻：未確定\n会場：会場不明（沖縄県）\n出典：https:/
+ /www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:1099d9013b46bbf03c0a2342337145298c006082@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：敬徳 vs 弘学館\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：2回戦\n結果：4-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:1c07f7ad6eb0a71c9e15527e1e7d3b4fa2bfefd6@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：八重山
+ 商工 vs 八重山・久米島\n結果：5-1(1-0.4-1)\n大会：令和7年
+ 度第60回沖縄県高等学校新人体育大会サッカー競技\n都
+ 道府県：沖縄県\n時刻：未確定\n会場：会場不明（沖縄
+ 県）\n出典：https://www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:3161708b92519c7c58ebfa2a781725f45ae43f0a@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:鹿児島県／結果速報
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:出典：九州高校サッカー新人戦予選大会特設サイト（結果速報）\n決勝：神村学園-鹿児島城西\n回戦等：決勝
+END:VEVENT
+BEGIN:VEVENT
+UID:39ba304affeeaa633fdf3ff4f09759272f3345a9@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：伊万里 vs 武雄\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：2回戦\n結果：0-2\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:40f3112c9d5c103fd046e572d391809de84d72d6@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀商 vs 佐賀西\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：2回戦\n結果：3-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:493d19c3771e2d7be86b2211248a0beacc3fbbd4@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：準々決勝\n対戦：大津 vs 学付\n結果：7-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:5fdb4684dec316fc0357a7238daec010fb41b423@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：準々決勝\n対戦：ルーテル vs 慶誠\n結果：2-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:7d05fefb2945f72e427056edb3d020a39c8aeff9@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：嬉野 vs 龍谷\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：2回戦\n結果：0-12\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:81329dbdcda043d07144c8b0978d2785fe989a78@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：北中城 
+ vs 石川・中部農林・具志川商業\n結果：6-1(0-1.6-0)\n大会
+ ：令和7年度第60回沖縄県高等学校新人体育大会サッカー
+ 競技\n都道府県：沖縄県\n時刻：未確定\n会場：会場不明
+ （沖縄県）\n出典：https://www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:9586bb3664ea9860813d47547e8f7d38127e6e3e@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：名護商
+ 工 vs 陽明\n結果：5-4(2-2.2-2延長1-0.0-0)\n大会：令和7年度
+ 第60回沖縄県高等学校新人体育大会サッカー競技\n都道
+ 府県：沖縄県\n時刻：未確定\n会場：会場不明（沖縄県
+ ）\n出典：https://www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:9bb6cc11bdd7fbf5bab90456474cf2cac52e5b59@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：北谷 vs 
+ 美里工業\n結果：4-0(1-0.3-0)\n大会：令和7年度第60回沖縄
+ 県高等学校新人体育大会サッカー競技\n都道府県：沖縄
+ 県\n時刻：未確定\n会場：会場不明（沖縄県）\n出典：htt
+ ps://www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:9bcd265a29189ad0af72b8092f2a4c104632e774@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：有田工・白石 vs 佐賀学園\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：2回戦\n結果：0-11\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:a0aa119caf8e71b894dc4dec58fe6b657ab255ad@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：1回戦\n対戦：鹿島朝
+ 日 vs 首里\n結果：1-1PK4-2(1-1.0-0.延長0-0.0-0)\n大会：令和7
+ 年度第60回沖縄県高等学校新人体育大会サッカー競技\n
+ 都道府県：沖縄県\n時刻：未確定\n会場：会場不明（沖
+ 縄県）\n出典：https://www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:c2db55c82716737a3462b3de1df048d35b353f89@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：準々決勝\n対戦：秀岳館 vs 東海星翔\n結果：2-1\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:e1812ad00a9ef051962f9ab0e67cf25dd1dd0d62@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:会場不明（熊本県）
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：準々決勝\n対戦：熊本商 vs 済々黌\n結果：3-0\n時刻：未確定（KO不明のため終日）\n会場：会場不明（熊本県）\n出典：https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:e9cac933cf7a4e35f741abdb8a5d78dba4650c8c@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀清和 vs 佐賀北\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：2回戦\n結果：3-1\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ec48a22ea47910bd064f67c0f6ba40718550267d@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀東 vs 唐津東\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：2回戦\n結果：10-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:f043ccf2d042ca22dc6a673d35dedfd716fa4b68@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀工 vs 早稲田佐賀\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：2回戦\n結果：2-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:1c66506df57157b5aeff0d046b48f244f9ee8aaf@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分豊府 vs 大分工\n回戦：2回戦\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：1-1 PK2-3\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:64c01dd701a6bf1d54647cef074c0f624d218a2d@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：小林 vs 宮崎日大\n都道府県：宮崎県\n時刻：10:00（KO）\n会場：会場不明\n結果：0-7\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:6e38260ce42a99d4e6b1b11071a7aca6996617c1@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分鶴崎 vs 情報科学\n回戦：2回戦\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：6-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:748c3c074c0227e8cb2c45b8f2169f08e2e21cab@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：長崎総科大附 vs 諫早商\n回戦：準々決勝\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：3-0\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:970495c6bc830df759083d068a69b531f89c17c8@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：鵬翔 vs 延岡\n都道府県：宮崎県\n時刻：10:00（KO）\n会場：会場不明\n結果：6-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:d4f5e77a30225fdf89c1731586cacd41951ffa9c@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260124T100000
+DTEND;TZID=Asia/Tokyo:20260124T120000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：佐世保西 vs 国見\n回戦：準々決勝\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：10:00（KO）\n結果：0-5\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:08dffb38a2c02c430d42c463ab2b4a4c52abc0c0@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260124T110000
+DTEND;TZID=Asia/Tokyo:20260124T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：九産大九州 vs 福岡大大濠\n回戦：3回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:186fe4f780a4bc9b489545b67ab5db5ab88a9c11@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260124T110000
+DTEND;TZID=Asia/Tokyo:20260124T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：博多 vs 高稜\n回戦：3回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：1-1 PK3-5\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:37b5c3db2686528d18bc96f8ab7ca8e0d803f096@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260124T110000
+DTEND;TZID=Asia/Tokyo:20260124T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：東福岡 vs 久留米筑水\n回戦：3回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：3-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:3c48664316bf139e48e2b6dd6071a5f714d4b6d0@my-ics
+DTSTAMP:20260205T080409Z
+DTSTART;TZID=Asia/Tokyo:20260124T110000
+DTEND;TZID=Asia/Tokyo:20260124T130000
+SUMMARY:鹿児島県／鹿児島新人戦（新人選手権大会）
+LOCATION:会場不明（鹿児島県）
+DESCRIPTION:種別：高校／男子\n大会：鹿児島新人戦（新人選手権大会）\n都道府県：鹿児島県\nラウンド：決勝\n対戦：神村学園 vs 鹿児島城西\n時刻：11:00（KO）\n会場：会場不明\n結果：2-1\n出典：https://koko-soccer.com/score/4292
+END:VEVENT
+BEGIN:VEVENT
+UID:74a3800b7bb03a9b9509022586ae4d6ef02bee1a@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260124T110000
+DTEND;TZID=Asia/Tokyo:20260124T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：修猷館 vs 飯塚\n回戦：3回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：0-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:45310dce3c2d65a2b18c0a2088a8c8c45611df3f@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260124T113000
+DTEND;TZID=Asia/Tokyo:20260124T133000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分東明 vs 柳ヶ浦\n回戦：2回戦\n都道府県：大分県\n時刻：11:30\n会場：会場不明（大分県）\n結果：0-1\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:4b1313b63f7c90e9a254ceaedeb04c0b5ab9a371@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260124T113000
+DTEND;TZID=Asia/Tokyo:20260124T133000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：中津東 vs 臼杵\n回戦：2回戦\n都道府県：大分県\n時刻：11:30\n会場：会場不明（大分県）\n結果：2-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:5e1cdff9a1ce1f53e3c7105e2265e86c73a6bfea@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260124T113000
+DTEND;TZID=Asia/Tokyo:20260124T133000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：日章学園 vs 高千穂\n都道府県：宮崎県\n時刻：11:30（KO）\n会場：会場不明\n結果：11-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:74a33c1783f866dfa93390a2a16c58dce3453971@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260124T113000
+DTEND;TZID=Asia/Tokyo:20260124T133000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：小林秀峰 vs 延岡工\n都道府県：宮崎県\n時刻：11:30（KO）\n会場：会場不明\n結果：3-2\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:c9a3a8abc0b1a490c1c9321cd216b578667cc0e5@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260124T113000
+DTEND;TZID=Asia/Tokyo:20260124T133000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：宮崎第一 vs 櫻美学園\n都道府県：宮崎県\n時刻：11:30（KO）\n会場：会場不明\n結果：3-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:edbfd46f709960b39e3d0ae505f10ffd0dd4fa86@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260124T113000
+DTEND;TZID=Asia/Tokyo:20260124T133000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：都城工 vs 宮崎工\n都道府県：宮崎県\n時刻：11:30（KO）\n会場：会場不明\n結果：0-4\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:441d1c6943ce5fe2063f05465055460b7dfa3f50@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：創成館 vs 長崎日大\n回戦：準々決勝\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：0-1\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:c6d2533f11e00a625782cf04aa5f941edb6019d2@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260124T120000
+DTEND;TZID=Asia/Tokyo:20260124T140000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：佐世保工 vs 長崎南山\n回戦：準々決勝\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：12:00（KO）\n結果：0-1\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:10d32b97e37ec505354b5b2d923c5ca8b8a1e0e3@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：福大若葉 vs 福智\n回戦：3回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：2-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:136fd07fda7f33a7856baee7484d769c1c01577f@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T150000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：昭和学園 vs 宇佐\n回戦：2回戦\n都道府県：大分県\n時刻：13:00\n会場：会場不明（大分県）\n結果：2-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:2f2b9a2e46a4f571d93140c8eee6096ab14ddfaf@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：東海大福岡 vs 希望が丘\n回戦：3回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：2-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:5820060d6adccd0fc656baf4ab90b62d3e10c11a@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T150000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：中津南 vs 大分\n回戦：2回戦\n都道府県：大分県\n時刻：13:00\n会場：会場不明（大分県）\n結果：1-1 PK6-7\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:83a5ff870e05605c848d87343ec7e0e6ad4f1ba7@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T150000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：都城泉ヶ丘 vs 日南学園\n都道府県：宮崎県\n時刻：13:00（KO）\n会場：会場不明\n結果：0-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:a09ad82979526992b0efeef68ef0b29636ec3908@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：小倉工 vs 九州国際大付\n回戦：3回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：0-9\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:b9c9b89ef0541a04b16a39792c172d876ba07d58@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T150000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：高鍋農 vs 宮崎農\n都道府県：宮崎県\n時刻：13:00（KO）\n会場：会場不明\n結果：0-10\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:e5f6616dd82aa7ea887bc29dad42c76f6d79e8a9@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T150000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：富島 vs 日南振徳高城・宮崎海洋・飯野\n都道府県：宮崎県\n時刻：13:00（KO）\n会場：会場不明\n結果：2-2 PK 3-5\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:f17134d96dcb78f4bab392a9beb6f0e14f3ab4a7@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260124T130000
+DTEND;TZID=Asia/Tokyo:20260124T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：筑紫台 vs 筑陽学園\n回戦：3回戦\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:0679b650188bb7c1b732103d44cfcb9348c29586@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260124T143000
+DTEND;TZID=Asia/Tokyo:20260124T163000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：鶴崎工 vs 大分雄城台\n回戦：2回戦\n都道府県：大分県\n時刻：14:30\n会場：会場不明（大分県）\n結果：4-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:f01afd947a4d5a1e05ec31a6a9ddaf96f816ab61@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260124T143000
+DTEND;TZID=Asia/Tokyo:20260124T163000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：玖珠美山 vs 大分上野丘\n回戦：2回戦\n都道府県：大分県\n時刻：14:30\n会場：会場不明（大分県）\n結果：0-3\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:0271b7a10c0d544dab11ffe9ba3604080c67ca56@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：敬徳 vs 佐賀清和\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：準々決勝\n結果：0-1\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:162aa420a8bc573d9de8293bde3069ae78ec03e6@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：KBC vs 名
+ 護商工\n結果：8-0(4-0.4-0)\n大会：令和7年度第60回沖縄県
+ 高等学校新人体育大会サッカー競技\n都道府県：沖縄県\
+ n時刻：未確定\n会場：会場不明（沖縄県）\n出典：https:/
+ /www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:2a8a5d4f6fa46842ae85cdc4e35798cd0ce8779c@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：普天間 
+ vs 読谷\n結果：2-1(0-0.2-1)\n大会：令和7年度第60回沖縄県
+ 高等学校新人体育大会サッカー競技\n都道府県：沖縄県\
+ n時刻：未確定\n会場：会場不明（沖縄県）\n出典：https:/
+ /www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:39f01d60c3f3d3690f11aed8ab0537e37c6d4426@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：向陽 vs 
+ 沖縄尚学・昭和薬科\n結果：2-1(1-0.1-1)\n大会：令和7年度
+ 第60回沖縄県高等学校新人体育大会サッカー競技\n都道
+ 府県：沖縄県\n時刻：未確定\n会場：会場不明（沖縄県
+ ）\n出典：https://www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:444b7b4725f6bdc9671194b39ab64055d36ebbcb@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：宜野湾 
+ vs 那覇\n結果：4-0(3-0.1-0)\n大会：令和7年度第60回沖縄県
+ 高等学校新人体育大会サッカー競技\n都道府県：沖縄県\
+ n時刻：未確定\n会場：会場不明（沖縄県）\n出典：https:/
+ /www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:4c291a90e230f83e89f945307ccc1d9269e8864f@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：具志川 
+ vs 北中城\n結果：2-1(1-0.1-1)\n大会：令和7年度第60回沖縄
+ 県高等学校新人体育大会サッカー競技\n都道府県：沖縄
+ 県\n時刻：未確定\n会場：会場不明（沖縄県）\n出典：htt
+ ps://www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:50ff1b1aea81893f2a211343f7eee5ebf8f6f640@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：西原 vs 
+ 北谷\n結果：2-0(1-0.1-0)\n大会：令和7年度第60回沖縄県高
+ 等学校新人体育大会サッカー競技\n都道府県：沖縄県\n
+ 時刻：未確定\n会場：会場不明（沖縄県）\n出典：https://
+ www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:5710a85a9a46e9782baf5c624c4ea4ad74666f54@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：浦添 vs 
+ 沖縄高専\n結果：12-0(6-0.6-0)\n大会：令和7年度第60回沖縄
+ 県高等学校新人体育大会サッカー競技\n都道府県：沖縄
+ 県\n時刻：未確定\n会場：会場不明（沖縄県）\n出典：htt
+ ps://www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:5a87b62a7394e22f292a0ac92ec86fe21ef343cd@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：小禄 vs 
+ 球陽\n結果：3-0(1-0.2-0)\n大会：令和7年度第60回沖縄県高
+ 等学校新人体育大会サッカー競技\n都道府県：沖縄県\n
+ 時刻：未確定\n会場：会場不明（沖縄県）\n出典：https://
+ www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:77d22cc4d54aaebadae963f3411132bb50005129@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：名護 vs 
+ 八重山商工\n結果：2-1(1-1.1-0)\n大会：令和7年度第60回沖
+ 縄県高等学校新人体育大会サッカー競技\n都道府県：沖
+ 縄県\n時刻：未確定\n会場：会場不明（沖縄県）\n出典：
+ https://www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:787b21fd2b13a7bb6523389e8f4d28856ef59577@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：那覇西 
+ vs 鹿島朝日\n結果：4-0(1-0.3-0)\n大会：令和7年度第60回沖
+ 縄県高等学校新人体育大会サッカー競技\n都道府県：沖
+ 縄県\n時刻：未確定\n会場：会場不明（沖縄県）\n出典：
+ https://www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:7c2d6b527bccb1cba1dee696f362724d1fd279f8@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:福岡県／結果速報
+LOCATION:会場不明（福岡県）
+DESCRIPTION:出典：九州高校サッカー新人戦予選大会特設サイト（結果速報）\n準々決勝：東福岡-九産大九州／福岡大若葉-九国大付／高稜-飯塚／
+ 東海大福岡-筑紫台\n回戦等：決勝
+END:VEVENT
+BEGIN:VEVENT
+UID:7c5935c5936709ac0628202218fe6a390ad38e13@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:熊本県／結果速報
+LOCATION:会場不明（熊本県）
+DESCRIPTION:出典：九州高校サッカー新人戦予選大会特設サイト（結果速報）\n準決勝：大津-熊本商業／慶誠-秀岳館\n回戦等：決勝
+END:VEVENT
+BEGIN:VEVENT
+UID:984e6a64b8f8fee2ef33b448f6cf1b3b458a7bf5@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：コザ vs 
+ 豊見城\n結果：6-0(2-0.4-0)\n大会：令和7年度第60回沖縄県
+ 高等学校新人体育大会サッカー競技\n都道府県：沖縄県\
+ n時刻：未確定\n会場：会場不明（沖縄県）\n出典：https:/
+ /www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:9ad8b10b9c08c4f58baf3935a2dd7eccd7658878@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：那覇国
+ 際 vs 美里\n結果：5-0(3-0.2-0)\n大会：令和7年度第60回沖縄
+ 県高等学校新人体育大会サッカー競技\n都道府県：沖縄
+ 県\n時刻：未確定\n会場：会場不明（沖縄県）\n出典：htt
+ ps://www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:a7ebcaf8f62065738a17ba30b80ba9b43471f4dd@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：前原 vs 
+ 興南\n結果：2-0(0-0.2-0)\n大会：令和7年度第60回沖縄県高
+ 等学校新人体育大会サッカー競技\n都道府県：沖縄県\n
+ 時刻：未確定\n会場：会場不明（沖縄県）\n出典：https://
+ www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:ae9c40ac010132c41298d2d7b15c9060011b085b@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀商 vs 佐賀学園\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：準々決勝\n結果：3-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:d0b6a5ab45ce2469714a1c95b2c7bf7eeb497fba@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：糸満 vs 
+ 首里東\n結果：6-0(2-0.4-0)\n大会：令和7年度第60回沖縄県
+ 高等学校新人体育大会サッカー競技\n都道府県：沖縄県\
+ n時刻：未確定\n会場：会場不明（沖縄県）\n出典：https:/
+ /www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:d9dc082c9b53b36afffc7885bb6b8eff11a5d848@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀工 vs 龍谷\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：準々決勝\n結果：0-7\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:f04a82c341f228f07ae60fb2c366136399ca56d3@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：沖縄工
+ 業 vs 中部商業・開邦・南部農林・沖縄水産・真和志\n結
+ 果：3-1(0-1.1-0延長1-0.1-0)\n大会：令和7年度第60回沖縄県高
+ 等学校新人体育大会サッカー競技\n都道府県：沖縄県\n
+ 時刻：未確定\n会場：会場不明（沖縄県）\n出典：https://
+ www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:f2f725013b6d16460c9a0b46d96d4b9705240d03@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：2回戦\n対戦：知念 vs 
+ 豊見城南\n結果：4-2(0-0.2-2延長0-0.2-0)\n大会：令和7年度第
+ 60回沖縄県高等学校新人体育大会サッカー競技\n都道府
+ 県：沖縄県\n時刻：未確定\n会場：会場不明（沖縄県）\n
+ 出典：https://www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:f902b95b87a74190ebb24faae08a5a7011c802ab@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀東 vs 武雄\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：準々決勝\n結果：11-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:2b411d82235040516f1596af25e8adddbcedd24e@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260125T093000
+DTEND;TZID=Asia/Tokyo:20260125T113000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：長崎総科大附 vs 国見\n回戦：準決勝\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：09:30（KO）\n結果：0-1\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:e9708646f19d7d49bb372f62744a6b443525b836@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260125T093000
+DTEND;TZID=Asia/Tokyo:20260125T113000
+LOCATION:会場不明（長崎県）
+DESCRIPTION:種別：高校／男子\n対戦：長崎日大 vs 長崎南山\n回戦：準決勝\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：09:30（KO）\n結果：5-1\n出典：https://koko-soccer.com/score/4309
+END:VEVENT
+BEGIN:VEVENT
+UID:4ff4d69deffaf2c83d8e4867252a63418c8e147b@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260125T100000
+DTEND;TZID=Asia/Tokyo:20260125T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：中津東 vs 柳ヶ浦\n回戦：準々決勝\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：1-1 PK2-4\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:63d5d1065d0954935e3540a5779bcd5519e005c7@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260125T100000
+DTEND;TZID=Asia/Tokyo:20260125T120000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：小林秀峰 vs 宮崎日大\n都道府県：宮崎県\n時刻：10:00（KO）\n会場：会場不明\n結果：1-5\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:8df3eeb762f7b65cba92feb0d6342044a8798d28@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260125T100000
+DTEND;TZID=Asia/Tokyo:20260125T120000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：日章学園 vs 日南振徳高城・宮崎海洋・飯野\n都道府県：宮崎県\n時刻：10:00（KO）\n会場：会場不明\n結果：23-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:a7bd71c426c0e68ebb2d0f652f96f40c573eb644@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260125T100000
+DTEND;TZID=Asia/Tokyo:20260125T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分鶴崎 vs 大分工\n回戦：準々決勝\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：1-0\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:c4ac8320b8fe8e7e6e343686de565ef41a1aa38e@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260125T100000
+DTEND;TZID=Asia/Tokyo:20260125T120000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：鵬翔 vs 日南学園\n都道府県：宮崎県\n時刻：10:00（KO）\n会場：会場不明\n結果：4-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:32a4794d746208be321a16c513ac0134ba5f9c09@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260125T110000
+DTEND;TZID=Asia/Tokyo:20260125T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：高稜 vs 飯塚\n回戦：準々決勝\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：1-3\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:487a4c49da10c044691cf2087cafb1c02639b2f4@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260125T110000
+DTEND;TZID=Asia/Tokyo:20260125T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：東福岡 vs 九産大九州\n回戦：準々決勝\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：2-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:9e3824098628e0340625a544756fc1836ed0b8e5@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;TZID=Asia/Tokyo:20260125T110000
+DTEND;TZID=Asia/Tokyo:20260125T130000
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:県民総合運動公園補助競技場
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：準決勝\n対戦：大津 vs 熊本商業\n結果：3-1\n時刻：11:00（KO）\n会場：県民総合運動公園補助競技場\n出典：https://kyushu-shinjin.com/result-2025/kumamoto-result-2025/13477/ ／ https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:227e8aeba7dbce5835fa49b6648e7e50dcc15be3@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260125T113000
+DTEND;TZID=Asia/Tokyo:20260125T133000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：宮崎西 vs 宮崎南\n都道府県：宮崎県\n時刻：11:30（KO）\n会場：会場不明\n結果：2-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:d9800737e39f7050a5071e0820b4f2806c2a18ca@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260125T113000
+DTEND;TZID=Asia/Tokyo:20260125T133000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：日向工 vs 延岡学園\n都道府県：宮崎県\n時刻：11:30（KO）\n会場：会場不明\n結果：0-11\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:e1f28017789ff01141f4906cea5fbb045cff9216@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260125T113000
+DTEND;TZID=Asia/Tokyo:20260125T133000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：本庄 vs 都城農\n都道府県：宮崎県\n時刻：11:30（KO）\n会場：会場不明\n結果：0-5\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:04495e2e6174e26447bbfcf5f3905e0161118e26@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260125T123000
+DTEND;TZID=Asia/Tokyo:20260125T143000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：昭和学園 vs 大分\n回戦：準々決勝\n都道府県：大分県\n時刻：12:30\n会場：会場不明（大分県）\n結果：0-3\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:cb5ed8a294b0860339c6a1ce13ae2bc39ae8b7f2@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260125T123000
+DTEND;TZID=Asia/Tokyo:20260125T143000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：鶴崎工 vs 大分上野丘\n回戦：準々決勝\n都道府県：大分県\n時刻：12:30\n会場：会場不明（大分県）\n結果：1-2\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:07788f11360e405a9ae8ce3a0c25245442fbf530@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260125T130000
+DTEND;TZID=Asia/Tokyo:20260125T150000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：宮崎農 vs 宮崎工\n都道府県：宮崎県\n時刻：13:00（KO）\n会場：会場不明\n結果：0-6\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:76b03f4ff5be549f2e50f8a290aeafdc337744a4@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260125T130000
+DTEND;TZID=Asia/Tokyo:20260125T150000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：宮崎第一 vs 都城\n都道府県：宮崎県\n時刻：13:00（KO）\n会場：会場不明\n結果：9-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:cb402f877faf8f396d6e78c2016c688917b3f419@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260125T130000
+DTEND;TZID=Asia/Tokyo:20260125T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：東海大福岡 vs 筑紫台\n回戦：準々決勝\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:d8ef72a9ae6a0cae26973a9bfab0acde4988ed71@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260125T130000
+DTEND;TZID=Asia/Tokyo:20260125T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：福大若葉 vs 九州国際大付\n回戦：準々決勝\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：0-3\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:0a4da0c727605b24ee47525f26e521e74a3973c8@masashi
+DTSTAMP:20260205T083533Z
+SEQUENCE:0
+SUMMARY:長崎県／令和7年度長崎新人戦（新人選手権大会）
+DTSTART;TZID=Asia/Tokyo:20260125T140000
+DTEND;TZID=Asia/Tokyo:20260125T160000
+LOCATION:島原市営陸上競技場
+DESCRIPTION:種別：高校／男子\n対戦：国見 vs 長崎日大\n回戦：決勝\n大会：令和7年度長崎新人戦（新人選手権大会）\n都道府県：長崎県\n時刻：14:00（KO）\n結果：1-0\n出典：https://koko-soccer.com/score/4309\n会場根拠：決勝会場は島原市営陸上競技場（記事より）\n出典補足：https://koko-soccer.com/news/5-koukousoccer/52421-2026012501/amp
+END:VEVENT
+BEGIN:VEVENT
+UID:95f81c5683c166ae20dbd121da891a0b19bdb70f@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;TZID=Asia/Tokyo:20260125T140000
+DTEND;TZID=Asia/Tokyo:20260125T160000
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:県民総合運動公園補助競技場
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：準決勝\n対戦：慶誠 vs 秀岳館\n結果：1-3\n時刻：14:00（KO）\n会場：県民総合運動公園補助競技場\n出典：https://kyushu-shinjin.com/result-2025/kumamoto-result-2025/13478/ ／ https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:115a6288f658d969a4278fbba3cce3648bd59ffe@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：那覇西 
+ vs コザ\n結果：4-0\n大会：令和7年度第60回沖縄県高等学
+ 校新人体育大会サッカー競技\n都道府県：沖縄県\n時刻
+ ：未確定\n会場：会場不明（沖縄県）\n出典：https://www.ju
+ niorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:19def571c52ce3d206346d8f636201cdf273c0ed@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：西原 vs 
+ 浦添\n結果：5-0\n大会：令和7年度第60回沖縄県高等学校
+ 新人体育大会サッカー競技\n都道府県：沖縄県\n時刻：
+ 未確定\n会場：会場不明（沖縄県）\n出典：https://www.junio
+ rsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:203545a0bf07dda2f742837d6824269aefdb7396@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：糸満 vs 
+ 前原\n結果：0-4\n大会：令和7年度第60回沖縄県高等学校
+ 新人体育大会サッカー競技\n都道府県：沖縄県\n時刻：
+ 未確定\n会場：会場不明（沖縄県）\n出典：https://www.junio
+ rsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:2865063f145482c4b8877313a715d03545bdb3b8@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：小禄 vs 
+ 那覇国際\n結果：0-1\n大会：令和7年度第60回沖縄県高等
+ 学校新人体育大会サッカー競技\n都道府県：沖縄県\n時
+ 刻：未確定\n会場：会場不明（沖縄県）\n出典：https://www
+ .juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:38302a36044453d163491edd416fc6bc1e88a522@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：名護 vs 
+ 沖縄工業\n結果：7-0\n大会：令和7年度第60回沖縄県高等
+ 学校新人体育大会サッカー競技\n都道府県：沖縄県\n時
+ 刻：未確定\n会場：会場不明（沖縄県）\n出典：https://www
+ .juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:477296b482fe7a22de279e5f70a1d0845724f35c@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：向陽 vs 
+ 宜野湾\n結果：0-6\n大会：令和7年度第60回沖縄県高等学
+ 校新人体育大会サッカー競技\n都道府県：沖縄県\n時刻
+ ：未確定\n会場：会場不明（沖縄県）\n出典：https://www.ju
+ niorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:b26ae2e497890aa17f6315ad344836aa32f53e20@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：普天間 
+ vs KBC\n結果：1-1(PK3-5)\n大会：令和7年度第60回沖縄県高等
+ 学校新人体育大会サッカー競技\n都道府県：沖縄県\n時
+ 刻：未確定\n会場：会場不明（沖縄県）\n出典：https://www
+ .juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:e60b94b4d20a6513b04e7ca3703c4636b8c28b2d@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：3回戦\n対戦：具志川 
+ vs 知念\n結果：2-0\n大会：令和7年度第60回沖縄県高等学
+ 校新人体育大会サッカー競技\n都道府県：沖縄県\n時刻
+ ：未確定\n会場：会場不明（沖縄県）\n出典：https://www.ju
+ niorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:3dd777ad3dd44b4e3c0e77358e0daab908d363d0@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260126T110000
+DTEND;TZID=Asia/Tokyo:20260126T130000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：準々決勝\n対戦：宮崎西 vs 宮崎日大\n都道府県：宮崎県\n時刻：11:00（KO）\n会場：会場不明\n結果：2-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:5175789d33a0c9edd092a8df3b6d8a7271a5d54a@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260126T110000
+DTEND;TZID=Asia/Tokyo:20260126T130000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：準々決勝\n対戦：日章学園 vs 都城農\n都道府県：宮崎県\n時刻：11:00（KO）\n会場：会場不明\n結果：3-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:a0b9fb35260989b705b2b8c26c126bafab47d722@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260126T130000
+DTEND;TZID=Asia/Tokyo:20260126T150000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：準々決勝\n対戦：宮崎第一 vs 宮崎工\n都道府県：宮崎県\n時刻：13:00（KO）\n会場：会場不明\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:b87874ce40af783c2bc3bf6b4b6d1a3edfc8287a@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260126T130000
+DTEND;TZID=Asia/Tokyo:20260126T150000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：準々決勝\n対戦：鵬翔 vs 延岡学園\n都道府県：宮崎県\n時刻：13:00（KO）\n会場：会場不明\n結果：5-2\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:2f832bc697457b942e146f60a512da789d6662b9@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260128
+SUMMARY:宮崎県／結果速報
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:出典：九州高校サッカー新人戦予選大会特設サイト（結果速報）\n準決勝：鵬翔-宮崎西／日章学園-宮崎第一、決勝：日章学園-鵬翔\
+ n回戦等：決勝
+END:VEVENT
+BEGIN:VEVENT
+UID:5e3d215bf7b12177bfdf83f81effca4b6e2bf4c4@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260127T100000
+DTEND;TZID=Asia/Tokyo:20260127T120000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：準決勝\n対戦：鵬翔 vs 宮崎西\n都道府県：宮崎県\n時刻：10:00（KO）\n会場：会場不明\n結果：1-1 PK 9-8\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:88662fc341e6812fcb24aff73b4f3dd4517ffdbc@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260127T100000
+DTEND;TZID=Asia/Tokyo:20260127T120000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：準決勝\n対戦：日章学園 vs 宮崎第一\n都道府県：宮崎県\n時刻：10:00（KO）\n会場：会場不明\n結果：2-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:ace3f80114b3ec770b99eec78bc86dcf5c3ecba8@my-ics
+DTSTAMP:20260205T082337Z
+DTSTART;TZID=Asia/Tokyo:20260127T140000
+DTEND;TZID=Asia/Tokyo:20260127T160000
+SUMMARY:宮崎県／令和7年度宮崎新人戦（新人選手権大会）
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:種別：高校／男子\n回戦：決勝\n対戦：日章学園 vs 鵬翔\n都道府県：宮崎県\n時刻：14:00（KO）\n会場：会場不明\n結果：2-1\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4267
+END:VEVENT
+BEGIN:VEVENT
+UID:013fd9f930cfa86ead6d28436346ad7ab8e060d3@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：準々決勝\n対戦：名
+ 護 vs 宜野湾\n結果：1-3\n大会：令和7年度第60回沖縄県高
+ 等学校新人体育大会サッカー競技\n都道府県：沖縄県\n
+ 時刻：未確定\n会場：会場不明（沖縄県）\n出典：https://
+ www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:60b87f089c3ae8ab17cc899e45b81aec48ca798a@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：準々決勝\n対戦：具
+ 志川 vs 前原\n結果：0-2\n大会：令和7年度第60回沖縄県高
+ 等学校新人体育大会サッカー競技\n都道府県：沖縄県\n
+ 時刻：未確定\n会場：会場不明（沖縄県）\n出典：https://
+ www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:a1598e90f5e0f7601f50d49f8e8b5f8e113cbfcf@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：準々決勝\n対戦：那
+ 覇西 vs 那覇国際\n結果：5-0\n大会：令和7年度第60回沖縄
+ 県高等学校新人体育大会サッカー競技\n都道府県：沖縄
+ 県\n時刻：未確定\n会場：会場不明（沖縄県）\n出典：htt
+ ps://www.juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:f398c26cb919ca13b7fd7ad3fad460158a5a019c@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：準々決勝\n対戦：西
+ 原 vs KBC\n結果：1-2\n大会：令和7年度第60回沖縄県高等学
+ 校新人体育大会サッカー競技\n都道府県：沖縄県\n時刻
+ ：未確定\n会場：会場不明（沖縄県）\n出典：https://www.ju
+ niorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:94fad79429130190c4c2df84ed31b331295a966f@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：準決勝\n対戦：那覇
+ 西 vs 前原\n結果：2-1\n大会：令和7年度第60回沖縄県高等
+ 学校新人体育大会サッカー競技\n都道府県：沖縄県\n時
+ 刻：未確定\n会場：会場不明（沖縄県）\n出典：https://www
+ .juniorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:e5913c3a1b0275ced4e15059b9d489ed4439a4f0@my-ics
+DTSTAMP:20260205T075209Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:沖縄県／沖縄県/令和7年度第60回沖縄県高等学校新人体育大
+ 会サッカー競技
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:種別：高校／男子\n回戦：準決勝\n対戦：宜野
+ 湾 vs KBC\n結果：1-0\n大会：令和7年度第60回沖縄県高等学
+ 校新人体育大会サッカー競技\n都道府県：沖縄県\n時刻
+ ：未確定\n会場：会場不明（沖縄県）\n出典：https://www.ju
+ niorsoccer-news.com/post-1877504
+END:VEVENT
+BEGIN:VEVENT
+UID:4db488b3d6dcc9a1ec21f34acde23f40f0fa37c6@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀商 vs 龍谷\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：準決勝\n結果：0-1\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:60e78b8664a3a63503f6f331c0eb80af4e0af45e@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀東 vs 佐賀清和\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：準決勝\n結果：3-0\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:cd1e0fb82edc38cc848a5393d8c49e9e22cd1528@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:福岡県／結果速報
+LOCATION:会場不明（福岡県）
+DESCRIPTION:出典：九州高校サッカー新人戦予選大会特設サイト（結果速報）\n準決勝：東福岡-九国大付／東海大福岡-飯塚\n回戦等：決勝
+END:VEVENT
+BEGIN:VEVENT
+UID:d8bf6cc5d1b2e965f3b21cf9f531fa8a6d7a0a17@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:沖縄県／結果速報
+LOCATION:会場不明（沖縄県）
+DESCRIPTION:出典：九州高校サッカー新人戦予選大会特設サイト（結果速報）\n決勝：那覇西-宜野湾\n回戦等：決勝
+END:VEVENT
+BEGIN:VEVENT
+UID:edd176f804dfcaa5825e6628799e07d7592da9b8@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:大分県／結果速報
+LOCATION:会場不明（大分県）
+DESCRIPTION:出典：九州高校サッカー新人戦予選大会特設サイト（結果速報）\n準決勝：大分鶴崎-柳ヶ浦／大分上野丘-大分\n回戦等：決勝
+END:VEVENT
+BEGIN:VEVENT
+UID:c164021cd90bdb1a85290f8a02c7c8b1aede4e5f@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260131T100000
+DTEND;TZID=Asia/Tokyo:20260131T120000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分鶴崎 vs 柳ヶ浦\n回戦：準決勝\n都道府県：大分県\n時刻：10:00\n会場：会場不明（大分県）\n結果：未確定\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:3431cab02cc54ac952b5dad0b18332da758d95aa@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260131T110000
+DTEND;TZID=Asia/Tokyo:20260131T130000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：東福岡 vs 九州国際大付\n回戦：準決勝\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：11:00\n会場：会場不明（福岡県）\n結果：1-1 PK7-6\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:b2a6e95a03fa178c2a506d556ffa596b384257ed@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260131T123000
+DTEND;TZID=Asia/Tokyo:20260131T143000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:会場不明（大分県）
+DESCRIPTION:種別：高校男子\n対戦：大分上野丘 vs 大分\n回戦：準決勝\n都道府県：大分県\n時刻：12:30\n会場：会場不明（大分県）\n結果：未確定\n出典：https://koko-soccer.com/score/4288
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:c0a3bed268705325378a935f880751bce27bee2b@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260131T130000
+DTEND;TZID=Asia/Tokyo:20260131T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：東海大福岡 vs 飯塚\n回戦：準決勝\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：0-4\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:16f40e160fefb570c9a346ae3dc6945f73834d22@my-ics
+DTSTAMP:20260205T083946Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:佐賀県／令和7年度佐賀新人戦（新人選手権大会）
+LOCATION:会場不明（佐賀県）
+DESCRIPTION:種別：高校／男子\n対戦：佐賀東 vs 龍谷\n大会：令和7年度佐賀新人戦（新人選手権大会）\n都道府県：佐賀県\n時刻：未確定\n会場：会場不明\n回戦：決勝\n結果：5-2\n出典：https://koko-soccer.com/score/4287
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:6d60d2161503d4bf90f328c4345b96583a8c0d9d@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:熊本県／結果速報
+LOCATION:会場不明（熊本県）
+DESCRIPTION:出典：九州高校サッカー新人戦予選大会特設サイト（結果速報）\n決勝：大津-秀岳館\n回戦等：決勝
+END:VEVENT
+BEGIN:VEVENT
+UID:7d532dc72ab674c02d640edcedc5df28ed5c1b0c@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:福岡県／結果速報
+LOCATION:会場不明（福岡県）
+DESCRIPTION:出典：九州高校サッカー新人戦予選大会特設サイト（結果速報）\n決勝：東福岡-飯塚\n回戦等：決勝
+END:VEVENT
+BEGIN:VEVENT
+UID:b202b8a49fa1fa3e6215caab29a693dd875c1262@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:熊本県／結果速報
+LOCATION:会場不明（熊本県）
+DESCRIPTION:出典：九州高校サッカー新人戦予選大会特設サイト（結果速報）\n3位決定戦：熊本商業-慶誠\n回戦等：3位決定
+END:VEVENT
+BEGIN:VEVENT
+UID:e5d97113359d7cd10c51f7019e4dd02e49928e5d@my-ics
+DTSTAMP:20260203T070559Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:大分県／結果速報
+LOCATION:会場不明（大分県）
+DESCRIPTION:出典：九州高校サッカー新人戦予選大会特設サイト（結果速報）\n決勝：大分鶴崎-大分\n回戦等：決勝
+END:VEVENT
+BEGIN:VEVENT
+UID:df45e1d8e6c2cf24bee2998da8b2fc7fae7bf63d@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;TZID=Asia/Tokyo:20260201T100000
+DTEND;TZID=Asia/Tokyo:20260201T120000
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:えがお健康スタジアム
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：3位決定戦\n対戦：熊本商業 vs 慶誠\n結果：5-0\n時刻：10:00（KO）\n会場：えがお健康スタジアム\n出典：https://kyushu-shinjin.com/result-2025/kumamoto-result-2025/13479/ ／ https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
+BEGIN:VEVENT
+UID:f9a77cae5b0fc2a240558b854439f6c022ec237e@masashi
+DTSTAMP:20260205T083553Z
+SEQUENCE:0
+SUMMARY:長崎県／長崎スタジアムシティU-18ファイナルカップ
+DTSTART;TZID=Asia/Tokyo:20260201T100000
+DTEND;TZID=Asia/Tokyo:20260201T120000
+LOCATION:PEACE STADIUM Connected by SoftBank
+DESCRIPTION:種別：高校／男子（U-18交流）\n対戦：V・ファーレン長崎U-18 vs 長崎総合科学大学附属高等学校\n回戦：第1試合\n大会：長崎スタジアムシティU-18ファイナルカップ～サッカーには夢がある～\n都道府県：長崎県\n時刻：10:00（KO）\n備考：（試合方式：40分）\n出典：https://www.nagasakistadiumcity.com/20260126-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:32901b7b2b8686e7ca193b20d575ae837223c9c6@my-ics
+DTSTAMP:20260205T082846Z
+DTSTART;TZID=Asia/Tokyo:20260201T123000
+DTEND;TZID=Asia/Tokyo:20260201T143000
+SUMMARY:大分県／令和7年度大分新人戦（新人選手権大会）
+LOCATION:大分県スポーツ公園サッカー場(Aコート)
+DESCRIPTION:種別：高校男子\n対戦：大分鶴崎 vs 大分\n回戦：決勝\n都道府県：大分県\n時刻：12:30\n会場：大分県スポーツ公園サッカー場(Aコート)\n結果：2-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4288 / 九州高校サッカー新人戦ライブ配信公式サイト https://kyushu-shinjin.com/result-2025/oita-result-2025/13656/
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:0735b8c0cfbb453b4e8f034f7fead9a5915f6148@my-ics
+DTSTAMP:20260205T084551Z
+DTSTART;TZID=Asia/Tokyo:20260201T130000
+DTEND;TZID=Asia/Tokyo:20260201T150000
+SUMMARY:福岡県／令和7年度福岡新人戦（新人選手権大会）
+LOCATION:会場不明（福岡県）
+DESCRIPTION:種別：高校／男子\n対戦：東福岡 vs 飯塚\n回戦：決勝\n大会：令和7年度福岡新人戦（新人選手権大会）\n都道府県：福岡県\n時刻：13:00\n会場：会場不明（福岡県）\n結果：1-0\n出典：高校サッカードットコム（大会日程・結果） https://koko-soccer.com/score/4258
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:bf32942e9d062c99377287aace2b3307575ebaf0@masashi
+DTSTAMP:20260205T083553Z
+SEQUENCE:0
+SUMMARY:長崎県／長崎スタジアムシティU-18ファイナルカップ
+DTSTART;TZID=Asia/Tokyo:20260201T140000
+DTEND;TZID=Asia/Tokyo:20260201T160000
+LOCATION:PEACE STADIUM Connected by SoftBank
+DESCRIPTION:種別：高校／男子（U-18交流）\n対戦：九州文化学園 vs 第1試合の勝利チーム（未確定）\n回戦：決勝\n大会：長崎スタジアムシティU-18ファイナルカップ～サッカーには夢がある～\n都道府県：長崎県\n時刻：14:00（KO）\n備考：（勝者が相手）\n出典：https://www.nagasakistadiumcity.com/20260126-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:f801c2372cc7f842a77b26c2fefa5cfe85658aa9@my-ics
+DTSTAMP:20260205T081543Z
+DTSTART;TZID=Asia/Tokyo:20260201T140000
+DTEND;TZID=Asia/Tokyo:20260201T160000
+SUMMARY:熊本県／県下高校サッカー大会
+LOCATION:えがお健康スタジアム
+DESCRIPTION:種別：高校／男子\n都道府県：熊本県\n大会：令和7年度 県下高校サッカー大会（新人）\n回戦：決勝\n対戦：大津 vs 秀岳館\n結果：vs\n時刻：14:00（KO）\n会場：えがお健康スタジアム\n出典：https://kyushu-shinjin.com/result-2025/kumamoto-result-2025/13480/ ／ https://kyushu-shinjin.com/page-12928/ ／ https://kumamoto-fa.net/match/2026/01/15003143/
+END:VEVENT
 BEGIN:VEVENT
 UID:soccer_kyushu_okinawa_hs_boys-8f6ccefc2129ecb709ce@my-ics
 DTSTAMP:20260216T083249Z
@@ -17,32 +3281,6 @@ DESCRIPTION:ステージ：ブロックリーグ\n対戦：日章学園 vs
  ps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5%b7%9e%e9
  %ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%
  e5%a4%a7%e4%bc%9a/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_kyushu_okinawa_hs_boys-e1a765adc9f5875adca6@my-ics
-DTSTAMP:20260216T083249Z
-SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260214T093000
-SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
-LOCATION:会場不明（宮崎県）
-DESCRIPTION:ステージ：ブロックリーグ\n対戦：宜野湾 vs 佐
- 賀東\n結果：0 - 4\n出典：\nhttps://koko-soccer.com/score/4324\nhtt
- ps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5%b7%9e%e9
- %ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%
- e5%a4%a7%e4%bc%9a/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_kyushu_okinawa_hs_boys-bf519a484dbca87f3ca6@my-ics
-DTSTAMP:20260216T083249Z
-SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260214T093000
-SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
-LOCATION:会場不明（宮崎県）
-DESCRIPTION:ステージ：ブロックリーグ\n対戦：大津 vs 鵬翔
- \n結果：3 - 1\n出典：\nhttps://koko-soccer.com/score/4324\nhttps://k
- yushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5%b7%9e%e9%ab%98
- %e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%e5%a4%
- a7%e4%bc%9a/
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_kyushu_okinawa_hs_boys-a212f2ac30af3b325a30@my-ics
@@ -58,27 +3296,27 @@ DESCRIPTION:ステージ：ブロックリーグ\n対戦：龍谷 vs 国見
  a7%e4%bc%9a/
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_kyushu_okinawa_hs_boys-ffdef4db268bf0484155@my-ics
+UID:soccer_kyushu_okinawa_hs_boys-bf519a484dbca87f3ca6@my-ics
 DTSTAMP:20260216T083249Z
 SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260214T113000
+DTSTART;TZID=Asia/Tokyo:20260214T093000
 SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
 LOCATION:会場不明（宮崎県）
-DESCRIPTION:ステージ：ブロックリーグ\n対戦：那覇西 vs 秀
- 岳館\n結果：2 - 1\n出典：\nhttps://koko-soccer.com/score/4324\nhtt
- ps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5%b7%9e%e9
- %ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%
- e5%a4%a7%e4%bc%9a/
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：大津 vs 鵬翔
+ \n結果：3 - 1\n出典：\nhttps://koko-soccer.com/score/4324\nhttps://k
+ yushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5%b7%9e%e9%ab%98
+ %e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%e5%a4%
+ a7%e4%bc%9a/
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_kyushu_okinawa_hs_boys-dacd367876ed396e6af1@my-ics
+UID:soccer_kyushu_okinawa_hs_boys-e1a765adc9f5875adca6@my-ics
 DTSTAMP:20260216T083249Z
 SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260214T113000
+DTSTART;TZID=Asia/Tokyo:20260214T093000
 SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
 LOCATION:会場不明（宮崎県）
-DESCRIPTION:ステージ：ブロックリーグ\n対戦：大分 vs 神村
- 学園\n結果：0 - 2\n出典：\nhttps://koko-soccer.com/score/4324\nhtt
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：宜野湾 vs 佐
+ 賀東\n結果：0 - 4\n出典：\nhttps://koko-soccer.com/score/4324\nhtt
  ps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5%b7%9e%e9
  %ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%
  e5%a4%a7%e4%bc%9a/
@@ -110,43 +3348,30 @@ DESCRIPTION:ステージ：ブロックリーグ\n対戦：長崎日大 vs
  83%bc%e5%a4%a7%e4%bc%9a/
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_kyushu_okinawa_hs_boys-427f9bb6ac6f2e5d8a52@my-ics
+UID:soccer_kyushu_okinawa_hs_boys-dacd367876ed396e6af1@my-ics
 DTSTAMP:20260216T083249Z
 SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260214T133000
+DTSTART;TZID=Asia/Tokyo:20260214T113000
 SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
 LOCATION:会場不明（宮崎県）
-DESCRIPTION:ステージ：ブロックリーグ\n対戦：日章学園 vs 
- 宜野湾\n結果：10 - 0\n出典：\nhttps://koko-soccer.com/score/4324\
- nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5%b7%9
- e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%e3%83
- %bc%e5%a4%a7%e4%bc%9a/
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：大分 vs 神村
+ 学園\n結果：0 - 2\n出典：\nhttps://koko-soccer.com/score/4324\nhtt
+ ps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5%b7%9e%e9
+ %ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%
+ e5%a4%a7%e4%bc%9a/
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_kyushu_okinawa_hs_boys-93ca797f0aad52eccd88@my-ics
+UID:soccer_kyushu_okinawa_hs_boys-ffdef4db268bf0484155@my-ics
 DTSTAMP:20260216T083249Z
 SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260214T133000
+DTSTART;TZID=Asia/Tokyo:20260214T113000
 SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
 LOCATION:会場不明（宮崎県）
-DESCRIPTION:ステージ：ブロックリーグ\n対戦：飯塚 vs 佐賀
- 東\n結果：1 - 0\n出典：\nhttps://koko-soccer.com/score/4324\nhttps:
- //kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5%b7%9e%e9%ab
- %98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%e5%
- a4%a7%e4%bc%9a/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_kyushu_okinawa_hs_boys-4461f689b5b8e522eb2c@my-ics
-DTSTAMP:20260216T083249Z
-SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260214T133000
-SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
-LOCATION:会場不明（宮崎県）
-DESCRIPTION:ステージ：ブロックリーグ\n対戦：大津 vs 龍谷
- \n結果：1 - 0\n出典：\nhttps://koko-soccer.com/score/4324\nhttps://k
- yushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5%b7%9e%e9%ab%98
- %e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%e5%a4%
- a7%e4%bc%9a/
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：那覇西 vs 秀
+ 岳館\n結果：2 - 1\n出典：\nhttps://koko-soccer.com/score/4324\nhtt
+ ps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5%b7%9e%e9
+ %ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%
+ e5%a4%a7%e4%bc%9a/
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_kyushu_okinawa_hs_boys-044aedfbc0605f193a2c@my-ics
@@ -162,14 +3387,40 @@ DESCRIPTION:ステージ：ブロックリーグ\n対戦：鵬翔 vs 国見
  a7%e4%bc%9a/
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_kyushu_okinawa_hs_boys-97ba368331da8c01c386@my-ics
+UID:soccer_kyushu_okinawa_hs_boys-427f9bb6ac6f2e5d8a52@my-ics
 DTSTAMP:20260216T083249Z
 SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260214T153000
+DTSTART;TZID=Asia/Tokyo:20260214T133000
 SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
 LOCATION:会場不明（宮崎県）
-DESCRIPTION:ステージ：ブロックリーグ\n対戦：那覇西 vs 大
- 分\n結果：1 - 0\n出典：\nhttps://koko-soccer.com/score/4324\nhttps:
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：日章学園 vs 
+ 宜野湾\n結果：10 - 0\n出典：\nhttps://koko-soccer.com/score/4324\
+ nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5%b7%9
+ e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%e3%83
+ %bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-4461f689b5b8e522eb2c@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260214T133000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：大津 vs 龍谷
+ \n結果：1 - 0\n出典：\nhttps://koko-soccer.com/score/4324\nhttps://k
+ yushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5%b7%9e%e9%ab%98
+ %e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%e5%a4%
+ a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-93ca797f0aad52eccd88@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260214T133000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：飯塚 vs 佐賀
+ 東\n結果：1 - 0\n出典：\nhttps://koko-soccer.com/score/4324\nhttps:
  //kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5%b7%9e%e9%ab
  %98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%e5%
  a4%a7%e4%bc%9a/
@@ -201,6 +3452,19 @@ DESCRIPTION:ステージ：ブロックリーグ\n対戦：東福岡 vs 長
  bc%e5%a4%a7%e4%bc%9a/
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-97ba368331da8c01c386@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260214T153000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：那覇西 vs 大
+ 分\n結果：1 - 0\n出典：\nhttps://koko-soccer.com/score/4324\nhttps:
+ //kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5%b7%9e%e9%ab
+ %98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%e5%
+ a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
 UID:soccer_kyushu_okinawa_hs_boys-c172a6b0685736478815@my-ics
 DTSTAMP:20260216T083249Z
 SEQUENCE:0
@@ -212,19 +3476,6 @@ DESCRIPTION:ステージ：ブロックリーグ\n対戦：鹿児島城西
  4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5
  %b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%
  e3%83%bc%e5%a4%a7%e4%bc%9a/
-END:VEVENT
-BEGIN:VEVENT
-UID:soccer_kyushu_okinawa_hs_boys-d57e58c6ba0df5ec5aed@my-ics
-DTSTAMP:20260216T083249Z
-SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260215T100000
-SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
-LOCATION:会場不明（宮崎県）
-DESCRIPTION:ステージ：ブロックリーグ\n対戦：大分鶴崎 vs 
- 日章学園\n結果：0 - 0\n出典：\nhttps://koko-soccer.com/score/432
- 4\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5%b7
- %9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%e3%
- 83%bc%e5%a4%a7%e4%bc%9a/
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_kyushu_okinawa_hs_boys-19681ab3b9708172df41@my-ics
@@ -251,6 +3502,19 @@ DESCRIPTION:ステージ：ブロックリーグ\n対戦：宜野湾 vs 大
  //kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5%b7%9e%e9%ab
  %98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%e5%
  a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-d57e58c6ba0df5ec5aed@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260215T100000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：大分鶴崎 vs 
+ 日章学園\n結果：0 - 0\n出典：\nhttps://koko-soccer.com/score/432
+ 4\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5%b7
+ %9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%e3%
+ 83%bc%e5%a4%a7%e4%bc%9a/
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_kyushu_okinawa_hs_boys-f35a65211df4ba9d8cdd@my-ics
@@ -292,6 +3556,19 @@ DESCRIPTION:ステージ：ブロックリーグ\n対戦：神村学園 vs
  bc%e5%a4%a7%e4%bc%9a/
 END:VEVENT
 BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-bca35ae8790fbb94da68@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260215T120000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：ブロックリーグ\n対戦：大分鶴崎 vs 
+ 鹿児島城西\n結果：4 - 0\n出典：\nhttps://koko-soccer.com/score/
+ 4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5
+ %b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%
+ e3%83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
 UID:soccer_kyushu_okinawa_hs_boys-ff8c335e7a15a68a1479@my-ics
 DTSTAMP:20260216T083249Z
 SEQUENCE:0
@@ -305,17 +3582,17 @@ DESCRIPTION:ステージ：ブロックリーグ\n対戦：大分 vs 東福
  a4%a7%e4%bc%9a/
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_kyushu_okinawa_hs_boys-bca35ae8790fbb94da68@my-ics
+UID:soccer_kyushu_okinawa_hs_boys-427493755f5a770d13f0@my-ics
 DTSTAMP:20260216T083249Z
 SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260215T120000
+DTSTART;TZID=Asia/Tokyo:20260216T100000
 SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
 LOCATION:会場不明（宮崎県）
-DESCRIPTION:ステージ：ブロックリーグ\n対戦：大分鶴崎 vs 
- 鹿児島城西\n結果：4 - 0\n出典：\nhttps://koko-soccer.com/score/
- 4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5
- %b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%
- e3%83%bc%e5%a4%a7%e4%bc%9a/
+DESCRIPTION:ステージ：決勝トーナメント1回戦\n対戦：飯塚
+  vs 鹿児島城西\n結果：2 - 0\n出典：\nhttps://koko-soccer.com/sc
+ ore/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9
+ d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82
+ %ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_kyushu_okinawa_hs_boys-76bb41517ed9c2b6706a@my-ics
@@ -344,19 +3621,6 @@ DESCRIPTION:ステージ：決勝トーナメント1回戦\n対戦：国見
  %83%bc%e5%a4%a7%e4%bc%9a/
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_kyushu_okinawa_hs_boys-427493755f5a770d13f0@my-ics
-DTSTAMP:20260216T083249Z
-SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260216T100000
-SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
-LOCATION:会場不明（宮崎県）
-DESCRIPTION:ステージ：決勝トーナメント1回戦\n対戦：飯塚
-  vs 鹿児島城西\n結果：2 - 0\n出典：\nhttps://koko-soccer.com/sc
- ore/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9
- d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82
- %ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
-END:VEVENT
-BEGIN:VEVENT
 UID:soccer_kyushu_okinawa_hs_boys-b035c86df3e446e525d4@my-ics
 DTSTAMP:20260216T083249Z
 SEQUENCE:0
@@ -370,19 +3634,6 @@ DESCRIPTION:ステージ：決勝トーナメント1回戦\n対戦：大分
  %e3%83%bc%e5%a4%a7%e4%bc%9a/
 END:VEVENT
 BEGIN:VEVENT
-UID:soccer_kyushu_okinawa_hs_boys-f978ac20f71de56d35db@my-ics
-DTSTAMP:20260216T083249Z
-SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260216T140000
-SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
-LOCATION:会場不明（宮崎県）
-DESCRIPTION:ステージ：決勝トーナメント準決勝\n対戦：日
- 章学園 vs 国見\n結果：1 - 1 PK 7 - 6\n出典：\nhttps://koko-socc
- er.com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9
- e%e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83
- %83%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
-END:VEVENT
-BEGIN:VEVENT
 UID:soccer_kyushu_okinawa_hs_boys-0bd0851aba5e4894db8d@my-ics
 DTSTAMP:20260216T083249Z
 SEQUENCE:0
@@ -394,6 +3645,19 @@ DESCRIPTION:ステージ：決勝トーナメント準決勝\n対戦：飯
  24\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9e%e4%b9%9d%e5%b
  7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83%83%e3%82%ab%e3
  %83%bc%e5%a4%a7%e4%bc%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:soccer_kyushu_okinawa_hs_boys-f978ac20f71de56d35db@my-ics
+DTSTAMP:20260216T083249Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260216T140000
+SUMMARY:宮崎県／KYFA第47回九州高等学校U-17サッカー大会
+LOCATION:会場不明（宮崎県）
+DESCRIPTION:ステージ：決勝トーナメント準決勝\n対戦：日
+ 章学園 vs 国見\n結果：1 - 1 PK 7 - 6\n出典：\nhttps://koko-socc
+ er.com/score/4324\nhttps://kyushu-fa.jp/2026-02-15/kyfa%e7%ac%ac47%e5%9b%9
+ e%e4%b9%9d%e5%b7%9e%e9%ab%98%e7%ad%89%e5%ad%a6%e6%a0%a1u-17%e3%82%b5%e3%83
+ %83%e3%82%ab%e3%83%bc%e5%a4%a7%e4%bc%9a/
 END:VEVENT
 BEGIN:VEVENT
 UID:soccer_kyushu_okinawa_hs_boys-a018f27c1b8e3a77bf23@my-ics
