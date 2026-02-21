@@ -39,6 +39,7 @@ GitHub上のICS（source of truth）→ Notion Database へ自動同期するス
 import os
 import sys
 import hashlib
+from pathlib import Path
 from datetime import datetime, date, time
 from zoneinfo import ZoneInfo
 from notion_client import Client
