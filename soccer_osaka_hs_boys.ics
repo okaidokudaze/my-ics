@@ -17,142 +17,142 @@ X-WR-CALDESC:大阪府内（会場不明含む）の高校男子サッカ
 BEGIN:VEVENT
 UID:f481e48039c951aabe3e92fd3bf9f448@masashi.local
 DTSTAMP:20260221T040657Z
-SEQUENCE:1
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T091500
 DTEND;TZID=Asia/Tokyo:20251207T111500
 SUMMARY:帝塚山泉ヶ丘 vs 大阪立命館
 LOCATION:帝塚山泉ヶ丘
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
- リーグ2025 OSAKA 2部AB\\nラウンド：2A90\\n区分：予定\\n確度
- ：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6
- /2025/11/U18_div2_sche.pdf\\n対戦：帝塚山泉ヶ丘 vs 大阪立命館
- \\n節/ラウンド：2A90
+ リーグ2025 OSAKA 2部AB\\nラウンド：2A90\\n区分：結果\\nスコ
+ ア：0-3\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
+ nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：帝塚山泉ヶ丘 
+ vs 大阪立命館\\n節/ラウンド：2A90
 END:VEVENT
 BEGIN:VEVENT
 UID:d61dc6e36bc5fc8449fe20ce5216a21c@masashi.local
 DTSTAMP:20260221T040657Z
-SEQUENCE:1
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T094500
 DTEND;TZID=Asia/Tokyo:20251207T114500
 SUMMARY:セレッソ大阪B vs 東大阪大柏原
 LOCATION:セレッソ舞洲人工芝
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
- リーグ2025 OSAKA 2部AB\\nラウンド：2A87\\n区分：予定\\n確度
- ：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6
- /2025/11/U18_div2_sche.pdf\\n対戦：セレッソ大阪B vs 東大阪大
- 柏原\\n節/ラウンド：2A87
+ リーグ2025 OSAKA 2部AB\\nラウンド：2A87\\n区分：結果\\nスコ
+ ア：5-0\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
+ nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：セレッソ大阪B
+  vs 東大阪大柏原\\n節/ラウンド：2A87
 END:VEVENT
 BEGIN:VEVENT
 UID:e55387074f873176548b7cd60f56f8ab@masashi.local
 DTSTAMP:20260221T040657Z
-SEQUENCE:1
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T113000
 DTEND;TZID=Asia/Tokyo:20251207T133000
 SUMMARY:桜宮 vs 商大高
 LOCATION:帝塚山泉ヶ丘
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
- リーグ2025 OSAKA 2部AB\\nラウンド：2B83\\n区分：予定\\n確度
- ：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6
- /2025/11/U18_div2_sche.pdf\\n対戦：桜宮 vs 商大高\\n節/ラウン
- ド：2B83
+ リーグ2025 OSAKA 2部AB\\nラウンド：2B83\\n区分：結果\\nスコ
+ ア：2-1\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
+ nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：桜宮 vs 商大高
+ \\n節/ラウンド：2B83
 END:VEVENT
 BEGIN:VEVENT
 UID:f1a8d38f99df5ae26fa3e831709601e8@masashi.local
 DTSTAMP:20260221T040657Z
-SEQUENCE:1
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T120000
 DTEND;TZID=Asia/Tokyo:20251207T140000
 SUMMARY:摂津 vs 大阪学院B
 LOCATION:摂津
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
- リーグ2025 OSAKA 2部AB\\nラウンド：2B84\\n区分：予定\\n確度
- ：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6
- /2025/11/U18_div2_sche.pdf\\n対戦：摂津 vs 大阪学院B\\n節/ラウ
- ンド：2B84
+ リーグ2025 OSAKA 2部AB\\nラウンド：2B84\\n区分：結果\\nスコ
+ ア：1-4\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
+ nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：摂津 vs 大阪学
+ 院B\\n節/ラウンド：2B84
 END:VEVENT
 BEGIN:VEVENT
 UID:f36a0509f487c51a30996a6a132c532d@masashi.local
 DTSTAMP:20260221T040657Z
-SEQUENCE:1
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T123000
 DTEND;TZID=Asia/Tokyo:20251207T143000
 SUMMARY:清明学院 vs ガンバ大阪B
 LOCATION:セレッソ舞洲人工芝
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
- リーグ2025 OSAKA 2部AB\\nラウンド：2B81\\n区分：予定\\n確度
- ：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6
- /2025/11/U18_div2_sche.pdf\\n対戦：清明学院 vs ガンバ大阪B\\n
- 節/ラウンド：2B81
+ リーグ2025 OSAKA 2部AB\\nラウンド：2B81\\n区分：結果\\nスコ
+ ア：1-1\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
+ nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：清明学院 vs ガ
+ ンバ大阪B\\n節/ラウンド：2B81
 END:VEVENT
 BEGIN:VEVENT
 UID:aad4cfd5312b8fe907d90642616bd123@masashi.local
 DTSTAMP:20260221T040657Z
-SEQUENCE:1
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T140000
 DTEND;TZID=Asia/Tokyo:20251207T160000
 SUMMARY:香里ヌヴェール vs 大阪桐蔭B
 LOCATION:近大附属
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
- リーグ2025 OSAKA 2部AB\\nラウンド：2B85\\n区分：予定\\n確度
- ：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6
- /2025/11/U18_div2_sche.pdf\\n対戦：香里ヌヴェール vs 大阪桐蔭
- B\\n節/ラウンド：2B85
+ リーグ2025 OSAKA 2部AB\\nラウンド：2B85\\n区分：結果\\nスコ
+ ア：2-3\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
+ nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：香里ヌヴェー
+ ル vs 大阪桐蔭B\\n節/ラウンド：2B85
 END:VEVENT
 BEGIN:VEVENT
 UID:4c9dbc40ae73b2b7d6d5d005996ebab2@masashi.local
 DTSTAMP:20260221T040657Z
-SEQUENCE:1
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T140000
 DTEND;TZID=Asia/Tokyo:20251207T160000
 SUMMARY:賢明学院 vs 履正社C
 LOCATION:履正社茨木Ｇ
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
- リーグ2025 OSAKA 2部AB\\nラウンド：2B82\\n区分：予定\\n確度
- ：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6
- /2025/11/U18_div2_sche.pdf\\n対戦：賢明学院 vs 履正社C\\n節/ラ
- ウンド：2B82
+ リーグ2025 OSAKA 2部AB\\nラウンド：2B82\\n区分：結果\\nスコ
+ ア：1-2\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
+ nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：賢明学院 vs 履
+ 正社C\\n節/ラウンド：2B82
 END:VEVENT
 BEGIN:VEVENT
 UID:ef86cfe86b072fa46155e738eefc3992@masashi.local
 DTSTAMP:20260221T040657Z
-SEQUENCE:1
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T141500
 DTEND;TZID=Asia/Tokyo:20251207T161500
 SUMMARY:千里 vs 関大一
 LOCATION:摂津
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
- リーグ2025 OSAKA 2部AB\\nラウンド：2A88\\n区分：予定\\n確度
- ：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6
- /2025/11/U18_div2_sche.pdf\\n対戦：千里 vs 関大一\\n節/ラウン
- ド：2A88
+ リーグ2025 OSAKA 2部AB\\nラウンド：2A88\\n区分：結果\\nスコ
+ ア：2-6\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
+ nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：千里 vs 関大一
+ \\n節/ラウンド：2A88
 END:VEVENT
 BEGIN:VEVENT
 UID:62a4f72c2cd00f6e9556aaf585e113ff@masashi.local
 DTSTAMP:20260221T040657Z
-SEQUENCE:1
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T161500
 DTEND;TZID=Asia/Tokyo:20251207T181500
 SUMMARY:興國C vs 近大附属B
 LOCATION:近大附属
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
- リーグ2025 OSAKA 2部AB\\nラウンド：2A89\\n区分：予定\\n確度
- ：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6
- /2025/11/U18_div2_sche.pdf\\n対戦：興國C vs 近大附属B\\n節/ラウ
- ンド：2A89
+ リーグ2025 OSAKA 2部AB\\nラウンド：2A89\\n区分：結果\\nスコ
+ ア：1-4\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
+ nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：興國C vs 近大
+ 附属B\\n節/ラウンド：2A89
 END:VEVENT
 BEGIN:VEVENT
 UID:eb4bbdeedbf22cb50997551d45368e60@masashi.local
 DTSTAMP:20260221T040657Z
-SEQUENCE:1
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T161500
 DTEND;TZID=Asia/Tokyo:20251207T181500
 SUMMARY:大阪偕星 vs アサンプション
 LOCATION:履正社茨木Ｇ
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
- リーグ2025 OSAKA 2部AB\\nラウンド：2A86\\n区分：予定\\n確度
- ：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6
- /2025/11/U18_div2_sche.pdf\\n対戦：大阪偕星 vs アサンプション
- \\n節/ラウンド：2A86
+ リーグ2025 OSAKA 2部AB\\nラウンド：2A86\\n区分：結果\\nスコ
+ ア：0-5\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
+ nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：大阪偕星 vs ア
+ サンプション\\n節/ラウンド：2A86
 END:VEVENT
 BEGIN:VEVENT
 UID:ad64e17dbbbbe9a61d77318501abf855@masashi.local
@@ -2853,15 +2853,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a919e900e0e4659e@masashi.local
 DTSTAMP:20260221T080754Z
-SEQUENCE:3
+SEQUENCE:4
 DTSTART;TZID=Asia/Tokyo:20260221T090000
 DTEND;TZID=Asia/Tokyo:20260221T110000
 SUMMARY:大商大堺 vs 城陽
 LOCATION:J-GREEN堺 S15
 DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
- ウンド：関西W1\n区分：予定\n確度：確定\n出典：https://ww
- w.bluewave-netto.com/schedule/groups/4\n対戦：大商大堺 vs 城陽\n
- 節/ラウンド：関西W1
+ ウンド：関西W1\n区分：結果\nスコア：1-2\n確度：確定\n
+ 出典：https://www.bluewave-netto.com/schedule/groups/4\n対戦：大商
+ 大堺 vs 城陽\n節/ラウンド：関西W1
 END:VEVENT
 BEGIN:VEVENT
 UID:f4e8b01e1d89db9e@masashi.local
