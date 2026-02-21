@@ -11,10 +11,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:【大阪】男子高校サッカー
 
 X-WR-TIMEZONE:Asia/Tokyo
+X-WR-CALDESC:大阪府内（会場不明含む）の高校男子サッカー予定。出典はDESCRIPTION参照。
 
-X-WR-CALDESC:大阪府内（会場不明含む）の高校男子サッカ
- ー予定。出典はDESCRIPTION参照。
-ッカー予定。出典はDESCRIPTION参照。
 BEGIN:VEVENT
 UID:ad64e17dbbbbe9a61d77318501abf855@masashi.local
 DTSTAMP:20260216T085523Z
