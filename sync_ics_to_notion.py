@@ -1,415 +1,397 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
-GitHub上のICS（source of truth）→ Notion Database へ自動同期するスクリプト（安全版）
+sync_ics_to_notion.py (v4)
+- Notionの「カード(タイトル)」を可能な限り「ホーム vs アウェイ」にする
+- DESCRIPTIONのラベル（種別/大会/ラウンド/区分/確度/出典/スコア/対戦/ホーム/アウェイ）を優先
+- ただし「スコアがある」または「終了時刻が過去」の場合は区分を結果に寄せる（過去なのに予定を防ぐ）
 
-狙い：
-- ICSのDESCRIPTIONに入れたラベル（種別/大会/ラウンド/区分/確度/出典/対戦/スコア 等）を優先してNotionへ反映
-- Notionの「カード（title）」は、可能なら必ず「対戦カード（ホーム vs アウェイ）」にする
-- DBのプロパティ名が違っても落ちないように、DBスキーマを取得して「存在するプロパティだけ」更新する
-
-環境変数:
-- NOTION_TOKEN
-- NOTION_DATABASE_ID
-- ICS_PATH (任意, デフォルト: soccer_osaka_hs_boys.ics)
+環境変数（既存運用に合わせて想定）:
+  NOTION_TOKEN          : Notion Integration token
+  NOTION_DATABASE_ID    : Notion database id
+  ICS_PATH              : 読み込むICSファイルパス（省略時 soccer_osaka_hs_boys.ics）
 """
+
+from __future__ import annotations
 
 import os
-import sys
 import re
-import hashlib
-from datetime import datetime, timezone, date
-from zoneinfo import ZoneInfo
-from notion_client import Client
-from notion_client.errors import APIResponseError
+from dataclasses import dataclass
+from datetime import datetime, date, time, timedelta, timezone
+from pathlib import Path
+from typing import Any, Dict, Optional, Tuple, List
+
 from icalendar import Calendar
+from notion_client import Client
+from zoneinfo import ZoneInfo
+
 
 JST = ZoneInfo("Asia/Tokyo")
 
-# ---------------------------
-# Utility
-# ---------------------------
 
-def now_jst() -> datetime:
-    return datetime.now(tz=JST)
+# --------------------------
+# Parsing helpers
+# --------------------------
+LABEL_SPLIT_RE = re.compile(r"^\s*([^:：]+)\s*[:：]\s*(.*)\s*$")
+SCORE_RE = re.compile(r"(\d+)\s*(?:\(|（)?\d*(?:\)|）)?\s*-\s*(\d+)(?:\s*(?:\(|（)?\d*(?:\)|）)?)?")
+VS_RE = re.compile(r"\s*(.+?)\s*(?:vs|VS|Vs|ｖｓ|ＶＳ|対)\s*(.+?)\s*$")
 
-def sha1(s: str) -> str:
-    return hashlib.sha1(s.encode("utf-8", errors="ignore")).hexdigest()
-
-def norm_text(s: str) -> str:
-    return (s or "").replace("\r\n", "\n").replace("\r", "\n").strip()
-
-def unescape_desc(s: str) -> str:
-    """
-    icalendarで読むと DESCRIPTION が '\\n' のまま入ってくることがあるので改行化。
-    """
-    s = norm_text(s)
-    # まず literal "\n" を改行へ
-    s = s.replace("\\n", "\n").replace("\\N", "\n")
-    return s
-
-def safe_dt(v) -> datetime | None:
-    """
-    icalendarは date or datetime を返す。
-    """
+def _to_str(v: Any) -> str:
     if v is None:
-        return None
-    if hasattr(v, "dt"):
-        v = v.dt
-    if isinstance(v, datetime):
-        if v.tzinfo is None:
-            return v.replace(tzinfo=JST)
-        return v.astimezone(JST)
-    if isinstance(v, date):
-        return datetime(v.year, v.month, v.day, 0, 0, tzinfo=JST)
-    return None
+        return ""
+    if isinstance(v, bytes):
+        try:
+            return v.decode("utf-8", "replace")
+        except Exception:
+            return v.decode(errors="replace")
+    return str(v)
 
-def to_notion_date(dt: datetime | None) -> dict:
-    if dt is None:
-        return None
-    return {"start": dt.isoformat()}
+def _normalize_desc(desc: str) -> str:
+    # Notion同期用に DESCRIPTION に "\n" が文字列で入ってくるケースを救う
+    desc = desc.replace("\\r\\n", "\n").replace("\\n", "\n").replace("\r\n", "\n").replace("\r", "\n")
+    return desc
 
-# ---------------------------
-# DESCRIPTION parsing
-# ---------------------------
-
-LABELS = {
-    "種別": "type",
-    "大会": "tournament",
-    "ラウンド": "round",
-    "節/ラウンド": "round",
-    "節／ラウンド": "round",
-    "区分": "kind",
-    "確度": "certainty",
-    "出典": "source",
-    "対戦": "matchup",
-    "ホーム": "home",
-    "アウェイ": "away",
-    "スコア": "score",
-}
-
-_vs_re = re.compile(r"\s*(.+?)\s*(?:vs\.?|VS\.?|ｖｓ|v|V)\s*(.+?)\s*$")
-
-def parse_description(desc: str) -> dict:
-    out = {k: "" for k in ["type","tournament","round","kind","certainty","source","matchup","home","away","score"]}
-    txt = unescape_desc(desc)
-
-    for raw in txt.split("\n"):
-        line = raw.strip()
-        if not line:
-            continue
-
-        # 「キー：値」「キー:値」両対応
-        m = re.match(r"^([^：:]+)[：:]\s*(.*)$", line)
+def parse_labeled_description(desc: str) -> Dict[str, str]:
+    out: Dict[str, str] = {}
+    for line in _normalize_desc(desc).split("\n"):
+        m = LABEL_SPLIT_RE.match(line)
         if not m:
             continue
-        key = m.group(1).strip()
-        val = m.group(2).strip()
-
-        if key in LABELS:
-            out[LABELS[key]] = val
-
-    # matchup から home/away 推定
-    if out["matchup"] and (not out["home"] or not out["away"]):
-        mm = _vs_re.match(out["matchup"].replace("　", " "))
-        if mm:
-            out["home"] = out["home"] or mm.group(1).strip()
-            out["away"] = out["away"] or mm.group(2).strip()
-
-    # home/away から matchup 補完
-    if (out["home"] and out["away"]) and not out["matchup"]:
-        out["matchup"] = f"{out['home']} vs {out['away']}"
-
+        k = m.group(1).strip()
+        v = m.group(2).strip()
+        if not k:
+            continue
+        out[k] = v
     return out
 
-def infer_from_summary(summary: str) -> dict:
+def split_summary(summary: str) -> Tuple[str, str, str, str]:
     """
-    SUMMARYから最低限の大会/ラウンド推定（大阪府／{大会}／{ラウンド} …想定）
+    SUMMARYが "大阪府／大会名／ラウンド／スコア" 形式の場合に分解
     """
-    out = {"tournament": "", "round": ""}
-    s = (summary or "").strip()
-    if "／" in s:
-        parts = [p.strip() for p in s.split("／")]
-        # parts[0] = 大阪府
-        if len(parts) >= 2:
-            out["tournament"] = parts[1]
-        if len(parts) >= 3:
-            out["round"] = parts[2]
-    return out
+    parts = [p.strip() for p in summary.split("／")]
+    pref = parts[0] if len(parts) >= 1 else ""
+    tournament = parts[1] if len(parts) >= 2 else ""
+    rnd = parts[2] if len(parts) >= 3 else ""
+    extra = "／".join(parts[3:]) if len(parts) >= 4 else ""
+    return pref, tournament, rnd, extra
 
-_score_re = re.compile(r"(\d+\s*-\s*\d+)(?:\s*\(.*?\))?")
+def parse_vs(text: str) -> Tuple[str, str]:
+    t = text.strip()
+    m = VS_RE.match(t)
+    if m:
+        return m.group(1).strip(), m.group(2).strip()
+    # "A 1-0 B" 形式
+    if " " in t:
+        # ざっくり、スコアの前後を切る
+        sm = SCORE_RE.search(t)
+        if sm:
+            left = t[:sm.start()].strip(" 　-－—–—")
+            right = t[sm.end():].strip(" 　-－—–—")
+            if left and right:
+                return left, right
+    return "", ""
 
-def clean_score(s: str) -> str:
-    s = (s or "").strip()
-    if not s:
+def parse_score(text: str) -> str:
+    t = text.strip()
+    sm = SCORE_RE.search(t)
+    if not sm:
         return ""
-    # 「1-3」「2-2（PK4-5）」等を雑に許容（文字はそのままでもOK）
+    return f"{sm.group(1)}-{sm.group(2)}"
+
+def coerce_status(meta_status: str, has_score: bool, dtend_jst: Optional[datetime], now_jst: datetime) -> str:
+    """
+    区分（予定/結果）を決める。
+    - DESCRIPTIONに区分があれば基本それ
+    - ただし「スコアあり」または「終了時刻が過去」なら結果に寄せる
+    """
+    s = (meta_status or "").strip()
+    if s not in ("予定", "結果"):
+        s = "予定"
+
+    if has_score:
+        return "結果"
+
+    if dtend_jst is not None and dtend_jst <= (now_jst - timedelta(minutes=1)):
+        # 過去なのに「予定」になってしまうのを防ぐ
+        return "結果"
+
     return s
 
-# ---------------------------
-# Notion schema helpers
-# ---------------------------
-
-def get_db_schema(notion: Client, database_id: str) -> tuple[str, dict]:
-    db = notion.databases.retrieve(database_id=database_id)
-    props = db.get("properties", {}) or {}
-    title_name = None
-    for name, meta in props.items():
-        if meta.get("type") == "title":
-            title_name = name
-            break
-    if not title_name:
-        raise RuntimeError("Notion DBに title プロパティが見つかりません。")
-    return title_name, props
-
-def rt(content: str) -> dict:
-    content = (content or "").strip()
-    if not content:
-        return {"rich_text": []}
-    return {"rich_text": [{"text": {"content": content}}]}
-
-def title_prop(name: str, content: str) -> dict:
-    content = (content or "").strip()
-    if not content:
-        content = "（未入力）"
-    return {name: {"title": [{"text": {"content": content}}]}}
-
-def date_prop(dt: datetime | None) -> dict:
+def to_jst_datetime(dt: Any) -> Optional[datetime]:
+    """
+    icalendarから取得したdtstart/dtendは date or datetime の可能性。
+    JSTのdatetimeに統一して返す（dateなら00:00/23:59扱いは呼び出し側で）。
+    """
     if dt is None:
-        return {"date": None}
-    return {"date": {"start": dt.isoformat()}}
+        return None
+    if isinstance(dt, datetime):
+        if dt.tzinfo is None:
+            return dt.replace(tzinfo=JST)
+        return dt.astimezone(JST)
+    if isinstance(dt, date):
+        return datetime(dt.year, dt.month, dt.day, 0, 0, 0, tzinfo=JST)
+    return None
 
-def select_prop(val: str) -> dict:
-    val = (val or "").strip()
-    if not val:
-        return {"select": None}
-    return {"select": {"name": val}}
 
-# ---------------------------
-# Build item from VEVENT
-# ---------------------------
+@dataclass
+class IcsItem:
+    uid: str
+    dtstart: Optional[datetime]
+    dtend: Optional[datetime]
+    summary: str
+    location: str
+    description: str
+    meta: Dict[str, str]
 
-def build_item(vevent) -> dict:
-    uid = str(vevent.get("UID", "")).strip()
-    summary = str(vevent.get("SUMMARY", "")).strip()
-    location = str(vevent.get("LOCATION", "")).strip()
+    @property
+    def start_iso(self) -> Optional[str]:
+        if self.dtstart is None:
+            return None
+        return self.dtstart.isoformat()
 
-    desc_val = vevent.get("DESCRIPTION")
-    desc = str(desc_val) if desc_val is not None else ""
-    parsed = parse_description(desc)
+    @property
+    def end_iso(self) -> Optional[str]:
+        if self.dtend is None:
+            return None
+        return self.dtend.isoformat()
 
-    dtstart = safe_dt(vevent.get("DTSTART"))
-    dtend = safe_dt(vevent.get("DTEND"))
 
-    if dtstart is None:
-        raise ValueError("DTSTARTがありません: UID=" + uid)
-
-    inferred = infer_from_summary(summary)
-
-    tournament = parsed["tournament"] or inferred["tournament"] or summary
-    round_name = parsed["round"] or inferred["round"] or ""
-
-    # 区分
-    kind = parsed["kind"].strip()
-    if kind not in ("予定", "結果"):
-        kind = "予定" if dtstart > now_jst() else "結果"
-
-    # 確度
-    certainty = parsed["certainty"].strip()
-    if certainty not in ("確定", "暫定", "未定"):
-        # locationが空/会場不明なら未定、そうでなければ暫定
-        certainty = "未定" if (not location or "会場不明" in location) else "暫定"
-
-    # 対戦/スコア
-    matchup = parsed["matchup"].strip()
-    home = parsed["home"].strip()
-    away = parsed["away"].strip()
-    score = clean_score(parsed["score"].strip())
-
-    # タイトル（カード）
-    card_title = ""
-    if matchup:
-        card_title = matchup
-        if kind == "結果" and score:
-            card_title = f"{card_title}／{score}"
-    else:
-        # 対戦が無い場合はSUMMARY（既存運用維持）
-        card_title = summary or f"{tournament}／{round_name}"
-
-    source = parsed["source"].strip()
-    match_type = parsed["type"].strip()
-
-    fingerprint = sha1("|".join([
-        uid,
-        card_title,
-        summary,
-        location,
-        dtstart.isoformat(),
-        dtend.isoformat() if dtend else "",
-        tournament,
-        round_name,
-        kind,
-        certainty,
-        match_type,
-        matchup,
-        home,
-        away,
-        score,
-        source,
-    ]))
-
-    return {
-        "uid": uid,
-        "summary": summary,
-        "card_title": card_title,
-        "dtstart": dtstart,
-        "dtend": dtend,
-        "location": location,
-        "tournament": tournament,
-        "round": round_name,
-        "kind": kind,
-        "certainty": certainty,
-        "type": match_type,
-        "matchup": matchup,
-        "home": home,
-        "away": away,
-        "score": score,
-        "source": source,
-        "fingerprint": fingerprint,
-    }
-
-# ---------------------------
-# Notion mapping
-# ---------------------------
-
-def build_notion_props(item: dict, title_prop_name: str, db_props: dict) -> dict:
-    props_out = {}
-
-    # title
-    props_out.update(title_prop(title_prop_name, item["card_title"]))
-
-    # helper to add if property exists & type matches roughly
-    def put(name: str, payload: dict):
-        if name not in db_props:
-            return
-        props_out[name] = payload
-
-    put("開始", date_prop(item["dtstart"]))
-    put("終了", date_prop(item["dtend"]))
-    put("大会", rt(item["tournament"]))
-    put("節／ラウンド", rt(item["round"]))
-    put("節/ラウンド", rt(item["round"]))  # 表記違いの保険
-    put("会場", rt(item["location"]))
-    put("区分", select_prop(item["kind"]))
-    put("確度", select_prop(item["certainty"]))
-    put("更新日", date_prop(now_jst()))
-    put("UID", rt(item["uid"]))
-    put("出典", rt(item["source"]))
-    put("fingerprint", rt(item["fingerprint"]))
-
-    # 任意（DBに存在する時だけ）
-    put("種別", select_prop(item["type"]))
-    put("ホーム", rt(item["home"]))
-    put("アウェイ", rt(item["away"]))
-    put("スコア", rt(item["score"]))
-    put("対戦", rt(item["matchup"]))
-
-    return props_out
-
-def page_uid(page: dict, uid_prop: str = "UID") -> str:
-    try:
-        rt = page["properties"][uid_prop]["rich_text"]
-        if rt:
-            return rt[0]["plain_text"].strip()
-    except Exception:
-        return ""
-    return ""
-
-def page_fp(page: dict, fp_prop: str = "fingerprint") -> str:
-    try:
-        rt = page["properties"][fp_prop]["rich_text"]
-        if rt:
-            return rt[0]["plain_text"].strip()
-    except Exception:
-        return ""
-    return ""
-
-def fetch_all_pages(notion: Client, database_id: str) -> list:
-    pages = []
-    cursor = None
-    while True:
-        if cursor:
-            resp = notion.databases.query(database_id=database_id, start_cursor=cursor)
-        else:
-            resp = notion.databases.query(database_id=database_id)
-        pages.extend(resp.get("results", []))
-        cursor = resp.get("next_cursor")
-        if not resp.get("has_more"):
-            break
-    return pages
-
-# ---------------------------
-# Main
-# ---------------------------
-
-def main() -> int:
-    token = os.getenv("NOTION_TOKEN", "").strip()
-    dbid = os.getenv("NOTION_DATABASE_ID", "").strip()
-    ics_path = os.getenv("ICS_PATH", "soccer_osaka_hs_boys.ics").strip()
-
-    if not token or not dbid:
-        print("ERROR: NOTION_TOKEN と NOTION_DATABASE_ID が必要です。", file=sys.stderr)
-        return 2
-
-    if not os.path.exists(ics_path):
-        print(f"ERROR: ICS_PATH が見つかりません: {ics_path}", file=sys.stderr)
-        return 2
-
-    with open(ics_path, "rb") as f:
-        cal = Calendar.from_ical(f.read())
-
-    items = []
+def parse_ics(ics_path: str) -> List[IcsItem]:
+    txt = Path(ics_path).read_text(encoding="utf-8", errors="replace")
+    cal = Calendar.from_ical(txt)
+    items: List[IcsItem] = []
     for comp in cal.walk():
         if comp.name != "VEVENT":
             continue
-        it = build_item(comp)
-        if it["uid"]:
-            items.append(it)
+        uid = _to_str(comp.get("UID")).strip()
+        summary = _to_str(comp.get("SUMMARY")).strip()
+        location = _to_str(comp.get("LOCATION")).strip()
+        desc = _to_str(comp.get("DESCRIPTION")).strip()
+        meta = parse_labeled_description(desc)
+
+        dtstart_raw = comp.get("DTSTART")
+        dtend_raw = comp.get("DTEND")
+
+        dtstart = to_jst_datetime(getattr(dtstart_raw, "dt", dtstart_raw))
+        dtend = to_jst_datetime(getattr(dtend_raw, "dt", dtend_raw))
+
+        # DTENDが無い場合は+2h
+        if dtstart and dtend is None:
+            dtend = dtstart + timedelta(hours=2)
+
+        items.append(IcsItem(uid=uid, dtstart=dtstart, dtend=dtend, summary=summary, location=location, description=desc, meta=meta))
+    return items
+
+
+# --------------------------
+# Notion helpers
+# --------------------------
+def get_db_schema(notion: Client, db_id: str) -> Dict[str, Any]:
+    db = notion.databases.retrieve(database_id=db_id)
+    return db.get("properties", {})
+
+def find_title_prop(props: Dict[str, Any]) -> str:
+    for name, p in props.items():
+        if p.get("type") == "title":
+            return name
+    # fall back
+    return "Name"
+
+def pick_prop(props: Dict[str, Any], candidates: List[str]) -> Optional[str]:
+    # 完全一致優先
+    for c in candidates:
+        if c in props:
+            return c
+    # ゆるい一致（全角/半角違いなど）
+    normalized = {re.sub(r"\s+", "", k): k for k in props.keys()}
+    for c in candidates:
+        key = re.sub(r"\s+", "", c)
+        if key in normalized:
+            return normalized[key]
+    return None
+
+def build_props_map(props: Dict[str, Any]) -> Dict[str, str]:
+    m: Dict[str, str] = {}
+    m["title"] = find_title_prop(props)
+    m["tournament"] = pick_prop(props, ["大会", "Tournament"])
+    m["round"] = pick_prop(props, ["節／ラウンド", "節/ラウンド", "ラウンド", "Round"])
+    m["start"] = pick_prop(props, ["開始", "Start", "開始日時"])
+    m["end"] = pick_prop(props, ["終了", "End", "終了日時"])
+    m["status"] = pick_prop(props, ["区分", "Status"])
+    m["home"] = pick_prop(props, ["ホーム", "Home"])
+    m["away"] = pick_prop(props, ["アウェイ", "アウェー", "Away"])
+    m["score"] = pick_prop(props, ["スコア", "Score"])
+    m["kind"] = pick_prop(props, ["種別", "Kind"])
+    m["confidence"] = pick_prop(props, ["確度", "Confidence"])
+    m["source"] = pick_prop(props, ["出典", "Source"])
+    m["place"] = pick_prop(props, ["会場", "場所", "LOCATION", "Place"])
+    m["uid"] = pick_prop(props, ["UID", "uid"])
+    return {k: v for k, v in m.items() if v}
+
+def rich_text(val: str) -> Dict[str, Any]:
+    return {"rich_text": [{"type": "text", "text": {"content": val}}]} if val else {"rich_text": []}
+
+def title_text(val: str) -> Dict[str, Any]:
+    return {"title": [{"type": "text", "text": {"content": val}}]} if val else {"title": []}
+
+def select_val(val: str) -> Dict[str, Any]:
+    return {"select": {"name": val}} if val else {"select": None}
+
+def date_val(start_iso: Optional[str], end_iso: Optional[str]) -> Dict[str, Any]:
+    if not start_iso:
+        return {"date": None}
+    return {"date": {"start": start_iso, "end": end_iso}}
+
+def upsert_page(notion: Client, db_id: str, props_map: Dict[str, str], item: IcsItem, now_jst: datetime) -> None:
+    # meta fields
+    meta = item.meta
+
+    # tournament/round from DESCRIPTION優先、無ければSUMMARYから
+    _, t_from_sum, r_from_sum, extra = split_summary(item.summary)
+    tournament = meta.get("大会", "") or t_from_sum
+    rnd = meta.get("ラウンド", "") or meta.get("節／ラウンド", "") or meta.get("節/ラウンド", "") or r_from_sum
+
+    # teams
+    home = meta.get("ホーム", "") or ""
+    away = meta.get("アウェイ", "") or meta.get("アウェー", "") or ""
+
+    if not (home and away):
+        vs = meta.get("対戦", "") or ""
+        if vs:
+            h, a = parse_vs(vs)
+            home = home or h
+            away = away or a
+
+    # score
+    score = meta.get("スコア", "") or ""
+    if not score:
+        # 対戦行にスコアが混ざってる場合
+        score = parse_score(meta.get("対戦", "") or "")
+    if not score:
+        # SUMMARY末尾の「／1-0」など
+        score = parse_score(item.summary)
+
+    has_score = bool(score)
+
+    # status
+    status = coerce_status(meta.get("区分", ""), has_score, item.dtend, now_jst)
+
+    # kind/confidence/source/place
+    kind = meta.get("種別", "")
+    confidence = meta.get("確度", "")
+    source = meta.get("出典", "")
+    place = meta.get("会場", "") or item.location
+
+    # title (card)
+    if home and away:
+        card = f"{home} vs {away}"
+        if has_score:
+            card += f"／{score}"
+    else:
+        # 対戦が無い場合は大会名を残す（箱イベント扱い）
+        # ただし「大阪府／」などのプレフィックスは落とす
+        card = item.summary.replace("大阪府／", "").strip()
+
+    # build notion properties
+    notion_props: Dict[str, Any] = {}
+
+    title_prop = props_map.get("title")
+    if title_prop:
+        notion_props[title_prop] = title_text(card)
+
+    if props_map.get("tournament"):
+        notion_props[props_map["tournament"]] = rich_text(tournament)
+
+    if props_map.get("round"):
+        notion_props[props_map["round"]] = rich_text(rnd)
+
+    if props_map.get("start"):
+        notion_props[props_map["start"]] = date_val(item.start_iso, None)
+
+    if props_map.get("end"):
+        notion_props[props_map["end"]] = date_val(item.end_iso, None)
+
+    if props_map.get("status"):
+        notion_props[props_map["status"]] = select_val(status)
+
+    if props_map.get("home"):
+        notion_props[props_map["home"]] = rich_text(home)
+
+    if props_map.get("away"):
+        notion_props[props_map["away"]] = rich_text(away)
+
+    if props_map.get("score"):
+        notion_props[props_map["score"]] = rich_text(score)
+
+    if props_map.get("kind"):
+        notion_props[props_map["kind"]] = select_val(kind) if kind else rich_text(kind)
+
+    if props_map.get("confidence"):
+        notion_props[props_map["confidence"]] = select_val(confidence) if confidence else rich_text(confidence)
+
+    if props_map.get("source"):
+        notion_props[props_map["source"]] = rich_text(source)
+
+    if props_map.get("place"):
+        notion_props[props_map["place"]] = rich_text(place)
+
+    if props_map.get("uid"):
+        notion_props[props_map["uid"]] = rich_text(item.uid)
+
+    # --- find existing page by UID ---
+    # UIDプロパティが無い場合は作成だけ（既存と紐づかないので注意）
+    existing_page_id: Optional[str] = None
+    uid_prop_name = props_map.get("uid")
+
+    if uid_prop_name:
+        q = notion.databases.query(
+            database_id=db_id,
+            filter={
+                "property": uid_prop_name,
+                "rich_text": {"equals": item.uid}
+            },
+            page_size=1
+        )
+        results = q.get("results", [])
+        if results:
+            existing_page_id = results[0]["id"]
+
+    if existing_page_id:
+        notion.pages.update(page_id=existing_page_id, properties=notion_props)
+    else:
+        notion.pages.create(parent={"database_id": db_id}, properties=notion_props)
+
+
+def main() -> int:
+    token = os.environ.get("NOTION_TOKEN", "").strip()
+    db_id = os.environ.get("NOTION_DATABASE_ID", "").strip()
+    ics_path = os.environ.get("ICS_PATH", "soccer_osaka_hs_boys.ics").strip()
+
+    if not token or not db_id:
+        print("ERROR: NOTION_TOKEN / NOTION_DATABASE_ID が未設定です。")
+        return 2
 
     notion = Client(auth=token)
+    props = get_db_schema(notion, db_id)
+    props_map = build_props_map(props)
 
-    # DBスキーマ取得（title名の特定＆存在プロパティだけ更新するため）
-    title_name, db_props = get_db_schema(notion, dbid)
+    now_jst = datetime.now(tz=timezone.utc).astimezone(JST)
 
-    # existing pages
-    pages = fetch_all_pages(notion, dbid)
-    by_uid = {}
-    for pg in pages:
-        uid = page_uid(pg, "UID")
-        if uid:
-            by_uid[uid] = pg
+    items = parse_ics(ics_path)
+    # UIDが空のイベントは無視
+    items = [it for it in items if it.uid]
 
-    created = updated = skipped = 0
-
+    ok = 0
     for it in items:
-        uid = it["uid"]
-        props = build_notion_props(it, title_name, db_props)
+        try:
+            upsert_page(notion, db_id, props_map, it, now_jst)
+            ok += 1
+        except Exception as e:
+            print(f"[WARN] uid={it.uid} summary={it.summary} err={e}")
 
-        if uid not in by_uid:
-            notion.pages.create(parent={"database_id": dbid}, properties=props)
-            created += 1
-            continue
-
-        pg = by_uid[uid]
-        old_fp = page_fp(pg, "fingerprint")
-        if old_fp == it["fingerprint"]:
-            skipped += 1
-            continue
-
-        notion.pages.update(page_id=pg["id"], properties=props)
-        updated += 1
-
-    print(f"OK: created={created}, updated={updated}, skipped={skipped}, total_ics_events={len(items)}, total_notion_pages={len(pages)}")
+    print(f"Done. upserted={ok} events={len(items)}")
     return 0
+
 
 if __name__ == "__main__":
     raise SystemExit(main())
