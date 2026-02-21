@@ -12,8 +12,7 @@ X-WR-CALNAME:【大阪】女子高校サッカー
 
 X-WR-TIMEZONE:Asia/Tokyo
 
-X-WR-CALDESC:大阪府内（会場不明含む）の高校女子サッカ
- ー予定。出典はDESCRIPTION参照。
+X-WR-CALDESC:大阪府内（会場不明含む）の高校女子サッカー予定。出典はDESCRIPTION参照。
 BEGIN:VEVENT
 UID:50378b9f80078bff@masashi.local
 SEQUENCE:1
@@ -22,7 +21,10 @@ DTSTART;TZID=Asia/Tokyo:20251215T093000
 DTEND;TZID=Asia/Tokyo:20251215T113000
 SUMMARY:大阪府／2025年度 第72回大阪私立高校総合体育大会サッカー大会（女子の部）
 LOCATION:J-GREEN堺 S13（人工芝フィールド） 〒590-0901 大阪府堺市堺区築港八幡町145番地
-DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大会サッカー大会（女子の部）\nステージ：女子 1回戦\n試合番号：ア\nキックオフ：9:30\n会場：J-GREEN堺 S13（大阪府堺市堺区築港八幡町145番地）\nスコア：星翔 1 - 7 追手門学院\n出典：大阪私立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大会サッカー大会（女子の部）\nステージ：女子 1回戦\n試合番号：ア\nキッ
+ クオフ：9:30\n会場：J-GREEN堺 S13（大阪府堺市堺区築港八幡町145番地）\nスコア：星翔 1 - 7 追手門学院\n出典：大阪私立高
+ 等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第
+ 10回-女子/試合結果/
 END:VEVENT
 BEGIN:VEVENT
 UID:b78fb34587f246a5@masashi.local
@@ -32,7 +34,10 @@ DTSTART;TZID=Asia/Tokyo:20251215T113000
 DTEND;TZID=Asia/Tokyo:20251215T133000
 SUMMARY:大阪府／2025年度 第72回大阪私立高校総合体育大会サッカー大会（女子の部）
 LOCATION:J-GREEN堺 S13（人工芝フィールド） 〒590-0901 大阪府堺市堺区築港八幡町145番地
-DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大会サッカー大会（女子の部）\nステージ：女子 1回戦\n試合番号：イ\nキックオフ：11:30\n会場：J-GREEN堺 S13（大阪府堺市堺区築港八幡町145番地）\nスコア：大阪体育大学浪商 0 - 16 大阪偕星学園\n出典：大阪私立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大会サッカー大会（女子の部）\nステージ：女子 1回戦\n試合番号：イ\nキッ
+ クオフ：11:30\n会場：J-GREEN堺 S13（大阪府堺市堺区築港八幡町145番地）\nスコア：大阪体育大学浪商 0 - 16 大阪偕星学園\
+ n出典：大阪私立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/
+ 第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 BEGIN:VEVENT
 UID:8d21c7ad4e63809c@masashi.local
@@ -42,7 +47,10 @@ DTSTART;TZID=Asia/Tokyo:20251215T133000
 DTEND;TZID=Asia/Tokyo:20251215T153000
 SUMMARY:大阪府／2025年度 第72回大阪私立高校総合体育大会サッカー大会（女子の部）
 LOCATION:J-GREEN堺 S13（人工芝フィールド） 〒590-0901 大阪府堺市堺区築港八幡町145番地
-DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大会サッカー大会（女子の部）\nステージ：女子 1回戦\n試合番号：ウ\nキックオフ：13:30\n会場：J-GREEN堺 S13（大阪府堺市堺区築港八幡町145番地）\nスコア：大阪桐蔭 0 - 2 大商学園\n出典：大阪私立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大会サッカー大会（女子の部）\nステージ：女子 1回戦\n試合番号：ウ\nキッ
+ クオフ：13:30\n会場：J-GREEN堺 S13（大阪府堺市堺区築港八幡町145番地）\nスコア：大阪桐蔭 0 - 2 大商学園\n出典：大阪私
+ 立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子
+ -第10回-女子/試合結果/
 END:VEVENT
 BEGIN:VEVENT
 UID:6be361af20d3f639@masashi.local
@@ -52,7 +60,10 @@ DTSTART;TZID=Asia/Tokyo:20251216T130000
 DTEND;TZID=Asia/Tokyo:20251216T150000
 SUMMARY:大阪府／2025年度 第72回大阪私立高校総合体育大会サッカー大会（女子の部）
 LOCATION:J-GREEN堺 S13（人工芝フィールド） 〒590-0901 大阪府堺市堺区築港八幡町145番地
-DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大会サッカー大会（女子の部）\nステージ：女子 準決勝\n試合番号：エ\nキックオフ：13:00\n会場：J-GREEN堺 S13（大阪府堺市堺区築港八幡町145番地）\nスコア：大阪学芸 1 - 0 追手門学院\n出典：大阪私立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大会サッカー大会（女子の部）\nステージ：女子 準決勝\n試合番号：エ\nキッ
+ クオフ：13:00\n会場：J-GREEN堺 S13（大阪府堺市堺区築港八幡町145番地）\nスコア：大阪学芸 1 - 0 追手門学院\n出典：大阪
+ 私立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男
+ 子-第10回-女子/試合結果/
 END:VEVENT
 BEGIN:VEVENT
 UID:7bf8d849e2658c23@masashi.local
@@ -62,7 +73,10 @@ DTSTART;TZID=Asia/Tokyo:20251216T145000
 DTEND;TZID=Asia/Tokyo:20251216T165000
 SUMMARY:大阪府／2025年度 第72回大阪私立高校総合体育大会サッカー大会（女子の部）
 LOCATION:J-GREEN堺 S13（人工芝フィールド） 〒590-0901 大阪府堺市堺区築港八幡町145番地
-DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大会サッカー大会（女子の部）\nステージ：女子 準決勝\n試合番号：オ\nキックオフ：14:50\n会場：J-GREEN堺 S13（大阪府堺市堺区築港八幡町145番地）\nスコア：大阪偕星学園 0 - 5 大商学園\n出典：大阪私立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大会サッカー大会（女子の部）\nステージ：女子 準決勝\n試合番号：オ\nキッ
+ クオフ：14:50\n会場：J-GREEN堺 S13（大阪府堺市堺区築港八幡町145番地）\nスコア：大阪偕星学園 0 - 5 大商学園\n出典：大
+ 阪私立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-
+ 男子-第10回-女子/試合結果/
 END:VEVENT
 BEGIN:VEVENT
 UID:029e619d8324eb9a@masashi.local
@@ -72,7 +86,10 @@ DTSTART;TZID=Asia/Tokyo:20251218T133000
 DTEND;TZID=Asia/Tokyo:20251218T153000
 SUMMARY:大阪府／2025年度 第72回大阪私立高校総合体育大会サッカー大会（女子の部）
 LOCATION:J-GREEN堺 S11（人工芝フィールド・照明設備付） 〒590-0901 大阪府堺市堺区築港八幡町145番地
-DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大会サッカー大会（女子の部）\nステージ：女子 決勝\n試合番号：カ\nキックオフ：13:30\n会場：J-GREEN堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番地）\nスコア：大阪学芸 0 - 3 大商学園\n出典：大阪私立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大会サッカー大会（女子の部）\nステージ：女子 決勝\n試合番号：カ\nキック
+ オフ：13:30\n会場：J-GREEN堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番地）\nスコア：大阪学芸 0 - 3 大商学園\n
+ 出典：大阪私立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第
+ 72回-男子-第10回-女子/試合結果/
 END:VEVENT
 BEGIN:VEVENT
 UID:18da64901253a1c64dade8f97cf064c26089ce7d@masashi.local
@@ -82,7 +99,10 @@ DTSTART;TZID=Asia/Tokyo:20260110T090000
 DTEND;TZID=Asia/Tokyo:20260110T110000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:大阪体育大学浪商高等学校（グラウンド） 〒590-0459 大阪府泉南郡熊取町朝代台1-1
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ①\n試合番号：BL4\nキックオフ：09:00\n会場：大阪体育大学浪商高等学校（グラウンド） 〒590-0459 大阪府泉南郡熊取町朝代台1-1\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ①\n試合番号：BL4\nキックオフ：09:00\n
+ 会場：大阪体育大学浪商高等学校（グラウンド） 〒590-0459 大阪府泉南郡熊取町朝代台1-1\n出典：大阪府サッカー協会（OFA）掲載PDF（決
+ 勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025s
+ hinjin_jyoshi_kessyou_yotei.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:36434a05f844902732aea3f396fb6577815c63e3@masashi.local
@@ -92,7 +112,10 @@ DTSTART;TZID=Asia/Tokyo:20260110T105000
 DTEND;TZID=Asia/Tokyo:20260110T125000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:大阪体育大学浪商高等学校（グラウンド） 〒590-0459 大阪府泉南郡熊取町朝代台1-1
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ①\n試合番号：AL4\nキックオフ：10:50\n会場：大阪体育大学浪商高等学校（グラウンド） 〒590-0459 大阪府泉南郡熊取町朝代台1-1\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ①\n試合番号：AL4\nキックオフ：10:50\n
+ 会場：大阪体育大学浪商高等学校（グラウンド） 〒590-0459 大阪府泉南郡熊取町朝代台1-1\n出典：大阪府サッカー協会（OFA）掲載PDF（決
+ 勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025s
+ hinjin_jyoshi_kessyou_yotei.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:0d566610b60bba0793b88c5ae9773440e906b30b@masashi.local
@@ -102,7 +125,10 @@ DTSTART;TZID=Asia/Tokyo:20260110T130000
 DTEND;TZID=Asia/Tokyo:20260110T150000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:星翔高等学校（グラウンド） 〒566-0022 大阪府摂津市三島3-5-36
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ①\n試合番号：BL5\nキックオフ：13:00\n会場：星翔高等学校（グラウンド） 〒566-0022 大阪府摂津市三島3-5-36\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ①\n試合番号：BL5\nキックオフ：13:00\n
+ 会場：星翔高等学校（グラウンド） 〒566-0022 大阪府摂津市三島3-5-36\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント
+ ・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_
+ jyoshi_kessyou_yotei.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:bac648ccb8c6bacc2df1f7a2820f977182cad2a2@masashi.local
@@ -112,7 +138,10 @@ DTSTART;TZID=Asia/Tokyo:20260110T145000
 DTEND;TZID=Asia/Tokyo:20260110T165000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:星翔高等学校（グラウンド） 〒566-0022 大阪府摂津市三島3-5-36
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ①\n試合番号：AL3\nキックオフ：14:50\n会場：星翔高等学校（グラウンド） 〒566-0022 大阪府摂津市三島3-5-36\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ①\n試合番号：AL3\nキックオフ：14:50\n
+ 会場：星翔高等学校（グラウンド） 〒566-0022 大阪府摂津市三島3-5-36\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント
+ ・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_
+ jyoshi_kessyou_yotei.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:9ba18e3053aa36dd8dbb1e128528e8258a558046@masashi.local
@@ -122,7 +151,10 @@ DTSTART;TZID=Asia/Tokyo:20260117T090000
 DTEND;TZID=Asia/Tokyo:20260117T110000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:大阪府立みどり清朋高等学校（グラウンド） 〒579-8064 大阪府東大阪市池島町6-3-9
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ②\n試合番号：BL9\nキックオフ：09:00\n会場：大阪府立みどり清朋高等学校（グラウンド） 〒579-8064 大阪府東大阪市池島町6-3-9\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ②\n試合番号：BL9\nキックオフ：09:00\n
+ 会場：大阪府立みどり清朋高等学校（グラウンド） 〒579-8064 大阪府東大阪市池島町6-3-9\n出典：大阪府サッカー協会（OFA）掲載PDF（
+ 決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025
+ shinjin_jyoshi_kessyou_yotei.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:be80c1fab0434c8fd35b9129a193cf062917bbf3@masashi.local
@@ -132,7 +164,10 @@ DTSTART;TZID=Asia/Tokyo:20260117T105000
 DTEND;TZID=Asia/Tokyo:20260117T125000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:大阪府立みどり清朋高等学校（グラウンド） 〒579-8064 大阪府東大阪市池島町6-3-9
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ②\n試合番号：AL2\nキックオフ：10:50\n会場：大阪府立みどり清朋高等学校（グラウンド） 〒579-8064 大阪府東大阪市池島町6-3-9\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ②\n試合番号：AL2\nキックオフ：10:50\n
+ 会場：大阪府立みどり清朋高等学校（グラウンド） 〒579-8064 大阪府東大阪市池島町6-3-9\n出典：大阪府サッカー協会（OFA）掲載PDF（
+ 決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025
+ shinjin_jyoshi_kessyou_yotei.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:45dffff6ebc1a99df32667ad402fe9903b1a5e97@masashi.local
@@ -142,7 +177,10 @@ DTSTART;TZID=Asia/Tokyo:20260117T120000
 DTEND;TZID=Asia/Tokyo:20260117T140000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:大阪体育大学浪商高等学校（グラウンド） 〒590-0459 大阪府泉南郡熊取町朝代台1-1
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ②\n試合番号：BL3\nキックオフ：12:00\n会場：大阪体育大学浪商高等学校（グラウンド） 〒590-0459 大阪府泉南郡熊取町朝代台1-1\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ②\n試合番号：BL3\nキックオフ：12:00\n
+ 会場：大阪体育大学浪商高等学校（グラウンド） 〒590-0459 大阪府泉南郡熊取町朝代台1-1\n出典：大阪府サッカー協会（OFA）掲載PDF（決
+ 勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025s
+ hinjin_jyoshi_kessyou_yotei.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:c35b539f135131128d770c89a3ecbb0dce6738c3@masashi.local
@@ -152,7 +190,10 @@ DTSTART;TZID=Asia/Tokyo:20260117T135000
 DTEND;TZID=Asia/Tokyo:20260117T155000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:大阪体育大学浪商高等学校（グラウンド） 〒590-0459 大阪府泉南郡熊取町朝代台1-1
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ②\n試合番号：AL5\nキックオフ：13:50\n会場：大阪体育大学浪商高等学校（グラウンド） 〒590-0459 大阪府泉南郡熊取町朝代台1-1\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ②\n試合番号：AL5\nキックオフ：13:50\n
+ 会場：大阪体育大学浪商高等学校（グラウンド） 〒590-0459 大阪府泉南郡熊取町朝代台1-1\n出典：大阪府サッカー協会（OFA）掲載PDF（決
+ 勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025s
+ hinjin_jyoshi_kessyou_yotei.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:1abb7b9fec4d2ed557cfda2a5b518ba4c2ede224@masashi.local
@@ -162,7 +203,10 @@ DTSTART;TZID=Asia/Tokyo:20260118T090000
 DTEND;TZID=Asia/Tokyo:20260118T110000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:大阪府立八尾北高等学校（グラウンド） 〒581-0834 大阪府八尾市萱振町7-42
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ③\n試合番号：BL7\nキックオフ：09:00\n会場：大阪府立八尾北高等学校（グラウンド） 〒581-0834 大阪府八尾市萱振町7-42\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ③\n試合番号：BL7\nキックオフ：09:00\n
+ 会場：大阪府立八尾北高等学校（グラウンド） 〒581-0834 大阪府八尾市萱振町7-42\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トー
+ ナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shin
+ jin_jyoshi_kessyou_yotei.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:0ee43a6fc4887003e7f4642aa59314120d4cef53@masashi.local
@@ -172,7 +216,10 @@ DTSTART;TZID=Asia/Tokyo:20260118T105000
 DTEND;TZID=Asia/Tokyo:20260118T125000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:大阪府立八尾北高等学校（グラウンド） 〒581-0834 大阪府八尾市萱振町7-42
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ③\n試合番号：BL8\nキックオフ：10:50\n会場：大阪府立八尾北高等学校（グラウンド） 〒581-0834 大阪府八尾市萱振町7-42\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ③\n試合番号：BL8\nキックオフ：10:50\n
+ 会場：大阪府立八尾北高等学校（グラウンド） 〒581-0834 大阪府八尾市萱振町7-42\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トー
+ ナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shin
+ jin_jyoshi_kessyou_yotei.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:9bcdb27aef9190b6d7cc7e5c86f1eeffdd472fb3@masashi.local
@@ -182,7 +229,10 @@ DTSTART;TZID=Asia/Tokyo:20260124T090000
 DTEND;TZID=Asia/Tokyo:20260124T110000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:大阪体育大学浪商高等学校（グラウンド） 〒590-0459 大阪府泉南郡熊取町朝代台1-1
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ④\n試合番号：BL2\nキックオフ：09:00\n会場：大阪体育大学浪商高等学校（グラウンド） 〒590-0459 大阪府泉南郡熊取町朝代台1-1\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ④\n試合番号：BL2\nキックオフ：09:00\n
+ 会場：大阪体育大学浪商高等学校（グラウンド） 〒590-0459 大阪府泉南郡熊取町朝代台1-1\n出典：大阪府サッカー協会（OFA）掲載PDF（決
+ 勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025s
+ hinjin_jyoshi_kessyou_yotei.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:148bb09529a531c0b4b00539c297e47a7890a66a@masashi.local
@@ -192,7 +242,10 @@ DTSTART;TZID=Asia/Tokyo:20260124T105000
 DTEND;TZID=Asia/Tokyo:20260124T125000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:大阪体育大学浪商高等学校（グラウンド） 〒590-0459 大阪府泉南郡熊取町朝代台1-1
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ④\n試合番号：AL1\nキックオフ：10:50\n会場：大阪体育大学浪商高等学校（グラウンド） 〒590-0459 大阪府泉南郡熊取町朝代台1-1\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ④\n試合番号：AL1\nキックオフ：10:50\n
+ 会場：大阪体育大学浪商高等学校（グラウンド） 〒590-0459 大阪府泉南郡熊取町朝代台1-1\n出典：大阪府サッカー協会（OFA）掲載PDF（決
+ 勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025s
+ hinjin_jyoshi_kessyou_yotei.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:da4c54f72ca6205f4a282a17ef6650cb2e312008@masashi.local
@@ -202,7 +255,10 @@ DTSTART;TZID=Asia/Tokyo:20260124T130000
 DTEND;TZID=Asia/Tokyo:20260124T150000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:星翔高等学校（グラウンド） 〒566-0022 大阪府摂津市三島3-5-36
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ④\n試合番号：BL6\nキックオフ：13:00\n会場：星翔高等学校（グラウンド） 〒566-0022 大阪府摂津市三島3-5-36\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ④\n試合番号：BL6\nキックオフ：13:00\n
+ 会場：星翔高等学校（グラウンド） 〒566-0022 大阪府摂津市三島3-5-36\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント
+ ・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_
+ jyoshi_kessyou_yotei.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:b4fab69007fbad8197022ec365f0518cc5bb6c17@masashi.local
@@ -212,27 +268,40 @@ DTSTART;TZID=Asia/Tokyo:20260124T145000
 DTEND;TZID=Asia/Tokyo:20260124T165000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:星翔高等学校（グラウンド） 〒566-0022 大阪府摂津市三島3-5-36
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ④\n試合番号：AL6\nキックオフ：14:50\n会場：星翔高等学校（グラウンド） 〒566-0022 大阪府摂津市三島3-5-36\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ④\n試合番号：AL6\nキックオフ：14:50\n
+ 会場：星翔高等学校（グラウンド） 〒566-0022 大阪府摂津市三島3-5-36\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント
+ ・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_
+ jyoshi_kessyou_yotei.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:76e4a928ff8d6dc3b01b33a49116d0373c71df52@masashi.local
-SEQUENCE:1
-DTSTAMP:20260205T050342Z
+SEQUENCE:2
+DTSTAMP:20260221T005126Z
 DTSTART;TZID=Asia/Tokyo:20260125T130000
 DTEND;TZID=Asia/Tokyo:20260125T150000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:星翔高等学校（グラウンド） 〒566-0022 大阪府摂津市三島3-5-36
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ⑤\n試合番号：BL1\nキックオフ：13:00\n会場：星翔高等学校（グラウンド） 〒566-0022 大阪府摂津市三島3-5-36\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ⑤\n試合番号：BL1\nキックオフ：13:00\n
+ 会場：星翔高等学校（グラウンド） 〒566-0022 大阪府摂津市三島3-5-36\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント
+ ・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_
+ jyoshi_kessyou_yotei.pdf\nスコア：大体大浪商 0-5 星翔\n出典：大阪府サッカー協会（OFA）掲載PDF（予選リーグ結果
+  第5節）\nhttps://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6/2026/01/2026
+ _joshi_sinjin_GL_5.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:33a9fbe4ee4635748340dfd414d55fd295e79116@masashi.local
-SEQUENCE:1
-DTSTAMP:20260205T050342Z
+SEQUENCE:2
+DTSTAMP:20260221T005126Z
 DTSTART;TZID=Asia/Tokyo:20260125T145000
 DTEND;TZID=Asia/Tokyo:20260125T165000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:星翔高等学校（グラウンド） 〒566-0022 大阪府摂津市三島3-5-36
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ⑤\n試合番号：BL10\nキックオフ：14:50\n会場：星翔高等学校（グラウンド） 〒566-0022 大阪府摂津市三島3-5-36\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：予選リーグ⑤\n試合番号：BL10\nキックオフ：14:50\
+ n会場：星翔高等学校（グラウンド） 〒566-0022 大阪府摂津市三島3-5-36\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメン
+ ト・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin
+ _jyoshi_kessyou_yotei.pdf\nスコア：山田 0-2 合同B\n出典：大阪府サッカー協会（OFA）掲載PDF（予選リーグ結果 
+ 第5節）\nhttps://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6/2026/01/2026_
+ joshi_sinjin_GL_5.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:4f207a084e63f7fe@masashi.local
@@ -242,7 +311,11 @@ DTSTART;TZID=Asia/Tokyo:20260201T090000
 DTEND;TZID=Asia/Tokyo:20260201T110000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:会場不明
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント1回戦\n試合：T1\nキックオフ：09:00\n会場：会場不明（公式PDFの決勝T日程に会場表記がなく、確定できず）\n出典：大阪府サッカー協会（第2種）大会ページ／決勝T日程PDF\nhttps://osaka-fa.or.jp/2shu/game_information/2025大阪高校新人サッカー大会（女子の部）-2/\nhttps://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6/2026/01/R7_joshi_shinjinsen_nittei_kumiawase_0125.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント1回戦\n試合：T1\nキックオフ：09:00
+ \n会場：会場不明（公式PDFの決勝T日程に会場表記がなく、確定できず）\n出典：大阪府サッカー協会（第2種）大会ページ／決勝T日程PDF\nhtt
+ ps://osaka-fa.or.jp/2shu/game_information/2025大阪高校新人サッカー大会（女子の部）-2/\nhttps
+ ://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6/2026/01/R7_joshi_shinjin
+ sen_nittei_kumiawase_0125.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:46f02e335e765c0a35529ce638b3ee849f221196@masashi.local
@@ -252,7 +325,10 @@ DTSTART;TZID=Asia/Tokyo:20260201T090000
 DTEND;TZID=Asia/Tokyo:20260201T110000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:大商学園高等学校（グラウンド） 〒561-0846 大阪府豊中市利倉東1-2-1
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント 準々決勝\n試合番号：T1\nキックオフ：09:00\n会場：大商学園高等学校（グラウンド） 〒561-0846 大阪府豊中市利倉東1-2-1\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント 準々決勝\n試合番号：T1\nキックオフ：0
+ 9:00\n会場：大商学園高等学校（グラウンド） 〒561-0846 大阪府豊中市利倉東1-2-1\n出典：大阪府サッカー協会（OFA）掲載PDF（
+ 決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025
+ shinjin_jyoshi_kessyou_yotei.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:461d51791ad2eaab@masashi.local
@@ -262,7 +338,11 @@ DTSTART;TZID=Asia/Tokyo:20260201T103000
 DTEND;TZID=Asia/Tokyo:20260201T123000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:会場不明
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント1回戦\n試合：T2\nキックオフ：10:30\n会場：会場不明（公式PDFの決勝T日程に会場表記がなく、確定できず）\n出典：大阪府サッカー協会（第2種）大会ページ／決勝T日程PDF\nhttps://osaka-fa.or.jp/2shu/game_information/2025大阪高校新人サッカー大会（女子の部）-2/\nhttps://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6/2026/01/R7_joshi_shinjinsen_nittei_kumiawase_0125.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント1回戦\n試合：T2\nキックオフ：10:30
+ \n会場：会場不明（公式PDFの決勝T日程に会場表記がなく、確定できず）\n出典：大阪府サッカー協会（第2種）大会ページ／決勝T日程PDF\nhtt
+ ps://osaka-fa.or.jp/2shu/game_information/2025大阪高校新人サッカー大会（女子の部）-2/\nhttps
+ ://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6/2026/01/R7_joshi_shinjin
+ sen_nittei_kumiawase_0125.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:01b8a1e27eb1440d23a171708e198c691ac877a7@masashi.local
@@ -272,7 +352,10 @@ DTSTART;TZID=Asia/Tokyo:20260201T105000
 DTEND;TZID=Asia/Tokyo:20260201T125000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:大商学園高等学校（グラウンド） 〒561-0846 大阪府豊中市利倉東1-2-1
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント 準々決勝\n試合番号：T4\nキックオフ：10:50\n会場：大商学園高等学校（グラウンド） 〒561-0846 大阪府豊中市利倉東1-2-1\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント 準々決勝\n試合番号：T4\nキックオフ：1
+ 0:50\n会場：大商学園高等学校（グラウンド） 〒561-0846 大阪府豊中市利倉東1-2-1\n出典：大阪府サッカー協会（OFA）掲載PDF（
+ 決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025
+ shinjin_jyoshi_kessyou_yotei.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:ebd952850842706c@masashi.local
@@ -282,7 +365,11 @@ DTSTART;TZID=Asia/Tokyo:20260201T120000
 DTEND;TZID=Asia/Tokyo:20260201T140000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:会場不明
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント1回戦\n試合：T3\nキックオフ：12:00\n会場：会場不明（公式PDFの決勝T日程に会場表記がなく、確定できず）\n出典：大阪府サッカー協会（第2種）大会ページ／決勝T日程PDF\nhttps://osaka-fa.or.jp/2shu/game_information/2025大阪高校新人サッカー大会（女子の部）-2/\nhttps://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6/2026/01/R7_joshi_shinjinsen_nittei_kumiawase_0125.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント1回戦\n試合：T3\nキックオフ：12:00
+ \n会場：会場不明（公式PDFの決勝T日程に会場表記がなく、確定できず）\n出典：大阪府サッカー協会（第2種）大会ページ／決勝T日程PDF\nhtt
+ ps://osaka-fa.or.jp/2shu/game_information/2025大阪高校新人サッカー大会（女子の部）-2/\nhttps
+ ://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6/2026/01/R7_joshi_shinjin
+ sen_nittei_kumiawase_0125.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:4833ae3b657f5a44@masashi.local
@@ -292,7 +379,11 @@ DTSTART;TZID=Asia/Tokyo:20260201T133000
 DTEND;TZID=Asia/Tokyo:20260201T153000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:会場不明
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント1回戦\n試合：T4\nキックオフ：13:30\n会場：会場不明（公式PDFの決勝T日程に会場表記がなく、確定できず）\n出典：大阪府サッカー協会（第2種）大会ページ／決勝T日程PDF\nhttps://osaka-fa.or.jp/2shu/game_information/2025大阪高校新人サッカー大会（女子の部）-2/\nhttps://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6/2026/01/R7_joshi_shinjinsen_nittei_kumiawase_0125.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント1回戦\n試合：T4\nキックオフ：13:30
+ \n会場：会場不明（公式PDFの決勝T日程に会場表記がなく、確定できず）\n出典：大阪府サッカー協会（第2種）大会ページ／決勝T日程PDF\nhtt
+ ps://osaka-fa.or.jp/2shu/game_information/2025大阪高校新人サッカー大会（女子の部）-2/\nhttps
+ ://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6/2026/01/R7_joshi_shinjin
+ sen_nittei_kumiawase_0125.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:31f838a6c1c3c5cff934e3c1789733d0f425c9fc@masashi.local
@@ -302,17 +393,10 @@ DTSTART;TZID=Asia/Tokyo:20260208T093000
 DTEND;TZID=Asia/Tokyo:20260208T113000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:J-GREEN堺 S9（人工芝フィールド） 〒590-0901 大阪府堺市堺区築港八幡町145番地
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント 準決勝\n試合番号：T5\nキックオフ：09:30\n会場：J-GREEN堺 S9（人工芝フィールド） 〒590-0901 大阪府堺市堺区築港八幡町145番地\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:8257ed3c7d14610c@masashi.local
-SEQUENCE:1
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20260208T110000
-DTEND;TZID=Asia/Tokyo:20260208T130000
-SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
-LOCATION:J-GREEN堺 S9（人工芝フィールド） 〒590-0901 大阪府堺市堺区築港八幡町145番地
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント準決勝\n試合：T5\nキックオフ：11:00\n会場：J-GREEN堺 S9（大阪府堺市堺区築港八幡町145番地）\n備考：対戦カードは1回戦結果確定後に更新予定（同UIDで差し替え）\n出典：大阪府サッカー協会（第2種）決勝T日程PDF\nhttps://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6/2026/01/R7_joshi_shinjinsen_nittei_kumiawase_0125.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント 準決勝\n試合番号：T5\nキックオフ：09
+ :30\n会場：J-GREEN堺 S9（人工芝フィールド） 〒590-0901 大阪府堺市堺区築港八幡町145番地\n出典：大阪府サッカー協会（OF
+ A）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025
+ /12/2025shinjin_jyoshi_kessyou_yotei.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:8e70e770f6c8981e81dffd8d95482ec697ee12eb@masashi.local
@@ -322,56 +406,38 @@ DTSTART;TZID=Asia/Tokyo:20260208T113000
 DTEND;TZID=Asia/Tokyo:20260208T133000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:J-GREEN堺 S9（人工芝フィールド） 〒590-0901 大阪府堺市堺区築港八幡町145番地
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント 準決勝\n試合番号：T6\nキックオフ：11:30\n会場：J-GREEN堺 S9（人工芝フィールド） 〒590-0901 大阪府堺市堺区築港八幡町145番地\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:f4e6cca84a3b9fbe@masashi.local
-SEQUENCE:1
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20260208T122000
-DTEND;TZID=Asia/Tokyo:20260208T142000
-SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
-LOCATION:J-GREEN堺 S9（人工芝フィールド） 〒590-0901 大阪府堺市堺区築港八幡町145番地
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント準決勝\n試合：T6\nキックオフ：12:20\n会場：J-GREEN堺 S9（大阪府堺市堺区築港八幡町145番地）\n備考：対戦カードは1回戦結果確定後に更新予定（同UIDで差し替え）\n出典：大阪府サッカー協会（第2種）決勝T日程PDF\nhttps://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6/2026/01/R7_joshi_shinjinsen_nittei_kumiawase_0125.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント 準決勝\n試合番号：T6\nキックオフ：11
+ :30\n会場：J-GREEN堺 S9（人工芝フィールド） 〒590-0901 大阪府堺市堺区築港八幡町145番地\n出典：大阪府サッカー協会（OF
+ A）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025
+ /12/2025shinjin_jyoshi_kessyou_yotei.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:9a08262c98916169fb5c3fbee0f87dca6c02637d@masashi.local
-SEQUENCE:1
-DTSTAMP:20260205T050342Z
+SEQUENCE:2
+DTSTAMP:20260221T005126Z
 DTSTART;TZID=Asia/Tokyo:20260215T093000
 DTEND;TZID=Asia/Tokyo:20260215T113000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:J-GREEN堺 S11（人工芝フィールド・照明設備付） 〒590-0901 大阪府堺市堺区築港八幡町145番地
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント 3位決定戦\n試合番号：T7\nキックオフ：09:30\n会場：J-GREEN堺 S11（人工芝フィールド・照明設備付） 〒590-0901 大阪府堺市堺区築港八幡町145番地\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:5f5aa9977bef7b2d@masashi.local
-SEQUENCE:1
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20260215T100000
-DTEND;TZID=Asia/Tokyo:20260215T120000
-SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
-LOCATION:J-GREEN堺 S11（人工芝フィールド・照明設備付） 〒590-0901 大阪府堺市堺区築港八幡町145番地
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：3位決定戦\n試合：T7\nキックオフ：10:00\n会場：J-GREEN堺 S11（大阪府堺市堺区築港八幡町145番地）\n備考：対戦カードは準決勝結果確定後に更新予定（同UIDで差し替え）\n出典：大阪府サッカー協会（第2種）決勝T日程PDF\nhttps://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6/2026/01/R7_joshi_shinjinsen_nittei_kumiawase_0125.pdf
-END:VEVENT
-BEGIN:VEVENT
-UID:fcfaf45f2510cb94@masashi.local
-SEQUENCE:1
-DTSTAMP:20260205T050342Z
-DTSTART;TZID=Asia/Tokyo:20260215T112000
-DTEND;TZID=Asia/Tokyo:20260215T132000
-SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
-LOCATION:J-GREEN堺 S11（人工芝フィールド・照明設備付） 〒590-0901 大阪府堺市堺区築港八幡町145番地
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝\n試合：T8\nキックオフ：11:20\n会場：J-GREEN堺 S11（大阪府堺市堺区築港八幡町145番地）\n備考：対戦カードは準決勝結果確定後に更新予定（同UIDで差し替え）\n出典：大阪府サッカー協会（第2種）決勝T日程PDF\nhttps://osaka-fa.or.jp/2shu/wp-content/uploads/sites/6/2026/01/R7_joshi_shinjinsen_nittei_kumiawase_0125.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント 3位決定戦\n試合番号：T7\nキックオフ：
+ 09:30\n会場：J-GREEN堺 S11（人工芝フィールド・照明設備付） 〒590-0901 大阪府堺市堺区築港八幡町145番地\n出典：大阪府
+ サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/upl
+ oads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf\nスコア：大阪桐蔭 0-0 PK2-4 大阪学芸
+ \n出典：ジュニアサッカーニュース（大会結果まとめ）\nhttps://www.juniorsoccer-news.com/post-1870826
 END:VEVENT
 BEGIN:VEVENT
 UID:17f7fc7134e2a83e075fa478089b953f410aaa09@masashi.local
-SEQUENCE:1
-DTSTAMP:20260205T050342Z
+SEQUENCE:2
+DTSTAMP:20260221T005126Z
 DTSTART;TZID=Asia/Tokyo:20260215T113000
 DTEND;TZID=Asia/Tokyo:20260215T133000
 SUMMARY:大阪府／2025大阪高校新人サッカー大会（女子の部）
 LOCATION:J-GREEN堺 S11（人工芝フィールド・照明設備付） 〒590-0901 大阪府堺市堺区築港八幡町145番地
-DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント 決勝\n試合番号：T8\nキックオフ：11:30\n会場：J-GREEN堺 S11（人工芝フィールド・照明設備付） 〒590-0901 大阪府堺市堺区築港八幡町145番地\n出典：大阪府サッカー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/uploads/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf
+DESCRIPTION:大会：2025大阪高校新人サッカー大会（女子の部）\nステージ：決勝トーナメント 決勝\n試合番号：T8\nキックオフ：11:
+ 30\n会場：J-GREEN堺 S11（人工芝フィールド・照明設備付） 〒590-0901 大阪府堺市堺区築港八幡町145番地\n出典：大阪府サッカ
+ ー協会（OFA）掲載PDF（決勝トーナメント・日程）\nhttps://www.ofa.or.jp/attach/wp-content/upload
+ s/2025/12/2025shinjin_jyoshi_kessyou_yotei.pdf\nスコア：大商学園 4-1 追手門学院\n出典：高校サ
+ ッカードットコム（決勝戦レポート）\nhttps://koko-soccer.com/news/5-koukousoccer/52854-20240
+ 306-1
 END:VEVENT
 END:VCALENDAR
