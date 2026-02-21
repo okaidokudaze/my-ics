@@ -14,6 +14,140 @@ X-WR-TIMEZONE:Asia/Tokyo
 X-WR-CALDESC:大阪府内（会場不明含む）の高校男子サッカー予定。出典はDESCRIPTION参照。
 
 BEGIN:VEVENT
+UID:f481e48039c951aabe3e92fd3bf9f448@masashi.local
+DTSTAMP:20260221T035123Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251207T091500
+DTEND;TZID=Asia/Tokyo:20251207T111500
+SUMMARY:大阪府／U-18リーグ2025（大阪2部AB）／2A90
+LOCATION:帝塚山泉ヶ丘
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2A90\\n区分：予定\\n確
+ 度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sit
+ es/6/2025/11/U18_div2_sche.pdf\\n対戦：帝塚山泉ヶ丘 vs 大阪立
+ 命館
+END:VEVENT
+BEGIN:VEVENT
+UID:d61dc6e36bc5fc8449fe20ce5216a21c@masashi.local
+DTSTAMP:20260221T035123Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251207T094500
+DTEND;TZID=Asia/Tokyo:20251207T114500
+SUMMARY:大阪府／U-18リーグ2025（大阪2部AB）／2A87
+LOCATION:セレッソ舞洲人工芝
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2A87\\n区分：予定\\n確
+ 度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sit
+ es/6/2025/11/U18_div2_sche.pdf\\n対戦：セレッソ大阪B vs 東大阪
+ 大柏原
+END:VEVENT
+BEGIN:VEVENT
+UID:e55387074f873176548b7cd60f56f8ab@masashi.local
+DTSTAMP:20260221T035123Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251207T113000
+DTEND;TZID=Asia/Tokyo:20251207T133000
+SUMMARY:大阪府／U-18リーグ2025（大阪2部AB）／2B83
+LOCATION:帝塚山泉ヶ丘
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2B83\\n区分：予定\\n確
+ 度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sit
+ es/6/2025/11/U18_div2_sche.pdf\\n対戦：桜宮 vs 商大高
+END:VEVENT
+BEGIN:VEVENT
+UID:f1a8d38f99df5ae26fa3e831709601e8@masashi.local
+DTSTAMP:20260221T035123Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251207T120000
+DTEND;TZID=Asia/Tokyo:20251207T140000
+SUMMARY:大阪府／U-18リーグ2025（大阪2部AB）／2B84
+LOCATION:摂津
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2B84\\n区分：予定\\n確
+ 度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sit
+ es/6/2025/11/U18_div2_sche.pdf\\n対戦：摂津 vs 大阪学院B
+END:VEVENT
+BEGIN:VEVENT
+UID:f36a0509f487c51a30996a6a132c532d@masashi.local
+DTSTAMP:20260221T035123Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251207T123000
+DTEND;TZID=Asia/Tokyo:20251207T143000
+SUMMARY:大阪府／U-18リーグ2025（大阪2部AB）／2B81
+LOCATION:セレッソ舞洲人工芝
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2B81\\n区分：予定\\n確
+ 度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sit
+ es/6/2025/11/U18_div2_sche.pdf\\n対戦：清明学院 vs ガンバ大阪B
+END:VEVENT
+BEGIN:VEVENT
+UID:aad4cfd5312b8fe907d90642616bd123@masashi.local
+DTSTAMP:20260221T035123Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251207T140000
+DTEND;TZID=Asia/Tokyo:20251207T160000
+SUMMARY:大阪府／U-18リーグ2025（大阪2部AB）／2B85
+LOCATION:近大附属
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2B85\\n区分：予定\\n確
+ 度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sit
+ es/6/2025/11/U18_div2_sche.pdf\\n対戦：香里ヌヴェール vs 大阪
+ 桐蔭B
+END:VEVENT
+BEGIN:VEVENT
+UID:4c9dbc40ae73b2b7d6d5d005996ebab2@masashi.local
+DTSTAMP:20260221T035123Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251207T140000
+DTEND;TZID=Asia/Tokyo:20251207T160000
+SUMMARY:大阪府／U-18リーグ2025（大阪2部AB）／2B82
+LOCATION:履正社茨木Ｇ
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2B82\\n区分：予定\\n確
+ 度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sit
+ es/6/2025/11/U18_div2_sche.pdf\\n対戦：賢明学院 vs 履正社C
+END:VEVENT
+BEGIN:VEVENT
+UID:ef86cfe86b072fa46155e738eefc3992@masashi.local
+DTSTAMP:20260221T035123Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251207T141500
+DTEND;TZID=Asia/Tokyo:20251207T161500
+SUMMARY:大阪府／U-18リーグ2025（大阪2部AB）／2A88
+LOCATION:摂津
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2A88\\n区分：予定\\n確
+ 度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sit
+ es/6/2025/11/U18_div2_sche.pdf\\n対戦：千里 vs 関大一
+END:VEVENT
+BEGIN:VEVENT
+UID:62a4f72c2cd00f6e9556aaf585e113ff@masashi.local
+DTSTAMP:20260221T035123Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251207T161500
+DTEND;TZID=Asia/Tokyo:20251207T181500
+SUMMARY:大阪府／U-18リーグ2025（大阪2部AB）／2A89
+LOCATION:近大附属
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2A89\\n区分：予定\\n確
+ 度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sit
+ es/6/2025/11/U18_div2_sche.pdf\\n対戦：興國C vs 近大附属B
+END:VEVENT
+BEGIN:VEVENT
+UID:eb4bbdeedbf22cb50997551d45368e60@masashi.local
+DTSTAMP:20260221T035123Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251207T161500
+DTEND;TZID=Asia/Tokyo:20251207T181500
+SUMMARY:大阪府／U-18リーグ2025（大阪2部AB）／2A86
+LOCATION:履正社茨木Ｇ
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2A86\\n区分：予定\\n確
+ 度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-content/uploads/sit
+ es/6/2025/11/U18_div2_sche.pdf\\n対戦：大阪偕星 vs アサンプシ
+ ョン
+END:VEVENT
+BEGIN:VEVENT
 UID:ad64e17dbbbbe9a61d77318501abf855@masashi.local
 DTSTAMP:20260216T085523Z
 SEQUENCE:2
@@ -1288,6 +1422,20 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
 SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
+UID:a45847f45e560d525015caa78c038733@masashi.local
+DTSTAMP:20260221T035123Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251220T094500
+DTEND;TZID=Asia/Tokyo:20251220T114500
+SUMMARY:大阪府／プリンス関西PO（参入戦）／1回戦／5-2
+LOCATION:J-GREEN堺（S8）
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯 JFA U-18サッカー
+ リーグ2025 プリンスリーグ関西 プレーオフ（参入戦）\\
+ nラウンド：1回戦\\n区分：結果\\n確度：確定\\n出典：htt
+ ps://www.ogu-h.ed.jp/news/2025/12/jfa-u-18-2025.html\\nスコア：5-2\\n
+ 対戦：大阪学院大高 vs 神戸科学技術
+END:VEVENT
+BEGIN:VEVENT
 UID:60580e7480785730@masashi.local
 DTSTAMP:20260216T085523Z
 DTSTART;TZID=Asia/Tokyo:20251220T131500
@@ -1346,6 +1494,20 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/
  第72回-男子-第10回-女子/試合結果/\n
 SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+UID:4db0f95f67c49dbb460fbb97e2030d1b@masashi.local
+DTSTAMP:20260221T035123Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251220T154500
+DTEND;TZID=Asia/Tokyo:20251220T174500
+SUMMARY:大阪府／プリンス関西PO（参入戦）／1回戦／1-3
+LOCATION:J-GREEN堺（S8）
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯 JFA U-18サッカー
+ リーグ2025 プリンスリーグ関西 プレーオフ（参入戦）\\
+ nラウンド：1回戦\\n区分：結果\\n確度：確定\\n出典：htt
+ ps://naraclub.jp/archives/65898\\nスコア：1-3\\n対戦：奈良クラ
+ ブユース vs 関大北陽
 END:VEVENT
 BEGIN:VEVENT
 UID:a3d22e90acd58ae8a39a3b1fdc191cd4@masashi.local
@@ -1466,6 +1628,20 @@ LOCATION:会場不明
 DESCRIPTION:大会：2025年度 第4回大阪公立高校大会\n区分：
  予選リーグ（こグループ）\n出典：https://koko-soccer.com/scor
  e/4222\n※会場情報は一次ソースで確認でき次第追記\n
+END:VEVENT
+BEGIN:VEVENT
+UID:7044d4649f943a4e24dbc3f5e698ae8d@masashi.local
+DTSTAMP:20260221T035123Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251221T094500
+DTEND;TZID=Asia/Tokyo:20251221T114500
+SUMMARY:大阪府／プリンス関西PO（参入戦）／決定戦／1-3
+LOCATION:J-GREEN堺（S8）
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯 JFA U-18サッカー
+ リーグ2025 プリンスリーグ関西 プレーオフ（参入戦）\\
+ nラウンド：決定戦\\n区分：結果\\n確度：確定\\n出典：h
+ ttps://www.ogu-h.ed.jp/news/2025/12/jfa-u-18-2025.html\\nスコア：1-3\\
+ n対戦：大阪学院大高 vs 京都橘B
 END:VEVENT
 BEGIN:VEVENT
 UID:c08d85258361594c539f6aa52cd0ceae@masashi.local
@@ -1600,6 +1776,20 @@ DESCRIPTION:大会：2025年度 第4回大阪公立高校大会\n区分：
  e/4222\n※会場情報は一次ソースで確認でき次第追記\n
 END:VEVENT
 BEGIN:VEVENT
+UID:70dc7b4c9ea49651207917aa065f6119@masashi.local
+DTSTAMP:20260221T035123Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251221T154500
+DTEND;TZID=Asia/Tokyo:20251221T174500
+SUMMARY:大阪府／プリンス関西PO（参入戦）／決定戦／3-1
+LOCATION:J-GREEN堺
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯 JFA U-18サッカー
+ リーグ2025 プリンスリーグ関西 プレーオフ（参入戦）\\
+ nラウンド：決定戦\\n区分：結果\\n確度：確定\\n出典：h
+ ttps://www.hokuyofc.net/wp/offical_game_smart\\nスコア：3-1\\n対戦
+ ：関大北陽 vs 近大和歌山
+END:VEVENT
+BEGIN:VEVENT
 UID:59c1006884404e8a0bd5755e4ac41bc9@masashi.local
 DTSTAMP:20260216T085523Z
 SEQUENCE:2
@@ -1730,6 +1920,50 @@ LOCATION:会場不明
 DESCRIPTION:大会：2025年度 第4回大阪公立高校大会\n区分：
  予選リーグ（くグループ）\n出典：https://koko-soccer.com/scor
  e/4222\n※会場情報は一次ソースで確認でき次第追記\n
+END:VEVENT
+BEGIN:VEVENT
+UID:3123776dc393e66334feb966e75d2411@masashi.local
+DTSTAMP:20260221T035123Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251231T141000
+DTEND;TZID=Asia/Tokyo:20251231T164000
+SUMMARY:大阪府／全国高校サッカー選手権（第104回）／2回
+ 戦／1-1（PK3-1）
+LOCATION:味の素フィールド西が丘
+DESCRIPTION:種別：公式戦\\n大会：第104回全国高等学校サッ
+ カー選手権大会\\nラウンド：2回戦\\n区分：結果\\n確度
+ ：確定\\n出典：https://www.jfa.jp/match/alljapan_highschool_2025/mat
+ ch_page/m26.html\\nスコア：1-1（PK3-1）\\n対戦：興國 vs 浜松
+ 開誠館
+END:VEVENT
+BEGIN:VEVENT
+UID:76d11e9c15b68c2e686339aff39726f3@masashi.local
+DTSTAMP:20260221T035123Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260102T120500
+DTEND;TZID=Asia/Tokyo:20260102T143500
+SUMMARY:大阪府／全国高校サッカー選手権（第104回）／3回
+ 戦／2-2（PK5-4）
+LOCATION:駒沢陸上競技場
+DESCRIPTION:種別：公式戦\\n大会：第104回全国高等学校サッ
+ カー選手権大会\\nラウンド：3回戦\\n区分：結果\\n確度
+ ：確定\\n出典：https://www.jfa.jp/match/alljapan_highschool_2025/mat
+ ch_page/m37.html\\nスコア：2-2（PK5-4）\\n対戦：東福岡 vs 興
+ 國
+END:VEVENT
+BEGIN:VEVENT
+UID:aa663da9dd6ca8a857e81b0944cb98cd@masashi.local
+DTSTAMP:20260221T035123Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260104T120500
+DTEND;TZID=Asia/Tokyo:20260104T143500
+SUMMARY:大阪府／全国高校サッカー選手権（第104回）／準
+ 々決勝／1-3
+LOCATION:Uvanceとどろきスタジアム by Fujitsu
+DESCRIPTION:種別：公式戦\\n大会：第104回全国高等学校サッ
+ カー選手権大会\\nラウンド：準々決勝\\n区分：結果\\n
+ 確度：確定\\n出典：https://www.jfa.jp/match/alljapan_highschool_20
+ 25/match_page/m43.html\\nスコア：1-3\\n対戦：興國 vs 鹿島学園
 END:VEVENT
 BEGIN:VEVENT
 UID:57f004fd91112622@masashi.local
