@@ -12,7 +12,7 @@ X-WR-CALNAME:【大阪】男子高校サッカー
 
 X-WR-TIMEZONE:Asia/Tokyo
 X-WR-CALDESC:大阪府内（会場不明含む）の高校男子サッカ
- ー予定。出典はDESCRIPTION参照。
+ ー予定。
 
 BEGIN:VEVENT
 UID:f481e48039c951aabe3e92fd3bf9f448@masashi.local
@@ -24,9 +24,8 @@ SUMMARY:帝塚山泉ヶ丘 vs 大阪立命館
 LOCATION:帝塚山泉ヶ丘
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2A90\\n区分：結果\\nスコ
- ア：0-3\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
- nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：帝塚山泉ヶ丘 
- vs 大阪立命館\\n節/ラウンド：2A90
+ ア：0-3\\n確度：確定\\n対戦：帝塚山泉ヶ丘 vs 大阪立命
+ 館\\n節/ラウンド：2A90
 END:VEVENT
 
 BEGIN:VEVENT
@@ -39,9 +38,8 @@ SUMMARY:セレッソ大阪B vs 東大阪大柏原
 LOCATION:セレッソ舞洲人工芝
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2A87\\n区分：結果\\nスコ
- ア：5-0\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
- nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：セレッソ大阪B
-  vs 東大阪大柏原\\n節/ラウンド：2A87
+ ア：5-0\\n確度：確定\\n対戦：セレッソ大阪B vs 東大阪大
+ 柏原\\n節/ラウンド：2A87
 END:VEVENT
 
 BEGIN:VEVENT
@@ -54,9 +52,8 @@ SUMMARY:桜宮 vs 商大高
 LOCATION:帝塚山泉ヶ丘
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2B83\\n区分：結果\\nスコ
- ア：2-1\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
- nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：桜宮 vs 商大高
- \\n節/ラウンド：2B83
+ ア：2-1\\n確度：確定\\n対戦：桜宮 vs 商大高\\n節/ラウン
+ ド：2B83
 END:VEVENT
 
 BEGIN:VEVENT
@@ -69,9 +66,8 @@ SUMMARY:摂津 vs 大阪学院B
 LOCATION:摂津
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2B84\\n区分：結果\\nスコ
- ア：1-4\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
- nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：摂津 vs 大阪学
- 院B\\n節/ラウンド：2B84
+ ア：1-4\\n確度：確定\\n対戦：摂津 vs 大阪学院B\\n節/ラウ
+ ンド：2B84
 END:VEVENT
 
 BEGIN:VEVENT
@@ -84,9 +80,8 @@ SUMMARY:清明学院 vs ガンバ大阪B
 LOCATION:セレッソ舞洲人工芝
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2B81\\n区分：結果\\nスコ
- ア：1-1\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
- nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：清明学院 vs ガ
- ンバ大阪B\\n節/ラウンド：2B81
+ ア：1-1\\n確度：確定\\n対戦：清明学院 vs ガンバ大阪B\\n
+ 節/ラウンド：2B81
 END:VEVENT
 
 BEGIN:VEVENT
@@ -99,9 +94,8 @@ SUMMARY:香里ヌヴェール vs 大阪桐蔭B
 LOCATION:近大附属
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2B85\\n区分：結果\\nスコ
- ア：2-3\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
- nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：香里ヌヴェー
- ル vs 大阪桐蔭B\\n節/ラウンド：2B85
+ ア：2-3\\n確度：確定\\n対戦：香里ヌヴェール vs 大阪桐
+ 蔭B\\n節/ラウンド：2B85
 END:VEVENT
 
 BEGIN:VEVENT
@@ -114,9 +108,8 @@ SUMMARY:賢明学院 vs 履正社C
 LOCATION:履正社茨木Ｇ
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2B82\\n区分：結果\\nスコ
- ア：1-2\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
- nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：賢明学院 vs 履
- 正社C\\n節/ラウンド：2B82
+ ア：1-2\\n確度：確定\\n対戦：賢明学院 vs 履正社C\\n節/ラ
+ ウンド：2B82
 END:VEVENT
 
 BEGIN:VEVENT
@@ -129,9 +122,8 @@ SUMMARY:千里 vs 関大一
 LOCATION:摂津
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2A88\\n区分：結果\\nスコ
- ア：2-6\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
- nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：千里 vs 関大一
- \\n節/ラウンド：2A88
+ ア：2-6\\n確度：確定\\n対戦：千里 vs 関大一\\n節/ラウン
+ ド：2A88
 END:VEVENT
 
 BEGIN:VEVENT
@@ -144,9 +136,8 @@ SUMMARY:興國C vs 近大附属B
 LOCATION:近大附属
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2A89\\n区分：結果\\nスコ
- ア：1-4\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
- nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：興國C vs 近大
- 附属B\\n節/ラウンド：2A89
+ ア：1-4\\n確度：確定\\n対戦：興國C vs 近大附属B\\n節/ラ
+ ウンド：2A89
 END:VEVENT
 
 BEGIN:VEVENT
@@ -159,9 +150,8 @@ SUMMARY:大阪偕星 vs アサンプション
 LOCATION:履正社茨木Ｇ
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2A86\\n区分：結果\\nスコ
- ア：0-5\\n確度：確定\\n出典：https://osaka-fa.or.jp/2shu/wp-conte
- nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：大阪偕星 vs ア
- サンプション\\n節/ラウンド：2A86
+ ア：0-5\\n確度：確定\\n対戦：大阪偕星 vs アサンプショ
+ ン\\n節/ラウンド：2A86
 END:VEVENT
 
 BEGIN:VEVENT
@@ -174,9 +164,8 @@ SUMMARY:旭 1-0 生野
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ えグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：旭
-  vs 生野\nスコア：1-0\n節/ラウンド：予選リーグ えグル
- ープ
+ n確度：確定\n対戦：旭 vs 生野\nスコア：1-0\n節/ラウンド
+ ：予選リーグ えグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -189,9 +178,8 @@ SUMMARY:今宮 3-3 長野
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ かグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：今
- 宮 vs 長野\nスコア：3-3\n節/ラウンド：予選リーグ かグ
- ループ
+ n確度：確定\n対戦：今宮 vs 長野\nスコア：3-3\n節/ラウン
+ ド：予選リーグ かグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -204,9 +192,8 @@ SUMMARY:鳳 4-1 都島工
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ くグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：鳳
-  vs 都島工\nスコア：4-1\n節/ラウンド：予選リーグ くグ
- ループ
+ n確度：確定\n対戦：鳳 vs 都島工\nスコア：4-1\n節/ラウン
+ ド：予選リーグ くグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -219,9 +206,8 @@ SUMMARY:堺東 6-0 八尾
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ けグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：堺
- 東 vs 八尾\nスコア：6-0\n節/ラウンド：予選リーグ けグ
- ループ
+ n確度：確定\n対戦：堺東 vs 八尾\nスコア：6-0\n節/ラウン
+ ド：予選リーグ けグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -234,9 +220,8 @@ SUMMARY:緑風冠 0-1 富田林
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ さグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：緑
- 風冠 vs 富田林\nスコア：0-1\n節/ラウンド：予選リーグ 
- さグループ
+ n確度：確定\n対戦：緑風冠 vs 富田林\nスコア：0-1\n節/ラ
+ ウンド：予選リーグ さグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -249,9 +234,8 @@ SUMMARY:大教大池田 0-1 北千里
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ すグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：大
- 教大池田 vs 北千里\nスコア：0-1\n節/ラウンド：予選リー
- グ すグループ
+ n確度：確定\n対戦：大教大池田 vs 北千里\nスコア：0-1\n
+ 節/ラウンド：予選リーグ すグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -264,9 +248,8 @@ SUMMARY:三島 6-0 清水谷
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ せグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：三
- 島 vs 清水谷\nスコア：6-0\n節/ラウンド：予選リーグ せ
- グループ
+ n確度：確定\n対戦：三島 vs 清水谷\nスコア：6-0\n節/ラウ
+ ンド：予選リーグ せグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -279,9 +262,8 @@ SUMMARY:千里青雲 1-0 高石
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ かグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：千
- 里青雲 vs 高石\nスコア：1-0\n節/ラウンド：予選リーグ 
- かグループ
+ n確度：確定\n対戦：千里青雲 vs 高石\nスコア：1-0\n節/ラ
+ ウンド：予選リーグ かグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -294,9 +276,8 @@ SUMMARY:いちりつ 0-4 八尾翠翔
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ えグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：い
- ちりつ vs 八尾翠翔\nスコア：0-4\n節/ラウンド：予選リー
- グ えグループ
+ n確度：確定\n対戦：いちりつ vs 八尾翠翔\nスコア：0-4\n
+ 節/ラウンド：予選リーグ えグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -309,9 +290,8 @@ SUMMARY:門真なみはや 0-9 三国丘
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ くグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：門
- 真なみはや vs 三国丘\nスコア：0-9\n節/ラウンド：予選リ
- ーグ くグループ
+ n確度：確定\n対戦：門真なみはや vs 三国丘\nスコア：0-9
+ \n節/ラウンド：予選リーグ くグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -324,9 +304,8 @@ SUMMARY:大冠 2-1 夕陽丘
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ けグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：大
- 冠 vs 夕陽丘\nスコア：2-1\n節/ラウンド：予選リーグ け
- グループ
+ n確度：確定\n対戦：大冠 vs 夕陽丘\nスコア：2-1\n節/ラウ
+ ンド：予選リーグ けグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -339,9 +318,8 @@ SUMMARY:布施 3-0 咲くやこの花
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ さグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：布
- 施 vs 咲くやこの花\nスコア：3-0\n節/ラウンド：予選リー
- グ さグループ
+ n確度：確定\n対戦：布施 vs 咲くやこの花\nスコア：3-0\n
+ 節/ラウンド：予選リーグ さグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -354,9 +332,8 @@ SUMMARY:牧野 6-0 日根野
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ すグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：牧
- 野 vs 日根野\nスコア：6-0\n節/ラウンド：予選リーグ す
- グループ
+ n確度：確定\n対戦：牧野 vs 日根野\nスコア：6-0\n節/ラウ
+ ンド：予選リーグ すグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -369,9 +346,8 @@ SUMMARY:久米田 2-0 金剛
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ せグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：久
- 米田 vs 金剛\nスコア：2-0\n節/ラウンド：予選リーグ せ
- グループ
+ n確度：確定\n対戦：久米田 vs 金剛\nスコア：2-0\n節/ラウ
+ ンド：予選リーグ せグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -384,9 +360,8 @@ SUMMARY:泉陽 1-3 豊中
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ こグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：泉
- 陽 vs 豊中\nスコア：1-3\n節/ラウンド：予選リーグ こグ
- ループ
+ n確度：確定\n対戦：泉陽 vs 豊中\nスコア：1-3\n節/ラウン
+ ド：予選リーグ こグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -399,9 +374,8 @@ SUMMARY:四條畷 3-0 大手前
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ おグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：四
- 條畷 vs 大手前\nスコア：3-0\n節/ラウンド：予選リーグ 
- おグループ
+ n確度：確定\n対戦：四條畷 vs 大手前\nスコア：3-0\n節/ラ
+ ウンド：予選リーグ おグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -414,9 +388,8 @@ SUMMARY:大塚 1-1 泉大津
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ こグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：大
- 塚 vs 泉大津\nスコア：1-1\n節/ラウンド：予選リーグ こ
- グループ
+ n確度：確定\n対戦：大塚 vs 泉大津\nスコア：1-1\n節/ラウ
+ ンド：予選リーグ こグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -429,9 +402,8 @@ SUMMARY:堺上 0-4 北かわち皐が丘
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ おグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：堺
- 上 vs 北かわち皐が丘\nスコア：0-4\n節/ラウンド：予選リ
- ーグ おグループ
+ n確度：確定\n対戦：堺上 vs 北かわち皐が丘\nスコア：0-4
+ \n節/ラウンド：予選リーグ おグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -446,10 +418,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 1日目\n試合番号：N①\nキックオフ：9:20\n会場：J-GREEN
  堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
- ）\nスコア：清風 4 - 0 追手門学院\n出典：大阪私立高等
- 学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka
- -shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\
- n
+ ）\nスコア：清風 4 - 0 追手門学院\nhttps://www.osaka-shigaku-so
+ ccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -463,9 +433,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 1日目\n試合番号：P①\nキックオフ：9:20\n会場：J-GREEN
  堺 S9（大阪府堺市堺区築港八幡町145番地）\nスコア：開
- 明 0 - 4 大阪産業大学附属\n出典：大阪私立高等学校体育
- 連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soc
- cer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 明 0 - 4 大阪産業大学附属\nhttps://www.osaka-shigaku-soccer.jp/ホ
+ ーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -481,9 +450,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  グ 1日目\n試合番号：D①\nキックオフ：9:20\n会場：J-GREEN
  堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
  地）\nスコア：大阪体育大学浪商 1 - 0 関西福祉科学大学
- \n出典：大阪私立高等学校体育連盟サッカー部HP（試合
- 結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子
- -第10回-女子/試合結果/\n
+ \nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-
+ 女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -497,9 +465,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 1日目\n試合番号：N④\nキックオフ：9:20\n会場：J-GREEN
  堺 S12（大阪府堺市堺区築港八幡町145番地）\nスコア：星
- 翔 0(1) - 0(0) 大商学園\n出典：大阪私立高等学校体育連盟
- サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
- /ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 翔 0(1) - 0(0) 大商学園\nhttps://www.osaka-shigaku-soccer.jp/ホーム
+ /第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -514,10 +481,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 1日目\n試合番号：O②\nキックオフ：11:10\n会場：J-GREEN
  堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
- ）\nスコア：金光大阪 5 - 1 箕面自由学園\n出典：大阪私
- 立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://
- www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試
- 合結果/\n
+ ）\nスコア：金光大阪 5 - 1 箕面自由学園\nhttps://www.osaka-s
+ higaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -531,9 +496,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 1日目\n試合番号：A①\nキックオフ：11:10\n会場：J-GREEN
  堺 S9（大阪府堺市堺区築港八幡町145番地）\nスコア：履
- 正社 5 - 2 箕面学園\n出典：大阪私立高等学校体育連盟サ
- ッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/
- ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 正社 5 - 2 箕面学園\nhttps://www.osaka-shigaku-soccer.jp/ホーム/
+ 第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -547,9 +511,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 1日目\n試合番号：M①\nキックオフ：11:10\n会場：J-GREEN
  堺 S10（大阪府堺市堺区築港八幡町145番地）\nスコア：賢
- 明学院 6 - 0 明星\n出典：大阪私立高等学校体育連盟サッ
- カー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホ
- ーム/第72回-男子-第10回-女子/試合結果/\n
+ 明学院 6 - 0 明星\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72
+ 回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -564,10 +527,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 1日目\n試合番号：M④\nキックオフ：11:10\n会場：J-GREEN
  堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
- 地）\nスコア：上宮 3 - 0 大阪星光学院\n出典：大阪私立
- 高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www
- .osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合
- 結果/\n
+ 地）\nスコア：上宮 3 - 0 大阪星光学院\nhttps://www.osaka-shig
+ aku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -581,9 +542,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 1日目\n試合番号：O③\nキックオフ：11:10\n会場：J-GREEN
  堺 S12（大阪府堺市堺区築港八幡町145番地）\nスコア：大
- 阪青凌 3 - 2 英真学園\n出典：大阪私立高等学校体育連盟
- サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
- /ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 阪青凌 3 - 2 英真学園\nhttps://www.osaka-shigaku-soccer.jp/ホーム
+ /第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -598,10 +558,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 1日目\n試合番号：F①\nキックオフ：13:00\n会場：J-GREEN
  堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
- ）\nスコア：大阪学院大学 9 - 0 関西大学\n出典：大阪私
- 立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://
- www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試
- 合結果/\n
+ ）\nスコア：大阪学院大学 9 - 0 関西大学\nhttps://www.osaka-s
+ higaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -615,9 +573,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 1日目\n試合番号：G①\nキックオフ：13:00\n会場：J-GREEN
  堺 S9（大阪府堺市堺区築港八幡町145番地）\nスコア：関
- 西大学北陽 0 - 1 大阪桐蔭\n出典：大阪私立高等学校体育
- 連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soc
- cer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 西大学北陽 0 - 1 大阪桐蔭\nhttps://www.osaka-shigaku-soccer.jp/ホ
+ ーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -631,9 +588,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 1日目\n試合番号：E①\nキックオフ：13:00\n会場：J-GREEN
  堺 S10（大阪府堺市堺区築港八幡町145番地）\nスコア：桃
- 山学院 2 - 0 関西創価\n出典：大阪私立高等学校体育連盟
- サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
- /ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 山学院 2 - 0 関西創価\nhttps://www.osaka-shigaku-soccer.jp/ホーム
+ /第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -648,10 +604,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 1日目\n試合番号：E④\nキックオフ：13:00\n会場：J-GREEN
  堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
- 地）\nスコア：あべの翔学 1 - 7 清明学院\n出典：大阪私
- 立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://
- www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試
- 合結果/\n
+ 地）\nスコア：あべの翔学 1 - 7 清明学院\nhttps://www.osaka-s
+ higaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -666,10 +620,9 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 1日目\n試合番号：I①\nキックオフ：14:50\n会場：J-GREEN
  堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
- ）\nスコア：東大阪大学柏原 1 - 0 近畿大学附属\n出典：
- 大阪私立高等学校体育連盟サッカー部HP（試合結果PDF）\
- nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女
- 子/試合結果/\n
+ ）\nスコア：東大阪大学柏原 1 - 0 近畿大学附属\nhttps://ww
+ w.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合
+ 結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -683,10 +636,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 1日目\n試合番号：I④\nキックオフ：14:50\n会場：J-GREEN
  堺 S9（大阪府堺市堺区築港八幡町145番地）\nスコア：大
- 阪商業大学堺 6 - 0 帝塚山学院泉ヶ丘\n出典：大阪私立高
- 等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.os
- aka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結
- 果/\n
+ 阪商業大学堺 6 - 0 帝塚山学院泉ヶ丘\nhttps://www.osaka-shigak
+ u-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -700,9 +651,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 1日目\n試合番号：F④\nキックオフ：14:50\n会場：J-GREEN
  堺 S10（大阪府堺市堺区築港八幡町145番地）\nスコア：大
- 阪 0 - 4 大阪朝鮮\n出典：大阪私立高等学校体育連盟サッ
- カー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホ
- ーム/第72回-男子-第10回-女子/試合結果/\n
+ 阪 0 - 4 大阪朝鮮\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72
+ 回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -717,10 +667,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 1日目\n試合番号：G④\nキックオフ：14:50\n会場：J-GREEN
  堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
- 地）\nスコア：昇陽 2 - 1 大阪学芸\n出典：大阪私立高等
- 学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka
- -shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\
- n
+ 地）\nスコア：昇陽 2 - 1 大阪学芸\nhttps://www.osaka-shigaku-so
+ ccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -735,10 +683,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：J①\nキックオフ：9:20\n会場：J-GREEN
  堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
- ）\nスコア：大阪商業大学 0 - 3 興国\n出典：大阪私立高
- 等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.os
- aka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結
- 果/\n
+ ）\nスコア：大阪商業大学 0 - 3 興国\nhttps://www.osaka-shigaku
+ -soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -752,10 +698,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：J④\nキックオフ：9:20\n会場：J-GREEN
  堺 S9（大阪府堺市堺区築港八幡町145番地）\nスコア：ア
- サンプション国際 6 - 1 追手門学院大手前\n出典：大阪私
- 立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://
- www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試
- 合結果/\n
+ サンプション国際 6 - 1 追手門学院大手前\nhttps://www.osaka-
+ shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -769,9 +713,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：K①\nキックオフ：9:20\n会場：J-GREEN
  堺 S10（大阪府堺市堺区築港八幡町145番地）\nスコア：高
- 槻 2 - 3 太成学院大学\n出典：大阪私立高等学校体育連盟
- サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
- /ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 槻 2 - 3 太成学院大学\nhttps://www.osaka-shigaku-soccer.jp/ホーム
+ /第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -786,10 +729,9 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：K④\nキックオフ：9:20\n会場：J-GREEN
  堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
- 地）\nスコア：大阪偕星学園 1(3) - 1(4) 常翔啓光\n出典：
- 大阪私立高等学校体育連盟サッカー部HP（試合結果PDF）\
- nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女
- 子/試合結果/\n
+ 地）\nスコア：大阪偕星学園 1(3) - 1(4) 常翔啓光\nhttps://ww
+ w.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合
+ 結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -803,9 +745,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：B④\nキックオフ：9:20\n会場：J-GREEN
  堺 S12（大阪府堺市堺区築港八幡町145番地）\nスコア：関
- 西大学第一 2 - 1 大阪立命館\n出典：大阪私立高等学校体
- 育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-
- soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 西大学第一 2 - 1 大阪立命館\nhttps://www.osaka-shigaku-soccer.jp/
+ ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -819,9 +760,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：B①\nキックオフ：9:20\n会場：J-GREEN
  堺 S13（大阪府堺市堺区築港八幡町145番地）\nスコア：羽
- 衣学園 4 - 1 関西大倉\n出典：大阪私立高等学校体育連盟
- サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
- /ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 衣学園 4 - 1 関西大倉\nhttps://www.osaka-shigaku-soccer.jp/ホーム
+ /第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -836,10 +776,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：A②\nキックオフ：11:10\n会場：J-GREEN
  堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
- ）\nスコア：履正社 11 - 0 東大阪大学敬愛\n出典：大阪私
- 立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://
- www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試
- 合結果/\n
+ ）\nスコア：履正社 11 - 0 東大阪大学敬愛\nhttps://www.osaka-
+ shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -853,9 +791,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：P②\nキックオフ：11:10\n会場：J-GREEN
  堺 S9（大阪府堺市堺区築港八幡町145番地）\nスコア：清
- 教学園 2 - 1 大阪産業大学附属\n出典：大阪私立高等学校
- 体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shiga
- ku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 教学園 2 - 1 大阪産業大学附属\nhttps://www.osaka-shigaku-soccer.
+ jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -869,9 +806,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：C①\nキックオフ：11:10\n会場：J-GREEN
  堺 S10（大阪府堺市堺区築港八幡町145番地）\nスコア：初
- 芝富田林 0 - 12 早稲田大阪\n出典：大阪私立高等学校体
- 育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-
- soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 芝富田林 0 - 12 早稲田大阪\nhttps://www.osaka-shigaku-soccer.jp/
+ ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -886,10 +822,9 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：C④\nキックオフ：11:10\n会場：J-GREEN
  堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
- 地）\nスコア：香里ヌヴェール学院 2 - 1 清風南海\n出典
- ：大阪私立高等学校体育連盟サッカー部HP（試合結果PDF
- ）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回
- -女子/試合結果/\n
+ 地）\nスコア：香里ヌヴェール学院 2 - 1 清風南海\nhttps:/
+ /www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試
+ 合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -903,10 +838,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：L②\nキックオフ：11:10\n会場：J-GREEN
  堺 S12（大阪府堺市堺区築港八幡町145番地）\nスコア：東
- 海大学付属大阪仰星 0(1) - 0(2) 浪速\n出典：大阪私立高等
- 学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka
- -shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\
- n
+ 海大学付属大阪仰星 0(1) - 0(2) 浪速\nhttps://www.osaka-shigaku-s
+ occer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -920,9 +853,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：L③\nキックオフ：11:10\n会場：J-GREEN
  堺 S13（大阪府堺市堺区築港八幡町145番地）\nスコア：阪
- 南大学 11 - 0 精華\n出典：大阪私立高等学校体育連盟サ
- ッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/
- ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 南大学 11 - 0 精華\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第7
+ 2回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -937,10 +869,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：H①\nキックオフ：13:00\n会場：J-GREEN
  堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
- ）\nスコア：常翔学園 6 - 0 金光藤蔭\n出典：大阪私立高
- 等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.os
- aka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結
- 果/\n
+ ）\nスコア：常翔学園 6 - 0 金光藤蔭\nhttps://www.osaka-shigaku
+ -soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -954,9 +884,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：M②\nキックオフ：13:00\n会場：J-GREEN
  堺 S9（大阪府堺市堺区築港八幡町145番地）\nスコア：賢
- 明学院 2 - 1 上宮\n出典：大阪私立高等学校体育連盟サッ
- カー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホ
- ーム/第72回-男子-第10回-女子/試合結果/\n
+ 明学院 2 - 1 上宮\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72
+ 回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -970,9 +899,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：H④\nキックオフ：13:00\n会場：J-GREEN
  堺 S10（大阪府堺市堺区築港八幡町145番地）\nスコア：上
- 宮太子 0 - 1 同志社香里\n出典：大阪私立高等学校体育連
- 盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer
- .jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 宮太子 0 - 1 同志社香里\nhttps://www.osaka-shigaku-soccer.jp/ホー
+ ム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -987,10 +915,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：M③\nキックオフ：13:00\n会場：J-GREEN
  堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
- 地）\nスコア：大阪星光学院 2 - 3 明星\n出典：大阪私立
- 高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www
- .osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合
- 結果/\n
+ 地）\nスコア：大阪星光学院 2 - 3 明星\nhttps://www.osaka-shig
+ aku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1005,10 +931,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：O①\nキックオフ：14:50\n会場：J-GREEN
  堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
- ）\nスコア：大阪青凌 3 - 0 箕面自由学園\n出典：大阪私
- 立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://
- www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試
- 合結果/\n
+ ）\nスコア：大阪青凌 3 - 0 箕面自由学園\nhttps://www.osaka-s
+ higaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1022,9 +946,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：O④\nキックオフ：14:50\n会場：J-GREEN
  堺 S9（大阪府堺市堺区築港八幡町145番地）\nスコア：金
- 光大阪 5 - 2 英真学園\n出典：大阪私立高等学校体育連盟
- サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
- /ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 光大阪 5 - 2 英真学園\nhttps://www.osaka-shigaku-soccer.jp/ホーム
+ /第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1038,9 +961,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：N②\nキックオフ：14:50\n会場：J-GREEN
  堺 S10（大阪府堺市堺区築港八幡町145番地）\nスコア：清
- 風 3 - 1 星翔\n出典：大阪私立高等学校体育連盟サッカー
- 部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/
- 第72回-男子-第10回-女子/試合結果/\n
+ 風 3 - 1 星翔\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-
+ 男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1055,10 +977,9 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：D②\nキックオフ：14:50\n会場：J-GREEN
  堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
- 地）\nスコア：東大谷 0 - 5 関西福祉科学大学\n出典：大
- 阪私立高等学校体育連盟サッカー部HP（試合結果PDF）\nht
- tps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子
- /試合結果/\n
+ 地）\nスコア：東大谷 0 - 5 関西福祉科学大学\nhttps://www.o
+ saka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結
+ 果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1072,9 +993,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 2日目\n試合番号：N③\nキックオフ：14:50\n会場：J-GREEN
  堺 S12（大阪府堺市堺区築港八幡町145番地）\nスコア：大
- 商学園 3(1) - 3(0) 追手門学院\n出典：大阪私立高等学校体
- 育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-
- soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 商学園 3(1) - 3(0) 追手門学院\nhttps://www.osaka-shigaku-soccer.jp/
+ ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1089,9 +1009,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：F②\nキックオフ：9:20\n会場：J-GREEN
  堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
- ）\nスコア：大阪学院 11 - 0 大阪\n出典：大阪私立高等学
- 校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-sh
- igaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
+ ）\nスコア：大阪学院 11 - 0 大阪\nhttps://www.osaka-shigaku-socc
+ er.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1105,9 +1024,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：F③\nキックオフ：9:20\n会場：J-GREEN
  堺 S9（大阪府堺市堺区築港八幡町145番地）\nスコア：関
- 西大学 0 - 2 大阪朝鮮\n出典：大阪私立高等学校体育連盟
- サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
- /ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 西大学 0 - 2 大阪朝鮮\nhttps://www.osaka-shigaku-soccer.jp/ホーム
+ /第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1121,9 +1039,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：G②\nキックオフ：9:20\n会場：J-GREEN
  堺 S10（大阪府堺市堺区築港八幡町145番地）\nスコア：関
- 西大学北陽 7 - 1 昇陽\n出典：大阪私立高等学校体育連盟
- サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
- /ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 西大学北陽 7 - 1 昇陽\nhttps://www.osaka-shigaku-soccer.jp/ホーム
+ /第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1138,10 +1055,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：G③\nキックオフ：9:20\n会場：J-GREEN
  堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
- 地）\nスコア：大阪桐蔭 6 - 0 大阪学芸\n出典：大阪私立
- 高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www
- .osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合
- 結果/\n
+ 地）\nスコア：大阪桐蔭 6 - 0 大阪学芸\nhttps://www.osaka-shig
+ aku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1155,9 +1070,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：E②\nキックオフ：9:20\n会場：J-GREEN
  堺 S12（大阪府堺市堺区築港八幡町145番地）\nスコア：桃
- 山学院 21 - 0 あべの翔学\n出典：大阪私立高等学校体育
- 連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soc
- cer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 山学院 21 - 0 あべの翔学\nhttps://www.osaka-shigaku-soccer.jp/ホ
+ ーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1171,9 +1085,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：E③\nキックオフ：9:20\n会場：J-GREEN
  堺 S13（大阪府堺市堺区築港八幡町145番地）\nスコア：関
- 西創価 0 - 1 清明学院\n出典：大阪私立高等学校体育連盟
- サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
- /ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 西創価 0 - 1 清明学院\nhttps://www.osaka-shigaku-soccer.jp/ホーム
+ /第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1188,10 +1101,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：J②\nキックオフ：11:10\n会場：J-GREEN
  堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
- ）\nスコア：アサンプション国際 1 - 0 興国\n出典：大阪
- 私立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps
- ://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/
- 試合結果/\n
+ ）\nスコア：アサンプション国際 1 - 0 興国\nhttps://www.osak
+ a-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1205,10 +1116,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：J③\nキックオフ：11:10\n会場：J-GREEN
  堺 S9（大阪府堺市堺区築港八幡町145番地）\nスコア：追
- 手門学院大手前 1 - 0 大阪商業大学\n出典：大阪私立高等
- 学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka
- -shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\
- n
+ 手門学院大手前 1 - 0 大阪商業大学\nhttps://www.osaka-shigaku-s
+ occer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1222,9 +1131,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：K②\nキックオフ：11:10\n会場：J-GREEN
  堺 S10（大阪府堺市堺区築港八幡町145番地）\nスコア：大
- 阪偕星学園 8 - 1 高槻\n出典：大阪私立高等学校体育連盟
- サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
- /ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 阪偕星学園 8 - 1 高槻\nhttps://www.osaka-shigaku-soccer.jp/ホーム
+ /第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1239,10 +1147,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：K③\nキックオフ：11:10\n会場：J-GREEN
  堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
- 地）\nスコア：常翔啓光 0 - 2 太成学院大学\n出典：大阪
- 私立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps
- ://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/
- 試合結果/\n
+ 地）\nスコア：常翔啓光 0 - 2 太成学院大学\nhttps://www.osak
+ a-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1256,9 +1162,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：I②\nキックオフ：11:10\n会場：J-GREEN
  堺 S12（大阪府堺市堺区築港八幡町145番地）\nスコア：近
- 畿大学附属 4 - 1 大阪商業大堺\n出典：大阪私立高等学校
- 体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shiga
- ku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 畿大学附属 4 - 1 大阪商業大堺\nhttps://www.osaka-shigaku-soccer.
+ jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1272,10 +1177,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：I③\nキックオフ：11:10\n会場：J-GREEN
  堺 S13（大阪府堺市堺区築港八幡町145番地）\nスコア：東
- 大阪大学柏原 3 - 0 帝塚山学院泉ヶ丘\n出典：大阪私立高
- 等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.os
- aka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結
- 果/\n
+ 大阪大学柏原 3 - 0 帝塚山学院泉ヶ丘\nhttps://www.osaka-shigak
+ u-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1289,9 +1192,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：P③\nキックオフ：13:00\n会場：J-GREEN
  堺 S9（大阪府堺市堺区築港八幡町145番地）\nスコア：開
- 明 0 - 2 清教学園\n出典：大阪私立高等学校体育連盟サッ
- カー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホ
- ーム/第72回-男子-第10回-女子/試合結果/\n
+ 明 0 - 2 清教学園\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72
+ 回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1305,10 +1207,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：L①\nキックオフ：13:00\n会場：J-GREEN
  堺 S10（大阪府堺市堺区築港八幡町145番地）\nスコア：東
- 海大学付属大阪仰星 0(0) - 0(1) 阪南大学\n出典：大阪私立
- 高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://www
- .osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合
- 結果/\n
+ 海大学付属大阪仰星 0(0) - 0(1) 阪南大学\nhttps://www.osaka-shi
+ gaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1323,9 +1223,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：L④\nキックオフ：13:00\n会場：J-GREEN
  堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
- 地）\nスコア：精華 1 - 8 浪速\n出典：大阪私立高等学校
- 体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shiga
- ku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 地）\nスコア：精華 1 - 8 浪速\nhttps://www.osaka-shigaku-soccer.j
+ p/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1339,9 +1238,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：B②\nキックオフ：13:00\n会場：J-GREEN
  堺 S12（大阪府堺市堺区築港八幡町145番地）\nスコア：羽
- 衣学園 2(5) - 2(4) 関西大学第一\n出典：大阪私立高等学校
- 体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shiga
- ku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 衣学園 2(5) - 2(4) 関西大学第一\nhttps://www.osaka-shigaku-soccer.
+ jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1355,9 +1253,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：B③\nキックオフ：13:00\n会場：J-GREEN
  堺 S13（大阪府堺市堺区築港八幡町145番地）\nスコア：大
- 阪立命館 0 - 3 関西大倉\n出典：大阪私立高等学校体育連
- 盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer
- .jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 阪立命館 0 - 3 関西大倉\nhttps://www.osaka-shigaku-soccer.jp/ホー
+ ム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1371,9 +1268,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：H②\nキックオフ：14:50\n会場：J-GREEN
  堺 S9（大阪府堺市堺区築港八幡町145番地）\nスコア：常
- 翔学園 7 - 0 上宮太子\n出典：大阪私立高等学校体育連盟
- サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
- /ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 翔学園 7 - 0 上宮太子\nhttps://www.osaka-shigaku-soccer.jp/ホーム
+ /第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1387,9 +1283,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：H③\nキックオフ：14:50\n会場：J-GREEN
  堺 S10（大阪府堺市堺区築港八幡町145番地）\nスコア：金
- 光藤蔭 2(1) - 2(0) 同志社香里\n出典：大阪私立高等学校体
- 育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-
- soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 光藤蔭 2(1) - 2(0) 同志社香里\nhttps://www.osaka-shigaku-soccer.jp/
+ ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1404,10 +1299,9 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：C②\nキックオフ：14:50\n会場：J-GREEN
  堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
- 地）\nスコア：初芝富田林 0 - 13 香里ヌヴェール学院\n出
- 典：大阪私立高等学校体育連盟サッカー部HP（試合結果P
- DF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10
- 回-女子/試合結果/\n
+ 地）\nスコア：初芝富田林 0 - 13 香里ヌヴェール学院\nhtt
+ ps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/
+ 試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1421,9 +1315,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：A③\nキックオフ：14:50\n会場：J-GREEN
  堺 S12（大阪府堺市堺区築港八幡町145番地）\nスコア：東
- 大阪大学敬愛 1 - 6 箕面学園\n出典：大阪私立高等学校体
- 育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-
- soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 大阪大学敬愛 1 - 6 箕面学園\nhttps://www.osaka-shigaku-soccer.jp/
+ ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1437,9 +1330,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 予選リー
  グ 3日目\n試合番号：C③\nキックオフ：14:50\n会場：J-GREEN
  堺 S13（大阪府堺市堺区築港八幡町145番地）\nスコア：早
- 稲田大阪 3 - 0 清風南海\n出典：大阪私立高等学校体育連
- 盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer
- .jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 稲田大阪 3 - 0 清風南海\nhttps://www.osaka-shigaku-soccer.jp/ホー
+ ム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1451,9 +1343,8 @@ DTEND;TZID=Asia/Tokyo:20251219T132000
 SUMMARY:京都両洋 2-1 星翔
 LOCATION:OFA万博フットボールセンター
 DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
- ウンド：関西W2\n区分：結果\n確度：確定\n出典：https://ww
- w.bluewave-netto.com/schedule/groups/4\n対戦：京都両洋 vs 星翔\n
- スコア：2-1\n節/ラウンド：関西W2
+ ウンド：関西W2\n区分：結果\n確度：確定\n対戦：京都両
+ 洋 vs 星翔\nスコア：2-1\n節/ラウンド：関西W2
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1468,9 +1359,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 Round16\n試
  合番号：1\nキックオフ：13:15\n会場：J-GREEN堺 S8（照明設
  備付）（大阪府堺市堺区築港八幡町145番地）\nスコア：
- 履正社 5 - 0 羽衣学園\n出典：大阪私立高等学校体育連盟
- サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
- /ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 履正社 5 - 0 羽衣学園\nhttps://www.osaka-shigaku-soccer.jp/ホーム
+ /第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1484,9 +1374,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 Round16\n試
  合番号：2\nキックオフ：13:15\n会場：J-GREEN堺 S9（大阪府
  堺市堺区築港八幡町145番地）\nスコア：早稲田大阪 1 - 4 
- 大阪体育大学浪商\n出典：大阪私立高等学校体育連盟サ
- ッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/
- ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 大阪体育大学浪商\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第
+ 72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1500,9 +1389,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 Round16\n試
  合番号：3\nキックオフ：13:15\n会場：J-GREEN堺 S10（大阪府
  堺市堺区築港八幡町145番地）\nスコア：桃山学院 4 - 1 大
- 阪学院大学\n出典：大阪私立高等学校体育連盟サッカー
- 部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/
- 第72回-男子-第10回-女子/試合結果/\n
+ 阪学院大学\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男
+ 子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1517,9 +1405,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 Round16\n試
  合番号：4\nキックオフ：13:15\n会場：J-GREEN堺 S11（照明設
  備付）（大阪府堺市堺区築港八幡町145番地）\nスコア：
- 大阪桐蔭 0(4) - 0(2) 常翔学園\n出典：大阪私立高等学校体
- 育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-
- soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 大阪桐蔭 0(4) - 0(2) 常翔学園\nhttps://www.osaka-shigaku-soccer.jp/
+ ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1534,10 +1421,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 Round16\n試
  合番号：5\nキックオフ：15:15\n会場：J-GREEN堺 S8（照明設
  備付）（大阪府堺市堺区築港八幡町145番地）\nスコア：
- 東大阪大学柏原 1 - 0 アサンプション国際\n出典：大阪私
- 立高等学校体育連盟サッカー部HP（試合結果PDF）\nhttps://
- www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試
- 合結果/\n
+ 東大阪大学柏原 1 - 0 アサンプション国際\nhttps://www.osaka-
+ shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1551,9 +1436,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 Round16\n試
  合番号：6\nキックオフ：15:15\n会場：J-GREEN堺 S9（大阪府
  堺市堺区築港八幡町145番地）\nスコア：太成学院大学 1 -
-  7 阪南大学\n出典：大阪私立高等学校体育連盟サッカー
- 部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/
- 第72回-男子-第10回-女子/試合結果/\n
+  7 阪南大学\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男
+ 子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1567,9 +1451,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 Round16\n試
  合番号：7\nキックオフ：15:15\n会場：J-GREEN堺 S10（大阪府
  堺市堺区築港八幡町145番地）\nスコア：賢明学院 0 - 3 清
- 風\n出典：大阪私立高等学校体育連盟サッカー部HP（試
- 合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男
- 子-第10回-女子/試合結果/\n
+ 風\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回
+ -女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1584,9 +1467,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 Round16\n試
  合番号：8\nキックオフ：15:15\n会場：J-GREEN堺 S11（照明設
  備付）（大阪府堺市堺区築港八幡町145番地）\nスコア：
- 金光大阪 3 - 0 清教学園\n出典：大阪私立高等学校体育連
- 盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer
- .jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 金光大阪 3 - 0 清教学園\nhttps://www.osaka-shigaku-soccer.jp/ホー
+ ム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1599,9 +1481,9 @@ SUMMARY:大阪学院大高 vs 神戸科学技術／5-2
 LOCATION:J-GREEN堺（S8）
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯 JFA U-18サッカー
  リーグ2025 プリンスリーグ関西 プレーオフ（参入戦）\\n
- ラウンド：1回戦\\n区分：結果\\n確度：確定\\n出典：https
- ://www.ogu-h.ed.jp/news/2025/12/jfa-u-18-2025.html\\nスコア：5-2\\n対
- 戦：大阪学院大高 vs 神戸科学技術\\n節/ラウンド：1回戦
+ ラウンド：1回戦\\n区分：結果\\n確度：確定\\nスコア：5-
+ 2\\n対戦：大阪学院大高 vs 神戸科学技術\\n節/ラウンド：
+ 1回戦
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1615,9 +1497,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 準々決勝
  \n試合番号：9\nキックオフ：13:15\n会場：J-GREEN堺 S12（大
  阪府堺市堺区築港八幡町145番地）\nスコア：履正社 5 - 0 
- 大阪体育大学浪商\n出典：大阪私立高等学校体育連盟サ
- ッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/
- ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 大阪体育大学浪商\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第
+ 72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1631,9 +1512,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 準々決勝
  \n試合番号：10\nキックオフ：13:15\n会場：J-GREEN堺 S13（大
  阪府堺市堺区築港八幡町145番地）\nスコア：桃山学院 0(5
- ) - 0(3) 大阪桐蔭\n出典：大阪私立高等学校体育連盟サッ
- カー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホ
- ーム/第72回-男子-第10回-女子/試合結果/\n
+ ) - 0(3) 大阪桐蔭\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72
+ 回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1647,9 +1527,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 準々決勝
  \n試合番号：11\nキックオフ：15:15\n会場：J-GREEN堺 S12（大
  阪府堺市堺区築港八幡町145番地）\nスコア：東大阪大学
- 柏原 2(2) - 2(3) 阪南大学\n出典：大阪私立高等学校体育連
- 盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer
- .jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
+ 柏原 2(2) - 2(3) 阪南大学\nhttps://www.osaka-shigaku-soccer.jp/ホー
+ ム/第72回-男子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1663,9 +1542,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 準々決勝
  \n試合番号：12\nキックオフ：15:15\n会場：J-GREEN堺 S13（大
  阪府堺市堺区築港八幡町145番地）\nスコア：清風 1(4) - 1(
- 3) 金光大阪\n出典：大阪私立高等学校体育連盟サッカー
- 部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/
- 第72回-男子-第10回-女子/試合結果/\n
+ 3) 金光大阪\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男
+ 子-第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1678,9 +1556,9 @@ SUMMARY:奈良クラブユース vs 関大北陽／1-3
 LOCATION:J-GREEN堺（S8）
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯 JFA U-18サッカー
  リーグ2025 プリンスリーグ関西 プレーオフ（参入戦）\\n
- ラウンド：1回戦\\n区分：結果\\n確度：確定\\n出典：https
- ://naraclub.jp/archives/65898\\nスコア：1-3\\n対戦：奈良クラブ
- ユース vs 関大北陽\\n節/ラウンド：1回戦
+ ラウンド：1回戦\\n区分：結果\\n確度：確定\\nスコア：1-
+ 3\\n対戦：奈良クラブユース vs 関大北陽\\n節/ラウンド：
+ 1回戦
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1693,9 +1571,8 @@ SUMMARY:八尾翠翔 0-3 生野
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ えグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：八
- 尾翠翔 vs 生野\nスコア：0-3\n節/ラウンド：予選リーグ 
- えグループ
+ n確度：確定\n対戦：八尾翠翔 vs 生野\nスコア：0-3\n節/ラ
+ ウンド：予選リーグ えグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1708,9 +1585,8 @@ SUMMARY:北かわち皐が丘 2-0 大手前
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ おグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：北
- かわち皐が丘 vs 大手前\nスコア：2-0\n節/ラウンド：予選
- リーグ おグループ
+ n確度：確定\n対戦：北かわち皐が丘 vs 大手前\nスコア：
+ 2-0\n節/ラウンド：予選リーグ おグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1723,9 +1599,8 @@ SUMMARY:千里青雲 5-2 今宮
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ かグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：千
- 里青雲 vs 今宮\nスコア：5-2\n節/ラウンド：予選リーグ 
- かグループ
+ n確度：確定\n対戦：千里青雲 vs 今宮\nスコア：5-2\n節/ラ
+ ウンド：予選リーグ かグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1738,9 +1613,8 @@ SUMMARY:八尾北 1-2 東住吉総合
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ きグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：八
- 尾北 vs 東住吉総合\nスコア：1-2\n節/ラウンド：予選リー
- グ きグループ
+ n確度：確定\n対戦：八尾北 vs 東住吉総合\nスコア：1-2\n
+ 節/ラウンド：予選リーグ きグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1753,9 +1627,8 @@ SUMMARY:鳳 2-0 門真なみはや
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ くグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：鳳
-  vs 門真なみはや\nスコア：2-0\n節/ラウンド：予選リーグ
-  くグループ
+ n確度：確定\n対戦：鳳 vs 門真なみはや\nスコア：2-0\n節/
+ ラウンド：予選リーグ くグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1768,9 +1641,8 @@ SUMMARY:布施 1-0 富田林
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ さグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：布
- 施 vs 富田林\nスコア：1-0\n節/ラウンド：予選リーグ さ
- グループ
+ n確度：確定\n対戦：布施 vs 富田林\nスコア：1-0\n節/ラウ
+ ンド：予選リーグ さグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1783,9 +1655,8 @@ SUMMARY:東住吉 10-0 茨木工科
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ しグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：東
- 住吉 vs 茨木工科\nスコア：10-0\n節/ラウンド：予選リー
- グ しグループ
+ n確度：確定\n対戦：東住吉 vs 茨木工科\nスコア：10-0\n節
+ /ラウンド：予選リーグ しグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1798,9 +1669,8 @@ SUMMARY:牧野 0-2 大教大池田
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ すグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：牧
- 野 vs 大教大池田\nスコア：0-2\n節/ラウンド：予選リーグ
-  すグループ
+ n確度：確定\n対戦：牧野 vs 大教大池田\nスコア：0-2\n節/
+ ラウンド：予選リーグ すグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1813,9 +1683,8 @@ SUMMARY:北野 4-0 合同A
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ うグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：北
- 野 vs 合同A\nスコア：4-0\n節/ラウンド：予選リーグ うグ
- ループ
+ n確度：確定\n対戦：北野 vs 合同A\nスコア：4-0\n節/ラウ
+ ンド：予選リーグ うグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1828,9 +1697,8 @@ SUMMARY:大塚 0-0 豊中
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ こグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：大
- 塚 vs 豊中\nスコア：0-0\n節/ラウンド：予選リーグ こグ
- ループ
+ n確度：確定\n対戦：大塚 vs 豊中\nスコア：0-0\n節/ラウン
+ ド：予選リーグ こグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1843,9 +1711,9 @@ SUMMARY:大阪学院大高 vs 京都橘B／1-3
 LOCATION:J-GREEN堺（S8）
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯 JFA U-18サッカー
  リーグ2025 プリンスリーグ関西 プレーオフ（参入戦）\\n
- ラウンド：決定戦\\n区分：結果\\n確度：確定\\n出典：htt
- ps://www.ogu-h.ed.jp/news/2025/12/jfa-u-18-2025.html\\nスコア：1-3\\n
- 対戦：大阪学院大高 vs 京都橘B\\n節/ラウンド：決定戦
+ ラウンド：決定戦\\n区分：結果\\n確度：確定\\nスコア：
+ 1-3\\n対戦：大阪学院大高 vs 京都橘B\\n節/ラウンド：決定
+ 戦
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1858,9 +1726,8 @@ SUMMARY:大冠 5-0 八尾
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ けグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：大
- 冠 vs 八尾\nスコア：5-0\n節/ラウンド：予選リーグ けグ
- ループ
+ n確度：確定\n対戦：大冠 vs 八尾\nスコア：5-0\n節/ラウン
+ ド：予選リーグ けグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1873,9 +1740,8 @@ SUMMARY:高石 3-0 長野
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ かグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：高
- 石 vs 長野\nスコア：3-0\n節/ラウンド：予選リーグ かグ
- ループ
+ n確度：確定\n対戦：高石 vs 長野\nスコア：3-0\n節/ラウン
+ ド：予選リーグ かグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1888,9 +1754,8 @@ SUMMARY:吹田東 8-1 藤井寺工科
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ しグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：吹
- 田東 vs 藤井寺工科\nスコア：8-1\n節/ラウンド：予選リー
- グ しグループ
+ n確度：確定\n対戦：吹田東 vs 藤井寺工科\nスコア：8-1\n
+ 節/ラウンド：予選リーグ しグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1903,9 +1768,8 @@ SUMMARY:堺上 0-3 四條畷
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ おグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：堺
- 上 vs 四條畷\nスコア：0-3\n節/ラウンド：予選リーグ お
- グループ
+ n確度：確定\n対戦：堺上 vs 四條畷\nスコア：0-3\n節/ラウ
+ ンド：予選リーグ おグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1918,9 +1782,8 @@ SUMMARY:今宮工科 0-4 信太
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ うグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：今
- 宮工科 vs 信太\nスコア：0-4\n節/ラウンド：予選リーグ 
- うグループ
+ n確度：確定\n対戦：今宮工科 vs 信太\nスコア：0-4\n節/ラ
+ ウンド：予選リーグ うグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1933,9 +1796,8 @@ SUMMARY:いちりつ 0-4 旭
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ えグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：い
- ちりつ vs 旭\nスコア：0-4\n節/ラウンド：予選リーグ え
- グループ
+ n確度：確定\n対戦：いちりつ vs 旭\nスコア：0-4\n節/ラウ
+ ンド：予選リーグ えグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1948,9 +1810,8 @@ SUMMARY:都島工 0-2 三国丘
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ くグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：都
- 島工 vs 三国丘\nスコア：0-2\n節/ラウンド：予選リーグ 
- くグループ
+ n確度：確定\n対戦：都島工 vs 三国丘\nスコア：0-2\n節/ラ
+ ウンド：予選リーグ くグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1963,9 +1824,8 @@ SUMMARY:緑風冠 4-0 咲くやこの花
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ さグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：緑
- 風冠 vs 咲くやこの花\nスコア：4-0\n節/ラウンド：予選リ
- ーグ さグループ
+ n確度：確定\n対戦：緑風冠 vs 咲くやこの花\nスコア：4-0
+ \n節/ラウンド：予選リーグ さグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1978,9 +1838,8 @@ SUMMARY:北千里 2-0 日根野
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ すグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：北
- 千里 vs 日根野\nスコア：2-0\n節/ラウンド：予選リーグ 
- すグループ
+ n確度：確定\n対戦：北千里 vs 日根野\nスコア：2-0\n節/ラ
+ ウンド：予選リーグ すグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1993,9 +1852,8 @@ SUMMARY:泉大津 0-2 泉陽
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ こグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：泉
- 大津 vs 泉陽\nスコア：0-2\n節/ラウンド：予選リーグ こ
- グループ
+ n確度：確定\n対戦：泉大津 vs 泉陽\nスコア：0-2\n節/ラウ
+ ンド：予選リーグ こグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2008,9 +1866,8 @@ SUMMARY:堺東 0-0 夕陽丘
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ けグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：堺
- 東 vs 夕陽丘\nスコア：0-0\n節/ラウンド：予選リーグ け
- グループ
+ n確度：確定\n対戦：堺東 vs 夕陽丘\nスコア：0-0\n節/ラウ
+ ンド：予選リーグ けグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2023,9 +1880,9 @@ SUMMARY:関大北陽 vs 近大和歌山／3-1
 LOCATION:J-GREEN堺
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯 JFA U-18サッカー
  リーグ2025 プリンスリーグ関西 プレーオフ（参入戦）\\n
- ラウンド：決定戦\\n区分：結果\\n確度：確定\\n出典：htt
- ps://www.hokuyofc.net/wp/offical_game_smart\\nスコア：3-1\\n対戦：
- 関大北陽 vs 近大和歌山\\n節/ラウンド：決定戦
+ ラウンド：決定戦\\n区分：結果\\n確度：確定\\nスコア：
+ 3-1\\n対戦：関大北陽 vs 近大和歌山\\n節/ラウンド：決定
+ 戦
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2038,9 +1895,8 @@ SUMMARY:阪南 1-0 東住吉総合
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ きグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：阪
- 南 vs 東住吉総合\nスコア：1-0\n節/ラウンド：予選リーグ
-  きグループ
+ n確度：確定\n対戦：阪南 vs 東住吉総合\nスコア：1-0\n節/
+ ラウンド：予選リーグ きグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2053,9 +1909,8 @@ SUMMARY:北千里 2-1 牧野
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ すグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：北
- 千里 vs 牧野\nスコア：2-1\n節/ラウンド：予選リーグ す
- グループ
+ n確度：確定\n対戦：北千里 vs 牧野\nスコア：2-1\n節/ラウ
+ ンド：予選リーグ すグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2068,9 +1923,8 @@ SUMMARY:大教大池田 4-0 日根野
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ すグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：大
- 教大池田 vs 日根野\nスコア：4-0\n節/ラウンド：予選リー
- グ すグループ
+ n確度：確定\n対戦：大教大池田 vs 日根野\nスコア：4-0\n
+ 節/ラウンド：予選リーグ すグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2083,9 +1937,8 @@ SUMMARY:合同A 3-0 今宮工科
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ うグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：合
- 同A vs 今宮工科\nスコア：3-0\n節/ラウンド：予選リーグ 
- うグループ
+ n確度：確定\n対戦：合同A vs 今宮工科\nスコア：3-0\n節/
+ ラウンド：予選リーグ うグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2098,9 +1951,8 @@ SUMMARY:吹田東 8-1 茨木工科
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ しグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：吹
- 田東 vs 茨木工科\nスコア：8-1\n節/ラウンド：予選リーグ
-  しグループ
+ n確度：確定\n対戦：吹田東 vs 茨木工科\nスコア：8-1\n節/
+ ラウンド：予選リーグ しグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2113,9 +1965,8 @@ SUMMARY:北野 5-0 信太
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ うグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：北
- 野 vs 信太\nスコア：5-0\n節/ラウンド：予選リーグ うグ
- ループ
+ n確度：確定\n対戦：北野 vs 信太\nスコア：5-0\n節/ラウン
+ ド：予選リーグ うグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2128,9 +1979,8 @@ SUMMARY:東住吉 2-0 藤井寺工科
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ しグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：東
- 住吉 vs 藤井寺工科\nスコア：2-0\n節/ラウンド：予選リー
- グ しグループ
+ n確度：確定\n対戦：東住吉 vs 藤井寺工科\nスコア：2-0\n
+ 節/ラウンド：予選リーグ しグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2143,9 +1993,8 @@ SUMMARY:八尾北 5-2 淀川工科
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ きグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：八
- 尾北 vs 淀川工科\nスコア：5-2\n節/ラウンド：予選リーグ
-  きグループ
+ n確度：確定\n対戦：八尾北 vs 淀川工科\nスコア：5-2\n節/
+ ラウンド：予選リーグ きグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2158,9 +2007,8 @@ SUMMARY:淀川工科 1-4 阪南
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ きグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：淀
- 川工科 vs 阪南\nスコア：1-4\n節/ラウンド：予選リーグ 
- きグループ
+ n確度：確定\n対戦：淀川工科 vs 阪南\nスコア：1-4\n節/ラ
+ ウンド：予選リーグ きグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2173,9 +2021,8 @@ SUMMARY:大冠 1-0 堺東
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ けグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：大
- 冠 vs 堺東\nスコア：1-0\n節/ラウンド：予選リーグ けグ
- ループ
+ n確度：確定\n対戦：大冠 vs 堺東\nスコア：1-0\n節/ラウン
+ ド：予選リーグ けグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2188,9 +2035,8 @@ SUMMARY:都島工 3-0 門真なみはや
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ くグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：都
- 島工 vs 門真なみはや\nスコア：3-0\n節/ラウンド：予選リ
- ーグ くグループ
+ n確度：確定\n対戦：都島工 vs 門真なみはや\nスコア：3-0
+ \n節/ラウンド：予選リーグ くグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2203,9 +2049,8 @@ SUMMARY:興國 vs 浜松開誠館／1-1（PK3-1）
 LOCATION:味の素フィールド西が丘
 DESCRIPTION:種別：公式戦\\n大会：第104回全国高等学校サッ
  カー選手権大会\\nラウンド：2回戦\\n区分：結果\\n確度
- ：確定\\n出典：https://www.jfa.jp/match/alljapan_highschool_2025/matc
- h_page/m26.html\\nスコア：1-1（PK3-1）\\n対戦：興國 vs 浜松開
- 誠館\\n節/ラウンド：2回戦
+ ：確定\\nスコア：1-1（PK3-1）\\n対戦：興國 vs 浜松開誠館
+ \\n節/ラウンド：2回戦
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2218,9 +2063,8 @@ SUMMARY:東福岡 vs 興國／2-2（PK5-4）
 LOCATION:駒沢陸上競技場
 DESCRIPTION:種別：公式戦\\n大会：第104回全国高等学校サッ
  カー選手権大会\\nラウンド：3回戦\\n区分：結果\\n確度
- ：確定\\n出典：https://www.jfa.jp/match/alljapan_highschool_2025/matc
- h_page/m37.html\\nスコア：2-2（PK5-4）\\n対戦：東福岡 vs 興國
- \\n節/ラウンド：3回戦
+ ：確定\\nスコア：2-2（PK5-4）\\n対戦：東福岡 vs 興國\\n節
+ /ラウンド：3回戦
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2233,9 +2077,8 @@ SUMMARY:興國 vs 鹿島学園／1-3
 LOCATION:Uvanceとどろきスタジアム by Fujitsu
 DESCRIPTION:種別：公式戦\\n大会：第104回全国高等学校サッ
  カー選手権大会\\nラウンド：準々決勝\\n区分：結果\\n確
- 度：確定\\n出典：https://www.jfa.jp/match/alljapan_highschool_2025/m
- atch_page/m43.html\\nスコア：1-3\\n対戦：興國 vs 鹿島学園\\n
- 節/ラウンド：準々決勝
+ 度：確定\\nスコア：1-3\\n対戦：興國 vs 鹿島学園\\n節/ラ
+ ウンド：準々決勝
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2247,9 +2090,8 @@ DTEND;TZID=Asia/Tokyo:20260105T113000
 SUMMARY:千里 6-0 京都両洋
 LOCATION:OFA万博フットボールセンター
 DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
- ウンド：関西W2\n区分：結果\n確度：確定\n出典：https://ww
- w.bluewave-netto.com/schedule/groups/4\n対戦：千里 vs 京都両洋\n
- スコア：6-0\n節/ラウンド：関西W2
+ ウンド：関西W2\n区分：結果\n確度：確定\n対戦：千里 vs 
+ 京都両洋\nスコア：6-0\n節/ラウンド：関西W2
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2261,9 +2103,8 @@ DTEND;TZID=Asia/Tokyo:20260107T113000
 SUMMARY:千里 5-0 星翔
 LOCATION:OFA万博フットボールセンター
 DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
- ウンド：関西W2\n区分：結果\n確度：確定\n出典：https://ww
- w.bluewave-netto.com/schedule/groups/4\n対戦：千里 vs 星翔\nスコ
- ア：5-0\n節/ラウンド：関西W2
+ ウンド：関西W2\n区分：結果\n確度：確定\n対戦：千里 vs 
+ 星翔\nスコア：5-0\n節/ラウンド：関西W2
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2276,9 +2117,8 @@ SUMMARY:信太 2-0 合同A
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ うグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：信
- 太 vs 合同A\nスコア：2-0\n節/ラウンド：予選リーグ うグ
- ループ
+ n確度：確定\n対戦：信太 vs 合同A\nスコア：2-0\n節/ラウ
+ ンド：予選リーグ うグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2291,9 +2131,8 @@ SUMMARY:北野 5-0 今宮工科
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ うグループ\n区分：結果\
- n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：北
- 野 vs 今宮工科\nスコア：5-0\n節/ラウンド：予選リーグ 
- うグループ
+ n確度：確定\n対戦：北野 vs 今宮工科\nスコア：5-0\n節/ラ
+ ウンド：予選リーグ うグループ
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2304,9 +2143,8 @@ DTSTART;TZID=Asia/Tokyo:20260111T090000
 SUMMARY:金岡 3-3 PK5-4 東
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T1回戦\nキックオフ：09:00\nスコア：金岡 3-3 PK5-4 東\n出典
- ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
- ccer.com/score/4222\n
+ T1回戦\nキックオフ：09:00\nスコア：金岡 3-3 PK5-4 東\nhttps:
+ //koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2317,9 +2155,8 @@ DTSTART;TZID=Asia/Tokyo:20260111T090000
 SUMMARY:豊島 2-3 香里丘
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T1回戦\nキックオフ：09:00\nスコア：豊島 2-3 香里丘\n出典
- ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
- ccer.com/score/4222\n
+ T1回戦\nキックオフ：09:00\nスコア：豊島 2-3 香里丘\nhttps:
+ //koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2331,8 +2168,7 @@ SUMMARY:みどり清朋 2-1 高槻北
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:00\nスコア：みどり清朋 2-1 高槻
- 北\n出典：高校サッカードットコム 大会日程・結果\nhttp
- s://koko-soccer.com/score/4222\n
+ 北\nhttps://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2344,8 +2180,7 @@ SUMMARY:富田林 1-1 PK1-3 槻の木
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:00\nスコア：富田林 1-1 PK1-3 槻の
- 木\n出典：高校サッカードットコム 大会日程・結果\nhttp
- s://koko-soccer.com/score/4222\n
+ 木\nhttps://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2356,9 +2191,8 @@ DTSTART;TZID=Asia/Tokyo:20260111T090000
 SUMMARY:和泉 1-1 PK5-3 生野
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T1回戦\nキックオフ：09:00\nスコア：和泉 1-1 PK5-3 生野\n出
- 典：高校サッカードットコム 大会日程・結果\nhttps://koko
- -soccer.com/score/4222\n
+ T1回戦\nキックオフ：09:00\nスコア：和泉 1-1 PK5-3 生野\nhtt
+ ps://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2369,9 +2203,8 @@ DTSTART;TZID=Asia/Tokyo:20260111T093000
 SUMMARY:阿武野 0-4 千里
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T1回戦\nキックオフ：09:30\nスコア：阿武野 0-4 千里\n出典
- ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
- ccer.com/score/4222\n
+ T1回戦\nキックオフ：09:30\nスコア：阿武野 0-4 千里\nhttps:
+ //koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2383,8 +2216,7 @@ SUMMARY:芥川 4-0 東住吉総合
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:30\nスコア：芥川 4-0 東住吉総合\n
- 出典：高校サッカードットコム 大会日程・結果\nhttps://k
- oko-soccer.com/score/4222\n
+ https://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2396,8 +2228,7 @@ SUMMARY:三国丘 0-0 PK3-5 箕面
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:30\nスコア：三国丘 0-0 PK3-5 箕面\n
- 出典：高校サッカードットコム 大会日程・結果\nhttps://k
- oko-soccer.com/score/4222\n
+ https://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2408,9 +2239,8 @@ DTSTART;TZID=Asia/Tokyo:20260111T103000
 SUMMARY:刀根山 7-0 阪南
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T1回戦\nキックオフ：10:30\nスコア：刀根山 7-0 阪南\n出典
- ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
- ccer.com/score/4222\n
+ T1回戦\nキックオフ：10:30\nスコア：刀根山 7-0 阪南\nhttps:
+ //koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2421,9 +2251,8 @@ DTSTART;TZID=Asia/Tokyo:20260111T103000
 SUMMARY:信太 0-2 泉陽
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T1回戦\nキックオフ：10:30\nスコア：信太 0-2 泉陽\n出典：
- 高校サッカードットコム 大会日程・結果\nhttps://koko-socce
- r.com/score/4222\n
+ T1回戦\nキックオフ：10:30\nスコア：信太 0-2 泉陽\nhttps://k
+ oko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2435,8 +2264,7 @@ SUMMARY:河南 0-0 PK3-5 久米田
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：10:40\nスコア：河南 0-0 PK3-5 久米田\n
- 出典：高校サッカードットコム 大会日程・結果\nhttps://k
- oko-soccer.com/score/4222\n
+ https://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2447,9 +2275,8 @@ DTSTART;TZID=Asia/Tokyo:20260111T104000
 SUMMARY:堺東 0-1 天王寺
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T1回戦\nキックオフ：10:40\nスコア：堺東 0-1 天王寺\n出典
- ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
- ccer.com/score/4222\n
+ T1回戦\nキックオフ：10:40\nスコア：堺東 0-1 天王寺\nhttps:
+ //koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2460,9 +2287,8 @@ DTSTART;TZID=Asia/Tokyo:20260111T104000
 SUMMARY:岸和田 3-0 汎愛
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T1回戦\nキックオフ：10:40\nスコア：岸和田 3-0 汎愛\n出典
- ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
- ccer.com/score/4222\n
+ T1回戦\nキックオフ：10:40\nスコア：岸和田 3-0 汎愛\nhttps:
+ //koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2473,9 +2299,8 @@ DTSTART;TZID=Asia/Tokyo:20260111T104000
 SUMMARY:大手前 4-0 茨木
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T1回戦\nキックオフ：10:40\nスコア：大手前 4-0 茨木\n出典
- ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
- ccer.com/score/4222\n
+ T1回戦\nキックオフ：10:40\nスコア：大手前 4-0 茨木\nhttps:
+ //koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2486,9 +2311,8 @@ DTSTART;TZID=Asia/Tokyo:20260111T110000
 SUMMARY:山本 3-1 高石
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T1回戦\nキックオフ：11:00\nスコア：山本 3-1 高石\n出典：
- 高校サッカードットコム 大会日程・結果\nhttps://koko-socce
- r.com/score/4222\n
+ T1回戦\nキックオフ：11:00\nスコア：山本 3-1 高石\nhttps://k
+ oko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2500,8 +2324,7 @@ SUMMARY:高津 0-0 PK4-3 大教大池田
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：11:00\nスコア：高津 0-0 PK4-3 大教大
- 池田\n出典：高校サッカードットコム 大会日程・結果\nh
- ttps://koko-soccer.com/score/4222\n
+ 池田\nhttps://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2512,9 +2335,8 @@ DTSTART;TZID=Asia/Tokyo:20260111T120000
 SUMMARY:北野 4-1 花園
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T1回戦\nキックオフ：12:00\nスコア：北野 4-1 花園\n出典：
- 高校サッカードットコム 大会日程・結果\nhttps://koko-socce
- r.com/score/4222\n
+ T1回戦\nキックオフ：12:00\nスコア：北野 4-1 花園\nhttps://k
+ oko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2525,9 +2347,8 @@ DTSTART;TZID=Asia/Tokyo:20260111T132000
 SUMMARY:長尾 2-0 千里青雲
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T1回戦\nキックオフ：13:20\nスコア：長尾 2-0 千里青雲\n出
- 典：高校サッカードットコム 大会日程・結果\nhttps://koko
- -soccer.com/score/4222\n
+ T1回戦\nキックオフ：13:20\nスコア：長尾 2-0 千里青雲\nhtt
+ ps://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2538,9 +2359,8 @@ DTSTART;TZID=Asia/Tokyo:20260111T132000
 SUMMARY:春日丘 1-0 日新
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T1回戦\nキックオフ：13:20\nスコア：春日丘 1-0 日新\n出典
- ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
- ccer.com/score/4222\n
+ T1回戦\nキックオフ：13:20\nスコア：春日丘 1-0 日新\nhttps:
+ //koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2551,9 +2371,8 @@ DTSTART;TZID=Asia/Tokyo:20260111T133000
 SUMMARY:摂津 6-0 茨木西
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T1回戦\nキックオフ：13:30\nスコア：摂津 6-0 茨木西\n出典
- ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
- ccer.com/score/4222\n
+ T1回戦\nキックオフ：13:30\nスコア：摂津 6-0 茨木西\nhttps:
+ //koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2565,8 +2384,7 @@ SUMMARY:交野 4-1 教育センター附
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：15:00\nスコア：交野 4-1 教育センタ
- ー附\n出典：高校サッカードットコム 大会日程・結果\nh
- ttps://koko-soccer.com/score/4222\n
+ ー附\nhttps://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2577,9 +2395,8 @@ DTSTART;TZID=Asia/Tokyo:20260111T150000
 SUMMARY:吹田東 3-5 三島
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T1回戦\nキックオフ：15:00\nスコア：吹田東 3-5 三島\n出典
- ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
- ccer.com/score/4222\n
+ T1回戦\nキックオフ：15:00\nスコア：吹田東 3-5 三島\nhttps:
+ //koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2590,9 +2407,8 @@ DTSTART;TZID=Asia/Tokyo:20260111T150000
 SUMMARY:東住吉 0-0 PK4-5 鳳
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T1回戦\nキックオフ：15:00\nスコア：東住吉 0-0 PK4-5 鳳\n出
- 典：高校サッカードットコム 大会日程・結果\nhttps://koko
- -soccer.com/score/4222\n
+ T1回戦\nキックオフ：15:00\nスコア：東住吉 0-0 PK4-5 鳳\nhtt
+ ps://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2606,9 +2422,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 準決勝\n
  試合番号：13\nキックオフ：13:15\n会場：J-GREEN堺 S5（大阪
  府堺市堺区築港八幡町145番地）\nスコア：履正社 0 - 2 桃
- 山学院\n出典：大阪私立高等学校体育連盟サッカー部HP
- （試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72
- 回-男子-第10回-女子/試合結果/\n
+ 山学院\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-
+ 第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2622,9 +2437,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子 準決勝\n
  試合番号：14\nキックオフ：15:15\n会場：J-GREEN堺 S5（大阪
  府堺市堺区築港八幡町145番地）\nスコア：阪南大学 2 - 0 
- 清風\n出典：大阪私立高等学校体育連盟サッカー部HP（
- 試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-
- 男子-第10回-女子/試合結果/\n
+ 清風\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10
+ 回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2635,9 +2449,8 @@ DTSTART;TZID=Asia/Tokyo:20260118T090000
 SUMMARY:旭 2-1 交野
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T2回戦\nキックオフ：09:00\nスコア：旭 2-1 交野\n出典：高
- 校サッカードットコム 大会日程・結果\nhttps://koko-soccer.c
- om/score/4222\n
+ T2回戦\nキックオフ：09:00\nスコア：旭 2-1 交野\nhttps://koko
+ -soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2648,9 +2461,8 @@ DTSTART;TZID=Asia/Tokyo:20260118T090000
 SUMMARY:北千里 2-1 泉陽
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T2回戦\nキックオフ：09:00\nスコア：北千里 2-1 泉陽\n出典
- ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
- ccer.com/score/4222\n
+ T2回戦\nキックオフ：09:00\nスコア：北千里 2-1 泉陽\nhttps:
+ //koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2662,8 +2474,7 @@ SUMMARY:北かわち皐が丘 1-3 天王寺
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：09:00\nスコア：北かわち皐が丘 1-3 
- 天王寺\n出典：高校サッカードットコム 大会日程・結果
- \nhttps://koko-soccer.com/score/4222\n
+ 天王寺\nhttps://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2674,9 +2485,8 @@ DTSTART;TZID=Asia/Tokyo:20260118T093000
 SUMMARY:豊中 2-1 東
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T2回戦\nキックオフ：09:30\nスコア：豊中 2-1 東\n出典：高
- 校サッカードットコム 大会日程・結果\nhttps://koko-soccer.c
- om/score/4222\n
+ T2回戦\nキックオフ：09:30\nスコア：豊中 2-1 東\nhttps://koko
+ -soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2688,8 +2498,7 @@ SUMMARY:北野 1-1 PK7-8 槻の木
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：09:30\nスコア：北野 1-1 PK7-8 槻の木\n
- 出典：高校サッカードットコム 大会日程・結果\nhttps://k
- oko-soccer.com/score/4222\n
+ https://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2700,9 +2509,8 @@ DTSTART;TZID=Asia/Tokyo:20260118T093000
 SUMMARY:鳳 0-3 枚方
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T2回戦\nキックオフ：09:30\nスコア：鳳 0-3 枚方\n出典：高
- 校サッカードットコム 大会日程・結果\nhttps://koko-soccer.c
- om/score/4222\n
+ T2回戦\nキックオフ：09:30\nスコア：鳳 0-3 枚方\nhttps://koko
+ -soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2713,9 +2521,8 @@ DTSTART;TZID=Asia/Tokyo:20260118T103000
 SUMMARY:香里丘 0-5 阿武野
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T2回戦\nキックオフ：10:30\nスコア：香里丘 0-5 阿武野\n出
- 典：高校サッカードットコム 大会日程・結果\nhttps://koko
- -soccer.com/score/4222\n
+ T2回戦\nキックオフ：10:30\nスコア：香里丘 0-5 阿武野\nhtt
+ ps://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2726,9 +2533,8 @@ DTSTART;TZID=Asia/Tokyo:20260118T104000
 SUMMARY:高津 1-1 PK4-5 茨木
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T2回戦\nキックオフ：10:40\nスコア：高津 1-1 PK4-5 茨木\n出
- 典：高校サッカードットコム 大会日程・結果\nhttps://koko
- -soccer.com/score/4222\n
+ T2回戦\nキックオフ：10:40\nスコア：高津 1-1 PK4-5 茨木\nhtt
+ ps://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2739,9 +2545,8 @@ DTSTART;TZID=Asia/Tokyo:20260118T110000
 SUMMARY:春日丘 0-1 刀根山
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T2回戦\nキックオフ：11:00\nスコア：春日丘 0-1 刀根山\n出
- 典：高校サッカードットコム 大会日程・結果\nhttps://koko
- -soccer.com/score/4222\n
+ T2回戦\nキックオフ：11:00\nスコア：春日丘 0-1 刀根山\nhtt
+ ps://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2752,9 +2557,8 @@ DTSTART;TZID=Asia/Tokyo:20260118T110000
 SUMMARY:箕面 0-0 PK5-3 大冠
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T2回戦\nキックオフ：11:00\nスコア：箕面 0-0 PK5-3 大冠\n出
- 典：高校サッカードットコム 大会日程・結果\nhttps://koko
- -soccer.com/score/4222\n
+ T2回戦\nキックオフ：11:00\nスコア：箕面 0-0 PK5-3 大冠\nhtt
+ ps://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2765,9 +2569,8 @@ DTSTART;TZID=Asia/Tokyo:20260118T110000
 SUMMARY:和泉 0-1 高槻北
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T2回戦\nキックオフ：11:00\nスコア：和泉 0-1 高槻北\n出典
- ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
- ccer.com/score/4222\n
+ T2回戦\nキックオフ：11:00\nスコア：和泉 0-1 高槻北\nhttps:
+ //koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2778,9 +2581,8 @@ DTSTART;TZID=Asia/Tokyo:20260118T111000
 SUMMARY:摂津 0-1 池田
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T2回戦\nキックオフ：11:10\nスコア：摂津 0-1 池田\n出典：
- 高校サッカードットコム 大会日程・結果\nhttps://koko-socce
- r.com/score/4222\n
+ T2回戦\nキックオフ：11:10\nスコア：摂津 0-1 池田\nhttps://k
+ oko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2794,9 +2596,8 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  会サッカー大会（男子の部）\nステージ：男子決勝\n試
  合番号：15\nキックオフ：11:15\n会場：J-GREEN堺 S5（大阪府
  堺市堺区築港八幡町145番地）\nスコア：阪南大学 0 - 1 桃
- 山学院\n出典：大阪私立高等学校体育連盟サッカー部HP
- （試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72
- 回-男子-第10回-女子/試合結果/\n
+ 山学院\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-
+ 第10回-女子/試合結果/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2807,9 +2608,8 @@ DTSTART;TZID=Asia/Tokyo:20260118T130000
 SUMMARY:桜宮 0-0 PK3-5 長尾
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T2回戦\nキックオフ：13:00\nスコア：桜宮 0-0 PK3-5 長尾\n出
- 典：高校サッカードットコム 大会日程・結果\nhttps://koko
- -soccer.com/score/4222\n
+ T2回戦\nキックオフ：13:00\nスコア：桜宮 0-0 PK3-5 長尾\nhtt
+ ps://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2820,9 +2620,8 @@ DTSTART;TZID=Asia/Tokyo:20260118T144500
 SUMMARY:芥川 4-0 布施
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T2回戦\nキックオフ：14:45\nスコア：芥川 4-0 布施\n出典：
- 高校サッカードットコム 大会日程・結果\nhttps://koko-socce
- r.com/score/4222\n
+ T2回戦\nキックオフ：14:45\nスコア：芥川 4-0 布施\nhttps://k
+ oko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2833,9 +2632,8 @@ DTSTART;TZID=Asia/Tokyo:20260118T144500
 SUMMARY:久米田 1-2 岸和田
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T2回戦\nキックオフ：14:45\nスコア：久米田 1-2 岸和田\n出
- 典：高校サッカードットコム 大会日程・結果\nhttps://koko
- -soccer.com/score/4222\n
+ T2回戦\nキックオフ：14:45\nスコア：久米田 1-2 岸和田\nhtt
+ ps://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2846,9 +2644,8 @@ DTSTART;TZID=Asia/Tokyo:20260118T150000
 SUMMARY:山本 0-3 三島
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T2回戦\nキックオフ：15:00\nスコア：山本 0-3 三島\n出典：
- 高校サッカードットコム 大会日程・結果\nhttps://koko-socce
- r.com/score/4222\n
+ T2回戦\nキックオフ：15:00\nスコア：山本 0-3 三島\nhttps://k
+ oko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2859,9 +2656,8 @@ DTSTART;TZID=Asia/Tokyo:20260125T090000
 SUMMARY:千里 7-1 旭
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T3回戦\nキックオフ：09:00\nスコア：千里 7-1 旭\n出典：高
- 校サッカードットコム 大会日程・結果\nhttps://koko-soccer.c
- om/score/4222\n
+ T3回戦\nキックオフ：09:00\nスコア：千里 7-1 旭\nhttps://koko
+ -soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2872,9 +2668,8 @@ DTSTART;TZID=Asia/Tokyo:20260125T090000
 SUMMARY:枚方 0-2 高槻北
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T3回戦\nキックオフ：09:00\nスコア：枚方 0-2 高槻北\n出典
- ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
- ccer.com/score/4222\n
+ T3回戦\nキックオフ：09:00\nスコア：枚方 0-2 高槻北\nhttps:
+ //koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2886,8 +2681,7 @@ SUMMARY:槻の木 0-0 PK7-8 箕面
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T3回戦\nキックオフ：09:30\nスコア：槻の木 0-0 PK7-8 箕面\n
- 出典：高校サッカードットコム 大会日程・結果\nhttps://k
- oko-soccer.com/score/4222\n
+ https://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2898,9 +2692,8 @@ DTSTART;TZID=Asia/Tokyo:20260125T103000
 SUMMARY:豊中 2-0 刀根山
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T3回戦\nキックオフ：10:30\nスコア：豊中 2-0 刀根山\n出典
- ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
- ccer.com/score/4222\n
+ T3回戦\nキックオフ：10:30\nスコア：豊中 2-0 刀根山\nhttps:
+ //koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2911,9 +2704,8 @@ DTSTART;TZID=Asia/Tokyo:20260125T104000
 SUMMARY:池田 0-1 岸和田
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T3回戦\nキックオフ：10:40\nスコア：池田 0-1 岸和田\n出典
- ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
- ccer.com/score/4222\n
+ T3回戦\nキックオフ：10:40\nスコア：池田 0-1 岸和田\nhttps:
+ //koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2924,9 +2716,8 @@ DTSTART;TZID=Asia/Tokyo:20260125T114500
 SUMMARY:天王寺 0-3 三島
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T3回戦\nキックオフ：11:45\nスコア：天王寺 0-3 三島\n出典
- ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
- ccer.com/score/4222\n
+ T3回戦\nキックオフ：11:45\nスコア：天王寺 0-3 三島\nhttps:
+ //koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2937,9 +2728,8 @@ DTSTART;TZID=Asia/Tokyo:20260125T131500
 SUMMARY:茨木 2-0 北千里
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T3回戦\nキックオフ：13:15\nスコア：茨木 2-0 北千里\n出典
- ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
- ccer.com/score/4222\n
+ T3回戦\nキックオフ：13:15\nスコア：茨木 2-0 北千里\nhttps:
+ //koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2950,9 +2740,8 @@ DTSTART;TZID=Asia/Tokyo:20260125T150000
 SUMMARY:長尾 0-0 PK5-3 芥川
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
- T3回戦\nキックオフ：15:00\nスコア：長尾 0-0 PK5-3 芥川\n出
- 典：高校サッカードットコム 大会日程・結果\nhttps://koko
- -soccer.com/score/4222\n
+ T3回戦\nキックオフ：15:00\nスコア：長尾 0-0 PK5-3 芥川\nhtt
+ ps://koko-soccer.com/score/4222
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2964,9 +2753,8 @@ DTEND;TZID=Asia/Tokyo:20260129T191000
 SUMMARY:清明学院 1-1 大商大堺
 LOCATION:J-GREEN堺
 DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
- ウンド：関西W1\n区分：結果\n確度：確定\n出典：https://ww
- w.bluewave-netto.com/schedule/groups/4\n対戦：清明学院 vs 大商大
- 堺\nスコア：1-1\n節/ラウンド：関西W1
+ ウンド：関西W1\n区分：結果\n確度：確定\n対戦：清明学
+ 院 vs 大商大堺\nスコア：1-1\n節/ラウンド：関西W1
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2979,9 +2767,8 @@ SUMMARY:茨木 2-0 高槻北
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  ラウンド：決勝トーナメント準々決勝\n区分：結果\n確
- 度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：茨木 
- vs 高槻北\nスコア：2-0\n節/ラウンド：決勝トーナメント
- 準々決勝
+ 度：確定\n対戦：茨木 vs 高槻北\nスコア：2-0\n節/ラウン
+ ド：決勝トーナメント準々決勝
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2994,9 +2781,8 @@ SUMMARY:千里 2-1 長尾
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  ラウンド：決勝トーナメント準々決勝\n区分：結果\n確
- 度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：千里 
- vs 長尾\nスコア：2-1\n節/ラウンド：決勝トーナメント準
- 々決勝
+ 度：確定\n対戦：千里 vs 長尾\nスコア：2-1\n節/ラウンド
+ ：決勝トーナメント準々決勝
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3009,9 +2795,8 @@ SUMMARY:三島 0-0 PK 5-4 岸和田
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  ラウンド：決勝トーナメント準々決勝\n区分：結果\n確
- 度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：三島 
- vs 岸和田\nスコア：0-0 PK 5-4\n節/ラウンド：決勝トーナメ
- ント準々決勝
+ 度：確定\n対戦：三島 vs 岸和田\nスコア：0-0 PK 5-4\n節/ラ
+ ウンド：決勝トーナメント準々決勝
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3024,9 +2809,8 @@ SUMMARY:豊中 0-3 箕面
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  ラウンド：決勝トーナメント準々決勝\n区分：結果\n確
- 度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：豊中 
- vs 箕面\nスコア：0-3\n節/ラウンド：決勝トーナメント準
- 々決勝
+ 度：確定\n対戦：豊中 vs 箕面\nスコア：0-3\n節/ラウンド
+ ：決勝トーナメント準々決勝
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3038,9 +2822,8 @@ DTEND;TZID=Asia/Tokyo:20260201T151500
 SUMMARY:県立西宮 0-4 大商大堺
 LOCATION:J-GREEN堺
 DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
- ウンド：関西W1\n区分：結果\n確度：確定\n出典：https://ww
- w.bluewave-netto.com/schedule/groups/4\n対戦：県立西宮 vs 大商大
- 堺\nスコア：0-4\n節/ラウンド：関西W1
+ ウンド：関西W1\n区分：結果\n確度：確定\n対戦：県立西
+ 宮 vs 大商大堺\nスコア：0-4\n節/ラウンド：関西W1
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3053,9 +2836,8 @@ SUMMARY:千里 3-0 箕面
 LOCATION:J-GREEN堺（大阪府堺市堺区築港八幡町145）
 DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  ラウンド：決勝トーナメント準決勝①\n区分：結果\n確
- 度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：千里 
- vs 箕面\nスコア：3-0\n節/ラウンド：決勝トーナメント準
- 決勝①
+ 度：確定\n対戦：千里 vs 箕面\nスコア：3-0\n節/ラウンド
+ ：決勝トーナメント準決勝①
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3068,9 +2850,8 @@ SUMMARY:茨木 1-0 三島
 LOCATION:J-GREEN堺（大阪府堺市堺区築港八幡町145）
 DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  ラウンド：決勝トーナメント準決勝②\n区分：結果\n確
- 度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：茨木 
- vs 三島\nスコア：1-0\n節/ラウンド：決勝トーナメント準
- 決勝②
+ 度：確定\n対戦：茨木 vs 三島\nスコア：1-0\n節/ラウンド
+ ：決勝トーナメント準決勝②
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3083,8 +2864,8 @@ SUMMARY:千里 0-2 茨木
 LOCATION:J-GREEN堺（大阪府堺市堺区築港八幡町145）
 DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  ラウンド：決勝トーナメント決勝\n区分：結果\n確度：
- 確定\n出典：https://koko-soccer.com/score/4222\n対戦：千里 vs 茨
- 木\nスコア：0-2\n節/ラウンド：決勝トーナメント決勝
+ 確定\n対戦：千里 vs 茨木\nスコア：0-2\n節/ラウンド：決
+ 勝トーナメント決勝
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3096,9 +2877,8 @@ DTEND;TZID=Asia/Tokyo:20260212T190000
 SUMMARY:大阪偕星 0-4 大商大堺
 LOCATION:J-GREEN堺
 DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
- ウンド：関西W1\n区分：結果\n確度：確定\n出典：https://ww
- w.bluewave-netto.com/schedule/groups/4\n対戦：大阪偕星 vs 大商大
- 堺\nスコア：0-4\n節/ラウンド：関西W1
+ ウンド：関西W1\n区分：結果\n確度：確定\n対戦：大阪偕
+ 星 vs 大商大堺\nスコア：0-4\n節/ラウンド：関西W1
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3111,8 +2891,7 @@ SUMMARY:大商大堺 vs 城陽
 LOCATION:J-GREEN堺 S15
 DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
  ウンド：関西W1\n区分：結果\nスコア：1-2\n確度：確定\n
- 出典：https://www.bluewave-netto.com/schedule/groups/4\n対戦：大商
- 大堺 vs 城陽\n節/ラウンド：関西W1
+ 対戦：大商大堺 vs 城陽\n節/ラウンド：関西W1
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3125,9 +2904,7 @@ SUMMARY:県立西宮 vs 大阪偕星
 LOCATION:J-GREEN堺 S14
 DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
  ラウンド：関西W1\\n区分：結果\\nスコア：0-4\\n確度：暫
- 定\\n出典：https://www.bluewave-netto.com/schedule/groups/4 / https://w
- ww.instagram.com/osaka.kaisei.fc/\\n対戦：県立西宮 vs 大阪偕星\\
- n節/ラウンド：関西W1
+ 定\\n対戦：県立西宮 vs 大阪偕星\\n節/ラウンド：関西W1
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3139,9 +2916,8 @@ DTEND;TZID=Asia/Tokyo:20260223T123000
 SUMMARY:星翔 vs 彦根総合
 LOCATION:彦根総合高校〖松隆グラウンド〗
 DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
- ラウンド：関西W2\\n区分：予定\\n確度：確定\\n出典：http
- s://www.bluewave-netto.com/schedule/groups/4\\n対戦：星翔 vs 彦根総
- 合\\n節/ラウンド：関西W2
+ ラウンド：関西W2\\n区分：予定\\n確度：確定\\n対戦：星
+ 翔 vs 彦根総合\\n節/ラウンド：関西W2
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3153,9 +2929,8 @@ DTEND;TZID=Asia/Tokyo:20260301T151000
 SUMMARY:星翔 vs 香芝
 LOCATION:ナラディーア
 DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
- ラウンド：関西W2\\n区分：予定\\n確度：確定\\n出典：http
- s://www.bluewave-netto.com/schedule/groups/4\\n対戦：星翔 vs 香芝\\n
- 節/ラウンド：関西W2
+ ラウンド：関西W2\\n区分：予定\\n確度：確定\\n対戦：星
+ 翔 vs 香芝\\n節/ラウンド：関西W2
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3167,9 +2942,8 @@ DTEND;TZID=Asia/Tokyo:20260301T171500
 SUMMARY:京都先端科学大附 vs 清明学院
 LOCATION:J-GREEN堺
 DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
- ウンド：関西W1\n区分：予定\n確度：確定\n出典：https://ww
- w.bluewave-netto.com/schedule/groups/4\n対戦：京都先端科学大附 v
- s 清明学院\n節/ラウンド：関西W1
+ ウンド：関西W1\n区分：予定\n確度：確定\n対戦：京都先
+ 端科学大附 vs 清明学院\n節/ラウンド：関西W1
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3181,9 +2955,8 @@ DTEND;TZID=Asia/Tokyo:20260307T150000
 SUMMARY:城陽 vs 清明学院
 LOCATION:J-GREEN堺
 DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
- ウンド：関西W1\n区分：予定\n確度：確定\n出典：https://ww
- w.bluewave-netto.com/schedule/groups/4\n対戦：城陽 vs 清明学院\n
- 節/ラウンド：関西W1
+ ウンド：関西W1\n区分：予定\n確度：確定\n対戦：城陽 vs 
+ 清明学院\n節/ラウンド：関西W1
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3195,9 +2968,8 @@ DTEND;TZID=Asia/Tokyo:20260307T153000
 SUMMARY:千里 vs 彦根総合
 LOCATION:彦根総合高校〖松隆グラウンド〗
 DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
- ラウンド：関西W2\\n区分：予定\\n確度：確定\\n出典：http
- s://www.bluewave-netto.com/schedule/groups/4\\n対戦：千里 vs 彦根総
- 合\\n節/ラウンド：関西W2
+ ラウンド：関西W2\\n区分：予定\\n確度：確定\\n対戦：千
+ 里 vs 彦根総合\\n節/ラウンド：関西W2
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3209,9 +2981,8 @@ DTEND;TZID=Asia/Tokyo:20260308T120000
 SUMMARY:野洲 vs 千里
 LOCATION:野洲高校G
 DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
- ラウンド：関西W2\\n区分：予定\\n確度：確定\\n出典：http
- s://www.bluewave-netto.com/schedule/groups/4\\n対戦：野洲 vs 千里\\n
- 節/ラウンド：関西W2
+ ラウンド：関西W2\\n区分：予定\\n確度：確定\\n対戦：野
+ 洲 vs 千里\\n節/ラウンド：関西W2
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3223,9 +2994,8 @@ DTEND;TZID=Asia/Tokyo:20260308T153000
 SUMMARY:三田松聖 vs 清明学院
 LOCATION:三田松聖高校グラウンド
 DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
- ラウンド：関西W1\\n区分：予定\\n確度：確定\\n出典：http
- s://www.bluewave-netto.com/schedule/groups/4\\n対戦：三田松聖 vs 清
- 明学院\\n節/ラウンド：関西W1
+ ラウンド：関西W1\\n区分：予定\\n確度：確定\\n対戦：三
+ 田松聖 vs 清明学院\\n節/ラウンド：関西W1
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3237,9 +3007,8 @@ DTEND;TZID=Asia/Tokyo:20260313T134500
 SUMMARY:雲雀丘学園 vs 星翔
 LOCATION:J-GREEN堺 S7
 DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
- ラウンド：関西W2\\n区分：予定\\n確度：確定\\n出典：http
- s://www.bluewave-netto.com/schedule/groups/4\\n対戦：雲雀丘学園 vs 
- 星翔\\n節/ラウンド：関西W2
+ ラウンド：関西W2\\n区分：予定\\n確度：確定\\n対戦：雲
+ 雀丘学園 vs 星翔\\n節/ラウンド：関西W2
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3251,9 +3020,8 @@ DTEND;TZID=Asia/Tokyo:20260314T190000
 SUMMARY:清明学院 vs 県立西宮
 LOCATION:J-GREEN堺
 DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
- ウンド：関西W1\n区分：予定\n確度：確定\n出典：https://ww
- w.bluewave-netto.com/schedule/groups/4\n対戦：清明学院 vs 県立西
- 宮\n節/ラウンド：関西W1
+ ウンド：関西W1\n区分：予定\n確度：確定\n対戦：清明学
+ 院 vs 県立西宮\n節/ラウンド：関西W1
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3265,9 +3033,8 @@ DTEND;TZID=Asia/Tokyo:20260315T110000
 SUMMARY:千里 vs 啓明学院
 LOCATION:啓明学院
 DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
- ラウンド：関西W2\\n区分：予定\\n確度：確定\\n出典：http
- s://www.bluewave-netto.com/schedule/groups/4\\n対戦：千里 vs 啓明学
- 院\\n節/ラウンド：関西W2
+ ラウンド：関西W2\\n区分：予定\\n確度：確定\\n対戦：千
+ 里 vs 啓明学院\\n節/ラウンド：関西W2
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3279,9 +3046,8 @@ DTEND;TZID=Asia/Tokyo:20260317T160000
 SUMMARY:大阪偕星 vs 郡山
 LOCATION:ナラディーア
 DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
- ラウンド：関西W1\\n区分：予定\\n確度：確定\\n出典：http
- s://www.bluewave-netto.com/schedule/groups/4\\n対戦：大阪偕星 vs 郡
- 山\\n節/ラウンド：関西W1
+ ラウンド：関西W1\\n区分：予定\\n確度：確定\\n対戦：大
+ 阪偕星 vs 郡山\\n節/ラウンド：関西W1
 END:VEVENT
 
 END:VCALENDAR
