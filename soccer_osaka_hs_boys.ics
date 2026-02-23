@@ -28,6 +28,7 @@ DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：帝塚山泉ヶ丘 
  vs 大阪立命館\\n節/ラウンド：2A90
 END:VEVENT
+
 BEGIN:VEVENT
 UID:d61dc6e36bc5fc8449fe20ce5216a21c@masashi.local
 DTSTAMP:20260221T040657Z
@@ -42,6 +43,7 @@ DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：セレッソ大阪B
   vs 東大阪大柏原\\n節/ラウンド：2A87
 END:VEVENT
+
 BEGIN:VEVENT
 UID:e55387074f873176548b7cd60f56f8ab@masashi.local
 DTSTAMP:20260221T040657Z
@@ -56,6 +58,7 @@ DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：桜宮 vs 商大高
  \\n節/ラウンド：2B83
 END:VEVENT
+
 BEGIN:VEVENT
 UID:f1a8d38f99df5ae26fa3e831709601e8@masashi.local
 DTSTAMP:20260221T040657Z
@@ -70,6 +73,7 @@ DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：摂津 vs 大阪学
  院B\\n節/ラウンド：2B84
 END:VEVENT
+
 BEGIN:VEVENT
 UID:f36a0509f487c51a30996a6a132c532d@masashi.local
 DTSTAMP:20260221T040657Z
@@ -84,6 +88,7 @@ DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：清明学院 vs ガ
  ンバ大阪B\\n節/ラウンド：2B81
 END:VEVENT
+
 BEGIN:VEVENT
 UID:aad4cfd5312b8fe907d90642616bd123@masashi.local
 DTSTAMP:20260221T040657Z
@@ -98,6 +103,7 @@ DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：香里ヌヴェー
  ル vs 大阪桐蔭B\\n節/ラウンド：2B85
 END:VEVENT
+
 BEGIN:VEVENT
 UID:4c9dbc40ae73b2b7d6d5d005996ebab2@masashi.local
 DTSTAMP:20260221T040657Z
@@ -112,6 +118,7 @@ DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：賢明学院 vs 履
  正社C\\n節/ラウンド：2B82
 END:VEVENT
+
 BEGIN:VEVENT
 UID:ef86cfe86b072fa46155e738eefc3992@masashi.local
 DTSTAMP:20260221T040657Z
@@ -126,6 +133,7 @@ DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：千里 vs 関大一
  \\n節/ラウンド：2A88
 END:VEVENT
+
 BEGIN:VEVENT
 UID:62a4f72c2cd00f6e9556aaf585e113ff@masashi.local
 DTSTAMP:20260221T040657Z
@@ -140,6 +148,7 @@ DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：興國C vs 近大
  附属B\\n節/ラウンド：2A89
 END:VEVENT
+
 BEGIN:VEVENT
 UID:eb4bbdeedbf22cb50997551d45368e60@masashi.local
 DTSTAMP:20260221T040657Z
@@ -154,6 +163,7 @@ DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  nt/uploads/sites/6/2025/11/U18_div2_sche.pdf\\n対戦：大阪偕星 vs ア
  サンプション\\n節/ラウンド：2A86
 END:VEVENT
+
 BEGIN:VEVENT
 UID:ad64e17dbbbbe9a61d77318501abf855@masashi.local
 DTSTAMP:20260221T080754Z
@@ -168,6 +178,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
   vs 生野\nスコア：1-0\n節/ラウンド：予選リーグ えグル
  ープ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:8e2d71d371db07c7abd759ad4f87d27d@masashi.local
 DTSTAMP:20260221T080754Z
@@ -182,6 +193,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  宮 vs 長野\nスコア：3-3\n節/ラウンド：予選リーグ かグ
  ループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:506b34939375ce2b4c936d404809cb4a@masashi.local
 DTSTAMP:20260221T080754Z
@@ -196,6 +208,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
   vs 都島工\nスコア：4-1\n節/ラウンド：予選リーグ くグ
  ループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:590d1ad923e7da6f43bc2fef8249a054@masashi.local
 DTSTAMP:20260221T080754Z
@@ -210,6 +223,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  東 vs 八尾\nスコア：6-0\n節/ラウンド：予選リーグ けグ
  ループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:428a68796dc2ecfb3bd8863faa2f4d87@masashi.local
 DTSTAMP:20260221T080754Z
@@ -224,6 +238,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  風冠 vs 富田林\nスコア：0-1\n節/ラウンド：予選リーグ 
  さグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:3126dabc72155e9f10cf1673bfc93058@masashi.local
 DTSTAMP:20260221T080754Z
@@ -238,6 +253,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  教大池田 vs 北千里\nスコア：0-1\n節/ラウンド：予選リー
  グ すグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:bd242c2c86b18f3a04c77c58e41dc12a@masashi.local
 DTSTAMP:20260221T080754Z
@@ -252,6 +268,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  島 vs 清水谷\nスコア：6-0\n節/ラウンド：予選リーグ せ
  グループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:a8e8429d5fbc5e3e5183941255136dd1@masashi.local
 DTSTAMP:20260221T080754Z
@@ -266,6 +283,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  里青雲 vs 高石\nスコア：1-0\n節/ラウンド：予選リーグ 
  かグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:4b73dc6f84e5afc059ec935900f03d03@masashi.local
 DTSTAMP:20260221T080754Z
@@ -280,6 +298,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  ちりつ vs 八尾翠翔\nスコア：0-4\n節/ラウンド：予選リー
  グ えグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:dacba1b49a9d619e3719efb4a29c9385@masashi.local
 DTSTAMP:20260221T080754Z
@@ -294,6 +313,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  真なみはや vs 三国丘\nスコア：0-9\n節/ラウンド：予選リ
  ーグ くグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:ae1474811dec7e676082d66f359fcdb7@masashi.local
 DTSTAMP:20260221T080754Z
@@ -308,6 +328,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  冠 vs 夕陽丘\nスコア：2-1\n節/ラウンド：予選リーグ け
  グループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:4322f2f1614308c41fd4a733b53b4e53@masashi.local
 DTSTAMP:20260221T080754Z
@@ -322,6 +343,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  施 vs 咲くやこの花\nスコア：3-0\n節/ラウンド：予選リー
  グ さグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:c6ffe5fe3809322dbfe483cb66518fa9@masashi.local
 DTSTAMP:20260221T080754Z
@@ -336,6 +358,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  野 vs 日根野\nスコア：6-0\n節/ラウンド：予選リーグ す
  グループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:9741bad58f46c6734cc4c79247afd975@masashi.local
 DTSTAMP:20260221T080754Z
@@ -350,6 +373,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  米田 vs 金剛\nスコア：2-0\n節/ラウンド：予選リーグ せ
  グループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:0b3578da1bd4af556bb3a4287be0a45e@masashi.local
 DTSTAMP:20260221T080754Z
@@ -364,6 +388,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  陽 vs 豊中\nスコア：1-3\n節/ラウンド：予選リーグ こグ
  ループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:f17c5630dff52653018e53f7cabff406@masashi.local
 DTSTAMP:20260221T080754Z
@@ -378,6 +403,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  條畷 vs 大手前\nスコア：3-0\n節/ラウンド：予選リーグ 
  おグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:869b98adf0df5908316ce8c9be6eecfa@masashi.local
 DTSTAMP:20260221T080754Z
@@ -392,6 +418,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  塚 vs 泉大津\nスコア：1-1\n節/ラウンド：予選リーグ こ
  グループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:8055976264ecbe67a205437b43dd495c@masashi.local
 DTSTAMP:20260221T080754Z
@@ -406,6 +433,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  上 vs 北かわち皐が丘\nスコア：0-4\n節/ラウンド：予選リ
  ーグ おグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:100b7dc84599022c@masashi.local
 DTSTAMP:20260221T040657Z
@@ -423,6 +451,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  -shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\
  n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:068002f60a81a2b5@masashi.local
 DTSTAMP:20260221T040657Z
@@ -438,6 +467,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soc
  cer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:dfa0d22d52e7fd68@masashi.local
 DTSTAMP:20260221T040657Z
@@ -455,6 +485,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子
  -第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:0df934fc4f30faec@masashi.local
 DTSTAMP:20260221T040657Z
@@ -470,6 +501,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
  /ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:33659a51ed1b41a9@masashi.local
 DTSTAMP:20260221T040657Z
@@ -487,6 +519,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試
  合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:66b6abcf1463bfbc@masashi.local
 DTSTAMP:20260221T040657Z
@@ -502,6 +535,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  ッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/
  ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:d7ad183fb23da854@masashi.local
 DTSTAMP:20260221T040657Z
@@ -517,6 +551,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  カー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホ
  ーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:6ef88c011e5fb1f7@masashi.local
 DTSTAMP:20260221T040657Z
@@ -534,6 +569,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  .osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合
  結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:018acf2d6db429d0@masashi.local
 DTSTAMP:20260221T040657Z
@@ -549,6 +585,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
  /ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:b92be160d17eb2ea@masashi.local
 DTSTAMP:20260221T040657Z
@@ -566,6 +603,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試
  合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:c3950add9e6ba7d2@masashi.local
 DTSTAMP:20260221T040657Z
@@ -581,6 +619,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soc
  cer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:5ec343cbfc1bf65b@masashi.local
 DTSTAMP:20260221T040657Z
@@ -596,6 +635,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
  /ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:21e0c206ae827a73@masashi.local
 DTSTAMP:20260221T040657Z
@@ -613,6 +653,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試
  合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:23263eadfbf64f33@masashi.local
 DTSTAMP:20260221T040657Z
@@ -630,6 +671,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女
  子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:75ccbc52067fa4ec@masashi.local
 DTSTAMP:20260221T040657Z
@@ -646,6 +688,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  aka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結
  果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:8c7b8772bde17ce5@masashi.local
 DTSTAMP:20260221T040657Z
@@ -661,6 +704,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  カー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホ
  ーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:27befa434112d7ca@masashi.local
 DTSTAMP:20260221T040657Z
@@ -678,6 +722,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  -shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\
  n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:d90382545f799b99@masashi.local
 DTSTAMP:20260221T040657Z
@@ -695,6 +740,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  aka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結
  果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:55f149e3dbd14837@masashi.local
 DTSTAMP:20260221T040657Z
@@ -711,6 +757,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試
  合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:471554ee2f042493@masashi.local
 DTSTAMP:20260221T040657Z
@@ -726,6 +773,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
  /ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:75874b2f3faac340@masashi.local
 DTSTAMP:20260221T040657Z
@@ -743,6 +791,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女
  子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:b76a96b452a64428@masashi.local
 DTSTAMP:20260221T040657Z
@@ -758,6 +807,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-
  soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:539c64e0cd3d4ea7@masashi.local
 DTSTAMP:20260221T040657Z
@@ -773,6 +823,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
  /ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:f58c62e8b9759e51@masashi.local
 DTSTAMP:20260221T040657Z
@@ -790,6 +841,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試
  合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:8d231bc2552303e3@masashi.local
 DTSTAMP:20260221T040657Z
@@ -805,6 +857,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shiga
  ku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:ea95b734e7fd124d@masashi.local
 DTSTAMP:20260221T040657Z
@@ -820,6 +873,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-
  soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:bc94dc0972cde702@masashi.local
 DTSTAMP:20260221T040657Z
@@ -837,6 +891,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  ）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回
  -女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:08fe5e16590e962f@masashi.local
 DTSTAMP:20260221T040657Z
@@ -853,6 +908,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  -shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\
  n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:15f690d44f30127f@masashi.local
 DTSTAMP:20260221T040657Z
@@ -868,6 +924,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  ッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/
  ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:68e8e7eb8e39c927@masashi.local
 DTSTAMP:20260221T040657Z
@@ -885,6 +942,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  aka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結
  果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:ca3088d9e5743952@masashi.local
 DTSTAMP:20260221T040657Z
@@ -900,6 +958,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  カー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホ
  ーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:ac8e176caef136b7@masashi.local
 DTSTAMP:20260221T040657Z
@@ -915,6 +974,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer
  .jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:1a289ce787681c57@masashi.local
 DTSTAMP:20260221T040657Z
@@ -932,6 +992,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  .osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合
  結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:766039b6bc3175e2@masashi.local
 DTSTAMP:20260221T040657Z
@@ -949,6 +1010,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試
  合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:22c2ed956fd1fa15@masashi.local
 DTSTAMP:20260221T040657Z
@@ -964,6 +1026,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
  /ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:eaead178cddd2bc2@masashi.local
 DTSTAMP:20260221T040657Z
@@ -979,6 +1042,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/
  第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:c17976fd40b7fdcb@masashi.local
 DTSTAMP:20260221T040657Z
@@ -996,6 +1060,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  tps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子
  /試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:811ec5ededa19580@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1011,6 +1076,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-
  soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:70264d972323a828@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1027,6 +1093,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  校体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-sh
  igaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:ec9d9ba88a7930e9@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1042,6 +1109,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
  /ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:44dec8991cc99845@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1057,6 +1125,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
  /ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:235f925f9e8ee535@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1074,6 +1143,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  .osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合
  結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:cb45da8b41819d1d@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1089,6 +1159,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soc
  cer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:7fcf9a5642861f6c@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1104,6 +1175,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
  /ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:d530afc662921c23@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1121,6 +1193,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  ://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/
  試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:fe0d1df56f48dc7b@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1137,6 +1210,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  -shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\
  n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:6505f830915548ff@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1152,6 +1226,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
  /ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:68aad8dafb013630@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1169,6 +1244,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  ://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/
  試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:0e1c12f5aadbd5c6@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1184,6 +1260,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shiga
  ku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:d80e3aed44779560@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1200,6 +1277,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  aka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結
  果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:ebb508a23b40b301@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1215,6 +1293,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  カー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホ
  ーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:5e1a6394bef41f60@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1231,6 +1310,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  .osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合
  結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:03a0aaeac942e045@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1247,6 +1327,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shiga
  ku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:c4d64e64c3d82863@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1262,6 +1343,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  体育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shiga
  ku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:c7082469725d531b@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1277,6 +1359,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer
  .jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:6ae35fa9203e3d29@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1292,6 +1375,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
  /ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:56148370f97f45b9@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1307,6 +1391,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-
  soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:a25a03895bf4e725@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1324,6 +1409,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  DF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10
  回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:e445be4608cdf299@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1339,6 +1425,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-
  soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:15f2aba64a8c7205@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1354,6 +1441,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer
  .jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:73ba0a0e2fd92a5d@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1367,6 +1455,7 @@ DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
  w.bluewave-netto.com/schedule/groups/4\n対戦：京都両洋 vs 星翔\n
  スコア：2-1\n節/ラウンド：関西W2
 END:VEVENT
+
 BEGIN:VEVENT
 UID:8829a533eff46f44@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1383,6 +1472,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp
  /ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:e6e153d3ec980894@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1398,6 +1488,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  ッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/
  ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:adbf0b4f140f8af2@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1413,6 +1504,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/
  第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:fc437546c0481808@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1429,6 +1521,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  育連盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-
  soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:f00067d5bccfa0d4@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1446,6 +1539,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試
  合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:4279f0250723bb1e@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1461,6 +1555,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/
  第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:0633a9761aa0dc4f@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1476,6 +1571,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男
  子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:3dce81e3618840fb@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1492,6 +1588,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer
  .jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:a45847f45e560d525015caa78c038733@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1506,6 +1603,7 @@ DESCRIPTION:種別：公式戦\\n大会：高円宮杯 JFA U-18サッカー
  ://www.ogu-h.ed.jp/news/2025/12/jfa-u-18-2025.html\\nスコア：5-2\\n対
  戦：大阪学院大高 vs 神戸科学技術\\n節/ラウンド：1回戦
 END:VEVENT
+
 BEGIN:VEVENT
 UID:60580e7480785730@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1521,6 +1619,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  ッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/
  ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:4bc688c715737108@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1536,6 +1635,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  カー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホ
  ーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:be76248623f5830a@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1551,6 +1651,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  盟サッカー部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer
  .jp/ホーム/第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:1ba235330869aab4@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1566,6 +1667,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  部HP（試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/
  第72回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:4db0f95f67c49dbb460fbb97e2030d1b@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1580,6 +1682,7 @@ DESCRIPTION:種別：公式戦\\n大会：高円宮杯 JFA U-18サッカー
  ://naraclub.jp/archives/65898\\nスコア：1-3\\n対戦：奈良クラブ
  ユース vs 関大北陽\\n節/ラウンド：1回戦
 END:VEVENT
+
 BEGIN:VEVENT
 UID:a3d22e90acd58ae8a39a3b1fdc191cd4@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1594,6 +1697,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  尾翠翔 vs 生野\nスコア：0-3\n節/ラウンド：予選リーグ 
  えグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:ac655bd993f0ebc115d85c0c9ba9a2d7@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1608,6 +1712,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  かわち皐が丘 vs 大手前\nスコア：2-0\n節/ラウンド：予選
  リーグ おグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:ec6a1dd07833dd63226acc2a188197be@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1622,6 +1727,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  里青雲 vs 今宮\nスコア：5-2\n節/ラウンド：予選リーグ 
  かグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:7f09ddadbab3aea40aaf65b17a332b8b@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1636,6 +1742,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  尾北 vs 東住吉総合\nスコア：1-2\n節/ラウンド：予選リー
  グ きグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:925ab94d855169dea43947803cae3378@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1650,6 +1757,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
   vs 門真なみはや\nスコア：2-0\n節/ラウンド：予選リーグ
   くグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:29256c01bb5abc70a8ac4df4ed148b49@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1664,6 +1772,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  施 vs 富田林\nスコア：1-0\n節/ラウンド：予選リーグ さ
  グループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:8e481f0b5f5ee9868eb39dcb75c4eeb8@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1678,6 +1787,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  住吉 vs 茨木工科\nスコア：10-0\n節/ラウンド：予選リー
  グ しグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:d7a426198d1059ee7665e3172dc8b2fc@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1692,6 +1802,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  野 vs 大教大池田\nスコア：0-2\n節/ラウンド：予選リーグ
   すグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:ec18f3a1e8c14ee4bb611376661754e9@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1706,6 +1817,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  野 vs 合同A\nスコア：4-0\n節/ラウンド：予選リーグ うグ
  ループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:edb5aa5c6180087e623ff11eafaebd34@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1720,6 +1832,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  塚 vs 豊中\nスコア：0-0\n節/ラウンド：予選リーグ こグ
  ループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:7044d4649f943a4e24dbc3f5e698ae8d@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1734,6 +1847,7 @@ DESCRIPTION:種別：公式戦\\n大会：高円宮杯 JFA U-18サッカー
  ps://www.ogu-h.ed.jp/news/2025/12/jfa-u-18-2025.html\\nスコア：1-3\\n
  対戦：大阪学院大高 vs 京都橘B\\n節/ラウンド：決定戦
 END:VEVENT
+
 BEGIN:VEVENT
 UID:c08d85258361594c539f6aa52cd0ceae@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1748,6 +1862,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  冠 vs 八尾\nスコア：5-0\n節/ラウンド：予選リーグ けグ
  ループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:04e9b7d931fbaaf1e6cefa0b4b208e24@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1762,6 +1877,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  石 vs 長野\nスコア：3-0\n節/ラウンド：予選リーグ かグ
  ループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:6b24ce868bba99d1ad95d8c561f2930a@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1776,6 +1892,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  田東 vs 藤井寺工科\nスコア：8-1\n節/ラウンド：予選リー
  グ しグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:ee32f20413971f8b24725e73c8bc0e1c@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1790,6 +1907,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  上 vs 四條畷\nスコア：0-3\n節/ラウンド：予選リーグ お
  グループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:15f5a3053bca4a6f5023c474cc490f88@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1804,6 +1922,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  宮工科 vs 信太\nスコア：0-4\n節/ラウンド：予選リーグ 
  うグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:d8d6a06bc700256cbda44d0a8d323bd9@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1818,6 +1937,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  ちりつ vs 旭\nスコア：0-4\n節/ラウンド：予選リーグ え
  グループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:5dc516cb201bc220a51cd2bcbb8f827a@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1832,6 +1952,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  島工 vs 三国丘\nスコア：0-2\n節/ラウンド：予選リーグ 
  くグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:71336fe6f712a90708f6ef256452242c@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1846,6 +1967,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  風冠 vs 咲くやこの花\nスコア：4-0\n節/ラウンド：予選リ
  ーグ さグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:d9c4bac8f60135429f26c348ad6a407e@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1860,6 +1982,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  千里 vs 日根野\nスコア：2-0\n節/ラウンド：予選リーグ 
  すグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:7c87c083c5849adf190bf548d5917028@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1874,6 +1997,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  大津 vs 泉陽\nスコア：0-2\n節/ラウンド：予選リーグ こ
  グループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:66ee70bb2f34805cb5abe750bc0341d1@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1888,6 +2012,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  東 vs 夕陽丘\nスコア：0-0\n節/ラウンド：予選リーグ け
  グループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:70dc7b4c9ea49651207917aa065f6119@masashi.local
 DTSTAMP:20260221T040657Z
@@ -1902,6 +2027,7 @@ DESCRIPTION:種別：公式戦\\n大会：高円宮杯 JFA U-18サッカー
  ps://www.hokuyofc.net/wp/offical_game_smart\\nスコア：3-1\\n対戦：
  関大北陽 vs 近大和歌山\\n節/ラウンド：決定戦
 END:VEVENT
+
 BEGIN:VEVENT
 UID:59c1006884404e8a0bd5755e4ac41bc9@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1916,6 +2042,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  南 vs 東住吉総合\nスコア：1-0\n節/ラウンド：予選リーグ
   きグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:a3469d008a16fc7734c9759e616efd33@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1930,6 +2057,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  千里 vs 牧野\nスコア：2-1\n節/ラウンド：予選リーグ す
  グループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:d52983fa296f522ca9cd68ad5ed94000@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1944,6 +2072,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  教大池田 vs 日根野\nスコア：4-0\n節/ラウンド：予選リー
  グ すグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:3967f4fc5dbcc7bc05a94e83a1b468c3@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1958,6 +2087,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  同A vs 今宮工科\nスコア：3-0\n節/ラウンド：予選リーグ 
  うグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:78eac9417505e05af25b7f9c37889800@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1972,6 +2102,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  田東 vs 茨木工科\nスコア：8-1\n節/ラウンド：予選リーグ
   しグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:95b7918ef0134f28864d09124efa910f@masashi.local
 DTSTAMP:20260221T080754Z
@@ -1986,6 +2117,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  野 vs 信太\nスコア：5-0\n節/ラウンド：予選リーグ うグ
  ループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:cb9724c0bc8e3e4fddfbe2997fd53902@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2000,6 +2132,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  住吉 vs 藤井寺工科\nスコア：2-0\n節/ラウンド：予選リー
  グ しグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:0eea12e5d12bf58727fec42fb93a62c6@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2014,6 +2147,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  尾北 vs 淀川工科\nスコア：5-2\n節/ラウンド：予選リーグ
   きグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:879cfe91587def13ede987c5170df676@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2028,6 +2162,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  川工科 vs 阪南\nスコア：1-4\n節/ラウンド：予選リーグ 
  きグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:cc04e4f35fdc065f8c12d0d6940660e2@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2042,6 +2177,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  冠 vs 堺東\nスコア：1-0\n節/ラウンド：予選リーグ けグ
  ループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:1002183731ada864d3b623f8292344c9@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2056,6 +2192,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  島工 vs 門真なみはや\nスコア：3-0\n節/ラウンド：予選リ
  ーグ くグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:3123776dc393e66334feb966e75d2411@masashi.local
 DTSTAMP:20260221T040657Z
@@ -2070,6 +2207,7 @@ DESCRIPTION:種別：公式戦\\n大会：第104回全国高等学校サッ
  h_page/m26.html\\nスコア：1-1（PK3-1）\\n対戦：興國 vs 浜松開
  誠館\\n節/ラウンド：2回戦
 END:VEVENT
+
 BEGIN:VEVENT
 UID:76d11e9c15b68c2e686339aff39726f3@masashi.local
 DTSTAMP:20260221T040657Z
@@ -2084,6 +2222,7 @@ DESCRIPTION:種別：公式戦\\n大会：第104回全国高等学校サッ
  h_page/m37.html\\nスコア：2-2（PK5-4）\\n対戦：東福岡 vs 興國
  \\n節/ラウンド：3回戦
 END:VEVENT
+
 BEGIN:VEVENT
 UID:aa663da9dd6ca8a857e81b0944cb98cd@masashi.local
 DTSTAMP:20260221T040657Z
@@ -2098,6 +2237,7 @@ DESCRIPTION:種別：公式戦\\n大会：第104回全国高等学校サッ
  atch_page/m43.html\\nスコア：1-3\\n対戦：興國 vs 鹿島学園\\n
  節/ラウンド：準々決勝
 END:VEVENT
+
 BEGIN:VEVENT
 UID:57f004fd91112622@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2111,6 +2251,7 @@ DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
  w.bluewave-netto.com/schedule/groups/4\n対戦：千里 vs 京都両洋\n
  スコア：6-0\n節/ラウンド：関西W2
 END:VEVENT
+
 BEGIN:VEVENT
 UID:9220017f2a7df35d@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2124,6 +2265,7 @@ DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
  w.bluewave-netto.com/schedule/groups/4\n対戦：千里 vs 星翔\nスコ
  ア：5-0\n節/ラウンド：関西W2
 END:VEVENT
+
 BEGIN:VEVENT
 UID:1041eb7eb381136c0b9bdb9d1cc07017@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2138,6 +2280,7 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  太 vs 合同A\nスコア：2-0\n節/ラウンド：予選リーグ うグ
  ループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:0191681613b568d76918e56308d9c3c4@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2152,259 +2295,306 @@ DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  野 vs 今宮工科\nスコア：5-0\n節/ラウンド：予選リーグ 
  うグループ
 END:VEVENT
+
 BEGIN:VEVENT
 UID:78167fec744d9ade@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T090000
 SUMMARY:金岡 3-3 PK5-4 東
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:00\nスコア：金岡 3-3 PK5-4 東\n出典
  ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
  ccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:98fc2aeb2ec90894@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T090000
 SUMMARY:豊島 2-3 香里丘
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:00\nスコア：豊島 2-3 香里丘\n出典
  ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
  ccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:39f2e9a3fb4b3f38@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T090000
 SUMMARY:みどり清朋 2-1 高槻北
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:00\nスコア：みどり清朋 2-1 高槻
  北\n出典：高校サッカードットコム 大会日程・結果\nhttp
  s://koko-soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:08505c14fbc841d1@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T090000
 SUMMARY:富田林 1-1 PK1-3 槻の木
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:00\nスコア：富田林 1-1 PK1-3 槻の
  木\n出典：高校サッカードットコム 大会日程・結果\nhttp
  s://koko-soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:c55b95921f18bbf8@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T090000
 SUMMARY:和泉 1-1 PK5-3 生野
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:00\nスコア：和泉 1-1 PK5-3 生野\n出
  典：高校サッカードットコム 大会日程・結果\nhttps://koko
  -soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:5b9480cd8f8fdb83@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T093000
 SUMMARY:阿武野 0-4 千里
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:30\nスコア：阿武野 0-4 千里\n出典
  ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
  ccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:fc092da8b6d6c313@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T093000
 SUMMARY:芥川 4-0 東住吉総合
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:30\nスコア：芥川 4-0 東住吉総合\n
  出典：高校サッカードットコム 大会日程・結果\nhttps://k
  oko-soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:1d5e80cc4d7467e4@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T093000
 SUMMARY:三国丘 0-0 PK3-5 箕面
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:30\nスコア：三国丘 0-0 PK3-5 箕面\n
  出典：高校サッカードットコム 大会日程・結果\nhttps://k
  oko-soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:42deb08593866736@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T103000
 SUMMARY:刀根山 7-0 阪南
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：10:30\nスコア：刀根山 7-0 阪南\n出典
  ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
  ccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:f1bc5e9aeb14d884@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T103000
 SUMMARY:信太 0-2 泉陽
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：10:30\nスコア：信太 0-2 泉陽\n出典：
  高校サッカードットコム 大会日程・結果\nhttps://koko-socce
  r.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:214aad5221bd3f35@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T104000
 SUMMARY:河南 0-0 PK3-5 久米田
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：10:40\nスコア：河南 0-0 PK3-5 久米田\n
  出典：高校サッカードットコム 大会日程・結果\nhttps://k
  oko-soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:2895b1fdf031a771@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T104000
 SUMMARY:堺東 0-1 天王寺
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：10:40\nスコア：堺東 0-1 天王寺\n出典
  ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
  ccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:6b5b7a197995a339@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T104000
 SUMMARY:岸和田 3-0 汎愛
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：10:40\nスコア：岸和田 3-0 汎愛\n出典
  ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
  ccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:2dbfe426f09b31fc@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T104000
 SUMMARY:大手前 4-0 茨木
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：10:40\nスコア：大手前 4-0 茨木\n出典
  ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
  ccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:3a10d730f9b9cf90@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T110000
 SUMMARY:山本 3-1 高石
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：11:00\nスコア：山本 3-1 高石\n出典：
  高校サッカードットコム 大会日程・結果\nhttps://koko-socce
  r.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:bb8ab179731ad008@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T110000
 SUMMARY:高津 0-0 PK4-3 大教大池田
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：11:00\nスコア：高津 0-0 PK4-3 大教大
  池田\n出典：高校サッカードットコム 大会日程・結果\nh
  ttps://koko-soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:77aed9bcf17aaa6d@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T120000
 SUMMARY:北野 4-1 花園
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：12:00\nスコア：北野 4-1 花園\n出典：
  高校サッカードットコム 大会日程・結果\nhttps://koko-socce
  r.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:e8c931f46a9eef43@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T132000
 SUMMARY:長尾 2-0 千里青雲
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：13:20\nスコア：長尾 2-0 千里青雲\n出
  典：高校サッカードットコム 大会日程・結果\nhttps://koko
  -soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:34357b2320ffd530@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T132000
 SUMMARY:春日丘 1-0 日新
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：13:20\nスコア：春日丘 1-0 日新\n出典
  ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
  ccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:6df97ee320bfad76@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T133000
 SUMMARY:摂津 6-0 茨木西
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：13:30\nスコア：摂津 6-0 茨木西\n出典
  ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
  ccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:441c003bc1a8d35d@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T150000
 SUMMARY:交野 4-1 教育センター附
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：15:00\nスコア：交野 4-1 教育センタ
  ー附\n出典：高校サッカードットコム 大会日程・結果\nh
  ttps://koko-soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:0720df8c9bfe2111@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T150000
 SUMMARY:吹田東 3-5 三島
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：15:00\nスコア：吹田東 3-5 三島\n出典
  ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
  ccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:b1ba43d5375adc07@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T150000
 SUMMARY:東住吉 0-0 PK4-5 鳳
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：15:00\nスコア：東住吉 0-0 PK4-5 鳳\n出
  典：高校サッカードットコム 大会日程・結果\nhttps://koko
  -soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:33f531ae22a2a7fc@masashi.local
 DTSTAMP:20260221T040657Z
@@ -2420,6 +2610,7 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  （試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72
  回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:66011ebe4e08bf82@masashi.local
 DTSTAMP:20260221T040657Z
@@ -2435,138 +2626,163 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-
  男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:f68a1998d792ad0a@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T090000
 SUMMARY:旭 2-1 交野
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：09:00\nスコア：旭 2-1 交野\n出典：高
  校サッカードットコム 大会日程・結果\nhttps://koko-soccer.c
  om/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:6ec8126e6e31b52e@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T090000
 SUMMARY:北千里 2-1 泉陽
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：09:00\nスコア：北千里 2-1 泉陽\n出典
  ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
  ccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:5bb848e1b1d635ba@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T090000
 SUMMARY:北かわち皐が丘 1-3 天王寺
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：09:00\nスコア：北かわち皐が丘 1-3 
  天王寺\n出典：高校サッカードットコム 大会日程・結果
  \nhttps://koko-soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:8f05a148c625a271@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T093000
 SUMMARY:豊中 2-1 東
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：09:30\nスコア：豊中 2-1 東\n出典：高
  校サッカードットコム 大会日程・結果\nhttps://koko-soccer.c
  om/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:03280d33805d352c@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T093000
 SUMMARY:北野 1-1 PK7-8 槻の木
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：09:30\nスコア：北野 1-1 PK7-8 槻の木\n
  出典：高校サッカードットコム 大会日程・結果\nhttps://k
  oko-soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:962e9ad38f08f169@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T093000
 SUMMARY:鳳 0-3 枚方
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：09:30\nスコア：鳳 0-3 枚方\n出典：高
  校サッカードットコム 大会日程・結果\nhttps://koko-soccer.c
  om/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:a92c07cd6aadfb84@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T103000
 SUMMARY:香里丘 0-5 阿武野
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：10:30\nスコア：香里丘 0-5 阿武野\n出
  典：高校サッカードットコム 大会日程・結果\nhttps://koko
  -soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:7a66a44cc043e2e9@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T104000
 SUMMARY:高津 1-1 PK4-5 茨木
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：10:40\nスコア：高津 1-1 PK4-5 茨木\n出
  典：高校サッカードットコム 大会日程・結果\nhttps://koko
  -soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:79399f1e3b104a04@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T110000
 SUMMARY:春日丘 0-1 刀根山
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：11:00\nスコア：春日丘 0-1 刀根山\n出
  典：高校サッカードットコム 大会日程・結果\nhttps://koko
  -soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:ea204a183e8e043c@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T110000
 SUMMARY:箕面 0-0 PK5-3 大冠
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：11:00\nスコア：箕面 0-0 PK5-3 大冠\n出
  典：高校サッカードットコム 大会日程・結果\nhttps://koko
  -soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:589d15f579830c8a@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T110000
 SUMMARY:和泉 0-1 高槻北
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：11:00\nスコア：和泉 0-1 高槻北\n出典
  ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
  ccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:e2a67b066bc59e18@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T111000
 SUMMARY:摂津 0-1 池田
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：11:10\nスコア：摂津 0-1 池田\n出典：
  高校サッカードットコム 大会日程・結果\nhttps://koko-socce
  r.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:c7fd2bc8bfb4188a@masashi.local
 DTSTAMP:20260221T040657Z
@@ -2582,138 +2798,163 @@ DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
  （試合結果PDF）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72
  回-男子-第10回-女子/試合結果/\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:b1be28d1f4804ee5@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T130000
 SUMMARY:桜宮 0-0 PK3-5 長尾
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：13:00\nスコア：桜宮 0-0 PK3-5 長尾\n出
  典：高校サッカードットコム 大会日程・結果\nhttps://koko
  -soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:ec2df5887166c985@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T144500
 SUMMARY:芥川 4-0 布施
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：14:45\nスコア：芥川 4-0 布施\n出典：
  高校サッカードットコム 大会日程・結果\nhttps://koko-socce
  r.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:4b5f6c31dd5efca1@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T144500
 SUMMARY:久米田 1-2 岸和田
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：14:45\nスコア：久米田 1-2 岸和田\n出
  典：高校サッカードットコム 大会日程・結果\nhttps://koko
  -soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:a8876dbe978f3048@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T150000
 SUMMARY:山本 0-3 三島
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：15:00\nスコア：山本 0-3 三島\n出典：
  高校サッカードットコム 大会日程・結果\nhttps://koko-socce
  r.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:de225fe8fe71c8ac@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260125T090000
 SUMMARY:千里 7-1 旭
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T3回戦\nキックオフ：09:00\nスコア：千里 7-1 旭\n出典：高
  校サッカードットコム 大会日程・結果\nhttps://koko-soccer.c
  om/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:7ed54df803c75aaf@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260125T090000
 SUMMARY:枚方 0-2 高槻北
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T3回戦\nキックオフ：09:00\nスコア：枚方 0-2 高槻北\n出典
  ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
  ccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:975b95c89002b69d@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260125T093000
 SUMMARY:槻の木 0-0 PK7-8 箕面
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T3回戦\nキックオフ：09:30\nスコア：槻の木 0-0 PK7-8 箕面\n
  出典：高校サッカードットコム 大会日程・結果\nhttps://k
  oko-soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:6970de148aa76c9f@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260125T103000
 SUMMARY:豊中 2-0 刀根山
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T3回戦\nキックオフ：10:30\nスコア：豊中 2-0 刀根山\n出典
  ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
  ccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:4d2bd0ace6c82e10@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260125T104000
 SUMMARY:池田 0-1 岸和田
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T3回戦\nキックオフ：10:40\nスコア：池田 0-1 岸和田\n出典
  ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
  ccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:7a6c36b117b81b58@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260125T114500
 SUMMARY:天王寺 0-3 三島
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T3回戦\nキックオフ：11:45\nスコア：天王寺 0-3 三島\n出典
  ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
  ccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:558e7d11eecd03a0@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260125T131500
 SUMMARY:茨木 2-0 北千里
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T3回戦\nキックオフ：13:15\nスコア：茨木 2-0 北千里\n出典
  ：高校サッカードットコム 大会日程・結果\nhttps://koko-so
  ccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:a4b3b2b259cf50e9@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260125T150000
 SUMMARY:長尾 0-0 PK5-3 芥川
+LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T3回戦\nキックオフ：15:00\nスコア：長尾 0-0 PK5-3 芥川\n出
  典：高校サッカードットコム 大会日程・結果\nhttps://koko
  -soccer.com/score/4222\n
 END:VEVENT
+
 BEGIN:VEVENT
 UID:37d6beb300d0b146@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2727,20 +2968,7 @@ DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
  w.bluewave-netto.com/schedule/groups/4\n対戦：清明学院 vs 大商大
  堺\nスコア：1-1\n節/ラウンド：関西W1
 END:VEVENT
-BEGIN:VEVENT
-UID:4f793ea70dee17fd@masashi.local
-DTSTAMP:20260221T080754Z
-SEQUENCE:3
-DTSTART;TZID=Asia/Tokyo:20260201T103000
-DTEND;TZID=Asia/Tokyo:20260201T130000
-SUMMARY:三島 0-0 PK 5-4 岸和田
-LOCATION:会場不明
-DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
- ラウンド：決勝トーナメント準々決勝\n区分：結果\n確
- 度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：三島 
- vs 岸和田\nスコア：0-0 PK 5-4\n節/ラウンド：決勝トーナメ
- ント準々決勝
-END:VEVENT
+
 BEGIN:VEVENT
 UID:4c25e16d0fd70b4f@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2755,6 +2983,7 @@ DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  vs 高槻北\nスコア：2-0\n節/ラウンド：決勝トーナメント
  準々決勝
 END:VEVENT
+
 BEGIN:VEVENT
 UID:49d8b12f9367d51e@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2769,6 +2998,22 @@ DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  vs 長尾\nスコア：2-1\n節/ラウンド：決勝トーナメント準
  々決勝
 END:VEVENT
+
+BEGIN:VEVENT
+UID:4f793ea70dee17fd@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260201T103000
+DTEND;TZID=Asia/Tokyo:20260201T130000
+SUMMARY:三島 0-0 PK 5-4 岸和田
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
+ ラウンド：決勝トーナメント準々決勝\n区分：結果\n確
+ 度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：三島 
+ vs 岸和田\nスコア：0-0 PK 5-4\n節/ラウンド：決勝トーナメ
+ ント準々決勝
+END:VEVENT
+
 BEGIN:VEVENT
 UID:f0e8a38ee62d8a3e@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2783,6 +3028,7 @@ DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  vs 箕面\nスコア：0-3\n節/ラウンド：決勝トーナメント準
  々決勝
 END:VEVENT
+
 BEGIN:VEVENT
 UID:287786da3e8f380d@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2796,6 +3042,7 @@ DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
  w.bluewave-netto.com/schedule/groups/4\n対戦：県立西宮 vs 大商大
  堺\nスコア：0-4\n節/ラウンド：関西W1
 END:VEVENT
+
 BEGIN:VEVENT
 UID:2ad07ea1b0986cd0@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2810,6 +3057,7 @@ DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  vs 箕面\nスコア：3-0\n節/ラウンド：決勝トーナメント準
  決勝①
 END:VEVENT
+
 BEGIN:VEVENT
 UID:dbb9528965129c25@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2824,6 +3072,7 @@ DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  vs 三島\nスコア：1-0\n節/ラウンド：決勝トーナメント準
  決勝②
 END:VEVENT
+
 BEGIN:VEVENT
 UID:1424969d3e576497@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2837,6 +3086,7 @@ DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  確定\n出典：https://koko-soccer.com/score/4222\n対戦：千里 vs 茨
  木\nスコア：0-2\n節/ラウンド：決勝トーナメント決勝
 END:VEVENT
+
 BEGIN:VEVENT
 UID:ab5cb24c046cf30f@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2850,6 +3100,7 @@ DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
  w.bluewave-netto.com/schedule/groups/4\n対戦：大阪偕星 vs 大商大
  堺\nスコア：0-4\n節/ラウンド：関西W1
 END:VEVENT
+
 BEGIN:VEVENT
 UID:a919e900e0e4659e@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2863,19 +3114,50 @@ DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
  出典：https://www.bluewave-netto.com/schedule/groups/4\n対戦：大商
  大堺 vs 城陽\n節/ラウンド：関西W1
 END:VEVENT
+
 BEGIN:VEVENT
 UID:f4e8b01e1d89db9e@masashi.local
-DTSTAMP:20260221T080754Z
-SEQUENCE:3
+DTSTAMP:20260223T013324Z
+SEQUENCE:4
 DTSTART;TZID=Asia/Tokyo:20260221T130000
 DTEND;TZID=Asia/Tokyo:20260221T150000
 SUMMARY:県立西宮 vs 大阪偕星
 LOCATION:J-GREEN堺 S14
-DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
- ウンド：関西W1\n区分：予定\n確度：確定\n出典：https://ww
- w.bluewave-netto.com/schedule/groups/4\n対戦：県立西宮 vs 大阪偕
- 星\n節/ラウンド：関西W1
+DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
+ ラウンド：関西W1\\n区分：結果\\nスコア：0-4\\n確度：暫
+ 定\\n出典：https://www.bluewave-netto.com/schedule/groups/4 / https://w
+ ww.instagram.com/osaka.kaisei.fc/\\n対戦：県立西宮 vs 大阪偕星\\
+ n節/ラウンド：関西W1
 END:VEVENT
+
+BEGIN:VEVENT
+UID:0d93c8cff8d08cf1@masashi.local
+DTSTAMP:20260223T013324Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260223T103000
+DTEND;TZID=Asia/Tokyo:20260223T123000
+SUMMARY:星翔 vs 彦根総合
+LOCATION:彦根総合高校〖松隆グラウンド〗
+DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
+ ラウンド：関西W2\\n区分：予定\\n確度：確定\\n出典：http
+ s://www.bluewave-netto.com/schedule/groups/4\\n対戦：星翔 vs 彦根総
+ 合\\n節/ラウンド：関西W2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c2553d70e57907fe@masashi.local
+DTSTAMP:20260223T013324Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260301T131000
+DTEND;TZID=Asia/Tokyo:20260301T151000
+SUMMARY:星翔 vs 香芝
+LOCATION:ナラディーア
+DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
+ ラウンド：関西W2\\n区分：予定\\n確度：確定\\n出典：http
+ s://www.bluewave-netto.com/schedule/groups/4\\n対戦：星翔 vs 香芝\\n
+ 節/ラウンド：関西W2
+END:VEVENT
+
 BEGIN:VEVENT
 UID:7f3863635ae8a4c9@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2889,6 +3171,7 @@ DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
  w.bluewave-netto.com/schedule/groups/4\n対戦：京都先端科学大附 v
  s 清明学院\n節/ラウンド：関西W1
 END:VEVENT
+
 BEGIN:VEVENT
 UID:0493f1d4d5805344@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2902,6 +3185,63 @@ DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
  w.bluewave-netto.com/schedule/groups/4\n対戦：城陽 vs 清明学院\n
  節/ラウンド：関西W1
 END:VEVENT
+
+BEGIN:VEVENT
+UID:e19bab2ca7c2ed72@masashi.local
+DTSTAMP:20260223T013324Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260307T133000
+DTEND;TZID=Asia/Tokyo:20260307T153000
+SUMMARY:千里 vs 彦根総合
+LOCATION:彦根総合高校〖松隆グラウンド〗
+DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
+ ラウンド：関西W2\\n区分：予定\\n確度：確定\\n出典：http
+ s://www.bluewave-netto.com/schedule/groups/4\\n対戦：千里 vs 彦根総
+ 合\\n節/ラウンド：関西W2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:28b97d0c6f0fe35d@masashi.local
+DTSTAMP:20260223T013324Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260308T100000
+DTEND;TZID=Asia/Tokyo:20260308T120000
+SUMMARY:野洲 vs 千里
+LOCATION:野洲高校G
+DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
+ ラウンド：関西W2\\n区分：予定\\n確度：確定\\n出典：http
+ s://www.bluewave-netto.com/schedule/groups/4\\n対戦：野洲 vs 千里\\n
+ 節/ラウンド：関西W2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5a06a5737dde34fb@masashi.local
+DTSTAMP:20260223T013324Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260308T133000
+DTEND;TZID=Asia/Tokyo:20260308T153000
+SUMMARY:三田松聖 vs 清明学院
+LOCATION:三田松聖高校グラウンド
+DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
+ ラウンド：関西W1\\n区分：予定\\n確度：確定\\n出典：http
+ s://www.bluewave-netto.com/schedule/groups/4\\n対戦：三田松聖 vs 清
+ 明学院\\n節/ラウンド：関西W1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fb042afc7199168a@masashi.local
+DTSTAMP:20260223T013324Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260313T114500
+DTEND;TZID=Asia/Tokyo:20260313T134500
+SUMMARY:雲雀丘学園 vs 星翔
+LOCATION:J-GREEN堺 S7
+DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
+ ラウンド：関西W2\\n区分：予定\\n確度：確定\\n出典：http
+ s://www.bluewave-netto.com/schedule/groups/4\\n対戦：雲雀丘学園 vs 
+ 星翔\\n節/ラウンド：関西W2
+END:VEVENT
+
 BEGIN:VEVENT
 UID:08561326298dd942@masashi.local
 DTSTAMP:20260221T080754Z
@@ -2915,4 +3255,33 @@ DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
  w.bluewave-netto.com/schedule/groups/4\n対戦：清明学院 vs 県立西
  宮\n節/ラウンド：関西W1
 END:VEVENT
+
+BEGIN:VEVENT
+UID:59636a47e4706340@masashi.local
+DTSTAMP:20260223T013324Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260315T090000
+DTEND;TZID=Asia/Tokyo:20260315T110000
+SUMMARY:千里 vs 啓明学院
+LOCATION:啓明学院
+DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
+ ラウンド：関西W2\\n区分：予定\\n確度：確定\\n出典：http
+ s://www.bluewave-netto.com/schedule/groups/4\\n対戦：千里 vs 啓明学
+ 院\\n節/ラウンド：関西W2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9e1a1b2eb467019e@masashi.local
+DTSTAMP:20260223T013324Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260317T140000
+DTEND;TZID=Asia/Tokyo:20260317T160000
+SUMMARY:大阪偕星 vs 郡山
+LOCATION:ナラディーア
+DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
+ ラウンド：関西W1\\n区分：予定\\n確度：確定\\n出典：http
+ s://www.bluewave-netto.com/schedule/groups/4\\n対戦：大阪偕星 vs 郡
+ 山\\n節/ラウンド：関西W1
+END:VEVENT
+
 END:VCALENDAR
