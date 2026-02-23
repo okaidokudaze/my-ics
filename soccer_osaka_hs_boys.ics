@@ -2933,14 +2933,17 @@ DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\n
 END:VEVENT
 BEGIN:VEVENT
 UID:5d8eae2b55fb66a21ac64d9d8c16cbb2@masashi.local
-DTSTAMP:20260223T090412Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20251116
-DTEND;VALUE=DATE:20251117
-SUMMARY:岸和田 vs 合同B
-LOCATION:豊島
+DTSTAMP:20260223T093841Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T103000
+DTEND;TZID=Asia/Tokyo:20251116T123000
+SUMMARY:岸和田 13-0 合同B
+LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
- 校大会\nラウンド：未定\n区分：予定\n確度：暫定
+ 校大会\nラウンド：予選リーグ はグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 岸和田 vs 合同B\nスコア：13-0\n節/ラウンド：予選リーグ
+  はグループ
 END:VEVENT
 BEGIN:VEVENT
 UID:da162022299b0e74a18cb187d75fcd9b@masashi.local
@@ -3040,5 +3043,411 @@ SUMMARY:皐が丘 vs 大手前
 LOCATION:堺上高校
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：未定\n区分：予定\n確度：暫定
+END:VEVENT
+BEGIN:VEVENT
+UID:3bf5ee047e48a804bdab94d130b88d0e@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:刀根山 0-1 春日丘
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ あグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 刀根山 vs 春日丘\nスコア：0-1\n節/ラウンド：予選リー
+ グ あグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:65cbb86f84f443b6f138d44bb1d69b0f@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T133000
+DTEND;TZID=Asia/Tokyo:20251116T153000
+SUMMARY:河南 10-0 阿倍野
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ いグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 河南 vs 阿倍野\nスコア：10-0\n節/ラウンド：予選リーグ 
+ いグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:edae3be0b88a3d8545405c0f13dd7c4b@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T150000
+DTEND;TZID=Asia/Tokyo:20251116T170000
+SUMMARY:渋谷 1-2 交野
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ いグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 渋谷 vs 交野\nスコア：1-2\n節/ラウンド：予選リーグ い
+ グループ
+END:VEVENT
+BEGIN:VEVENT
+UID:a8f6f0a71e03159954a80bb6e2d8b9c2@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:八尾翠翔 0-2 旭
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ えグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 八尾翠翔 vs 旭\nスコア：0-2\n節/ラウンド：予選リーグ 
+ えグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:ed3a457c096997e7f0d56143189b88b6@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T110000
+DTEND;TZID=Asia/Tokyo:20251116T130000
+SUMMARY:いちりつ 0-7 生野
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ えグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ いちりつ vs 生野\nスコア：0-7\n節/ラウンド：予選リー
+ グ えグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e434af2970287a5352dca11bd3182d@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:堺上 0-11 大手前
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ おグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 堺上 vs 大手前\nスコア：0-11\n節/ラウンド：予選リーグ 
+ おグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:5b5fec28cb62cc336c85bc3c00f96c0b@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T104000
+DTEND;TZID=Asia/Tokyo:20251116T124000
+SUMMARY:北かわち皐が丘 2-0 四條畷
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ おグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 北かわち皐が丘 vs 四條畷\nスコア：2-0\n節/ラウンド：
+ 予選リーグ おグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:e8ee117f117d9adf202e007877d7f9b8@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:長野 1-1 千里青雲
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ かグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 長野 vs 千里青雲\nスコア：1-1\n節/ラウンド：予選リー
+ グ かグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:044896063c0960b74115b4f68a5d1358@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T103000
+DTEND;TZID=Asia/Tokyo:20251116T123000
+SUMMARY:今宮 1-3 高石
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ かグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 今宮 vs 高石\nスコア：1-3\n節/ラウンド：予選リーグ か
+ グループ
+END:VEVENT
+BEGIN:VEVENT
+UID:1892b5736bb4473f76b6742d2906b208@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:八尾北 0-8 阪南
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ きグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 八尾北 vs 阪南\nスコア：0-8\n節/ラウンド：予選リーグ 
+ きグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:2245eaafb2f02468efa0e67424b3cf71@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251124T090000
+DTEND;TZID=Asia/Tokyo:20251124T110000
+SUMMARY:淀川工科 0-3 東住吉総合
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ きグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 淀川工科 vs 東住吉総合\nスコア：0-3\n節/ラウンド：予
+ 選リーグ きグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:9fd495e83733a454a5a24f63543b0b46@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T150000
+DTEND;TZID=Asia/Tokyo:20251116T170000
+SUMMARY:鳳 0-1 三国丘
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ くグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 鳳 vs 三国丘\nスコア：0-1\n節/ラウンド：予選リーグ く
+ グループ
+END:VEVENT
+BEGIN:VEVENT
+UID:bad0118912de37a9e6a86e778d6854bb@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T130000
+DTEND;TZID=Asia/Tokyo:20251116T150000
+SUMMARY:八尾 1-2 夕陽丘
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ けグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 八尾 vs 夕陽丘\nスコア：1-2\n節/ラウンド：予選リーグ 
+ けグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:7b86a81978e8fb8aa385d2a42900edc0@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T133000
+DTEND;TZID=Asia/Tokyo:20251116T153000
+SUMMARY:豊中 5-0 泉大津
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ こグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 豊中 vs 泉大津\nスコア：5-0\n節/ラウンド：予選リーグ 
+ こグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:0f299f9bdba09d7a8529c635af36c214@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T153000
+DTEND;TZID=Asia/Tokyo:20251116T173000
+SUMMARY:大塚 1-2 泉陽
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ こグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 大塚 vs 泉陽\nスコア：1-2\n節/ラウンド：予選リーグ こ
+ グループ
+END:VEVENT
+BEGIN:VEVENT
+UID:6603be8ad859829a82ab45fb360051cc@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:布施 1-1 緑風冠
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ さグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 布施 vs 緑風冠\nスコア：1-1\n節/ラウンド：予選リーグ 
+ さグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:09c8df637de6777de32404d8039a2ffa@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T110000
+DTEND;TZID=Asia/Tokyo:20251116T130000
+SUMMARY:咲くやこの花 0-5 富田林
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ さグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 咲くやこの花 vs 富田林\nスコア：0-5\n節/ラウンド：予
+ 選リーグ さグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:66f15e602d129ebf734aca27e36bf7c6@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T093000
+DTEND;TZID=Asia/Tokyo:20251116T113000
+SUMMARY:藤井寺工科 3-0 茨木工科
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ しグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 藤井寺工科 vs 茨木工科\nスコア：3-0\n節/ラウンド：予
+ 選リーグ しグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:34fabef05855f0d867196a6ccc08b7da@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T110000
+DTEND;TZID=Asia/Tokyo:20251116T130000
+SUMMARY:吹田東 0-1 東住吉
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ しグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 吹田東 vs 東住吉\nスコア：0-1\n節/ラウンド：予選リー
+ グ しグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:e5578761c1df8f7133a68702761e231e@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T150000
+DTEND;TZID=Asia/Tokyo:20251116T170000
+SUMMARY:池田 2-0 みどり清朋
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ ちグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 池田 vs みどり清朋\nスコア：2-0\n節/ラウンド：予選リ
+ ーグ ちグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:d1cd1b256584bb51d77c71e7ba693f17@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T133000
+DTEND;TZID=Asia/Tokyo:20251116T153000
+SUMMARY:汎愛 4-0 東百舌鳥
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ つグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 汎愛 vs 東百舌鳥\nスコア：4-0\n節/ラウンド：予選リー
+ グ つグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:b95511a59abef8373eeb1b29a23c2b9c@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:枚方 2-1 長尾
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ とグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 枚方 vs 長尾\nスコア：2-1\n節/ラウンド：予選リーグ と
+ グループ
+END:VEVENT
+BEGIN:VEVENT
+UID:3bb30beb2a7f57f5f69bc42bb5267ad2@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T110000
+DTEND;TZID=Asia/Tokyo:20251116T130000
+SUMMARY:府立大高専 0-5 堺西
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ とグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 府立大高専 vs 堺西\nスコア：0-5\n節/ラウンド：予選リ
+ ーグ とグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:d0d9750b93d839527903d206e9ad2c61@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:桜塚 0-3 登美丘
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ なグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 桜塚 vs 登美丘\nスコア：0-3\n節/ラウンド：予選リーグ 
+ なグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:1e9e334a2028ec20b198eab861d88a19@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T110000
+DTEND;TZID=Asia/Tokyo:20251116T130000
+SUMMARY:阿武野 0-3 和泉
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ なグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 阿武野 vs 和泉\nスコア：0-3\n節/ラウンド：予選リーグ 
+ なグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:7707d0229cffa454a848dc21731e4c1c@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:高津 4-0 花園
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ にグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 高津 vs 花園\nスコア：4-0\n節/ラウンド：予選リーグ に
+ グループ
+END:VEVENT
+BEGIN:VEVENT
+UID:296d634110871dee1fb7a4183bd5dd3b@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T103000
+DTEND;TZID=Asia/Tokyo:20251116T123000
+SUMMARY:福井 0-2 守口東
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ にグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 福井 vs 守口東\nスコア：0-2\n節/ラウンド：予選リーグ 
+ にグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:4863f9c558f48394bb1fec5e26cd6526@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T093000
+DTEND;TZID=Asia/Tokyo:20251116T113000
+SUMMARY:香里丘 8-0 佐野工科
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ ねグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 香里丘 vs 佐野工科\nスコア：8-0\n節/ラウンド：予選リ
+ ーグ ねグループ
+END:VEVENT
+BEGIN:VEVENT
+UID:d7fcba54567d6f6b39573aea1bb260ea@masashi.local
+DTSTAMP:20260223T093841Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:豊島 12-0 港
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ のグループ\n区分：結果
+ \n確度：確定\n出典：https://koko-soccer.com/score/4222\n対戦：
+ 豊島 vs 港\nスコア：12-0\n節/ラウンド：予選リーグ のグ
+ ループ
 END:VEVENT
 END:VCALENDAR
