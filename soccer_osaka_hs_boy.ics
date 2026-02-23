@@ -1,0 +1,2904 @@
+BEGIN:VCALENDAR
+
+PRODID:-//masashi//school-soccer-osaka//JA
+
+VERSION:2.0
+
+CALSCALE:GREGORIAN
+
+METHOD:PUBLISH
+
+X-WR-CALNAME:【大阪】男子高校サッカー
+
+X-WR-TIMEZONE:Asia/Tokyo
+X-WR-CALDESC:大阪府内（会場不明含む）の高校男子サッカ
+ ー予定。
+
+BEGIN:VEVENT
+UID:f481e48039c951aabe3e92fd3bf9f448@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20251207T091500
+DTEND;TZID=Asia/Tokyo:20251207T111500
+SUMMARY:帝塚山泉ヶ丘 0-3 大阪立命館
+LOCATION:帝塚山泉ヶ丘
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2A90\\n区分：結果\\n確度
+ ：確定\\n節/ラウンド：2A90
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d61dc6e36bc5fc8449fe20ce5216a21c@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20251207T094500
+DTEND;TZID=Asia/Tokyo:20251207T114500
+SUMMARY:セレッソ大阪B 5-0 東大阪大柏原
+LOCATION:セレッソ舞洲人工芝
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2A87\\n区分：結果\\n確度
+ ：確定\\n節/ラウンド：2A87
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e55387074f873176548b7cd60f56f8ab@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20251207T113000
+DTEND;TZID=Asia/Tokyo:20251207T133000
+SUMMARY:桜宮 2-1 商大高
+LOCATION:帝塚山泉ヶ丘
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2B83\\n区分：結果\\n確度
+ ：確定\\n節/ラウンド：2B83
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1a8d38f99df5ae26fa3e831709601e8@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20251207T120000
+DTEND;TZID=Asia/Tokyo:20251207T140000
+SUMMARY:摂津 1-4 大阪学院B
+LOCATION:摂津
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2B84\\n区分：結果\\n確度
+ ：確定\\n節/ラウンド：2B84
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f36a0509f487c51a30996a6a132c532d@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20251207T123000
+DTEND;TZID=Asia/Tokyo:20251207T143000
+SUMMARY:清明学院 1-1 ガンバ大阪B
+LOCATION:セレッソ舞洲人工芝
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2B81\\n区分：結果\\n確度
+ ：確定\\n節/ラウンド：2B81
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aad4cfd5312b8fe907d90642616bd123@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20251207T140000
+DTEND;TZID=Asia/Tokyo:20251207T160000
+SUMMARY:香里ヌヴェール 2-3 大阪桐蔭B
+LOCATION:近大附属
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2B85\\n区分：結果\\n確度
+ ：確定\\n節/ラウンド：2B85
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4c9dbc40ae73b2b7d6d5d005996ebab2@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20251207T140000
+DTEND;TZID=Asia/Tokyo:20251207T160000
+SUMMARY:賢明学院 1-2 履正社C
+LOCATION:履正社茨木Ｇ
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2B82\\n区分：結果\\n確度
+ ：確定\\n節/ラウンド：2B82
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ef86cfe86b072fa46155e738eefc3992@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20251207T141500
+DTEND;TZID=Asia/Tokyo:20251207T161500
+SUMMARY:千里 2-6 関大一
+LOCATION:摂津
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2A88\\n区分：結果\\n確度
+ ：確定\\n節/ラウンド：2A88
+END:VEVENT
+
+BEGIN:VEVENT
+UID:62a4f72c2cd00f6e9556aaf585e113ff@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20251207T161500
+DTEND;TZID=Asia/Tokyo:20251207T181500
+SUMMARY:興國C 1-4 近大附属B
+LOCATION:近大附属
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2A89\\n区分：結果\\n確度
+ ：確定\\n節/ラウンド：2A89
+END:VEVENT
+
+BEGIN:VEVENT
+UID:eb4bbdeedbf22cb50997551d45368e60@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20251207T161500
+DTEND;TZID=Asia/Tokyo:20251207T181500
+SUMMARY:大阪偕星 0-5 アサンプション
+LOCATION:履正社茨木Ｇ
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
+ リーグ2025 OSAKA 2部AB\\nラウンド：2A86\\n区分：結果\\n確度
+ ：確定\\n節/ラウンド：2A86
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ad64e17dbbbbe9a61d77318501abf855@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251214T090000
+DTEND;TZID=Asia/Tokyo:20251214T110000
+SUMMARY:旭 1-0 生野
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ えグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ えグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8e2d71d371db07c7abd759ad4f87d27d@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251214T090000
+DTEND;TZID=Asia/Tokyo:20251214T110000
+SUMMARY:今宮 3-3 長野
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ かグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ かグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:506b34939375ce2b4c936d404809cb4a@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251214T090000
+DTEND;TZID=Asia/Tokyo:20251214T110000
+SUMMARY:鳳 4-1 都島工
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ くグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ くグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:590d1ad923e7da6f43bc2fef8249a054@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251214T090000
+DTEND;TZID=Asia/Tokyo:20251214T110000
+SUMMARY:堺東 6-0 八尾
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ けグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ けグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:428a68796dc2ecfb3bd8863faa2f4d87@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251214T090000
+DTEND;TZID=Asia/Tokyo:20251214T110000
+SUMMARY:緑風冠 0-1 富田林
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ さグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ さグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3126dabc72155e9f10cf1673bfc93058@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251214T090000
+DTEND;TZID=Asia/Tokyo:20251214T110000
+SUMMARY:大教大池田 0-1 北千里
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ すグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ すグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bd242c2c86b18f3a04c77c58e41dc12a@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251214T093000
+DTEND;TZID=Asia/Tokyo:20251214T113000
+SUMMARY:三島 6-0 清水谷
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ せグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ せグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a8e8429d5fbc5e3e5183941255136dd1@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251214T103000
+DTEND;TZID=Asia/Tokyo:20251214T123000
+SUMMARY:千里青雲 1-0 高石
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ かグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ かグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4b73dc6f84e5afc059ec935900f03d03@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251214T110000
+DTEND;TZID=Asia/Tokyo:20251214T130000
+SUMMARY:いちりつ 0-4 八尾翠翔
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ えグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ えグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dacba1b49a9d619e3719efb4a29c9385@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251214T110000
+DTEND;TZID=Asia/Tokyo:20251214T130000
+SUMMARY:門真なみはや 0-9 三国丘
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ くグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ くグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ae1474811dec7e676082d66f359fcdb7@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251214T110000
+DTEND;TZID=Asia/Tokyo:20251214T130000
+SUMMARY:大冠 2-1 夕陽丘
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ けグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ けグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4322f2f1614308c41fd4a733b53b4e53@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251214T110000
+DTEND;TZID=Asia/Tokyo:20251214T130000
+SUMMARY:布施 3-0 咲くやこの花
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ さグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ さグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c6ffe5fe3809322dbfe483cb66518fa9@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251214T110000
+DTEND;TZID=Asia/Tokyo:20251214T130000
+SUMMARY:牧野 6-0 日根野
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ すグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ すグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9741bad58f46c6734cc4c79247afd975@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251214T110000
+DTEND;TZID=Asia/Tokyo:20251214T130000
+SUMMARY:久米田 2-0 金剛
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ せグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ せグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0b3578da1bd4af556bb3a4287be0a45e@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251214T130000
+DTEND;TZID=Asia/Tokyo:20251214T150000
+SUMMARY:泉陽 1-3 豊中
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ こグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ こグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f17c5630dff52653018e53f7cabff406@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251214T133000
+DTEND;TZID=Asia/Tokyo:20251214T153000
+SUMMARY:四條畷 3-0 大手前
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ おグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ おグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:869b98adf0df5908316ce8c9be6eecfa@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251214T150000
+DTEND;TZID=Asia/Tokyo:20251214T170000
+SUMMARY:大塚 1-1 泉大津
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ こグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ こグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8055976264ecbe67a205437b43dd495c@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251214T151000
+DTEND;TZID=Asia/Tokyo:20251214T171000
+SUMMARY:堺上 0-4 北かわち皐が丘
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ おグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ おグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:100b7dc84599022c@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251215T092000
+SUMMARY:清風 4 - 0 追手門学院
+LOCATION:J-GREEN堺 S8（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 1日目\n試合番号：N①\nキックオフ：9:20\n会場：J-GREEN
+ 堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
+ ）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回
+ -女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:068002f60a81a2b5@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251215T092000
+SUMMARY:開明 0 - 4 大阪産業大学附属
+LOCATION:J-GREEN堺 S9（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 1日目\n試合番号：P①\nキックオフ：9:20\n会場：J-GREEN
+ 堺 S9（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osak
+ a-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dfa0d22d52e7fd68@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251215T092000
+SUMMARY:大阪体育大学浪商 1 - 0 関西福祉科学大学
+LOCATION:J-GREEN堺 S11（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 1日目\n試合番号：D①\nキックオフ：9:20\n会場：J-GREEN
+ 堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
+ 地）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10
+ 回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0df934fc4f30faec@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251215T092000
+SUMMARY:星翔 0(1) - 0(0) 大商学園
+LOCATION:J-GREEN堺 S12（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 1日目\n試合番号：N④\nキックオフ：9:20\n会場：J-GREEN
+ 堺 S12（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:33659a51ed1b41a9@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251215T111000
+SUMMARY:金光大阪 5 - 1 箕面自由学園
+LOCATION:J-GREEN堺 S8（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 1日目\n試合番号：O②\nキックオフ：11:10\n会場：J-GREEN
+ 堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
+ ）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回
+ -女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:66b6abcf1463bfbc@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251215T111000
+SUMMARY:履正社 5 - 2 箕面学園
+LOCATION:J-GREEN堺 S9（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 1日目\n試合番号：A①\nキックオフ：11:10\n会場：J-GREEN
+ 堺 S9（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osak
+ a-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d7ad183fb23da854@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251215T111000
+SUMMARY:賢明学院 6 - 0 明星
+LOCATION:J-GREEN堺 S10（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 1日目\n試合番号：M①\nキックオフ：11:10\n会場：J-GREEN
+ 堺 S10（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6ef88c011e5fb1f7@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251215T111000
+SUMMARY:上宮 3 - 0 大阪星光学院
+LOCATION:J-GREEN堺 S11（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 1日目\n試合番号：M④\nキックオフ：11:10\n会場：J-GREEN
+ 堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
+ 地）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10
+ 回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:018acf2d6db429d0@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251215T111000
+SUMMARY:大阪青凌 3 - 2 英真学園
+LOCATION:J-GREEN堺 S12（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 1日目\n試合番号：O③\nキックオフ：11:10\n会場：J-GREEN
+ 堺 S12（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b92be160d17eb2ea@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251215T130000
+SUMMARY:大阪学院大学 9 - 0 関西大学
+LOCATION:J-GREEN堺 S8（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 1日目\n試合番号：F①\nキックオフ：13:00\n会場：J-GREEN
+ 堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
+ ）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回
+ -女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c3950add9e6ba7d2@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251215T130000
+SUMMARY:関西大学北陽 0 - 1 大阪桐蔭
+LOCATION:J-GREEN堺 S9（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 1日目\n試合番号：G①\nキックオフ：13:00\n会場：J-GREEN
+ 堺 S9（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osak
+ a-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5ec343cbfc1bf65b@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251215T130000
+SUMMARY:桃山学院 2 - 0 関西創価
+LOCATION:J-GREEN堺 S10（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 1日目\n試合番号：E①\nキックオフ：13:00\n会場：J-GREEN
+ 堺 S10（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:21e0c206ae827a73@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251215T130000
+SUMMARY:あべの翔学 1 - 7 清明学院
+LOCATION:J-GREEN堺 S11（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 1日目\n試合番号：E④\nキックオフ：13:00\n会場：J-GREEN
+ 堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
+ 地）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10
+ 回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:23263eadfbf64f33@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251215T145000
+SUMMARY:東大阪大学柏原 1 - 0 近畿大学附属
+LOCATION:J-GREEN堺 S8（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 1日目\n試合番号：I①\nキックオフ：14:50\n会場：J-GREEN
+ 堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
+ ）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回
+ -女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:75ccbc52067fa4ec@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251215T145000
+SUMMARY:大阪商業大学堺 6 - 0 帝塚山学院泉ヶ丘
+LOCATION:J-GREEN堺 S9（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 1日目\n試合番号：I④\nキックオフ：14:50\n会場：J-GREEN
+ 堺 S9（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osak
+ a-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8c7b8772bde17ce5@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251215T145000
+SUMMARY:大阪 0 - 4 大阪朝鮮
+LOCATION:J-GREEN堺 S10（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 1日目\n試合番号：F④\nキックオフ：14:50\n会場：J-GREEN
+ 堺 S10（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:27befa434112d7ca@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251215T145000
+SUMMARY:昇陽 2 - 1 大阪学芸
+LOCATION:J-GREEN堺 S11（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 1日目\n試合番号：G④\nキックオフ：14:50\n会場：J-GREEN
+ 堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
+ 地）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10
+ 回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d90382545f799b99@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T092000
+SUMMARY:大阪商業大学 0 - 3 興国
+LOCATION:J-GREEN堺 S8（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：J①\nキックオフ：9:20\n会場：J-GREEN
+ 堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
+ ）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回
+ -女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:55f149e3dbd14837@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T092000
+SUMMARY:アサンプション国際 6 - 1 追手門学院大手前
+LOCATION:J-GREEN堺 S9（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：J④\nキックオフ：9:20\n会場：J-GREEN
+ 堺 S9（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osak
+ a-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:471554ee2f042493@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T092000
+SUMMARY:高槻 2 - 3 太成学院大学
+LOCATION:J-GREEN堺 S10（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：K①\nキックオフ：9:20\n会場：J-GREEN
+ 堺 S10（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:75874b2f3faac340@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T092000
+SUMMARY:大阪偕星学園 1(3) - 1(4) 常翔啓光
+LOCATION:J-GREEN堺 S11（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：K④\nキックオフ：9:20\n会場：J-GREEN
+ 堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
+ 地）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10
+ 回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b76a96b452a64428@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T092000
+SUMMARY:関西大学第一 2 - 1 大阪立命館
+LOCATION:J-GREEN堺 S12（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：B④\nキックオフ：9:20\n会場：J-GREEN
+ 堺 S12（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:539c64e0cd3d4ea7@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T092000
+SUMMARY:羽衣学園 4 - 1 関西大倉
+LOCATION:J-GREEN堺 S13（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：B①\nキックオフ：9:20\n会場：J-GREEN
+ 堺 S13（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f58c62e8b9759e51@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T111000
+SUMMARY:履正社 11 - 0 東大阪大学敬愛
+LOCATION:J-GREEN堺 S8（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：A②\nキックオフ：11:10\n会場：J-GREEN
+ 堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
+ ）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回
+ -女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8d231bc2552303e3@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T111000
+SUMMARY:清教学園 2 - 1 大阪産業大学附属
+LOCATION:J-GREEN堺 S9（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：P②\nキックオフ：11:10\n会場：J-GREEN
+ 堺 S9（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osak
+ a-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ea95b734e7fd124d@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T111000
+SUMMARY:初芝富田林 0 - 12 早稲田大阪
+LOCATION:J-GREEN堺 S10（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：C①\nキックオフ：11:10\n会場：J-GREEN
+ 堺 S10（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bc94dc0972cde702@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T111000
+SUMMARY:香里ヌヴェール学院 2 - 1 清風南海
+LOCATION:J-GREEN堺 S11（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：C④\nキックオフ：11:10\n会場：J-GREEN
+ 堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
+ 地）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10
+ 回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:08fe5e16590e962f@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T111000
+SUMMARY:東海大学付属大阪仰星 0(1) - 0(2) 浪速
+LOCATION:J-GREEN堺 S12（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：L②\nキックオフ：11:10\n会場：J-GREEN
+ 堺 S12（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15f690d44f30127f@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T111000
+SUMMARY:阪南大学 11 - 0 精華
+LOCATION:J-GREEN堺 S13（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：L③\nキックオフ：11:10\n会場：J-GREEN
+ 堺 S13（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:68e8e7eb8e39c927@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T130000
+SUMMARY:常翔学園 6 - 0 金光藤蔭
+LOCATION:J-GREEN堺 S8（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：H①\nキックオフ：13:00\n会場：J-GREEN
+ 堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
+ ）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回
+ -女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ca3088d9e5743952@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T130000
+SUMMARY:賢明学院 2 - 1 上宮
+LOCATION:J-GREEN堺 S9（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：M②\nキックオフ：13:00\n会場：J-GREEN
+ 堺 S9（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osak
+ a-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ac8e176caef136b7@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T130000
+SUMMARY:上宮太子 0 - 1 同志社香里
+LOCATION:J-GREEN堺 S10（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：H④\nキックオフ：13:00\n会場：J-GREEN
+ 堺 S10（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1a289ce787681c57@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T130000
+SUMMARY:大阪星光学院 2 - 3 明星
+LOCATION:J-GREEN堺 S11（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：M③\nキックオフ：13:00\n会場：J-GREEN
+ 堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
+ 地）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10
+ 回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:766039b6bc3175e2@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T145000
+SUMMARY:大阪青凌 3 - 0 箕面自由学園
+LOCATION:J-GREEN堺 S8（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：O①\nキックオフ：14:50\n会場：J-GREEN
+ 堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
+ ）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回
+ -女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:22c2ed956fd1fa15@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T145000
+SUMMARY:金光大阪 5 - 2 英真学園
+LOCATION:J-GREEN堺 S9（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：O④\nキックオフ：14:50\n会場：J-GREEN
+ 堺 S9（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osak
+ a-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:eaead178cddd2bc2@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T145000
+SUMMARY:清風 3 - 1 星翔
+LOCATION:J-GREEN堺 S10（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：N②\nキックオフ：14:50\n会場：J-GREEN
+ 堺 S10（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c17976fd40b7fdcb@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T145000
+SUMMARY:東大谷 0 - 5 関西福祉科学大学
+LOCATION:J-GREEN堺 S11（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：D②\nキックオフ：14:50\n会場：J-GREEN
+ 堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
+ 地）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10
+ 回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:811ec5ededa19580@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251216T145000
+SUMMARY:大商学園 3(1) - 3(0) 追手門学院
+LOCATION:J-GREEN堺 S12（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 2日目\n試合番号：N③\nキックオフ：14:50\n会場：J-GREEN
+ 堺 S12（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:70264d972323a828@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T092000
+SUMMARY:大阪学院 11 - 0 大阪
+LOCATION:J-GREEN堺 S8（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：F②\nキックオフ：9:20\n会場：J-GREEN
+ 堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
+ ）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回
+ -女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ec9d9ba88a7930e9@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T092000
+SUMMARY:関西大学 0 - 2 大阪朝鮮
+LOCATION:J-GREEN堺 S9（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：F③\nキックオフ：9:20\n会場：J-GREEN
+ 堺 S9（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osak
+ a-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:44dec8991cc99845@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T092000
+SUMMARY:関西大学北陽 7 - 1 昇陽
+LOCATION:J-GREEN堺 S10（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：G②\nキックオフ：9:20\n会場：J-GREEN
+ 堺 S10（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:235f925f9e8ee535@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T092000
+SUMMARY:大阪桐蔭 6 - 0 大阪学芸
+LOCATION:J-GREEN堺 S11（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：G③\nキックオフ：9:20\n会場：J-GREEN
+ 堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
+ 地）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10
+ 回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cb45da8b41819d1d@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T092000
+SUMMARY:桃山学院 21 - 0 あべの翔学
+LOCATION:J-GREEN堺 S12（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：E②\nキックオフ：9:20\n会場：J-GREEN
+ 堺 S12（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7fcf9a5642861f6c@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T092000
+SUMMARY:関西創価 0 - 1 清明学院
+LOCATION:J-GREEN堺 S13（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：E③\nキックオフ：9:20\n会場：J-GREEN
+ 堺 S13（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d530afc662921c23@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T111000
+SUMMARY:アサンプション国際 1 - 0 興国
+LOCATION:J-GREEN堺 S8（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：J②\nキックオフ：11:10\n会場：J-GREEN
+ 堺 S8（照明設備付）（大阪府堺市堺区築港八幡町145番地
+ ）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10回
+ -女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fe0d1df56f48dc7b@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T111000
+SUMMARY:追手門学院大手前 1 - 0 大阪商業大学
+LOCATION:J-GREEN堺 S9（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：J③\nキックオフ：11:10\n会場：J-GREEN
+ 堺 S9（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osak
+ a-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6505f830915548ff@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T111000
+SUMMARY:大阪偕星学園 8 - 1 高槻
+LOCATION:J-GREEN堺 S10（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：K②\nキックオフ：11:10\n会場：J-GREEN
+ 堺 S10（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:68aad8dafb013630@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T111000
+SUMMARY:常翔啓光 0 - 2 太成学院大学
+LOCATION:J-GREEN堺 S11（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：K③\nキックオフ：11:10\n会場：J-GREEN
+ 堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
+ 地）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10
+ 回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0e1c12f5aadbd5c6@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T111000
+SUMMARY:近畿大学附属 4 - 1 大阪商業大堺
+LOCATION:J-GREEN堺 S12（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：I②\nキックオフ：11:10\n会場：J-GREEN
+ 堺 S12（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d80e3aed44779560@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T111000
+SUMMARY:東大阪大学柏原 3 - 0 帝塚山学院泉ヶ丘
+LOCATION:J-GREEN堺 S13（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：I③\nキックオフ：11:10\n会場：J-GREEN
+ 堺 S13（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ebb508a23b40b301@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T130000
+SUMMARY:開明 0 - 2 清教学園
+LOCATION:J-GREEN堺 S9（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：P③\nキックオフ：13:00\n会場：J-GREEN
+ 堺 S9（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osak
+ a-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5e1a6394bef41f60@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T130000
+SUMMARY:東海大学付属大阪仰星 0(0) - 0(1) 阪南大学
+LOCATION:J-GREEN堺 S10（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：L①\nキックオフ：13:00\n会場：J-GREEN
+ 堺 S10（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:03a0aaeac942e045@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T130000
+SUMMARY:精華 1 - 8 浪速
+LOCATION:J-GREEN堺 S11（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：L④\nキックオフ：13:00\n会場：J-GREEN
+ 堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
+ 地）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10
+ 回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c4d64e64c3d82863@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T130000
+SUMMARY:羽衣学園 2(5) - 2(4) 関西大学第一
+LOCATION:J-GREEN堺 S12（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：B②\nキックオフ：13:00\n会場：J-GREEN
+ 堺 S12（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c7082469725d531b@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T130000
+SUMMARY:大阪立命館 0 - 3 関西大倉
+LOCATION:J-GREEN堺 S13（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：B③\nキックオフ：13:00\n会場：J-GREEN
+ 堺 S13（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6ae35fa9203e3d29@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T145000
+SUMMARY:常翔学園 7 - 0 上宮太子
+LOCATION:J-GREEN堺 S9（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：H②\nキックオフ：14:50\n会場：J-GREEN
+ 堺 S9（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osak
+ a-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:56148370f97f45b9@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T145000
+SUMMARY:金光藤蔭 2(1) - 2(0) 同志社香里
+LOCATION:J-GREEN堺 S10（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：H③\nキックオフ：14:50\n会場：J-GREEN
+ 堺 S10（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a25a03895bf4e725@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T145000
+SUMMARY:初芝富田林 0 - 13 香里ヌヴェール学院
+LOCATION:J-GREEN堺 S11（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：C②\nキックオフ：14:50\n会場：J-GREEN
+ 堺 S11（照明設備付）（大阪府堺市堺区築港八幡町145番
+ 地）\nhttps://www.osaka-shigaku-soccer.jp/ホーム/第72回-男子-第10
+ 回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e445be4608cdf299@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T145000
+SUMMARY:東大阪大学敬愛 1 - 6 箕面学園
+LOCATION:J-GREEN堺 S12（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：A③\nキックオフ：14:50\n会場：J-GREEN
+ 堺 S12（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15f2aba64a8c7205@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251217T145000
+SUMMARY:早稲田大阪 3 - 0 清風南海
+LOCATION:J-GREEN堺 S13（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 予選リー
+ グ 3日目\n試合番号：C③\nキックオフ：14:50\n会場：J-GREEN
+ 堺 S13（大阪府堺市堺区築港八幡町145番地）\nhttps://www.osa
+ ka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結果
+ /
+END:VEVENT
+
+BEGIN:VEVENT
+UID:73ba0a0e2fd92a5d@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251219T112000
+DTEND;TZID=Asia/Tokyo:20251219T132000
+SUMMARY:京都両洋 2-1 星翔
+LOCATION:OFA万博フットボールセンター
+DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
+ ウンド：関西W2\n区分：結果\n確度：確定\n節/ラウンド：
+ 関西W2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8829a533eff46f44@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251219T131500
+SUMMARY:履正社 5 - 0 羽衣学園
+LOCATION:J-GREEN堺 S8（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 Round16\n試
+ 合番号：1\nキックオフ：13:15\n会場：J-GREEN堺 S8（照明設
+ 備付）（大阪府堺市堺区築港八幡町145番地）\nhttps://www.o
+ saka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結
+ 果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e6e153d3ec980894@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251219T131500
+SUMMARY:早稲田大阪 1 - 4 大阪体育大学浪商
+LOCATION:J-GREEN堺 S9（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 Round16\n試
+ 合番号：2\nキックオフ：13:15\n会場：J-GREEN堺 S9（大阪府
+ 堺市堺区築港八幡町145番地）\nhttps://www.osaka-shigaku-soccer.j
+ p/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:adbf0b4f140f8af2@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251219T131500
+SUMMARY:桃山学院 4 - 1 大阪学院大学
+LOCATION:J-GREEN堺 S10（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 Round16\n試
+ 合番号：3\nキックオフ：13:15\n会場：J-GREEN堺 S10（大阪府
+ 堺市堺区築港八幡町145番地）\nhttps://www.osaka-shigaku-soccer.j
+ p/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fc437546c0481808@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251219T131500
+SUMMARY:大阪桐蔭 0(4) - 0(2) 常翔学園
+LOCATION:J-GREEN堺 S11（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 Round16\n試
+ 合番号：4\nキックオフ：13:15\n会場：J-GREEN堺 S11（照明設
+ 備付）（大阪府堺市堺区築港八幡町145番地）\nhttps://www.o
+ saka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結
+ 果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f00067d5bccfa0d4@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251219T151500
+SUMMARY:東大阪大学柏原 1 - 0 アサンプション国際
+LOCATION:J-GREEN堺 S8（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 Round16\n試
+ 合番号：5\nキックオフ：15:15\n会場：J-GREEN堺 S8（照明設
+ 備付）（大阪府堺市堺区築港八幡町145番地）\nhttps://www.o
+ saka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結
+ 果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4279f0250723bb1e@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251219T151500
+SUMMARY:太成学院大学 1 - 7 阪南大学
+LOCATION:J-GREEN堺 S9（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 Round16\n試
+ 合番号：6\nキックオフ：15:15\n会場：J-GREEN堺 S9（大阪府
+ 堺市堺区築港八幡町145番地）\nhttps://www.osaka-shigaku-soccer.j
+ p/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0633a9761aa0dc4f@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251219T151500
+SUMMARY:賢明学院 0 - 3 清風
+LOCATION:J-GREEN堺 S10（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 Round16\n試
+ 合番号：7\nキックオフ：15:15\n会場：J-GREEN堺 S10（大阪府
+ 堺市堺区築港八幡町145番地）\nhttps://www.osaka-shigaku-soccer.j
+ p/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3dce81e3618840fb@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251219T151500
+SUMMARY:金光大阪 3 - 0 清教学園
+LOCATION:J-GREEN堺 S11（照明設備付）（大阪府堺市堺区築港
+ 八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 Round16\n試
+ 合番号：8\nキックオフ：15:15\n会場：J-GREEN堺 S11（照明設
+ 備付）（大阪府堺市堺区築港八幡町145番地）\nhttps://www.o
+ saka-shigaku-soccer.jp/ホーム/第72回-男子-第10回-女子/試合結
+ 果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a45847f45e560d525015caa78c038733@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251220T094500
+DTEND;TZID=Asia/Tokyo:20251220T114500
+SUMMARY:大阪学院大高 vs 神戸科学技術／大阪学院大高 5-2 
+ 神戸科学技術
+LOCATION:J-GREEN堺（S8）
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯 JFA U-18サッカー
+ リーグ2025 プリンスリーグ関西 プレーオフ（参入戦）\\n
+ ラウンド：1回戦\\n区分：結果\\n確度：確定\\n節/ラウン
+ ド：1回戦
+END:VEVENT
+
+BEGIN:VEVENT
+UID:60580e7480785730@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251220T131500
+SUMMARY:履正社 5 - 0 大阪体育大学浪商
+LOCATION:J-GREEN堺 S12（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 準々決勝
+ \n試合番号：9\nキックオフ：13:15\n会場：J-GREEN堺 S12（大
+ 阪府堺市堺区築港八幡町145番地）\nhttps://www.osaka-shigaku-so
+ ccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4bc688c715737108@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251220T131500
+SUMMARY:桃山学院 0(5) - 0(3) 大阪桐蔭
+LOCATION:J-GREEN堺 S13（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 準々決勝
+ \n試合番号：10\nキックオフ：13:15\n会場：J-GREEN堺 S13（大
+ 阪府堺市堺区築港八幡町145番地）\nhttps://www.osaka-shigaku-so
+ ccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:be76248623f5830a@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251220T151500
+SUMMARY:東大阪大学柏原 2(2) - 2(3) 阪南大学
+LOCATION:J-GREEN堺 S12（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 準々決勝
+ \n試合番号：11\nキックオフ：15:15\n会場：J-GREEN堺 S12（大
+ 阪府堺市堺区築港八幡町145番地）\nhttps://www.osaka-shigaku-so
+ ccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1ba235330869aab4@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251220T151500
+SUMMARY:清風 1(4) - 1(3) 金光大阪
+LOCATION:J-GREEN堺 S13（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 準々決勝
+ \n試合番号：12\nキックオフ：15:15\n会場：J-GREEN堺 S13（大
+ 阪府堺市堺区築港八幡町145番地）\nhttps://www.osaka-shigaku-so
+ ccer.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4db0f95f67c49dbb460fbb97e2030d1b@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251220T154500
+DTEND;TZID=Asia/Tokyo:20251220T174500
+SUMMARY:奈良クラブユース vs 関大北陽／奈良クラブユース
+  1-3 関大北陽
+LOCATION:J-GREEN堺（S8）
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯 JFA U-18サッカー
+ リーグ2025 プリンスリーグ関西 プレーオフ（参入戦）\\n
+ ラウンド：1回戦\\n区分：結果\\n確度：確定\\n節/ラウン
+ ド：1回戦
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a3d22e90acd58ae8a39a3b1fdc191cd4@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T090000
+DTEND;TZID=Asia/Tokyo:20251221T110000
+SUMMARY:八尾翠翔 0-3 生野
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ えグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ えグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ac655bd993f0ebc115d85c0c9ba9a2d7@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T090000
+DTEND;TZID=Asia/Tokyo:20251221T110000
+SUMMARY:北かわち皐が丘 2-0 大手前
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ おグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ おグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ec6a1dd07833dd63226acc2a188197be@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T090000
+DTEND;TZID=Asia/Tokyo:20251221T110000
+SUMMARY:千里青雲 5-2 今宮
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ かグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ かグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7f09ddadbab3aea40aaf65b17a332b8b@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T090000
+DTEND;TZID=Asia/Tokyo:20251221T110000
+SUMMARY:八尾北 1-2 東住吉総合
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ きグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ きグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:925ab94d855169dea43947803cae3378@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T090000
+DTEND;TZID=Asia/Tokyo:20251221T110000
+SUMMARY:鳳 2-0 門真なみはや
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ くグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ くグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:29256c01bb5abc70a8ac4df4ed148b49@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T090000
+DTEND;TZID=Asia/Tokyo:20251221T110000
+SUMMARY:布施 1-0 富田林
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ さグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ さグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8e481f0b5f5ee9868eb39dcb75c4eeb8@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T090000
+DTEND;TZID=Asia/Tokyo:20251221T110000
+SUMMARY:東住吉 10-0 茨木工科
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ しグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ しグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d7a426198d1059ee7665e3172dc8b2fc@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T090000
+DTEND;TZID=Asia/Tokyo:20251221T110000
+SUMMARY:牧野 0-2 大教大池田
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ すグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ すグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ec18f3a1e8c14ee4bb611376661754e9@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T093000
+DTEND;TZID=Asia/Tokyo:20251221T113000
+SUMMARY:北野 4-0 合同A
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ うグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ うグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:edb5aa5c6180087e623ff11eafaebd34@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T093000
+DTEND;TZID=Asia/Tokyo:20251221T113000
+SUMMARY:大塚 0-0 豊中
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ こグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ こグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7044d4649f943a4e24dbc3f5e698ae8d@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251221T094500
+DTEND;TZID=Asia/Tokyo:20251221T114500
+SUMMARY:大阪学院大高 vs 京都橘B／大阪学院大高 1-3 京都橘
+ B
+LOCATION:J-GREEN堺（S8）
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯 JFA U-18サッカー
+ リーグ2025 プリンスリーグ関西 プレーオフ（参入戦）\\n
+ ラウンド：決定戦\\n区分：結果\\n確度：確定\\n節/ラウ
+ ンド：決定戦
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c08d85258361594c539f6aa52cd0ceae@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T100000
+DTEND;TZID=Asia/Tokyo:20251221T120000
+SUMMARY:大冠 5-0 八尾
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ けグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ けグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:04e9b7d931fbaaf1e6cefa0b4b208e24@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T103000
+DTEND;TZID=Asia/Tokyo:20251221T123000
+SUMMARY:高石 3-0 長野
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ かグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ かグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6b24ce868bba99d1ad95d8c561f2930a@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T103000
+DTEND;TZID=Asia/Tokyo:20251221T123000
+SUMMARY:吹田東 8-1 藤井寺工科
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ しグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ しグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ee32f20413971f8b24725e73c8bc0e1c@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T104000
+DTEND;TZID=Asia/Tokyo:20251221T124000
+SUMMARY:堺上 0-3 四條畷
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ おグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ おグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15f5a3053bca4a6f5023c474cc490f88@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T110000
+DTEND;TZID=Asia/Tokyo:20251221T130000
+SUMMARY:今宮工科 0-4 信太
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ うグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ うグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d8d6a06bc700256cbda44d0a8d323bd9@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T110000
+DTEND;TZID=Asia/Tokyo:20251221T130000
+SUMMARY:いちりつ 0-4 旭
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ えグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ えグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5dc516cb201bc220a51cd2bcbb8f827a@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T110000
+DTEND;TZID=Asia/Tokyo:20251221T130000
+SUMMARY:都島工 0-2 三国丘
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ くグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ くグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:71336fe6f712a90708f6ef256452242c@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T110000
+DTEND;TZID=Asia/Tokyo:20251221T130000
+SUMMARY:緑風冠 4-0 咲くやこの花
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ さグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ さグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d9c4bac8f60135429f26c348ad6a407e@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T110000
+DTEND;TZID=Asia/Tokyo:20251221T130000
+SUMMARY:北千里 2-0 日根野
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ すグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ すグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7c87c083c5849adf190bf548d5917028@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T113000
+DTEND;TZID=Asia/Tokyo:20251221T133000
+SUMMARY:泉大津 0-2 泉陽
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ こグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ こグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:66ee70bb2f34805cb5abe750bc0341d1@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251221T114000
+DTEND;TZID=Asia/Tokyo:20251221T134000
+SUMMARY:堺東 0-0 夕陽丘
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ けグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ けグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:70dc7b4c9ea49651207917aa065f6119@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251221T154500
+DTEND;TZID=Asia/Tokyo:20251221T174500
+SUMMARY:関大北陽 vs 近大和歌山／関大北陽 3-1 近大和歌山
+LOCATION:J-GREEN堺
+DESCRIPTION:種別：公式戦\\n大会：高円宮杯 JFA U-18サッカー
+ リーグ2025 プリンスリーグ関西 プレーオフ（参入戦）\\n
+ ラウンド：決定戦\\n区分：結果\\n確度：確定\\n節/ラウ
+ ンド：決定戦
+END:VEVENT
+
+BEGIN:VEVENT
+UID:59c1006884404e8a0bd5755e4ac41bc9@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251223T150000
+DTEND;TZID=Asia/Tokyo:20251223T170000
+SUMMARY:阪南 1-0 東住吉総合
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ きグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ きグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a3469d008a16fc7734c9759e616efd33@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20251226
+SUMMARY:北千里 2-1 牧野
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ すグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ すグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d52983fa296f522ca9cd68ad5ed94000@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20251226
+SUMMARY:大教大池田 4-0 日根野
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ すグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ すグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3967f4fc5dbcc7bc05a94e83a1b468c3@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251225T093000
+DTEND;TZID=Asia/Tokyo:20251225T113000
+SUMMARY:合同A 3-0 今宮工科
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ うグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ うグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:78eac9417505e05af25b7f9c37889800@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251225T093000
+DTEND;TZID=Asia/Tokyo:20251225T113000
+SUMMARY:吹田東 8-1 茨木工科
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ しグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ しグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:95b7918ef0134f28864d09124efa910f@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251225T110000
+DTEND;TZID=Asia/Tokyo:20251225T130000
+SUMMARY:北野 5-0 信太
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ うグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ うグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cb9724c0bc8e3e4fddfbe2997fd53902@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251225T110000
+DTEND;TZID=Asia/Tokyo:20251225T130000
+SUMMARY:東住吉 2-0 藤井寺工科
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ しグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ しグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0eea12e5d12bf58727fec42fb93a62c6@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251225T133000
+DTEND;TZID=Asia/Tokyo:20251225T153000
+SUMMARY:八尾北 5-2 淀川工科
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ きグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ きグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:879cfe91587def13ede987c5170df676@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251226T090000
+DTEND;TZID=Asia/Tokyo:20251226T110000
+SUMMARY:淀川工科 1-4 阪南
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ きグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ きグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cc04e4f35fdc065f8c12d0d6940660e2@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251226T093000
+DTEND;TZID=Asia/Tokyo:20251226T113000
+SUMMARY:大冠 1-0 堺東
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ けグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ けグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1002183731ada864d3b623f8292344c9@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20251226T111000
+DTEND;TZID=Asia/Tokyo:20251226T131000
+SUMMARY:都島工 3-0 門真なみはや
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ くグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ くグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3123776dc393e66334feb966e75d2411@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251231T141000
+DTEND;TZID=Asia/Tokyo:20251231T164000
+SUMMARY:興國 vs 浜松開誠館／興國 1-1（PK3-1） 浜松開誠館
+LOCATION:味の素フィールド西が丘
+DESCRIPTION:種別：公式戦\\n大会：第104回全国高等学校サッ
+ カー選手権大会\\nラウンド：2回戦\\n区分：結果\\n確度
+ ：確定\\n節/ラウンド：2回戦
+END:VEVENT
+
+BEGIN:VEVENT
+UID:76d11e9c15b68c2e686339aff39726f3@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260102T120500
+DTEND;TZID=Asia/Tokyo:20260102T143500
+SUMMARY:東福岡 vs 興國／東福岡 2-2（PK5-4） 興國
+LOCATION:駒沢陸上競技場
+DESCRIPTION:種別：公式戦\\n大会：第104回全国高等学校サッ
+ カー選手権大会\\nラウンド：3回戦\\n区分：結果\\n確度
+ ：確定\\n節/ラウンド：3回戦
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aa663da9dd6ca8a857e81b0944cb98cd@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260104T120500
+DTEND;TZID=Asia/Tokyo:20260104T143500
+SUMMARY:興國 vs 鹿島学園／興國 1-3 鹿島学園
+LOCATION:Uvanceとどろきスタジアム by Fujitsu
+DESCRIPTION:種別：公式戦\\n大会：第104回全国高等学校サッ
+ カー選手権大会\\nラウンド：準々決勝\\n区分：結果\\n確
+ 度：確定\\n節/ラウンド：準々決勝
+END:VEVENT
+
+BEGIN:VEVENT
+UID:57f004fd91112622@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260105T093000
+DTEND;TZID=Asia/Tokyo:20260105T113000
+SUMMARY:千里 6-0 京都両洋
+LOCATION:OFA万博フットボールセンター
+DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
+ ウンド：関西W2\n区分：結果\n確度：確定\n節/ラウンド：
+ 関西W2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9220017f2a7df35d@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260107T093000
+DTEND;TZID=Asia/Tokyo:20260107T113000
+SUMMARY:千里 5-0 星翔
+LOCATION:OFA万博フットボールセンター
+DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
+ ウンド：関西W2\n区分：結果\n確度：確定\n節/ラウンド：
+ 関西W2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1041eb7eb381136c0b9bdb9d1cc07017@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260107T093000
+DTEND;TZID=Asia/Tokyo:20260107T113000
+SUMMARY:信太 2-0 合同A
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ うグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ うグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0191681613b568d76918e56308d9c3c4@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260107T110000
+DTEND;TZID=Asia/Tokyo:20260107T130000
+SUMMARY:北野 5-0 今宮工科
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
+ 校大会\nラウンド：予選リーグ うグループ\n区分：結果\
+ n確度：確定\n節/ラウンド：予選リーグ うグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:78167fec744d9ade@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T090000
+SUMMARY:金岡 3-3 PK5-4 東
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:98fc2aeb2ec90894@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T090000
+SUMMARY:豊島 2-3 香里丘
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:39f2e9a3fb4b3f38@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T090000
+SUMMARY:みどり清朋 2-1 高槻北
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:08505c14fbc841d1@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T090000
+SUMMARY:富田林 1-1 PK1-3 槻の木
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c55b95921f18bbf8@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T090000
+SUMMARY:和泉 1-1 PK5-3 生野
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5b9480cd8f8fdb83@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T093000
+SUMMARY:阿武野 0-4 千里
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：09:30\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fc092da8b6d6c313@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T093000
+SUMMARY:芥川 4-0 東住吉総合
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：09:30\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1d5e80cc4d7467e4@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T093000
+SUMMARY:三国丘 0-0 PK3-5 箕面
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：09:30\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:42deb08593866736@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T103000
+SUMMARY:刀根山 7-0 阪南
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：10:30\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1bc5e9aeb14d884@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T103000
+SUMMARY:信太 0-2 泉陽
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：10:30\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:214aad5221bd3f35@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T104000
+SUMMARY:河南 0-0 PK3-5 久米田
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：10:40\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2895b1fdf031a771@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T104000
+SUMMARY:堺東 0-1 天王寺
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：10:40\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6b5b7a197995a339@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T104000
+SUMMARY:岸和田 3-0 汎愛
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：10:40\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2dbfe426f09b31fc@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T104000
+SUMMARY:大手前 4-0 茨木
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：10:40\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3a10d730f9b9cf90@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T110000
+SUMMARY:山本 3-1 高石
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：11:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bb8ab179731ad008@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T110000
+SUMMARY:高津 0-0 PK4-3 大教大池田
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：11:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:77aed9bcf17aaa6d@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T120000
+SUMMARY:北野 4-1 花園
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：12:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e8c931f46a9eef43@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T132000
+SUMMARY:長尾 2-0 千里青雲
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：13:20\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:34357b2320ffd530@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T132000
+SUMMARY:春日丘 1-0 日新
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：13:20\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6df97ee320bfad76@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T133000
+SUMMARY:摂津 6-0 茨木西
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：13:30\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:441c003bc1a8d35d@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T150000
+SUMMARY:交野 4-1 教育センター附
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：15:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0720df8c9bfe2111@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T150000
+SUMMARY:吹田東 3-5 三島
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：15:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b1ba43d5375adc07@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260111T150000
+SUMMARY:東住吉 0-0 PK4-5 鳳
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T1回戦\nキックオフ：15:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:33f531ae22a2a7fc@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260117T131500
+SUMMARY:履正社 0 - 2 桃山学院
+LOCATION:J-GREEN堺 S5（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 準決勝\n
+ 試合番号：13\nキックオフ：13:15\n会場：J-GREEN堺 S5（大阪
+ 府堺市堺区築港八幡町145番地）\nhttps://www.osaka-shigaku-socce
+ r.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:66011ebe4e08bf82@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260117T151500
+SUMMARY:阪南大学 2 - 0 清風
+LOCATION:J-GREEN堺 S5（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子 準決勝\n
+ 試合番号：14\nキックオフ：15:15\n会場：J-GREEN堺 S5（大阪
+ 府堺市堺区築港八幡町145番地）\nhttps://www.osaka-shigaku-socce
+ r.jp/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f68a1998d792ad0a@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260118T090000
+SUMMARY:旭 2-1 交野
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T2回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6ec8126e6e31b52e@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260118T090000
+SUMMARY:北千里 2-1 泉陽
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T2回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5bb848e1b1d635ba@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260118T090000
+SUMMARY:北かわち皐が丘 1-3 天王寺
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T2回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8f05a148c625a271@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260118T093000
+SUMMARY:豊中 2-1 東
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T2回戦\nキックオフ：09:30\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:03280d33805d352c@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260118T093000
+SUMMARY:北野 1-1 PK7-8 槻の木
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T2回戦\nキックオフ：09:30\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:962e9ad38f08f169@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260118T093000
+SUMMARY:鳳 0-3 枚方
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T2回戦\nキックオフ：09:30\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a92c07cd6aadfb84@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260118T103000
+SUMMARY:香里丘 0-5 阿武野
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T2回戦\nキックオフ：10:30\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7a66a44cc043e2e9@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260118T104000
+SUMMARY:高津 1-1 PK4-5 茨木
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T2回戦\nキックオフ：10:40\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:79399f1e3b104a04@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+SUMMARY:春日丘 0-1 刀根山
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T2回戦\nキックオフ：11:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ea204a183e8e043c@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+SUMMARY:箕面 0-0 PK5-3 大冠
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T2回戦\nキックオフ：11:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:589d15f579830c8a@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260118T110000
+SUMMARY:和泉 0-1 高槻北
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T2回戦\nキックオフ：11:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e2a67b066bc59e18@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260118T111000
+SUMMARY:摂津 0-1 池田
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T2回戦\nキックオフ：11:10\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c7fd2bc8bfb4188a@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260118T111500
+SUMMARY:阪南大学 0 - 1 桃山学院
+LOCATION:J-GREEN堺 S5（大阪府堺市堺区築港八幡町145番地）
+DESCRIPTION:大会：2025年度 第72回大阪私立高校総合体育大
+ 会サッカー大会（男子の部）\nステージ：男子決勝\n試
+ 合番号：15\nキックオフ：11:15\n会場：J-GREEN堺 S5（大阪府
+ 堺市堺区築港八幡町145番地）\nhttps://www.osaka-shigaku-soccer.j
+ p/ホーム/第72回-男子-第10回-女子/試合結果/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b1be28d1f4804ee5@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260118T130000
+SUMMARY:桜宮 0-0 PK3-5 長尾
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T2回戦\nキックオフ：13:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ec2df5887166c985@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260118T144500
+SUMMARY:芥川 4-0 布施
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T2回戦\nキックオフ：14:45\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4b5f6c31dd5efca1@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260118T144500
+SUMMARY:久米田 1-2 岸和田
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T2回戦\nキックオフ：14:45\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a8876dbe978f3048@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260118T150000
+SUMMARY:山本 0-3 三島
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T2回戦\nキックオフ：15:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:de225fe8fe71c8ac@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260125T090000
+SUMMARY:千里 7-1 旭
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T3回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7ed54df803c75aaf@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260125T090000
+SUMMARY:枚方 0-2 高槻北
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T3回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:975b95c89002b69d@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260125T093000
+SUMMARY:槻の木 0-0 PK7-8 箕面
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T3回戦\nキックオフ：09:30\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6970de148aa76c9f@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260125T103000
+SUMMARY:豊中 2-0 刀根山
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T3回戦\nキックオフ：10:30\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4d2bd0ace6c82e10@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260125T104000
+SUMMARY:池田 0-1 岸和田
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T3回戦\nキックオフ：10:40\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7a6c36b117b81b58@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260125T114500
+SUMMARY:天王寺 0-3 三島
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T3回戦\nキックオフ：11:45\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:558e7d11eecd03a0@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260125T131500
+SUMMARY:茨木 2-0 北千里
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T3回戦\nキックオフ：13:15\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a4b3b2b259cf50e9@masashi.local
+DTSTAMP:20260221T040657Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260125T150000
+SUMMARY:長尾 0-0 PK5-3 芥川
+LOCATION:
+DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
+ T3回戦\nキックオフ：15:00\nhttps://koko-soccer.com/score/4222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:37d6beb300d0b146@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260129T171000
+DTEND;TZID=Asia/Tokyo:20260129T191000
+SUMMARY:清明学院 1-1 大商大堺
+LOCATION:J-GREEN堺
+DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
+ ウンド：関西W1\n区分：結果\n確度：確定\n節/ラウンド：
+ 関西W1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4c25e16d0fd70b4f@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260201T090000
+DTEND;TZID=Asia/Tokyo:20260201T113000
+SUMMARY:茨木 2-0 高槻北
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
+ ラウンド：決勝トーナメント準々決勝\n区分：結果\n確
+ 度：確定\n節/ラウンド：決勝トーナメント準々決勝
+END:VEVENT
+
+BEGIN:VEVENT
+UID:49d8b12f9367d51e@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260201T090000
+DTEND;TZID=Asia/Tokyo:20260201T113000
+SUMMARY:千里 2-1 長尾
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
+ ラウンド：決勝トーナメント準々決勝\n区分：結果\n確
+ 度：確定\n節/ラウンド：決勝トーナメント準々決勝
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4f793ea70dee17fd@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260201T103000
+DTEND;TZID=Asia/Tokyo:20260201T130000
+SUMMARY:三島 0-0 PK 5-4 岸和田
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
+ ラウンド：決勝トーナメント準々決勝\n区分：結果\n確
+ 度：確定\n節/ラウンド：決勝トーナメント準々決勝
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f0e8a38ee62d8a3e@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260201T104000
+DTEND;TZID=Asia/Tokyo:20260201T131000
+SUMMARY:豊中 0-3 箕面
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
+ ラウンド：決勝トーナメント準々決勝\n区分：結果\n確
+ 度：確定\n節/ラウンド：決勝トーナメント準々決勝
+END:VEVENT
+
+BEGIN:VEVENT
+UID:287786da3e8f380d@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260201T131500
+DTEND;TZID=Asia/Tokyo:20260201T151500
+SUMMARY:県立西宮 0-4 大商大堺
+LOCATION:J-GREEN堺
+DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
+ ウンド：関西W1\n区分：結果\n確度：確定\n節/ラウンド：
+ 関西W1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2ad07ea1b0986cd0@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260208T092000
+DTEND;TZID=Asia/Tokyo:20260208T115000
+SUMMARY:千里 3-0 箕面
+LOCATION:J-GREEN堺（大阪府堺市堺区築港八幡町145）
+DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
+ ラウンド：決勝トーナメント準決勝①\n区分：結果\n確
+ 度：確定\n節/ラウンド：決勝トーナメント準決勝①
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dbb9528965129c25@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260208T111000
+DTEND;TZID=Asia/Tokyo:20260208T134000
+SUMMARY:茨木 1-0 三島
+LOCATION:J-GREEN堺（大阪府堺市堺区築港八幡町145）
+DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
+ ラウンド：決勝トーナメント準決勝②\n区分：結果\n確
+ 度：確定\n節/ラウンド：決勝トーナメント準決勝②
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1424969d3e576497@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260211T091500
+DTEND;TZID=Asia/Tokyo:20260211T114500
+SUMMARY:千里 0-2 茨木
+LOCATION:J-GREEN堺（大阪府堺市堺区築港八幡町145）
+DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
+ ラウンド：決勝トーナメント決勝\n区分：結果\n確度：
+ 確定\n節/ラウンド：決勝トーナメント決勝
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ab5cb24c046cf30f@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260212T170000
+DTEND;TZID=Asia/Tokyo:20260212T190000
+SUMMARY:大阪偕星 0-4 大商大堺
+LOCATION:J-GREEN堺
+DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
+ ウンド：関西W1\n区分：結果\n確度：確定\n節/ラウンド：
+ 関西W1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a919e900e0e4659e@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:4
+DTSTART;TZID=Asia/Tokyo:20260221T090000
+DTEND;TZID=Asia/Tokyo:20260221T110000
+SUMMARY:大商大堺 1-2 城陽
+LOCATION:J-GREEN堺 S15
+DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
+ ウンド：関西W1\n区分：結果\n確度：確定\n節/ラウンド：
+ 関西W1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f4e8b01e1d89db9e@masashi.local
+DTSTAMP:20260223T013324Z
+SEQUENCE:4
+DTSTART;TZID=Asia/Tokyo:20260221T130000
+DTEND;TZID=Asia/Tokyo:20260221T150000
+SUMMARY:県立西宮 0-4 大阪偕星
+LOCATION:J-GREEN堺 S14
+DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
+ ラウンド：関西W1\\n区分：結果\\n確度：暫定\\n節/ラウン
+ ド：関西W1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0d93c8cff8d08cf1@masashi.local
+DTSTAMP:20260223T013324Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260223T103000
+DTEND;TZID=Asia/Tokyo:20260223T123000
+SUMMARY:星翔 vs 彦根総合
+LOCATION:彦根総合高校〖松隆グラウンド〗
+DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
+ ラウンド：関西W2\\n区分：予定\\n確度：確定\\n節/ラウン
+ ド：関西W2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c2553d70e57907fe@masashi.local
+DTSTAMP:20260223T013324Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260301T131000
+DTEND;TZID=Asia/Tokyo:20260301T151000
+SUMMARY:星翔 vs 香芝
+LOCATION:ナラディーア
+DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
+ ラウンド：関西W2\\n区分：予定\\n確度：確定\\n節/ラウン
+ ド：関西W2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7f3863635ae8a4c9@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260301T151500
+DTEND;TZID=Asia/Tokyo:20260301T171500
+SUMMARY:京都先端科学大附 vs 清明学院
+LOCATION:J-GREEN堺
+DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
+ ウンド：関西W1\n区分：予定\n確度：確定\n節/ラウンド：
+ 関西W1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0493f1d4d5805344@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260307T130000
+DTEND;TZID=Asia/Tokyo:20260307T150000
+SUMMARY:城陽 vs 清明学院
+LOCATION:J-GREEN堺
+DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
+ ウンド：関西W1\n区分：予定\n確度：確定\n節/ラウンド：
+ 関西W1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e19bab2ca7c2ed72@masashi.local
+DTSTAMP:20260223T013324Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260307T133000
+DTEND;TZID=Asia/Tokyo:20260307T153000
+SUMMARY:千里 vs 彦根総合
+LOCATION:彦根総合高校〖松隆グラウンド〗
+DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
+ ラウンド：関西W2\\n区分：予定\\n確度：確定\\n節/ラウン
+ ド：関西W2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:28b97d0c6f0fe35d@masashi.local
+DTSTAMP:20260223T013324Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260308T100000
+DTEND;TZID=Asia/Tokyo:20260308T120000
+SUMMARY:野洲 vs 千里
+LOCATION:野洲高校G
+DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
+ ラウンド：関西W2\\n区分：予定\\n確度：確定\\n節/ラウン
+ ド：関西W2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5a06a5737dde34fb@masashi.local
+DTSTAMP:20260223T013324Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260308T133000
+DTEND;TZID=Asia/Tokyo:20260308T153000
+SUMMARY:三田松聖 vs 清明学院
+LOCATION:三田松聖高校グラウンド
+DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
+ ラウンド：関西W1\\n区分：予定\\n確度：確定\\n節/ラウン
+ ド：関西W1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fb042afc7199168a@masashi.local
+DTSTAMP:20260223T013324Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260313T114500
+DTEND;TZID=Asia/Tokyo:20260313T134500
+SUMMARY:雲雀丘学園 vs 星翔
+LOCATION:J-GREEN堺 S7
+DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
+ ラウンド：関西W2\\n区分：予定\\n確度：確定\\n節/ラウン
+ ド：関西W2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:08561326298dd942@masashi.local
+DTSTAMP:20260221T080754Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Tokyo:20260314T170000
+DTEND;TZID=Asia/Tokyo:20260314T190000
+SUMMARY:清明学院 vs 県立西宮
+LOCATION:J-GREEN堺
+DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
+ ウンド：関西W1\n区分：予定\n確度：確定\n節/ラウンド：
+ 関西W1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:59636a47e4706340@masashi.local
+DTSTAMP:20260223T013324Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260315T090000
+DTEND;TZID=Asia/Tokyo:20260315T110000
+SUMMARY:千里 vs 啓明学院
+LOCATION:啓明学院
+DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
+ ラウンド：関西W2\\n区分：予定\\n確度：確定\\n節/ラウン
+ ド：関西W2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9e1a1b2eb467019e@masashi.local
+DTSTAMP:20260223T013324Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20260317T140000
+DTEND;TZID=Asia/Tokyo:20260317T160000
+SUMMARY:大阪偕星 vs 郡山
+LOCATION:ナラディーア
+DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
+ ラウンド：関西W1\\n区分：予定\\n確度：確定\\n節/ラウン
+ ド：関西W1
+END:VEVENT
+END:VCALENDAR
+
