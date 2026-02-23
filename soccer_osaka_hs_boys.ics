@@ -2900,6 +2900,17 @@ DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
  ラウンド：関西W1\\n区分：予定\\n確度：確定\\n節/ラウン
  ド：関西W1
 END:VEVENT
-
+BEGIN:VEVENT
+UID:bw95-postponed-oshodaisakai-ritsumeikanmoriyama-20260223@masashi.local
+DTSTAMP:20260223T042615Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+SUMMARY:大商大堺 vs 立命館守山（延期・日程未定）
+LOCATION:立命館守山高校
+DESCRIPTION:種別：招待試合\n大会：Blue Wave League ～熱冬～
+ （関西W1）\nラウンド：通年第2節\n区分：延期\n確度：
+ 確定
+END:VEVENT
 END:VCALENDAR
 
