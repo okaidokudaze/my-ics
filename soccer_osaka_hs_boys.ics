@@ -2899,4 +2899,357 @@ DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
  ラウンド：関西W1\\n区分：予定\\n確度：確定\\n節/ラウン
  ド：関西W1
 END:VEVENT
+
+BEGIN:VEVENT
+UID:7689324bb15ba6589957573a9f988b2d@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:刀根山 vs 春日丘（0-1）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ あグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ あグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:53472e8d9e7bd5b8be421e3a432e27cc@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T133000
+DTEND;TZID=Asia/Tokyo:20251116T153000
+SUMMARY:河南 vs 阿倍野（10-0）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ いグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ いグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3370ba4ee2af489a980fef6b79ace120@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T150000
+DTEND;TZID=Asia/Tokyo:20251116T170000
+SUMMARY:渋谷 vs 交野（1-2）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ いグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ いグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1e7a52cadb1f518e331853aecd48fb64@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:八尾翠翔 vs 旭（0-2）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ えグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ えグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:af9cedaa26830e13209ca3a375c17b92@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T110000
+DTEND;TZID=Asia/Tokyo:20251116T130000
+SUMMARY:いちりつ vs 生野（0-7）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ えグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ えグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5adead0cce1403c6311489040d121424@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:堺上 vs 大手前（0-11）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ おグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ おグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:96beef38dc76e2abcf793a83e956d9f5@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T104000
+DTEND;TZID=Asia/Tokyo:20251116T124000
+SUMMARY:北かわち皐が丘 vs 四條畷（2-0）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ おグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ おグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2aca28e80f7ce832ae0c7eeda52404ef@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:長野 vs 千里青雲（1-1）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ かグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ かグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2f8b1e1ec61f592df00de137f3dcfdf2@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T103000
+DTEND;TZID=Asia/Tokyo:20251116T123000
+SUMMARY:今宮 vs 高石（1-3）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ かグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ かグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7b7930fbe5d8d8ac4be52e746d1e01e3@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:八尾北 vs 阪南（0-8）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ きグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ きグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8a5bcfaab6671bfa792925d236b12c2c@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T150000
+DTEND;TZID=Asia/Tokyo:20251116T170000
+SUMMARY:鳳 vs 三国丘（0-1）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ くグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ くグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:799b6b27ffbcea680bae48b3eb515d20@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T130000
+DTEND;TZID=Asia/Tokyo:20251116T150000
+SUMMARY:八尾 vs 夕陽丘（1-2）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ けグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ けグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a0402ebd865836af48f3bdc80c101b86@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T133000
+DTEND;TZID=Asia/Tokyo:20251116T153000
+SUMMARY:豊中 vs 泉大津（5-0）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ こグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ こグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4a739b7265abf5546e898af026c30690@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T153000
+DTEND;TZID=Asia/Tokyo:20251116T173000
+SUMMARY:大塚 vs 泉陽（1-2）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ こグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ こグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6c44981310047b7f16e8743d5d54dd5e@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:布施 vs 緑風冠（1-1）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ さグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ さグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:602819ca9e7692ae0b3aa7d3af6f5f00@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T110000
+DTEND;TZID=Asia/Tokyo:20251116T130000
+SUMMARY:咲くやこの花 vs 富田林（0-5）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ さグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ さグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1c7ab1eb11b2f4295ed5f5ce49476309@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T093000
+DTEND;TZID=Asia/Tokyo:20251116T113000
+SUMMARY:藤井寺工科 vs 茨木工科（3-0）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ しグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ しグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fa28a95060fd32f072f9c0e4ee859bd0@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T110000
+DTEND;TZID=Asia/Tokyo:20251116T130000
+SUMMARY:吹田東 vs 東住吉（0-1）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ しグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ しグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:728185cddcca2ceb4ac5e6a2c1c8083f@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T150000
+DTEND;TZID=Asia/Tokyo:20251116T170000
+SUMMARY:池田 vs みどり清朋（2-0）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ ちグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ ちグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fed2098aeb7cded807c3686f989bd4fe@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T133000
+DTEND;TZID=Asia/Tokyo:20251116T153000
+SUMMARY:汎愛 vs 東百舌鳥（4-0）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ つグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ つグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:93a296cac570c58008994cec052edfe5@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:枚方 vs 長尾（2-1）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ とグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ とグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a8f28d2fd1a694c1af9535c380d7f783@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T110000
+DTEND;TZID=Asia/Tokyo:20251116T130000
+SUMMARY:府立大高専 vs 堺西（0-5）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ とグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ とグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8fc42a16ff653b89efa5779596d7763f@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:桜塚 vs 登美丘（0-3）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ なグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ なグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b3f6c44eb5db2e2153eabf7bf9babdcd@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T110000
+DTEND;TZID=Asia/Tokyo:20251116T130000
+SUMMARY:阿武野 vs 和泉（0-3）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ なグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ なグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:22b7883bfd615429a0b9c6efc81d2fdf@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:高津 vs 花園（4-0）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ にグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ にグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2e3e22be763f233015f50a091fdb2bba@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T103000
+DTEND;TZID=Asia/Tokyo:20251116T123000
+SUMMARY:福井 vs 守口東（0-2）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ にグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ にグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bce7ab2c56d254aabe74412684a03c7f@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T093000
+DTEND;TZID=Asia/Tokyo:20251116T113000
+SUMMARY:香里丘 vs 佐野工科（8-0）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ ねグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ ねグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:336efd34ceac3f05c78154f3edae97ad@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T090000
+DTEND;TZID=Asia/Tokyo:20251116T110000
+SUMMARY:豊島 vs 港（12-0）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ のグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ のグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:36985a81373010988e2d536d9a5f106d@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251116T103000
+DTEND;TZID=Asia/Tokyo:20251116T123000
+SUMMARY:岸和田 vs 合同B（13-0）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ はグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ はグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0d23e4280881b78d41c53da0688034a8@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251124T090000
+DTEND;TZID=Asia/Tokyo:20251124T110000
+SUMMARY:淀川工科 vs 東住吉総合（0-3）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ きグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ きグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9f8a7302c6b799018567302d378965e0@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251224T134500
+DTEND;TZID=Asia/Tokyo:20251224T154500
+SUMMARY:山田 vs 春日丘（0-2）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ あグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ あグループ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c12fd7c9201b9e99fe6bda079af1fa24@masashi.local
+DTSTAMP:20260223T054142Z
+SEQUENCE:1
+DTSTART;TZID=Asia/Tokyo:20251224T152000
+DTEND;TZID=Asia/Tokyo:20251224T172000
+SUMMARY:刀根山 vs 藤井寺（4-1）
+LOCATION:会場不明
+DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高校大会\nラウンド：予選リーグ あグループ\n区分：結果\n確度：確定\n節/ラウンド：予選リーグ あグループ
+END:VEVENT
+
 END:VCALENDAR
