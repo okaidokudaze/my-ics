@@ -11,7 +11,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:【大阪】男子高校サッカー
 
 X-WR-TIMEZONE:Asia/Tokyo
-X-WR-CALDESC:大阪府内（会場不明含む）の高校男子サッカー予定。延期/中止は掲載しない（公式で日程確定後に反映）。
+X-WR-CALDESC:大阪府内（会場不明含む）の高校男子サッカー予定。
 
 BEGIN:VEVENT
 UID:f481e48039c951aabe3e92fd3bf9f448@masashi.local
@@ -19,7 +19,7 @@ DTSTAMP:20260221T040657Z
 SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T091500
 DTEND;TZID=Asia/Tokyo:20251207T111500
-SUMMARY:帝塚山泉ヶ丘 0-3 大阪立命館
+SUMMARY:帝塚山泉ヶ丘 vs 大阪立命館（0-3）
 LOCATION:帝塚山泉ヶ丘
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2A90\\n区分：結果\\n確度
@@ -32,7 +32,7 @@ DTSTAMP:20260221T040657Z
 SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T094500
 DTEND;TZID=Asia/Tokyo:20251207T114500
-SUMMARY:セレッソ大阪B 5-0 東大阪大柏原
+SUMMARY:セレッソ大阪B vs 東大阪大柏原（5-0）
 LOCATION:セレッソ舞洲人工芝
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2A87\\n区分：結果\\n確度
@@ -45,7 +45,7 @@ DTSTAMP:20260221T040657Z
 SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T113000
 DTEND;TZID=Asia/Tokyo:20251207T133000
-SUMMARY:桜宮 2-1 商大高
+SUMMARY:桜宮 vs 商大高（2-1）
 LOCATION:帝塚山泉ヶ丘
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2B83\\n区分：結果\\n確度
@@ -58,7 +58,7 @@ DTSTAMP:20260221T040657Z
 SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T120000
 DTEND;TZID=Asia/Tokyo:20251207T140000
-SUMMARY:摂津 1-4 大阪学院B
+SUMMARY:摂津 vs 大阪学院B（1-4）
 LOCATION:摂津
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2B84\\n区分：結果\\n確度
@@ -71,7 +71,7 @@ DTSTAMP:20260221T040657Z
 SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T123000
 DTEND;TZID=Asia/Tokyo:20251207T143000
-SUMMARY:清明学院 1-1 ガンバ大阪B
+SUMMARY:清明学院 vs ガンバ大阪B（1-1）
 LOCATION:セレッソ舞洲人工芝
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2B81\\n区分：結果\\n確度
@@ -84,7 +84,7 @@ DTSTAMP:20260221T040657Z
 SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T140000
 DTEND;TZID=Asia/Tokyo:20251207T160000
-SUMMARY:香里ヌヴェール 2-3 大阪桐蔭B
+SUMMARY:香里ヌヴェール vs 大阪桐蔭B（2-3）
 LOCATION:近大附属
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2B85\\n区分：結果\\n確度
@@ -97,7 +97,7 @@ DTSTAMP:20260221T040657Z
 SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T140000
 DTEND;TZID=Asia/Tokyo:20251207T160000
-SUMMARY:賢明学院 1-2 履正社C
+SUMMARY:賢明学院 vs 履正社C（1-2）
 LOCATION:履正社茨木Ｇ
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2B82\\n区分：結果\\n確度
@@ -110,7 +110,7 @@ DTSTAMP:20260221T040657Z
 SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T141500
 DTEND;TZID=Asia/Tokyo:20251207T161500
-SUMMARY:千里 2-6 関大一
+SUMMARY:千里 vs 関大一（2-6）
 LOCATION:摂津
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2A88\\n区分：結果\\n確度
@@ -123,7 +123,7 @@ DTSTAMP:20260221T040657Z
 SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T161500
 DTEND;TZID=Asia/Tokyo:20251207T181500
-SUMMARY:興國C 1-4 近大附属B
+SUMMARY:興國C vs 近大附属B（1-4）
 LOCATION:近大附属
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2A89\\n区分：結果\\n確度
@@ -136,7 +136,7 @@ DTSTAMP:20260221T040657Z
 SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20251207T161500
 DTEND;TZID=Asia/Tokyo:20251207T181500
-SUMMARY:大阪偕星 0-5 アサンプション
+SUMMARY:大阪偕星 vs アサンプション（0-5）
 LOCATION:履正社茨木Ｇ
 DESCRIPTION:種別：公式戦\\n大会：高円宮杯JFA U-18サッカー
  リーグ2025 OSAKA 2部AB\\nラウンド：2A86\\n区分：結果\\n確度
@@ -149,7 +149,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251214T090000
 DTEND;TZID=Asia/Tokyo:20251214T110000
-SUMMARY:旭 1-0 生野
+SUMMARY:旭 vs 生野（1-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ えグループ\n区分：結果\
@@ -162,7 +162,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251214T090000
 DTEND;TZID=Asia/Tokyo:20251214T110000
-SUMMARY:今宮 3-3 長野
+SUMMARY:今宮 vs 長野（3-3）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ かグループ\n区分：結果\
@@ -175,7 +175,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251214T090000
 DTEND;TZID=Asia/Tokyo:20251214T110000
-SUMMARY:鳳 4-1 都島工
+SUMMARY:鳳 vs 都島工（4-1）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ くグループ\n区分：結果\
@@ -188,7 +188,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251214T090000
 DTEND;TZID=Asia/Tokyo:20251214T110000
-SUMMARY:堺東 6-0 八尾
+SUMMARY:堺東 vs 八尾（6-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ けグループ\n区分：結果\
@@ -201,7 +201,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251214T090000
 DTEND;TZID=Asia/Tokyo:20251214T110000
-SUMMARY:緑風冠 0-1 富田林
+SUMMARY:緑風冠 vs 富田林（0-1）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ さグループ\n区分：結果\
@@ -214,7 +214,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251214T090000
 DTEND;TZID=Asia/Tokyo:20251214T110000
-SUMMARY:大教大池田 0-1 北千里
+SUMMARY:大教大池田 vs 北千里（0-1）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ すグループ\n区分：結果\
@@ -227,7 +227,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251214T093000
 DTEND;TZID=Asia/Tokyo:20251214T113000
-SUMMARY:三島 6-0 清水谷
+SUMMARY:三島 vs 清水谷（6-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ せグループ\n区分：結果\
@@ -240,7 +240,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251214T103000
 DTEND;TZID=Asia/Tokyo:20251214T123000
-SUMMARY:千里青雲 1-0 高石
+SUMMARY:千里青雲 vs 高石（1-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ かグループ\n区分：結果\
@@ -253,7 +253,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251214T110000
 DTEND;TZID=Asia/Tokyo:20251214T130000
-SUMMARY:いちりつ 0-4 八尾翠翔
+SUMMARY:いちりつ vs 八尾翠翔（0-4）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ えグループ\n区分：結果\
@@ -266,7 +266,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251214T110000
 DTEND;TZID=Asia/Tokyo:20251214T130000
-SUMMARY:門真なみはや 0-9 三国丘
+SUMMARY:門真なみはや vs 三国丘（0-9）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ くグループ\n区分：結果\
@@ -279,7 +279,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251214T110000
 DTEND;TZID=Asia/Tokyo:20251214T130000
-SUMMARY:大冠 2-1 夕陽丘
+SUMMARY:大冠 vs 夕陽丘（2-1）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ けグループ\n区分：結果\
@@ -292,7 +292,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251214T110000
 DTEND;TZID=Asia/Tokyo:20251214T130000
-SUMMARY:布施 3-0 咲くやこの花
+SUMMARY:布施 vs 咲くやこの花（3-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ さグループ\n区分：結果\
@@ -305,7 +305,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251214T110000
 DTEND;TZID=Asia/Tokyo:20251214T130000
-SUMMARY:牧野 6-0 日根野
+SUMMARY:牧野 vs 日根野（6-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ すグループ\n区分：結果\
@@ -318,7 +318,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251214T110000
 DTEND;TZID=Asia/Tokyo:20251214T130000
-SUMMARY:久米田 2-0 金剛
+SUMMARY:久米田 vs 金剛（2-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ せグループ\n区分：結果\
@@ -331,7 +331,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251214T130000
 DTEND;TZID=Asia/Tokyo:20251214T150000
-SUMMARY:泉陽 1-3 豊中
+SUMMARY:泉陽 vs 豊中（1-3）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ こグループ\n区分：結果\
@@ -344,7 +344,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251214T133000
 DTEND;TZID=Asia/Tokyo:20251214T153000
-SUMMARY:四條畷 3-0 大手前
+SUMMARY:四條畷 vs 大手前（3-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ おグループ\n区分：結果\
@@ -357,7 +357,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251214T150000
 DTEND;TZID=Asia/Tokyo:20251214T170000
-SUMMARY:大塚 1-1 泉大津
+SUMMARY:大塚 vs 泉大津（1-1）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ こグループ\n区分：結果\
@@ -370,7 +370,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251214T151000
 DTEND;TZID=Asia/Tokyo:20251214T171000
-SUMMARY:堺上 0-4 北かわち皐が丘
+SUMMARY:堺上 vs 北かわち皐が丘（0-4）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ おグループ\n区分：結果\
@@ -1293,7 +1293,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251219T112000
 DTEND;TZID=Asia/Tokyo:20251219T132000
-SUMMARY:京都両洋 2-1 星翔
+SUMMARY:京都両洋 vs 星翔（2-1）
 LOCATION:OFA万博フットボールセンター
 DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
  ウンド：関西W2\n区分：結果\n確度：確定\n節/ラウンド：
@@ -1512,7 +1512,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T090000
 DTEND;TZID=Asia/Tokyo:20251221T110000
-SUMMARY:八尾翠翔 0-3 生野
+SUMMARY:八尾翠翔 vs 生野（0-3）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ えグループ\n区分：結果\
@@ -1525,7 +1525,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T090000
 DTEND;TZID=Asia/Tokyo:20251221T110000
-SUMMARY:北かわち皐が丘 2-0 大手前
+SUMMARY:北かわち皐が丘 vs 大手前（2-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ おグループ\n区分：結果\
@@ -1538,7 +1538,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T090000
 DTEND;TZID=Asia/Tokyo:20251221T110000
-SUMMARY:千里青雲 5-2 今宮
+SUMMARY:千里青雲 vs 今宮（5-2）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ かグループ\n区分：結果\
@@ -1551,7 +1551,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T090000
 DTEND;TZID=Asia/Tokyo:20251221T110000
-SUMMARY:八尾北 1-2 東住吉総合
+SUMMARY:八尾北 vs 東住吉総合（1-2）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ きグループ\n区分：結果\
@@ -1564,7 +1564,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T090000
 DTEND;TZID=Asia/Tokyo:20251221T110000
-SUMMARY:鳳 2-0 門真なみはや
+SUMMARY:鳳 vs 門真なみはや（2-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ くグループ\n区分：結果\
@@ -1577,7 +1577,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T090000
 DTEND;TZID=Asia/Tokyo:20251221T110000
-SUMMARY:布施 1-0 富田林
+SUMMARY:布施 vs 富田林（1-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ さグループ\n区分：結果\
@@ -1590,7 +1590,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T090000
 DTEND;TZID=Asia/Tokyo:20251221T110000
-SUMMARY:東住吉 10-0 茨木工科
+SUMMARY:東住吉 vs 茨木工科（10-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ しグループ\n区分：結果\
@@ -1603,7 +1603,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T090000
 DTEND;TZID=Asia/Tokyo:20251221T110000
-SUMMARY:牧野 0-2 大教大池田
+SUMMARY:牧野 vs 大教大池田（0-2）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ すグループ\n区分：結果\
@@ -1616,7 +1616,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T093000
 DTEND;TZID=Asia/Tokyo:20251221T113000
-SUMMARY:北野 4-0 合同A
+SUMMARY:北野 vs 合同A（4-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ うグループ\n区分：結果\
@@ -1629,7 +1629,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T093000
 DTEND;TZID=Asia/Tokyo:20251221T113000
-SUMMARY:大塚 0-0 豊中
+SUMMARY:大塚 vs 豊中（0-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ こグループ\n区分：結果\
@@ -1657,7 +1657,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T100000
 DTEND;TZID=Asia/Tokyo:20251221T120000
-SUMMARY:大冠 5-0 八尾
+SUMMARY:大冠 vs 八尾（5-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ けグループ\n区分：結果\
@@ -1670,7 +1670,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T103000
 DTEND;TZID=Asia/Tokyo:20251221T123000
-SUMMARY:高石 3-0 長野
+SUMMARY:高石 vs 長野（3-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ かグループ\n区分：結果\
@@ -1683,7 +1683,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T103000
 DTEND;TZID=Asia/Tokyo:20251221T123000
-SUMMARY:吹田東 8-1 藤井寺工科
+SUMMARY:吹田東 vs 藤井寺工科（8-1）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ しグループ\n区分：結果\
@@ -1696,7 +1696,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T104000
 DTEND;TZID=Asia/Tokyo:20251221T124000
-SUMMARY:堺上 0-3 四條畷
+SUMMARY:堺上 vs 四條畷（0-3）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ おグループ\n区分：結果\
@@ -1709,7 +1709,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T110000
 DTEND;TZID=Asia/Tokyo:20251221T130000
-SUMMARY:今宮工科 0-4 信太
+SUMMARY:今宮工科 vs 信太（0-4）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ うグループ\n区分：結果\
@@ -1722,7 +1722,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T110000
 DTEND;TZID=Asia/Tokyo:20251221T130000
-SUMMARY:いちりつ 0-4 旭
+SUMMARY:いちりつ vs 旭（0-4）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ えグループ\n区分：結果\
@@ -1735,7 +1735,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T110000
 DTEND;TZID=Asia/Tokyo:20251221T130000
-SUMMARY:都島工 0-2 三国丘
+SUMMARY:都島工 vs 三国丘（0-2）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ くグループ\n区分：結果\
@@ -1748,7 +1748,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T110000
 DTEND;TZID=Asia/Tokyo:20251221T130000
-SUMMARY:緑風冠 4-0 咲くやこの花
+SUMMARY:緑風冠 vs 咲くやこの花（4-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ さグループ\n区分：結果\
@@ -1761,7 +1761,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T110000
 DTEND;TZID=Asia/Tokyo:20251221T130000
-SUMMARY:北千里 2-0 日根野
+SUMMARY:北千里 vs 日根野（2-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ すグループ\n区分：結果\
@@ -1774,7 +1774,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T113000
 DTEND;TZID=Asia/Tokyo:20251221T133000
-SUMMARY:泉大津 0-2 泉陽
+SUMMARY:泉大津 vs 泉陽（0-2）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ こグループ\n区分：結果\
@@ -1787,7 +1787,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251221T114000
 DTEND;TZID=Asia/Tokyo:20251221T134000
-SUMMARY:堺東 0-0 夕陽丘
+SUMMARY:堺東 vs 夕陽丘（0-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ けグループ\n区分：結果\
@@ -1814,7 +1814,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251223T150000
 DTEND;TZID=Asia/Tokyo:20251223T170000
-SUMMARY:阪南 1-0 東住吉総合
+SUMMARY:阪南 vs 東住吉総合（1-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ きグループ\n区分：結果\
@@ -1827,7 +1827,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;VALUE=DATE:20251225
 DTEND;VALUE=DATE:20251226
-SUMMARY:北千里 2-1 牧野
+SUMMARY:北千里 vs 牧野（2-1）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ すグループ\n区分：結果\
@@ -1840,7 +1840,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;VALUE=DATE:20251225
 DTEND;VALUE=DATE:20251226
-SUMMARY:大教大池田 4-0 日根野
+SUMMARY:大教大池田 vs 日根野（4-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ すグループ\n区分：結果\
@@ -1853,7 +1853,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251225T093000
 DTEND;TZID=Asia/Tokyo:20251225T113000
-SUMMARY:合同A 3-0 今宮工科
+SUMMARY:合同A vs 今宮工科（3-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ うグループ\n区分：結果\
@@ -1866,7 +1866,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251225T093000
 DTEND;TZID=Asia/Tokyo:20251225T113000
-SUMMARY:吹田東 8-1 茨木工科
+SUMMARY:吹田東 vs 茨木工科（8-1）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ しグループ\n区分：結果\
@@ -1879,7 +1879,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251225T110000
 DTEND;TZID=Asia/Tokyo:20251225T130000
-SUMMARY:北野 5-0 信太
+SUMMARY:北野 vs 信太（5-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ うグループ\n区分：結果\
@@ -1892,7 +1892,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251225T110000
 DTEND;TZID=Asia/Tokyo:20251225T130000
-SUMMARY:東住吉 2-0 藤井寺工科
+SUMMARY:東住吉 vs 藤井寺工科（2-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ しグループ\n区分：結果\
@@ -1905,7 +1905,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251225T133000
 DTEND;TZID=Asia/Tokyo:20251225T153000
-SUMMARY:八尾北 5-2 淀川工科
+SUMMARY:八尾北 vs 淀川工科（5-2）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ きグループ\n区分：結果\
@@ -1918,7 +1918,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251226T090000
 DTEND;TZID=Asia/Tokyo:20251226T110000
-SUMMARY:淀川工科 1-4 阪南
+SUMMARY:淀川工科 vs 阪南（1-4）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ きグループ\n区分：結果\
@@ -1931,7 +1931,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251226T093000
 DTEND;TZID=Asia/Tokyo:20251226T113000
-SUMMARY:大冠 1-0 堺東
+SUMMARY:大冠 vs 堺東（1-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ けグループ\n区分：結果\
@@ -1944,7 +1944,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20251226T111000
 DTEND;TZID=Asia/Tokyo:20251226T131000
-SUMMARY:都島工 3-0 門真なみはや
+SUMMARY:都島工 vs 門真なみはや（3-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ くグループ\n区分：結果\
@@ -1996,7 +1996,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260105T093000
 DTEND;TZID=Asia/Tokyo:20260105T113000
-SUMMARY:千里 6-0 京都両洋
+SUMMARY:千里 vs 京都両洋（6-0）
 LOCATION:OFA万博フットボールセンター
 DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
  ウンド：関西W2\n区分：結果\n確度：確定\n節/ラウンド：
@@ -2009,7 +2009,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260107T093000
 DTEND;TZID=Asia/Tokyo:20260107T113000
-SUMMARY:千里 5-0 星翔
+SUMMARY:千里 vs 星翔（5-0）
 LOCATION:OFA万博フットボールセンター
 DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
  ウンド：関西W2\n区分：結果\n確度：確定\n節/ラウンド：
@@ -2022,7 +2022,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260107T093000
 DTEND;TZID=Asia/Tokyo:20260107T113000
-SUMMARY:信太 2-0 合同A
+SUMMARY:信太 vs 合同A（2-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ うグループ\n区分：結果\
@@ -2035,7 +2035,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260107T110000
 DTEND;TZID=Asia/Tokyo:20260107T130000
-SUMMARY:北野 5-0 今宮工科
+SUMMARY:北野 vs 今宮工科（5-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：2025年度 第4回大阪公立高
  校大会\nラウンド：予選リーグ うグループ\n区分：結果\
@@ -2047,7 +2047,7 @@ UID:78167fec744d9ade@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T090000
-SUMMARY:金岡 3-3 PK5-4 東
+SUMMARY:金岡 vs PK5-4 東（3-3）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
@@ -2058,7 +2058,7 @@ UID:98fc2aeb2ec90894@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T090000
-SUMMARY:豊島 2-3 香里丘
+SUMMARY:豊島 vs 香里丘（2-3）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
@@ -2069,7 +2069,7 @@ UID:39f2e9a3fb4b3f38@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T090000
-SUMMARY:みどり清朋 2-1 高槻北
+SUMMARY:みどり清朋 vs 高槻北（2-1）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
@@ -2080,7 +2080,7 @@ UID:08505c14fbc841d1@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T090000
-SUMMARY:富田林 1-1 PK1-3 槻の木
+SUMMARY:富田林 vs PK1-3 槻の木（1-1）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
@@ -2091,7 +2091,7 @@ UID:c55b95921f18bbf8@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T090000
-SUMMARY:和泉 1-1 PK5-3 生野
+SUMMARY:和泉 vs PK5-3 生野（1-1）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
@@ -2102,7 +2102,7 @@ UID:5b9480cd8f8fdb83@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T093000
-SUMMARY:阿武野 0-4 千里
+SUMMARY:阿武野 vs 千里（0-4）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:30\nhttps://koko-soccer.com/score/4222
@@ -2113,7 +2113,7 @@ UID:fc092da8b6d6c313@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T093000
-SUMMARY:芥川 4-0 東住吉総合
+SUMMARY:芥川 vs 東住吉総合（4-0）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:30\nhttps://koko-soccer.com/score/4222
@@ -2124,7 +2124,7 @@ UID:1d5e80cc4d7467e4@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T093000
-SUMMARY:三国丘 0-0 PK3-5 箕面
+SUMMARY:三国丘 vs PK3-5 箕面（0-0）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：09:30\nhttps://koko-soccer.com/score/4222
@@ -2135,7 +2135,7 @@ UID:42deb08593866736@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T103000
-SUMMARY:刀根山 7-0 阪南
+SUMMARY:刀根山 vs 阪南（7-0）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：10:30\nhttps://koko-soccer.com/score/4222
@@ -2146,7 +2146,7 @@ UID:f1bc5e9aeb14d884@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T103000
-SUMMARY:信太 0-2 泉陽
+SUMMARY:信太 vs 泉陽（0-2）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：10:30\nhttps://koko-soccer.com/score/4222
@@ -2157,7 +2157,7 @@ UID:214aad5221bd3f35@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T104000
-SUMMARY:河南 0-0 PK3-5 久米田
+SUMMARY:河南 vs PK3-5 久米田（0-0）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：10:40\nhttps://koko-soccer.com/score/4222
@@ -2168,7 +2168,7 @@ UID:2895b1fdf031a771@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T104000
-SUMMARY:堺東 0-1 天王寺
+SUMMARY:堺東 vs 天王寺（0-1）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：10:40\nhttps://koko-soccer.com/score/4222
@@ -2179,7 +2179,7 @@ UID:6b5b7a197995a339@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T104000
-SUMMARY:岸和田 3-0 汎愛
+SUMMARY:岸和田 vs 汎愛（3-0）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：10:40\nhttps://koko-soccer.com/score/4222
@@ -2190,7 +2190,7 @@ UID:2dbfe426f09b31fc@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T104000
-SUMMARY:大手前 4-0 茨木
+SUMMARY:大手前 vs 茨木（4-0）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：10:40\nhttps://koko-soccer.com/score/4222
@@ -2201,7 +2201,7 @@ UID:3a10d730f9b9cf90@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T110000
-SUMMARY:山本 3-1 高石
+SUMMARY:山本 vs 高石（3-1）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：11:00\nhttps://koko-soccer.com/score/4222
@@ -2212,7 +2212,7 @@ UID:bb8ab179731ad008@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T110000
-SUMMARY:高津 0-0 PK4-3 大教大池田
+SUMMARY:高津 vs PK4-3 大教大池田（0-0）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：11:00\nhttps://koko-soccer.com/score/4222
@@ -2223,7 +2223,7 @@ UID:77aed9bcf17aaa6d@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T120000
-SUMMARY:北野 4-1 花園
+SUMMARY:北野 vs 花園（4-1）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：12:00\nhttps://koko-soccer.com/score/4222
@@ -2234,7 +2234,7 @@ UID:e8c931f46a9eef43@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T132000
-SUMMARY:長尾 2-0 千里青雲
+SUMMARY:長尾 vs 千里青雲（2-0）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：13:20\nhttps://koko-soccer.com/score/4222
@@ -2245,7 +2245,7 @@ UID:34357b2320ffd530@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T132000
-SUMMARY:春日丘 1-0 日新
+SUMMARY:春日丘 vs 日新（1-0）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：13:20\nhttps://koko-soccer.com/score/4222
@@ -2256,7 +2256,7 @@ UID:6df97ee320bfad76@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T133000
-SUMMARY:摂津 6-0 茨木西
+SUMMARY:摂津 vs 茨木西（6-0）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：13:30\nhttps://koko-soccer.com/score/4222
@@ -2267,7 +2267,7 @@ UID:441c003bc1a8d35d@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T150000
-SUMMARY:交野 4-1 教育センター附
+SUMMARY:交野 vs 教育センター附（4-1）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：15:00\nhttps://koko-soccer.com/score/4222
@@ -2278,7 +2278,7 @@ UID:0720df8c9bfe2111@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T150000
-SUMMARY:吹田東 3-5 三島
+SUMMARY:吹田東 vs 三島（3-5）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：15:00\nhttps://koko-soccer.com/score/4222
@@ -2289,7 +2289,7 @@ UID:b1ba43d5375adc07@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260111T150000
-SUMMARY:東住吉 0-0 PK4-5 鳳
+SUMMARY:東住吉 vs PK4-5 鳳（0-0）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T1回戦\nキックオフ：15:00\nhttps://koko-soccer.com/score/4222
@@ -2328,7 +2328,7 @@ UID:f68a1998d792ad0a@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T090000
-SUMMARY:旭 2-1 交野
+SUMMARY:旭 vs 交野（2-1）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
@@ -2339,7 +2339,7 @@ UID:6ec8126e6e31b52e@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T090000
-SUMMARY:北千里 2-1 泉陽
+SUMMARY:北千里 vs 泉陽（2-1）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
@@ -2350,7 +2350,7 @@ UID:5bb848e1b1d635ba@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T090000
-SUMMARY:北かわち皐が丘 1-3 天王寺
+SUMMARY:北かわち皐が丘 vs 天王寺（1-3）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
@@ -2361,7 +2361,7 @@ UID:8f05a148c625a271@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T093000
-SUMMARY:豊中 2-1 東
+SUMMARY:豊中 vs 東（2-1）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：09:30\nhttps://koko-soccer.com/score/4222
@@ -2372,7 +2372,7 @@ UID:03280d33805d352c@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T093000
-SUMMARY:北野 1-1 PK7-8 槻の木
+SUMMARY:北野 vs PK7-8 槻の木（1-1）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：09:30\nhttps://koko-soccer.com/score/4222
@@ -2383,7 +2383,7 @@ UID:962e9ad38f08f169@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T093000
-SUMMARY:鳳 0-3 枚方
+SUMMARY:鳳 vs 枚方（0-3）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：09:30\nhttps://koko-soccer.com/score/4222
@@ -2394,7 +2394,7 @@ UID:a92c07cd6aadfb84@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T103000
-SUMMARY:香里丘 0-5 阿武野
+SUMMARY:香里丘 vs 阿武野（0-5）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：10:30\nhttps://koko-soccer.com/score/4222
@@ -2405,7 +2405,7 @@ UID:7a66a44cc043e2e9@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T104000
-SUMMARY:高津 1-1 PK4-5 茨木
+SUMMARY:高津 vs PK4-5 茨木（1-1）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：10:40\nhttps://koko-soccer.com/score/4222
@@ -2416,7 +2416,7 @@ UID:79399f1e3b104a04@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T110000
-SUMMARY:春日丘 0-1 刀根山
+SUMMARY:春日丘 vs 刀根山（0-1）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：11:00\nhttps://koko-soccer.com/score/4222
@@ -2427,7 +2427,7 @@ UID:ea204a183e8e043c@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T110000
-SUMMARY:箕面 0-0 PK5-3 大冠
+SUMMARY:箕面 vs PK5-3 大冠（0-0）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：11:00\nhttps://koko-soccer.com/score/4222
@@ -2438,7 +2438,7 @@ UID:589d15f579830c8a@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T110000
-SUMMARY:和泉 0-1 高槻北
+SUMMARY:和泉 vs 高槻北（0-1）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：11:00\nhttps://koko-soccer.com/score/4222
@@ -2449,7 +2449,7 @@ UID:e2a67b066bc59e18@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T111000
-SUMMARY:摂津 0-1 池田
+SUMMARY:摂津 vs 池田（0-1）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：11:10\nhttps://koko-soccer.com/score/4222
@@ -2474,7 +2474,7 @@ UID:b1be28d1f4804ee5@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T130000
-SUMMARY:桜宮 0-0 PK3-5 長尾
+SUMMARY:桜宮 vs PK3-5 長尾（0-0）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：13:00\nhttps://koko-soccer.com/score/4222
@@ -2485,7 +2485,7 @@ UID:ec2df5887166c985@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T144500
-SUMMARY:芥川 4-0 布施
+SUMMARY:芥川 vs 布施（4-0）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：14:45\nhttps://koko-soccer.com/score/4222
@@ -2496,7 +2496,7 @@ UID:4b5f6c31dd5efca1@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T144500
-SUMMARY:久米田 1-2 岸和田
+SUMMARY:久米田 vs 岸和田（1-2）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：14:45\nhttps://koko-soccer.com/score/4222
@@ -2507,7 +2507,7 @@ UID:a8876dbe978f3048@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260118T150000
-SUMMARY:山本 0-3 三島
+SUMMARY:山本 vs 三島（0-3）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T2回戦\nキックオフ：15:00\nhttps://koko-soccer.com/score/4222
@@ -2518,7 +2518,7 @@ UID:de225fe8fe71c8ac@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260125T090000
-SUMMARY:千里 7-1 旭
+SUMMARY:千里 vs 旭（7-1）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T3回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
@@ -2529,7 +2529,7 @@ UID:7ed54df803c75aaf@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260125T090000
-SUMMARY:枚方 0-2 高槻北
+SUMMARY:枚方 vs 高槻北（0-2）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T3回戦\nキックオフ：09:00\nhttps://koko-soccer.com/score/4222
@@ -2540,7 +2540,7 @@ UID:975b95c89002b69d@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260125T093000
-SUMMARY:槻の木 0-0 PK7-8 箕面
+SUMMARY:槻の木 vs PK7-8 箕面（0-0）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T3回戦\nキックオフ：09:30\nhttps://koko-soccer.com/score/4222
@@ -2551,7 +2551,7 @@ UID:6970de148aa76c9f@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260125T103000
-SUMMARY:豊中 2-0 刀根山
+SUMMARY:豊中 vs 刀根山（2-0）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T3回戦\nキックオフ：10:30\nhttps://koko-soccer.com/score/4222
@@ -2562,7 +2562,7 @@ UID:4d2bd0ace6c82e10@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260125T104000
-SUMMARY:池田 0-1 岸和田
+SUMMARY:池田 vs 岸和田（0-1）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T3回戦\nキックオフ：10:40\nhttps://koko-soccer.com/score/4222
@@ -2573,7 +2573,7 @@ UID:7a6c36b117b81b58@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260125T114500
-SUMMARY:天王寺 0-3 三島
+SUMMARY:天王寺 vs 三島（0-3）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T3回戦\nキックオフ：11:45\nhttps://koko-soccer.com/score/4222
@@ -2584,7 +2584,7 @@ UID:558e7d11eecd03a0@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260125T131500
-SUMMARY:茨木 2-0 北千里
+SUMMARY:茨木 vs 北千里（2-0）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T3回戦\nキックオフ：13:15\nhttps://koko-soccer.com/score/4222
@@ -2595,7 +2595,7 @@ UID:a4b3b2b259cf50e9@masashi.local
 DTSTAMP:20260221T040657Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260125T150000
-SUMMARY:長尾 0-0 PK5-3 芥川
+SUMMARY:長尾 vs PK5-3 芥川（0-0）
 LOCATION:
 DESCRIPTION:大会：第4回大阪公立高校大会\nステージ：決勝
  T3回戦\nキックオフ：15:00\nhttps://koko-soccer.com/score/4222
@@ -2607,7 +2607,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260129T171000
 DTEND;TZID=Asia/Tokyo:20260129T191000
-SUMMARY:清明学院 1-1 大商大堺
+SUMMARY:清明学院 vs 大商大堺（1-1）
 LOCATION:J-GREEN堺
 DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
  ウンド：関西W1\n区分：結果\n確度：確定\n節/ラウンド：
@@ -2620,7 +2620,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260201T090000
 DTEND;TZID=Asia/Tokyo:20260201T113000
-SUMMARY:茨木 2-0 高槻北
+SUMMARY:茨木 vs 高槻北（2-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  ラウンド：決勝トーナメント準々決勝\n区分：結果\n確
@@ -2633,7 +2633,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260201T090000
 DTEND;TZID=Asia/Tokyo:20260201T113000
-SUMMARY:千里 2-1 長尾
+SUMMARY:千里 vs 長尾（2-1）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  ラウンド：決勝トーナメント準々決勝\n区分：結果\n確
@@ -2646,7 +2646,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260201T103000
 DTEND;TZID=Asia/Tokyo:20260201T130000
-SUMMARY:三島 0-0 PK 5-4 岸和田
+SUMMARY:三島 vs PK 5-4 岸和田（0-0）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  ラウンド：決勝トーナメント準々決勝\n区分：結果\n確
@@ -2659,7 +2659,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260201T104000
 DTEND;TZID=Asia/Tokyo:20260201T131000
-SUMMARY:豊中 0-3 箕面
+SUMMARY:豊中 vs 箕面（0-3）
 LOCATION:会場不明
 DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  ラウンド：決勝トーナメント準々決勝\n区分：結果\n確
@@ -2672,7 +2672,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260201T131500
 DTEND;TZID=Asia/Tokyo:20260201T151500
-SUMMARY:県立西宮 0-4 大商大堺
+SUMMARY:県立西宮 vs 大商大堺（0-4）
 LOCATION:J-GREEN堺
 DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
  ウンド：関西W1\n区分：結果\n確度：確定\n節/ラウンド：
@@ -2685,7 +2685,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260208T092000
 DTEND;TZID=Asia/Tokyo:20260208T115000
-SUMMARY:千里 3-0 箕面
+SUMMARY:千里 vs 箕面（3-0）
 LOCATION:J-GREEN堺（大阪府堺市堺区築港八幡町145）
 DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  ラウンド：決勝トーナメント準決勝①\n区分：結果\n確
@@ -2698,7 +2698,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260208T111000
 DTEND;TZID=Asia/Tokyo:20260208T134000
-SUMMARY:茨木 1-0 三島
+SUMMARY:茨木 vs 三島（1-0）
 LOCATION:J-GREEN堺（大阪府堺市堺区築港八幡町145）
 DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  ラウンド：決勝トーナメント準決勝②\n区分：結果\n確
@@ -2711,7 +2711,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260211T091500
 DTEND;TZID=Asia/Tokyo:20260211T114500
-SUMMARY:千里 0-2 茨木
+SUMMARY:千里 vs 茨木（0-2）
 LOCATION:J-GREEN堺（大阪府堺市堺区築港八幡町145）
 DESCRIPTION:種別：公式戦\n大会：第4回大阪公立高校大会\n
  ラウンド：決勝トーナメント決勝\n区分：結果\n確度：
@@ -2724,7 +2724,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:3
 DTSTART;TZID=Asia/Tokyo:20260212T170000
 DTEND;TZID=Asia/Tokyo:20260212T190000
-SUMMARY:大阪偕星 0-4 大商大堺
+SUMMARY:大阪偕星 vs 大商大堺（0-4）
 LOCATION:J-GREEN堺
 DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
  ウンド：関西W1\n区分：結果\n確度：確定\n節/ラウンド：
@@ -2737,7 +2737,7 @@ DTSTAMP:20260221T080754Z
 SEQUENCE:4
 DTSTART;TZID=Asia/Tokyo:20260221T090000
 DTEND;TZID=Asia/Tokyo:20260221T110000
-SUMMARY:大商大堺 1-2 城陽
+SUMMARY:大商大堺 vs 城陽（1-2）
 LOCATION:J-GREEN堺 S15
 DESCRIPTION:種別：公式戦\n大会：Blue Wave League ～熱冬～\nラ
  ウンド：関西W1\n区分：結果\n確度：確定\n節/ラウンド：
@@ -2750,7 +2750,7 @@ DTSTAMP:20260223T013324Z
 SEQUENCE:4
 DTSTART;TZID=Asia/Tokyo:20260221T130000
 DTEND;TZID=Asia/Tokyo:20260221T150000
-SUMMARY:県立西宮 0-4 大阪偕星
+SUMMARY:県立西宮 vs 大阪偕星（0-4）
 LOCATION:J-GREEN堺 S14
 DESCRIPTION:種別：公式戦\\n大会：Blue Wave League ～熱冬～\\n
  ラウンド：関西W1\\n区分：結果\\n確度：暫定\\n節/ラウン
