@@ -1,3 +1,0 @@
-notion-client==2.2.1
-icalendar==5.0.13
-python-dateutil==2.9.0.post0
