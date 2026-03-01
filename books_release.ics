@@ -123,4 +123,13 @@ DTEND;VALUE=DATE:20260310
 SUMMARY:〖新刊〗高校サッカー年鑑 2025―26 発売
 DESCRIPTION:根拠：Amazon（発見）→大手書店/流通で発売日確認。\nhttps://www.amazon.co.jp/dp/4065404835\n確認：e-hon（発売予定日 2026年3月9日）。\nhttps://www.e-hon.ne.jp/bec/SA/Detail?refBook=978-4-06-540483-6\n確認：ヨドバシ.com（販売開始日 2026/03/09）。\nhttps://www.yodobashi.com/product/100000009004220797/\n流通DB：版元ドットコム（発売予定日 2026年3月9日）。\nhttps://www.hanmoto.com/bd/isbn/9784065404836
 END:VEVENT
+BEGIN:VEVENT
+UID:e5fd302e57319a3667e33dd45fb715f3@books_release
+DTSTAMP:20260301T025534Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260226
+SUMMARY:〖新刊〗ラジオライフ 2026年4月号 発売
+DESCRIPTION:根拠：Amazon（商品ページ）／公式（三才ブックス）。\nhttps://www.amazon.co.jp/dp/B0G6CGFSV5\nhttps://www.sansaibooks.co.jp/item/magazine/10740/\n補足：隔月刊・偶数月25日発売（参考）。\nhttps://www.fujisan.co.jp/product/2739/new/
+END:VEVENT
 END:VCALENDAR
