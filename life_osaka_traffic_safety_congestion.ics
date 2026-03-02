@@ -16,254 +16,222 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2b25552802296b3858c3@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
+UID:ecc3d8a3da94b574cb51@life_osaka_traffic_safety_congestion
+DTSTAMP:20260302T000000Z
 SEQUENCE:0
 DTSTART;TZID=Asia/Tokyo:20260213T123000
 DTEND;TZID=Asia/Tokyo:20260213T140000
-SUMMARY:〖混雑予測〗アプラたかいし：バレンタインお菓子づくり（①）
-LOCATION:アプラたかいし（高石市民文化会館 アプラホール）
+SUMMARY:〖混雑予測〗アプラたかいし：バレンタインお菓 子づくり（①）
+LOCATION:アプラたかいし（高石市民文化会館 アプラホー ル）
 URL:https://www.appla-hall.jp/event/list.php?cat=4
-DESCRIPTION:出典：アプラホール公式（イベント情報）。\n地図：https://www.google.com/maps/search/?
- api=1&query=アプラたかいし%20高石市民文化会館%20アプラホール\n参照：https://www.appla-hall.jp/ev
- ent/list.php?cat=4
+DESCRIPTION:出典：アプラホール公式（イベント情報）。地 図：https://www.google.com/maps/search/?api
+ =1&query=アプラたかい し%20高石市民文化会館%20アプラホール\n内容：バレン タインお菓子づくり（90分）\n参照：https://w
+ ww.appla-hall.j p/event/list.php?cat=4
 END:VEVENT
 BEGIN:VEVENT
-UID:75387e2953c219e7761c@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
+UID:b291513d1b0616f6c417@life_osaka_traffic_safety_congestion
+DTSTAMP:20260302T000000Z
 SEQUENCE:0
 DTSTART;TZID=Asia/Tokyo:20260213T143000
 DTEND;TZID=Asia/Tokyo:20260213T160000
-SUMMARY:〖混雑予測〗アプラたかいし：バレンタインお菓子づくり（②）
-LOCATION:アプラたかいし（高石市民文化会館 アプラホール）
+SUMMARY:〖混雑予測〗アプラたかいし：バレンタインお菓 子づくり（②）
+LOCATION:アプラたかいし（高石市民文化会館 アプラホー ル）
 URL:https://www.appla-hall.jp/event/list.php?cat=4
-DESCRIPTION:出典：アプラホール公式（イベント情報）。\n地図：https://www.google.com/maps/search/?
- api=1&query=アプラたかいし%20高石市民文化会館%20アプラホール\n参照：https://www.appla-hall.jp/ev
- ent/list.php?cat=4
+DESCRIPTION:出典：アプラホール公式（イベント情報）。地 図：https://www.google.com/maps/search/?api
+ =1&query=アプラたかい し%20高石市民文化会館%20アプラホール\n内容：バレン タインお菓子づくり（90分）\n参照：https://w
+ ww.appla-hall.j p/event/list.php?cat=4
 END:VEVENT
 BEGIN:VEVENT
-UID:69ce18cb3ee4f5341fc4@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
+UID:cdbe160346abd03ab21d@life_osaka_traffic_safety_congestion
+DTSTAMP:20260302T000000Z
 SEQUENCE:0
 DTSTART;TZID=Asia/Tokyo:20260214T110000
 DTEND;TZID=Asia/Tokyo:20260214T160000
-SUMMARY:〖混雑予測〗アプラたかいし：スイーツたっぷりマルシェ（1日目）
-LOCATION:アプラたかいし（高石市民文化会館 アプラホール）
+SUMMARY:〖混雑予測〗アプラたかいし：スイーツたっぷり マルシェ（1日目）
+LOCATION:アプラたかいし（高石市民文化会館 アプラホー ル）
 URL:https://www.appla-hall.jp/event/detail.php?seq=609&tab=1
-DESCRIPTION:出典：アプラホール公式（イベント情報）。\n地図：https://www.google.com/maps/search/?
- api=1&query=アプラたかいし%20高石市民文化会館%20アプラホール\n参照：https://www.appla-hall.jp/ev
- ent/detail.php?seq=609&tab=1
+DESCRIPTION:出典：アプラホール公式（イベント情報）。地 図：https://www.google.com/maps/search/?api
+ =1&query=アプラたかい し%20高石市民文化会館%20アプラホール\n内容：スイー ツたっぷりマルシェ\n参照：https://www.ap
+ pla-hall.jp/event/det ail.php?seq=609&tab=1
 END:VEVENT
 BEGIN:VEVENT
-UID:f6007fdcbaf6ce3653cd@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
+UID:e878ef99eb59cb2ebc85@life_osaka_traffic_safety_congestion
+DTSTAMP:20260302T000000Z
 SEQUENCE:0
 DTSTART;TZID=Asia/Tokyo:20260215T110000
 DTEND;TZID=Asia/Tokyo:20260215T160000
-SUMMARY:〖混雑予測〗アプラたかいし：スイーツたっぷりマルシェ（2日目）
-LOCATION:アプラたかいし（高石市民文化会館 アプラホール）
+SUMMARY:〖混雑予測〗アプラたかいし：スイーツたっぷり マルシェ（2日目）
+LOCATION:アプラたかいし（高石市民文化会館 アプラホー ル）
 URL:https://www.appla-hall.jp/event/detail.php?seq=609&tab=1
-DESCRIPTION:出典：アプラホール公式（イベント情報）。\n地図：https://www.google.com/maps/search/?
- api=1&query=アプラたかいし%20高石市民文化会館%20アプラホール\n参照：https://www.appla-hall.jp/ev
- ent/detail.php?seq=609&tab=1
+DESCRIPTION:出典：アプラホール公式（イベント情報）。地 図：https://www.google.com/maps/search/?api
+ =1&query=アプラたかい し%20高石市民文化会館%20アプラホール\n内容：スイー ツたっぷりマルシェ\n参照：https://www.ap
+ pla-hall.jp/event/det ail.php?seq=609&tab=1
 END:VEVENT
 BEGIN:VEVENT
-UID:6c986b072eb60c1a3e22@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
+UID:df6907ed28deaf62cfb3@life_osaka_traffic_safety_congestion
+DTSTAMP:20260302T000000Z
 SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260222T070000
-DTEND;TZID=Asia/Tokyo:20260222T170000
-SUMMARY:〖交通規制〗大阪マラソン2026 交通規制（区により時間帯が異なる）
-LOCATION:大阪市内（大阪マラソン コース周辺）
-URL:https://www.osaka-marathon.com/2026/info/traffic/
-DESCRIPTION:出典：大阪マラソン2026公式（交通規制）。\n区別チラシPDFに規制時間（おおむね）記載あり。例：北区 8:50〜11:
- 55、 生野区 10:30〜15:55。\n参照：\n- https://www.osaka-marathon.com/2026/info/tr
- affic/\n- https://www.osaka-marathon.com/2026/info/traffic/pdf/traffic_0
- 3_kita.pdf\n- https://www.osaka-marathon.com/2026/info/traffic/pdf/traff
- ic_10_ikuno.pdf\n注意：表示の開始・終了（07:00-17:00）は、終日ブロック禁止のための便宜枠。実際の規制時間はPDFで確
- 認。
+DTSTART;TZID=Asia/Tokyo:20260315T103000
+DTEND;TZID=Asia/Tokyo:20260315T130000
+SUMMARY:〖混雑予測〗アプラたかいし：パンづくり教室（1）
+LOCATION:アプラたかいし, 日本、〒592-0014 大阪府高石市綾園１丁目９−１
+URL:https://www.appla-hall.jp/event/detail.php?seq=575&tab=0
+DESCRIPTION:出典：アプラたかいし公式（イベント情報）。\n地図：https://www.google.com/maps/search/?a
+ pi=1&query=アプラたかいし%20大阪府高石市綾園1-9-1\n内容：パンづくり教室（ひよこミニデザインパン／お絵描きピザ）
 END:VEVENT
 BEGIN:VEVENT
-UID:74a86ec3714ba5dbb60a@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
+UID:739faf419fbe091d3ef1@life_osaka_traffic_safety_congestion
+DTSTAMP:20260302T000000Z
 SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260228T133000
-DTEND;TZID=Asia/Tokyo:20260228T153000
-SUMMARY:〖混雑予測〗アプラたかいし：たむら春待ち落語会
-LOCATION:アプラたかいし（高石市民文化会館 アプラホール）
-URL:https://www.appla-hall.jp/
-DESCRIPTION:出典：アプラたかいしイベント情報（ページが取得できない場合あり）。\n参考：アプラたかいし公式トップ（イベント一覧）：ht
- tps://www.appla-hall.jp/\n注意：所要時間は公式で確認できないため、表示の終了時刻は便宜枠。
+DTSTART;TZID=Asia/Tokyo:20260315T140000
+DTEND;TZID=Asia/Tokyo:20260315T160000
+SUMMARY:〖混雑予測〗アプラたかいし：パンづくり教室（2）
+LOCATION:アプラたかいし, 日本、〒592-0014 大阪府高石市綾園１丁目９−１
+URL:https://www.appla-hall.jp/event/detail.php?seq=575&tab=0
+DESCRIPTION:出典：アプラたかいし公式（イベント情報）。\n地図：https://www.google.com/maps/search/?a
+ pi=1&query=アプラたかいし%20大阪府高石市綾園1-9-1\n内容：パンづくり教室（ひよこミニデザインパン／お絵描きピザ）
 END:VEVENT
 BEGIN:VEVENT
-UID:59d31465c757c269ec09@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
+UID:942dba027786931416bd@life_osaka_traffic_safety_congestion
+DTSTAMP:20260302T000000Z
 SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260301T133000
-DTEND;TZID=Asia/Tokyo:20260301T160000
-SUMMARY:〖混雑予測〗アプラたかいし：アプラ和太鼓フェスティバル2026
-LOCATION:アプラたかいし（高石市民文化会館 アプラホール）
-URL:https://www.appla-hall.jp/event/detail.php?seq=289
-DESCRIPTION:出典：アプラホール公式（イベント詳細）。\n地図：https://www.google.com/maps/search/?
- api=1&query=アプラたかいし%20高石市民文化会館%20アプラホール
+DTSTART;TZID=Asia/Tokyo:20260328T140000
+DTEND;TZID=Asia/Tokyo:20260328T160000
+SUMMARY:〖混雑予測〗アプラたかいし：次代育成落語会（第2回）
+LOCATION:アプラたかいし, 日本、〒592-0014 大阪府高石市綾園１丁目９−１
+URL:https://kichibo.com/info/1028/
+DESCRIPTION:出典：桂吉坊 公式（次代育成落語会 第2回）。\n地図：https://www.google.com/maps/search/
+ ?api=1&query=アプラたかいし%20大阪府高石市綾園1-9-1\n内容：次代育成落語会 第2回（開演14:00／開場13:30）
 END:VEVENT
 BEGIN:VEVENT
-UID:f5fbb8758ed429a89207@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
-SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260301T140000
-DTEND;TZID=Asia/Tokyo:20260301T150000
-SUMMARY:〖混雑予測〗アプラたかいし（図書館）：ゴスペルコンサート
-LOCATION:高石市立図書館 本館（アプラたかいし4階）
-URL:https://www.lics-saas.nexs-service.jp/takaishi/event/eventdetail/2026
- 0301.html
-DESCRIPTION:出典：高石市立図書館イベント。\n地図：https://www.google.com/maps/search/?api=1
- &query=高石市立図書館%20アプラたかいし
-END:VEVENT
-BEGIN:VEVENT
-UID:a97f1cd421d63b5c2533@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
-SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260308T140000
-DTEND;TZID=Asia/Tokyo:20260308T160000
-SUMMARY:〖混雑予測〗アプラたかいし：スプリングコンサート2026
-LOCATION:アプラたかいし（高石市民文化会館 アプラホール）
-URL:https://www.appla-hall.jp/event/detail.php?seq=478&tab=0
-DESCRIPTION:出典：アプラホール公式（イベント詳細）。\n注意：当ツールで詳細ページ取得エラーが出る場合があるため、時刻は便宜枠（公式で
- 要確認）。\n参照：https://www.appla-hall.jp/event/detail.php?seq=478&tab=0
-END:VEVENT
-BEGIN:VEVENT
-UID:c8d6a6f7da60b2469c89@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
-SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260314T140000
-DTEND;TZID=Asia/Tokyo:20260314T173000
-SUMMARY:〖混雑予測〗アプラたかいし：映画鑑賞会「宝島」
-LOCATION:アプラたかいし（高石市民文化会館 アプラホール）
-URL:https://www.appla-hall.jp/event/detail.php?seq=610&tab=2
-DESCRIPTION:出典：アプラホール公式（イベント詳細）。\n注意：上映開始時刻は公式ページで要確認。表示時刻は便宜枠（終日ブロック禁止対応
- ）。\n参照：https://www.appla-hall.jp/event/detail.php?seq=610&tab=2
-END:VEVENT
-BEGIN:VEVENT
-UID:a4079ef12cc474180054@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
-SEQUENCE:0
-DTSTART;TZID=Asia/Tokyo:20260328T133000
-DTEND;TZID=Asia/Tokyo:20260328T153000
-SUMMARY:〖混雑予測〗アプラたかいし：次代育成落語会（高石公演）
-LOCATION:アプラたかいし（高石市民文化会館 アプラホール）
-URL:https://www.appla-hall.jp/event/list.php?cat=2
-DESCRIPTION:出典：アプラホール公式（イベント一覧）。\n注意：開始時刻は公式で要確認。表示は便宜枠。\n参照：https://www.
- appla-hall.jp/event/list.php?cat=2
-END:VEVENT
-BEGIN:VEVENT
-UID:4d0ba4b21f6029e33fef@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
+UID:bfcd9ad2c36a5e4b5cf6@life_osaka_traffic_safety_congestion
+DTSTAMP:20260302T000000Z
 SEQUENCE:0
 DTSTART;TZID=Asia/Tokyo:20260406T090000
-DTEND;TZID=Asia/Tokyo:20260406T093000
-SUMMARY:〖交通安全運動(参考)〗春の全国交通安全運動（予定）
-LOCATION:大阪府内
-DESCRIPTION:参考：全国交通安全運動（実施時期は年度により変動の可能性あり）。\n注意：終日ブロック禁止のため短時間表示。\n公式発表が
- 出たら差分更新で修正。
+DTEND;TZID=Asia/Tokyo:20260406T091000
+SUMMARY:交通安全運動（春の全国交通安全運動）
+LOCATION:大阪府内（参考）
+URL:https://www.pref.osaka.lg.jp/o130080/dorokankyo/anzen/r08haru.html
+DESCRIPTION:出典：大阪府（令和8年「春の全国交通安全運動」）。\n実施期間：2026/04/06〜04/15（10日間）\n※この予定はリ
+ マインド用（帯予定なし・終日ブロックなし）
 END:VEVENT
 BEGIN:VEVENT
-UID:8abaa9aff73388af16be@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
+UID:c513be64d3aea4801960@life_osaka_traffic_safety_congestion
+DTSTAMP:20260302T000000Z
 SEQUENCE:0
 DTSTART;TZID=Asia/Tokyo:20260407T090000
-DTEND;TZID=Asia/Tokyo:20260407T093000
-SUMMARY:〖交通安全運動(参考)〗春の全国交通安全運動（予定）
-LOCATION:大阪府内
-DESCRIPTION:参考：全国交通安全運動（実施時期は年度により変動の可能性あり）。\n注意：終日ブロック禁止のため短時間表示。\n公式発表が
- 出たら差分更新で修正。
+DTEND;TZID=Asia/Tokyo:20260407T091000
+SUMMARY:交通安全運動（春の全国交通安全運動）
+LOCATION:大阪府内（参考）
+URL:https://www.pref.osaka.lg.jp/o130080/dorokankyo/anzen/r08haru.html
+DESCRIPTION:出典：大阪府（令和8年「春の全国交通安全運動」）。\n実施期間：2026/04/06〜04/15（10日間）\n※この予定はリ
+ マインド用（帯予定なし・終日ブロックなし）
 END:VEVENT
 BEGIN:VEVENT
-UID:09c10f39b456adfe5589@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
+UID:3d722e5e03ee6d319e59@life_osaka_traffic_safety_congestion
+DTSTAMP:20260302T000000Z
 SEQUENCE:0
 DTSTART;TZID=Asia/Tokyo:20260408T090000
-DTEND;TZID=Asia/Tokyo:20260408T093000
-SUMMARY:〖交通安全運動(参考)〗春の全国交通安全運動（予定）
-LOCATION:大阪府内
-DESCRIPTION:参考：全国交通安全運動（実施時期は年度により変動の可能性あり）。\n注意：終日ブロック禁止のため短時間表示。\n公式発表が
- 出たら差分更新で修正。
+DTEND;TZID=Asia/Tokyo:20260408T091000
+SUMMARY:交通安全運動（春の全国交通安全運動）
+LOCATION:大阪府内（参考）
+URL:https://www.pref.osaka.lg.jp/o130080/dorokankyo/anzen/r08haru.html
+DESCRIPTION:出典：大阪府（令和8年「春の全国交通安全運動」）。\n実施期間：2026/04/06〜04/15（10日間）\n※この予定はリ
+ マインド用（帯予定なし・終日ブロックなし）
 END:VEVENT
 BEGIN:VEVENT
-UID:af253f421d7e8ea52535@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
+UID:9ca859d6acd708bdeb8a@life_osaka_traffic_safety_congestion
+DTSTAMP:20260302T000000Z
 SEQUENCE:0
 DTSTART;TZID=Asia/Tokyo:20260409T090000
-DTEND;TZID=Asia/Tokyo:20260409T093000
-SUMMARY:〖交通安全運動(参考)〗春の全国交通安全運動（予定）
-LOCATION:大阪府内
-DESCRIPTION:参考：全国交通安全運動（実施時期は年度により変動の可能性あり）。\n注意：終日ブロック禁止のため短時間表示。\n公式発表が
- 出たら差分更新で修正。
+DTEND;TZID=Asia/Tokyo:20260409T091000
+SUMMARY:交通安全運動（春の全国交通安全運動）
+LOCATION:大阪府内（参考）
+URL:https://www.pref.osaka.lg.jp/o130080/dorokankyo/anzen/r08haru.html
+DESCRIPTION:出典：大阪府（令和8年「春の全国交通安全運動」）。\n実施期間：2026/04/06〜04/15（10日間）\n※この予定はリ
+ マインド用（帯予定なし・終日ブロックなし）
 END:VEVENT
 BEGIN:VEVENT
-UID:bc293bb7650fcf55da08@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
+UID:739b720bb13af616681b@life_osaka_traffic_safety_congestion
+DTSTAMP:20260302T000000Z
 SEQUENCE:0
 DTSTART;TZID=Asia/Tokyo:20260410T090000
-DTEND;TZID=Asia/Tokyo:20260410T093000
-SUMMARY:〖交通安全運動(参考)〗春の全国交通安全運動（予定）
-LOCATION:大阪府内
-DESCRIPTION:参考：全国交通安全運動（実施時期は年度により変動の可能性あり）。\n注意：終日ブロック禁止のため短時間表示。\n公式発表が
- 出たら差分更新で修正。
+DTEND;TZID=Asia/Tokyo:20260410T091000
+SUMMARY:交通安全運動（春の全国交通安全運動）
+LOCATION:大阪府内（参考）
+URL:https://www.pref.osaka.lg.jp/o130080/dorokankyo/anzen/r08haru.html
+DESCRIPTION:出典：大阪府（令和8年「春の全国交通安全運動」）。\n実施期間：2026/04/06〜04/15（10日間）\n※この予定はリ
+ マインド用（帯予定なし・終日ブロックなし）
 END:VEVENT
 BEGIN:VEVENT
-UID:5459d1cceb6112b0f940@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
+UID:5f955f0e56ad274aab3a@life_osaka_traffic_safety_congestion
+DTSTAMP:20260302T000000Z
 SEQUENCE:0
 DTSTART;TZID=Asia/Tokyo:20260411T090000
-DTEND;TZID=Asia/Tokyo:20260411T093000
-SUMMARY:〖交通安全運動(参考)〗春の全国交通安全運動（予定）
-LOCATION:大阪府内
-DESCRIPTION:参考：全国交通安全運動（実施時期は年度により変動の可能性あり）。\n注意：終日ブロック禁止のため短時間表示。\n公式発表が
- 出たら差分更新で修正。
+DTEND;TZID=Asia/Tokyo:20260411T091000
+SUMMARY:交通安全運動（春の全国交通安全運動）
+LOCATION:大阪府内（参考）
+URL:https://www.pref.osaka.lg.jp/o130080/dorokankyo/anzen/r08haru.html
+DESCRIPTION:出典：大阪府（令和8年「春の全国交通安全運動」）。\n実施期間：2026/04/06〜04/15（10日間）\n※この予定はリ
+ マインド用（帯予定なし・終日ブロックなし）
 END:VEVENT
 BEGIN:VEVENT
-UID:d7ddbcc1096fe661405b@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
+UID:51cbe7c837def267adb6@life_osaka_traffic_safety_congestion
+DTSTAMP:20260302T000000Z
 SEQUENCE:0
 DTSTART;TZID=Asia/Tokyo:20260412T090000
-DTEND;TZID=Asia/Tokyo:20260412T093000
-SUMMARY:〖交通安全運動(参考)〗春の全国交通安全運動（予定）
-LOCATION:大阪府内
-DESCRIPTION:参考：全国交通安全運動（実施時期は年度により変動の可能性あり）。\n注意：終日ブロック禁止のため短時間表示。\n公式発表が
- 出たら差分更新で修正。
+DTEND;TZID=Asia/Tokyo:20260412T091000
+SUMMARY:交通安全運動（春の全国交通安全運動）
+LOCATION:大阪府内（参考）
+URL:https://www.pref.osaka.lg.jp/o130080/dorokankyo/anzen/r08haru.html
+DESCRIPTION:出典：大阪府（令和8年「春の全国交通安全運動」）。\n実施期間：2026/04/06〜04/15（10日間）\n※この予定はリ
+ マインド用（帯予定なし・終日ブロックなし）
 END:VEVENT
 BEGIN:VEVENT
-UID:95e22b7258b302fbf396@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
+UID:308e5aeb58e4f64ac9ed@life_osaka_traffic_safety_congestion
+DTSTAMP:20260302T000000Z
 SEQUENCE:0
 DTSTART;TZID=Asia/Tokyo:20260413T090000
-DTEND;TZID=Asia/Tokyo:20260413T093000
-SUMMARY:〖交通安全運動(参考)〗春の全国交通安全運動（予定）
-LOCATION:大阪府内
-DESCRIPTION:参考：全国交通安全運動（実施時期は年度により変動の可能性あり）。\n注意：終日ブロック禁止のため短時間表示。\n公式発表が
- 出たら差分更新で修正。
+DTEND;TZID=Asia/Tokyo:20260413T091000
+SUMMARY:交通安全運動（春の全国交通安全運動）
+LOCATION:大阪府内（参考）
+URL:https://www.pref.osaka.lg.jp/o130080/dorokankyo/anzen/r08haru.html
+DESCRIPTION:出典：大阪府（令和8年「春の全国交通安全運動」）。\n実施期間：2026/04/06〜04/15（10日間）\n※この予定はリ
+ マインド用（帯予定なし・終日ブロックなし）
 END:VEVENT
 BEGIN:VEVENT
-UID:11345aad8a959a89ce40@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
+UID:ffee2a08d439824defe8@life_osaka_traffic_safety_congestion
+DTSTAMP:20260302T000000Z
 SEQUENCE:0
 DTSTART;TZID=Asia/Tokyo:20260414T090000
-DTEND;TZID=Asia/Tokyo:20260414T093000
-SUMMARY:〖交通安全運動(参考)〗春の全国交通安全運動（予定）
-LOCATION:大阪府内
-DESCRIPTION:参考：全国交通安全運動（実施時期は年度により変動の可能性あり）。\n注意：終日ブロック禁止のため短時間表示。\n公式発表が
- 出たら差分更新で修正。
+DTEND;TZID=Asia/Tokyo:20260414T091000
+SUMMARY:交通安全運動（春の全国交通安全運動）
+LOCATION:大阪府内（参考）
+URL:https://www.pref.osaka.lg.jp/o130080/dorokankyo/anzen/r08haru.html
+DESCRIPTION:出典：大阪府（令和8年「春の全国交通安全運動」）。\n実施期間：2026/04/06〜04/15（10日間）\n※この予定はリ
+ マインド用（帯予定なし・終日ブロックなし）
 END:VEVENT
 BEGIN:VEVENT
-UID:b6fc577ab6a41ef63626@life_osaka_traffic_safety_congestion
-DTSTAMP:20260216T005453Z
+UID:a955b8b3ece194b0bbb0@life_osaka_traffic_safety_congestion
+DTSTAMP:20260302T000000Z
 SEQUENCE:0
 DTSTART;TZID=Asia/Tokyo:20260415T090000
-DTEND;TZID=Asia/Tokyo:20260415T093000
-SUMMARY:〖交通安全運動(参考)〗春の全国交通安全運動（予定）
-LOCATION:大阪府内
-DESCRIPTION:参考：全国交通安全運動（実施時期は年度により変動の可能性あり）。\n注意：終日ブロック禁止のため短時間表示。\n公式発表が
- 出たら差分更新で修正。
+DTEND;TZID=Asia/Tokyo:20260415T091000
+SUMMARY:交通安全運動（春の全国交通安全運動）
+LOCATION:大阪府内（参考）
+URL:https://www.pref.osaka.lg.jp/o130080/dorokankyo/anzen/r08haru.html
+DESCRIPTION:出典：大阪府（令和8年「春の全国交通安全運動」）。\n実施期間：2026/04/06〜04/15（10日間）\n※この予定はリ
+ マインド用（帯予定なし・終日ブロックなし）
+END:VEVENT
+BEGIN:VEVENT
+UID:5594bd5f34e82470d21e@life_osaka_traffic_safety_congestion
+DTSTAMP:20260302T000000Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Tokyo:20260410T120000
+DTEND;TZID=Asia/Tokyo:20260410T121000
+SUMMARY:交通事故死ゼロを目指す日
+LOCATION:大阪府内（参考）
+URL:https://www.gov-online.go.jp/data_room/calendar/202504/event-3230.html
+DESCRIPTION:出典：政府広報オンライン（交通事故死ゼロを目指す日）。\n※リマインド用（終日ブロックなし）
 END:VEVENT
 END:VCALENDAR
